@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 560" width="1280" height="560" role="img" aria-label="An American Bloodline — follow our Facebook page">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#241608"/>
+      <stop offset="0.55" stop-color="#160d05"/>
+      <stop offset="1" stop-color="#0d0703"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.62">
+      <stop offset="0" stop-color="#e8b85a" stop-opacity="0.20"/>
+      <stop offset="0.6" stop-color="#b08d57" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff3d0"/>
+      <stop offset="0.42" stop-color="#f0c66a"/>
+      <stop offset="0.72" stop-color="#c48a2c"/>
+      <stop offset="1" stop-color="#f3d48c"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b08d57" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#e8b85a" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#b08d57" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="560" fill="url(#bg)"/>
+  <rect width="1280" height="560" fill="url(#glow)"/>
+
+  <!-- double gold frame -->
+  <rect x="26" y="26" width="1228" height="508" fill="none" stroke="#b08d57" stroke-opacity="0.55" stroke-width="2"/>
+  <rect x="40" y="40" width="1200" height="480" fill="none" stroke="#e8b85a" stroke-opacity="0.28" stroke-width="1"/>
+
+  <!-- corner flourishes -->
+  <g stroke="#e8b85a" stroke-opacity="0.75" stroke-width="2" fill="none">
+    <path d="M26 96 L26 26 L96 26"/>
+    <path d="M1254 96 L1254 26 L1184 26"/>
+    <path d="M26 464 L26 534 L96 534"/>
+    <path d="M1254 464 L1254 534 L1184 534"/>
+  </g>
+
+  <!-- tree motif, left -->
+  <g transform="translate(150 280)" stroke="#b08d57" stroke-opacity="0.5" fill="none" stroke-width="2.5" stroke-linecap="round">
+    <path d="M0 120 L0 10"/>
+    <path d="M0 78 L-34 44 M0 78 L34 44"/>
+    <path d="M0 46 L-24 18 M0 46 L24 18"/>
+    <path d="M0 10 L-14 -12 M0 10 L14 -12"/>
+    <path d="M-34 44 L-48 30 M34 44 L48 30"/>
+  </g>
+
+  <!-- tree motif, right (mirrored) -->
+  <g transform="translate(1130 280) scale(-1 1)" stroke="#b08d57" stroke-opacity="0.5" fill="none" stroke-width="2.5" stroke-linecap="round">
+    <path d="M0 120 L0 10"/>
+    <path d="M0 78 L-34 44 M0 78 L34 44"/>
+    <path d="M0 46 L-24 18 M0 46 L24 18"/>
+    <path d="M0 10 L-14 -12 M0 10 L14 -12"/>
+    <path d="M-34 44 L-48 30 M34 44 L48 30"/>
+  </g>
+
+  <!-- eyebrow -->
+  <text x="640" y="196" text-anchor="middle" font-family="Cinzel, Georgia, serif" font-size="26" letter-spacing="11" fill="#e8b85a" fill-opacity="0.9">FOLLOW ALONG</text>
+
+  <!-- title -->
+  <text x="640" y="292" text-anchor="middle" font-family="Cinzel, Georgia, serif" font-weight="700" font-size="76" letter-spacing="4" fill="url(#gold)">AN AMERICAN BLOODLINE</text>
+
+  <!-- divider -->
+  <rect x="440" y="330" width="400" height="2" fill="url(#rule)"/>
+  <text x="640" y="352" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#e8b85a" fill-opacity="0.85">&#10022; &#9733; &#10022;</text>
+
+  <!-- subtitle -->
+  <text x="640" y="410" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-size="34" fill="#f3d48c">Photographs, documents, and stories as they surface</text>
+  <text x="640" y="456" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-size="30" fill="#d9c9ab" fill-opacity="0.85">Follow the page &#8212; and invite your family to follow too</text>
+</svg>
