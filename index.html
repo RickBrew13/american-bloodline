@@ -1,0 +1,1125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>An American Bloodline — A Family History</title>
+<meta name="description" content="An American Bloodline traces one family from the Mayflower to the present day — eighteen generations of names, records, and stories, kept for the family.">
+<meta name="theme-color" content="#120a04">
+
+<!-- Open Graph / social preview -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="An American Bloodline — A Family History">
+<meta property="og:description" content="Eighteen generations of names, records, and stories — from the Mayflower to our hearts today.">
+<meta property="og:image" content="images/hero.jpg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Pinyon+Script&display=swap" rel="stylesheet">
+
+<style>
+/* ============================================================
+   An American Bloodline — homepage
+   Palette: deep walnut, aged parchment, antique gold
+   ============================================================ */
+:root{
+  --ink:#120a04;
+  --ink-soft:#1d1208;
+  --parchment:#f4ede1;
+  --cream:#fff8ee;
+  --gold:#b08d57;
+  --gold-bright:#e8b85a;
+  --gold-pale:#f3d48c;
+  --brown:#5b3a1e;
+  --brown-soft:#8a6d3b;
+
+  --serif:'Cinzel',Georgia,'Times New Roman',serif;
+  --body:'Cormorant Garamond',Georgia,serif;
+  --script:'Pinyon Script',cursive;
+
+  --wrap:1180px;
+  --pad:clamp(20px,5vw,56px);
+}
+
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:var(--parchment);
+  color:#2b2118;
+  font-family:var(--body);
+  font-size:clamp(17px,1.15vw,20px);
+  line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+}
+img{max-width:100%;display:block}
+a{color:var(--brown)}
+
+/* Accessible focus ring everywhere */
+a:focus-visible,button:focus-visible{
+  outline:3px solid var(--gold-bright);
+  outline-offset:3px;
+  border-radius:4px;
+}
+
+.skip{
+  position:absolute;left:-9999px;top:0;z-index:100;
+  background:var(--cream);color:var(--brown);
+  padding:12px 20px;font-family:var(--serif);font-weight:700;
+}
+.skip:focus{left:12px;top:12px}
+
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 var(--pad)}
+
+/* ---------- Ornamental divider ---------- */
+.orn{
+  display:flex;align-items:center;justify-content:center;
+  gap:14px;margin:0 auto;width:min(100%,520px);
+  color:var(--gold);
+}
+.orn::before,.orn::after{
+  content:"";flex:1;height:1px;
+  background:linear-gradient(90deg,transparent,var(--gold));
+}
+.orn::after{background:linear-gradient(90deg,var(--gold),transparent)}
+.orn span{font-size:15px;letter-spacing:.4em;line-height:1}
+
+/* ============================================================
+   HERO
+   ============================================================ */
+/* The artwork is shown WHOLE: full width, natural aspect ratio,
+   no crop, no blur, no darkening overlay. The title block sits
+   below it on solid ink, so nothing is ever laid over the picture. */
+.hero{
+  background:var(--ink);
+  padding:0;
+  text-align:center;
+}
+.hero-art{
+  width:100%;
+  background:var(--ink);
+  line-height:0;
+  /* Lock the box to the artwork's own 1264:843 ratio. Even if a height is
+     ever imposed by a browser or an override, the picture can never crop. */
+  aspect-ratio:1264 / 843;
+}
+.hero-art img{
+  display:block;
+  width:100%;
+  height:100%;          /* fills the ratio-locked box exactly */
+  object-fit:contain;   /* never crops, never stretches */
+  object-position:center;
+  max-width:100%;
+}
+.hero-copy{
+  display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  padding:clamp(40px,6vh,74px) var(--pad) clamp(44px,6vh,78px);
+}
+
+.hero h1{
+  font-family:var(--serif);
+  font-weight:700;
+  font-size:clamp(38px,7.4vw,116px);
+  line-height:.94;
+  letter-spacing:.02em;
+  margin:0;
+  background:linear-gradient(180deg,#fff6d6 0%,#f3cf7a 38%,#c48a2c 68%,#f0c66a 100%);
+  -webkit-background-clip:text;background-clip:text;
+  color:transparent;
+  filter:drop-shadow(0 3px 2px rgba(0,0,0,.9)) drop-shadow(0 0 26px rgba(0,0,0,.65));
+}
+.hero h1 span{display:block}
+
+.hero .orn{margin:clamp(18px,2.4vw,30px) auto;color:var(--gold-bright)}
+.hero .orn::before{background:linear-gradient(90deg,transparent,var(--gold-bright))}
+.hero .orn::after{background:linear-gradient(90deg,var(--gold-bright),transparent)}
+
+.hero .tagline{
+  font-family:var(--script);
+  font-size:clamp(24px,3.6vw,58px);
+  line-height:1.2;
+  color:var(--gold-pale);
+  margin:0;
+  text-shadow:0 2px 8px #000,0 0 22px rgba(0,0,0,.8);
+}
+
+.hero .lede{
+  max-width:56ch;
+  margin:clamp(20px,3vw,34px) auto 0;
+  color:#f0e2c6;
+  font-size:clamp(16px,1.35vw,21px);
+  line-height:1.6;
+  text-shadow:0 2px 6px rgba(0,0,0,.95);
+}
+
+.hero-cta{
+  display:flex;flex-wrap:wrap;gap:14px;justify-content:center;
+  margin-top:clamp(26px,3.4vw,40px);
+}
+.btn{
+  display:inline-flex;align-items:center;gap:10px;
+  font-family:var(--serif);font-weight:600;
+  font-size:clamp(13px,1.05vw,16px);
+  letter-spacing:.09em;text-transform:uppercase;
+  text-decoration:none;
+  padding:15px 28px;
+  border-radius:3px;
+  transition:transform .18s ease,box-shadow .18s ease,background .18s ease,color .18s ease;
+}
+.btn-gold{
+  background:linear-gradient(180deg,#f0c66a,#c48a2c);
+  color:#2a1706;
+  box-shadow:0 6px 20px rgba(0,0,0,.55),inset 0 1px 0 rgba(255,255,255,.45);
+}
+.btn-gold:hover{transform:translateY(-2px);box-shadow:0 10px 28px rgba(240,198,106,.35),inset 0 1px 0 rgba(255,255,255,.5)}
+.btn-ghost{
+  color:var(--gold-pale);
+  border:1px solid rgba(232,184,90,.65);
+  background:rgba(18,10,4,.45);
+  backdrop-filter:blur(3px);
+}
+.btn-ghost:hover{background:rgba(232,184,90,.14);transform:translateY(-2px)}
+
+/* Scroll cue */
+.scroll-cue{
+  position:absolute;bottom:22px;left:50%;transform:translateX(-50%);
+  color:rgba(240,198,106,.75);
+  font-family:var(--serif);font-size:11px;letter-spacing:.28em;text-transform:uppercase;
+  text-decoration:none;
+  display:flex;flex-direction:column;align-items:center;gap:8px;
+}
+.scroll-cue::after{
+  content:"";width:1px;height:34px;
+  background:linear-gradient(180deg,var(--gold-bright),transparent);
+  animation:cue 2.4s ease-in-out infinite;
+}
+@keyframes cue{0%,100%{opacity:.35;transform:scaleY(.6)}50%{opacity:1;transform:scaleY(1)}}
+
+/* ============================================================
+   SECTION SHELL
+   ============================================================ */
+section{padding:clamp(56px,8vw,104px) 0}
+.eyebrow{
+  font-family:var(--serif);font-weight:600;
+  font-size:12px;letter-spacing:.3em;text-transform:uppercase;
+  color:var(--brown-soft);
+  text-align:center;margin:0 0 14px;
+}
+h2{
+  font-family:var(--serif);font-weight:700;
+  font-size:clamp(26px,3.4vw,44px);
+  line-height:1.15;letter-spacing:.01em;
+  color:var(--brown);
+  text-align:center;margin:0 0 16px;
+}
+.section-lede{
+  max-width:62ch;margin:0 auto;
+  text-align:center;color:#4a3a2a;
+  font-size:clamp(16px,1.2vw,20px);
+}
+.section-lede + .orn{margin-top:clamp(26px,3vw,38px)}
+
+/* ============================================================
+   THREE DOORS
+   ============================================================ */
+/* Dark band: alternates against the light About section above it. */
+.doors{
+  background:linear-gradient(180deg,#1d1208,#120a04);
+  color:#efe2c8;
+}
+.doors h2{color:var(--gold-pale)}
+.doors .eyebrow{color:rgba(232,184,90,.8)}
+.doors .section-lede{color:#d9c9ab}
+.doors .orn{color:var(--gold-bright)}
+.doors .orn::before{background:linear-gradient(90deg,transparent,var(--gold-bright))}
+.doors .orn::after{background:linear-gradient(90deg,var(--gold-bright),transparent)}
+
+.door-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+  gap:clamp(24px,3vw,40px);
+  margin-top:clamp(34px,4vw,52px);
+  max-width:960px;
+  margin-left:auto;margin-right:auto;
+}
+
+/* Card: framed plate with a gold hairline, banner art, and a solid CTA bar. */
+.door{
+  position:relative;
+  display:flex;flex-direction:column;
+  background:linear-gradient(180deg,rgba(255,248,238,.07),rgba(255,248,238,.02));
+  border:1px solid rgba(176,141,87,.5);
+  border-radius:6px;
+  overflow:hidden;
+  text-decoration:none;
+  color:inherit;
+  box-shadow:0 24px 50px -28px rgba(0,0,0,.9);
+  transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease;
+}
+.door::before{
+  content:"";position:absolute;top:0;left:0;right:0;height:2px;z-index:3;
+  background:linear-gradient(90deg,transparent,var(--gold-bright),transparent);
+  opacity:.5;transition:opacity .25s ease;
+}
+.door:hover,.door:focus-visible{
+  transform:translateY(-6px);
+  border-color:var(--gold-bright);
+  box-shadow:0 34px 64px -28px rgba(0,0,0,1);
+}
+.door:hover::before,.door:focus-visible::before{opacity:1}
+
+.door-media{
+  position:relative;
+  aspect-ratio:16/7;
+  overflow:hidden;
+  background:var(--ink-soft);
+}
+.door-media img{
+  width:100%;height:100%;object-fit:cover;
+  transition:transform .6s ease;
+}
+.door:hover .door-media img{transform:scale(1.05)}
+/* Fade the banner into the card body so the seam disappears. */
+.door-media::after{
+  content:"";position:absolute;inset:0;pointer-events:none;
+  background:linear-gradient(180deg,rgba(18,10,4,0) 40%,rgba(18,10,4,.9) 100%);
+}
+
+.door-flag{
+  position:absolute;top:14px;right:14px;z-index:3;
+  font-family:var(--serif);font-size:9.5px;letter-spacing:.2em;
+  text-transform:uppercase;color:#2a1706;
+  background:linear-gradient(180deg,#f0c66a,#c48a2c);
+  padding:5px 10px;border-radius:2px;
+  box-shadow:0 4px 14px rgba(0,0,0,.55);
+}
+
+.door-body{
+  padding:clamp(22px,2.4vw,30px);
+  display:flex;flex-direction:column;flex:1;
+}
+.door-kicker{
+  font-family:var(--serif);font-weight:600;
+  font-size:10.5px;letter-spacing:.26em;text-transform:uppercase;
+  color:rgba(232,184,90,.85);margin:0 0 10px;
+}
+.door-body h3{
+  font-family:var(--serif);font-weight:700;
+  font-size:clamp(19px,1.8vw,25px);
+  color:var(--gold-pale);margin:0 0 12px;
+  letter-spacing:.02em;line-height:1.2;
+}
+.door-body p{
+  margin:0 0 22px;color:#d9c9ab;
+  font-size:clamp(15px,1.05vw,17px);line-height:1.6;flex:1;
+}
+.door-body p strong{color:var(--gold-pale);font-weight:600}
+
+.door-cta{
+  display:inline-flex;align-items:center;justify-content:center;gap:10px;
+  font-family:var(--serif);font-weight:600;
+  font-size:12px;letter-spacing:.16em;text-transform:uppercase;
+  color:#2a1706;
+  background:linear-gradient(180deg,#f0c66a,#c48a2c);
+  padding:14px 20px;border-radius:3px;
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.4);
+  transition:filter .2s ease;
+}
+.door-cta::after{content:"→";transition:transform .2s ease}
+.door:hover .door-cta{filter:brightness(1.08)}
+.door:hover .door-cta::after{transform:translateX(4px)}
+
+/* ============================================================
+   GENERATIONS
+   ============================================================ */
+/* Light band: alternates against the dark Doors section above it. */
+.generations{
+  background:var(--parchment);
+  color:#2b2118;
+  position:relative;
+}
+.generations h2{color:var(--brown)}
+.generations .eyebrow{color:var(--brown-soft)}
+.generations .section-lede{color:#4a3a2a}
+.generations .orn{color:var(--gold)}
+.generations .orn::before{background:linear-gradient(90deg,transparent,var(--gold))}
+.generations .orn::after{background:linear-gradient(90deg,var(--gold),transparent)}
+
+.gen-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+  gap:clamp(14px,1.8vw,22px);
+  margin-top:clamp(34px,4vw,52px);
+}
+.gen{
+  display:flex;flex-direction:column;justify-content:space-between;
+  gap:14px;
+  padding:22px 22px 20px;
+  background:var(--cream);
+  border:1px solid rgba(176,141,87,.5);
+  border-radius:3px;
+  text-decoration:none;color:inherit;
+  box-shadow:0 2px 0 rgba(176,141,87,.2),0 12px 28px -20px rgba(43,33,24,.5);
+  transition:background .2s ease,border-color .2s ease,transform .2s ease,box-shadow .2s ease;
+}
+.gen:hover,.gen:focus-visible{
+  background:#fff;
+  border-color:var(--gold);
+  transform:translateY(-3px);
+  box-shadow:0 2px 0 rgba(176,141,87,.3),0 22px 40px -20px rgba(43,33,24,.55);
+}
+.gen-num{
+  font-family:var(--serif);font-weight:700;
+  font-size:clamp(22px,2.2vw,30px);
+  color:var(--brown);
+  letter-spacing:.06em;line-height:1;
+}
+.gen-meta{
+  font-family:var(--serif);font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--brown-soft);
+}
+.gen-count{
+  font-family:var(--body);font-size:15px;color:#5a4735;
+  border-top:1px solid rgba(176,141,87,.35);
+  padding-top:12px;
+}
+.gen-count b{color:var(--brown);font-weight:600}
+
+.gen-total{
+  margin-top:clamp(30px,3.6vw,44px);
+  text-align:center;
+  font-family:var(--serif);
+  font-size:clamp(13px,1.1vw,15px);
+  letter-spacing:.16em;text-transform:uppercase;
+  color:#6b5844;
+}
+.gen-total b{color:var(--brown);font-size:1.35em;letter-spacing:.04em}
+
+/* ---------- Two generation groups ---------- */
+.gen-group{margin-top:clamp(34px,4vw,52px)}
+.gen-group + .gen-group{
+  margin-top:clamp(40px,5vw,64px);
+  padding-top:clamp(34px,4vw,52px);
+  border-top:1px solid rgba(176,141,87,.45);
+}
+.gen-group-head{
+  display:flex;flex-wrap:wrap;align-items:center;justify-content:center;
+  gap:10px 16px;text-align:center;margin:0 0 8px;
+}
+.gen-group-title{
+  font-family:var(--serif);font-weight:700;
+  font-size:clamp(16px,1.6vw,22px);
+  letter-spacing:.12em;text-transform:uppercase;
+  color:var(--brown);margin:0;
+}
+.gen-group-count{
+  font-family:var(--serif);font-size:10.5px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--brown-soft);
+  border:1px solid rgba(176,141,87,.6);border-radius:2px;
+  padding:4px 10px;white-space:nowrap;
+}
+.gen-group-note{
+  text-align:center;margin:0 0 clamp(20px,2.4vw,28px);
+  font-size:clamp(14px,1.05vw,16px);
+  color:#6b5844;font-style:italic;
+}
+.gen-badge{
+  display:inline-block;margin-top:9px;
+  font-family:var(--serif);font-size:9.5px;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--brown-soft);
+  border:1px solid rgba(176,141,87,.5);border-radius:2px;
+  padding:3px 7px;
+}
+
+/* Banner plate that opens the Generations section, sitting between the
+   "Generations I–IV" heading and the cards themselves. */
+.gen-banner{
+  margin:0 0 clamp(24px,3vw,34px);
+  border:1px solid rgba(176,141,87,.55);
+  border-radius:3px;
+  overflow:hidden;
+  background:var(--cream);
+  box-shadow:0 2px 0 rgba(176,141,87,.2),0 18px 40px -26px rgba(43,33,24,.55);
+}
+.gen-banner img{
+  display:block;width:100%;height:auto;
+}
+
+/* ============================================================
+   PRIVACY NOTICE
+   ============================================================ */
+.privacy{
+  background:var(--ink);
+  color:#efe2c8;
+  padding:clamp(48px,6vw,84px) 0;
+  border-top:3px solid var(--gold);
+  border-bottom:3px solid var(--gold);
+}
+.privacy-panel{
+  max-width:920px;margin:0 auto;
+  border:1px solid rgba(232,184,90,.55);
+  border-radius:4px;
+  background:linear-gradient(180deg,rgba(240,198,106,.1),rgba(240,198,106,.03));
+  padding:clamp(28px,4vw,50px);
+  text-align:center;
+  box-shadow:0 24px 60px -30px rgba(0,0,0,.9);
+}
+.privacy-lock{
+  font-size:clamp(26px,3vw,34px);line-height:1;
+  margin:0 0 16px;color:var(--gold-bright);
+}
+.privacy h2{color:var(--gold-pale);margin-bottom:16px}
+.privacy .privacy-lede{
+  max-width:62ch;margin:0 auto;
+  color:#e8d9bc;font-size:clamp(17px,1.4vw,22px);line-height:1.6;
+}
+.privacy .privacy-lede strong{color:var(--gold-pale);font-weight:600}
+.privacy-points{
+  list-style:none;padding:0;margin:clamp(26px,3vw,38px) auto 0;
+  display:grid;gap:16px;max-width:660px;text-align:left;
+}
+.privacy-points li{
+  display:flex;gap:14px;align-items:flex-start;
+  font-size:clamp(15px,1.12vw,18px);color:#e8d9bc;line-height:1.55;
+}
+.privacy-points li strong{color:var(--gold-pale);font-weight:600}
+.privacy-points .n{
+  flex:0 0 auto;
+  font-family:var(--serif);font-weight:700;font-size:13px;
+  color:#2a1706;background:linear-gradient(180deg,#f0c66a,#c48a2c);
+  width:25px;height:25px;border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  margin-top:2px;
+}
+.privacy-cta{margin-top:clamp(26px,3vw,38px)}
+
+/* ============================================================
+   ABOUT
+   ============================================================ */
+.about{background:var(--cream)}
+.about-grid{
+  display:grid;
+  grid-template-columns:1.15fr .85fr;
+  gap:clamp(32px,5vw,72px);
+  align-items:start;
+  margin-top:clamp(34px,4vw,52px);
+}
+.about h2{text-align:left;margin-bottom:20px}
+.about p{margin:0 0 18px;color:#3d2f22}
+.about p:last-child{margin-bottom:0}
+.about .drop::first-letter{
+  font-family:var(--serif);font-weight:700;
+  float:left;font-size:3.4em;line-height:.82;
+  padding:6px 12px 0 0;color:var(--gold);
+}
+
+.facts{
+  border-left:2px solid var(--gold);
+  padding-left:clamp(20px,2.4vw,30px);
+}
+.facts dl{margin:0}
+.facts dt{
+  font-family:var(--serif);font-weight:600;
+  font-size:11px;letter-spacing:.22em;text-transform:uppercase;
+  color:var(--brown-soft);margin-bottom:4px;
+}
+.facts dd{
+  margin:0 0 22px;
+  font-family:var(--serif);font-weight:700;
+  font-size:clamp(20px,2vw,27px);
+  color:var(--brown);line-height:1.2;
+}
+.facts dd:last-child{margin-bottom:0}
+.facts dd small{
+  display:block;font-family:var(--body);font-weight:500;
+  font-size:14px;letter-spacing:0;text-transform:none;
+  color:#6b5844;margin-top:4px;
+}
+
+/* ============================================================
+   SURNAMES
+   ============================================================ */
+.surnames{background:var(--parchment)}
+.chips{
+  display:flex;flex-wrap:wrap;gap:10px;justify-content:center;
+  margin-top:clamp(30px,3.6vw,44px);
+  list-style:none;padding:0;
+}
+.chips li{
+  font-family:var(--serif);font-weight:600;
+  font-size:clamp(12px,1vw,14px);letter-spacing:.1em;
+  color:var(--brown);
+  background:var(--cream);
+  border:1px solid rgba(176,141,87,.55);
+  border-radius:2px;
+  padding:9px 16px;
+  transition:background .18s ease,border-color .18s ease,color .18s ease;
+}
+.chips li:hover{background:#fff;border-color:var(--gold);color:#3d2f22}
+.surnames .note{
+  text-align:center;margin-top:26px;
+  font-size:15px;color:#6b5844;font-style:italic;
+}
+
+/* ============================================================
+   CONTRIBUTE
+   ============================================================ */
+.contribute{
+  background:linear-gradient(180deg,#1d1208,#120a04);
+  color:#efe2c8;
+  text-align:center;
+}
+.contribute h2{color:var(--gold-pale)}
+.contribute .eyebrow{color:rgba(232,184,90,.8)}
+.contribute p{
+  max-width:60ch;margin:0 auto 18px;
+  color:#d9c9ab;font-size:clamp(16px,1.2vw,20px);
+}
+.contribute .orn{color:var(--gold-bright);margin-top:clamp(26px,3vw,38px)}
+.contribute .orn::before{background:linear-gradient(90deg,transparent,var(--gold-bright))}
+.contribute .orn::after{background:linear-gradient(90deg,var(--gold-bright),transparent)}
+.contribute .hero-cta{margin-top:clamp(28px,3.4vw,40px)}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+footer{
+  background:var(--ink);
+  color:rgba(239,226,200,.62);
+  padding:clamp(40px,5vw,64px) 0 34px;
+  border-top:1px solid rgba(176,141,87,.3);
+  font-size:15px;
+}
+.foot-grid{
+  display:grid;
+  grid-template-columns:1.4fr 1fr 1fr;
+  gap:clamp(28px,4vw,56px);
+  align-items:start;
+}
+.foot-brand{
+  font-family:var(--serif);font-weight:700;
+  font-size:19px;letter-spacing:.08em;
+  color:var(--gold-pale);margin:0 0 10px;
+}
+.foot-grid p{margin:0;line-height:1.6;max-width:38ch}
+.foot-h{
+  font-family:var(--serif);font-weight:600;
+  font-size:11px;letter-spacing:.22em;text-transform:uppercase;
+  color:rgba(232,184,90,.75);margin:0 0 14px;
+}
+.foot-links{list-style:none;margin:0;padding:0}
+.foot-links li{margin-bottom:9px}
+.foot-links a{
+  color:rgba(239,226,200,.78);text-decoration:none;
+  border-bottom:1px solid transparent;
+  transition:color .18s ease,border-color .18s ease;
+}
+.foot-links a:hover{color:var(--gold-pale);border-bottom-color:rgba(232,184,90,.5)}
+.foot-bottom{
+  margin-top:clamp(34px,4vw,52px);
+  padding-top:22px;
+  border-top:1px solid rgba(176,141,87,.22);
+  display:flex;flex-wrap:wrap;gap:12px;
+  justify-content:space-between;align-items:center;
+  font-size:13px;color:rgba(239,226,200,.45);
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width:860px){
+  .about-grid{grid-template-columns:1fr}
+  .facts{border-left:none;border-top:2px solid var(--gold);padding-left:0;padding-top:26px}
+  .foot-grid{grid-template-columns:1fr 1fr}
+  .foot-grid > div:first-child{grid-column:1/-1}
+}
+@media (max-width:560px){
+  .hero-copy{padding-top:34px;padding-bottom:40px}
+  .hero-cta{flex-direction:column;align-items:stretch}
+  .btn{justify-content:center}
+  .foot-grid{grid-template-columns:1fr}
+  .gen-grid{grid-template-columns:1fr 1fr}
+  .gen{padding:16px}
+}
+
+/* Respect reduced-motion preferences */
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  *,*::before,*::after{animation:none!important;transition:none!important}
+}
+
+/* Gold banner plates, built in code with their exact words. */
+.fb-banner{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;background:linear-gradient(135deg,#e8c97a,#c9a227 55%,#a8873a);color:#241608;padding:22px 12px;overflow:hidden}
+.fb-banner .fbmark{font-family:var(--serif);font-weight:700;font-size:46px;line-height:1}
+.fb-banner .fbtext{font-family:var(--serif);font-weight:700;font-size:clamp(17px,2vw,25px);letter-spacing:2px;margin-top:10px;white-space:nowrap}
+.fb-banner .fbtext small{display:block;font-size:13px;letter-spacing:4px;margin-top:6px;text-align:center}
+.door-media:has(.fb-banner)::after{display:none}
+.privacy-panel h2{color:var(--gold-pale)}
+.privacy-panel .privacy-lede{max-width:62ch;margin:0 auto;color:#e8d9bc;font-size:clamp(17px,1.4vw,22px);line-height:1.6}
+.privacy-panel .privacy-lede strong{color:var(--gold-pale);font-weight:600}
+.gen-group .privacy-panel{margin-bottom:clamp(24px,3vw,34px)}
+</style>
+</head>
+<body>
+
+<a class="skip" href="#main">Skip to content</a>
+
+<!-- ============================ HERO ============================ -->
+<header class="hero">
+  <!-- Original artwork, shown whole and unmodified: full width, natural
+       aspect ratio, no crop, no blur, no overlay. -->
+  <div class="hero-art">
+    <img src="images/hero.jpg"
+         alt="An American Bloodline cover artwork — a Native American figure and a Pilgrim beneath an autumn tree, the Mayflower on the water, a graveyard and American flag, soldiers and a tank advancing, a vintage bomber overhead, and the Statue of Liberty with the New York skyline at sunset."
+         width="1264" height="843" fetchpriority="high" decoding="async">
+  </div>
+
+  <div class="hero-copy">
+    <h1><span>An American</span><span>Bloodline</span></h1>
+
+    <div class="orn" aria-hidden="true"><span>✦ ★ ✦</span></div>
+
+    <p class="tagline">From the Mayflower to our hearts today</p>
+
+    <p class="lede">
+      One family, followed across four centuries — through colonial shores, westward
+      roads, and the ordinary lives in between. Every name here was somebody's
+      grandmother, somebody's brother, somebody's reason.
+    </p>
+
+    <div class="hero-cta">
+      <a class="btn btn-gold" href="#generations">Explore the generations</a>
+      <a class="btn btn-ghost" href="https://www.facebook.com/people/An-American-Bloodline/61596511283402/" target="_blank" rel="noopener">Visit our Facebook page</a>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ========================= ABOUT ========================= -->
+  <!-- Sits directly under the hero: the first thing a visitor reads. -->
+  <section class="about" id="about">
+    <div class="wrap">
+      <div class="about-grid">
+
+        <div>
+          <p class="eyebrow" style="text-align:left">About this project</p>
+          <h2>Why we keep the names</h2>
+          <p class="drop">
+            An American Bloodline began with a simple question that most families
+            eventually ask: <em>where did we come from?</em> What started as a few
+            names on a scrap of paper has grown into a documented line reaching back
+            to the Mayflower and forward to the people reading this today.
+          </p>
+          <p>
+            The work is deliberately plain. No paywall, no subscription, no account to
+            create. Names are grouped by generation and by family side, so a visitor
+            can follow a single branch without wading through the whole tree — and a
+            researcher can see exactly what we have and, just as usefully, what we
+            still do not.
+          </p>
+          <p>
+            Everything here is shared freely with cousins, researchers, and anyone
+            else who finds a name that matches their own. If you spot an error, we
+            would rather hear it than keep it.
+          </p>
+        </div>
+
+        <aside class="facts">
+          <dl>
+            <dt>Generations documented</dt>
+            <dd>Eighteen<small>Generations I through XVIII</small></dd>
+
+            <dt>People indexed</dt>
+            <dd>1,723<small>Across all generation pages</small></dd>
+
+            <dt>Earliest reach</dt>
+            <dd>Mayflower era<small>Colonial New England and Virginia lines</small></dd>
+
+            <dt>Cost to you</dt>
+            <dd>Free<small>No account, no paywall, no ads</small></dd>
+          </dl>
+        </aside>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ======================= THREE DOORS ======================= -->
+  <section class="doors" id="doors">
+    <div class="wrap">
+      <p class="eyebrow">Where to begin</p>
+      <h2>Two ways into the story</h2>
+      <p class="section-lede">
+        Whether you are a cousin who just found us or a researcher chasing a single
+        line, start wherever you like — both doors lead to the same family.
+      </p>
+      <div class="orn" aria-hidden="true"><span>✦ ★ ✦</span></div>
+
+      <div class="door-grid">
+
+        <a class="door" href="https://www.facebook.com/people/An-American-Bloodline/61596511283402/" target="_blank" rel="noopener">
+          <div class="door-media">
+            <div class="fb-banner"><div class="fbmark">f</div><div class="fbtext">VISIT OUR FACEBOOK PAGE</div></div>
+          </div>
+          <div class="door-body">
+            <p class="door-kicker">Follow along</p>
+            <h3>Follow Our Facebook Page</h3>
+            <p>
+              Photographs, documents, and short posts as they surface — the public
+              face of the project. <strong>Follow the page</strong>, and please
+              <strong>invite your family and friends to follow us too</strong>. Every
+              new follower helps another cousin find the line.
+            </p>
+            <span class="door-cta">Follow the page</span>
+          </div>
+        </a>
+
+        <a class="door" href="https://www.facebook.com/groups/1608908947197864/" target="_blank" rel="noopener">
+          <div class="door-media">
+            <div class="fb-banner"><svg width="58" height="36" viewBox="0 0 64 40" aria-hidden="true" style="display:block"><g fill="#241608"><circle cx="14" cy="12" r="7"/><path d="M2 40c0-8 5-13 12-13s12 5 12 13z"/><circle cx="32" cy="10" r="8"/><path d="M18 40c0-9 6-14 14-14s14 5 14 14z"/><circle cx="50" cy="12" r="7"/><path d="M38 40c0-8 5-13 12-13s12 5 12 13z"/></g></svg><div class="fbtext">JOIN OUR FACEBOOK GROUP<small>FAMILY ONLY</small></div></div>
+            <span class="door-flag">Family only</span>
+          </div>
+          <div class="door-body">
+            <p class="door-kicker">Members only</p>
+            <h3>Join Our Facebook Group</h3>
+            <p>
+              The group is where the family actually talks — questions, corrections,
+              brick walls, and breakthroughs. <strong>You must be family to join:</strong>
+              you will need to be related to someone who already has a profile here.
+              Join the group and <strong>we will make a profile for you</strong>.
+            </p>
+            <span class="door-cta">Join the group</span>
+          </div>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ======================= GENERATIONS ======================= -->
+  <section class="generations" id="generations">
+    <div class="wrap">
+      <p class="eyebrow">The line</p>
+      <h2>Eighteen generations, one bloodline</h2>
+      <p class="section-lede">
+        The line is kept in two parts. Generations I–IV are the earliest, held as
+        documents; Generations V–XVIII are the later generations, each with its own index
+        page. Every name is grouped by family side.
+      </p>
+      <div class="orn" aria-hidden="true"><span>✦ ★ ✦</span></div>
+
+      <!-- GROUP ONE: the earliest generations, held as documents -->
+      <div class="gen-group">
+        <div class="gen-group-head">
+          <h3 class="gen-group-title">Generations I–IV</h3>
+          <span class="gen-group-count">221 people</span>
+        </div>
+        <p class="gen-group-note">The earliest generations — held as documents rather than index pages</p>
+
+        <div class="privacy-panel" id="privacy">
+        <p class="privacy-lock" aria-hidden="true">🔒</p>
+        <p class="eyebrow" style="color:rgba(232,184,90,.85)">Before you go further</p>
+        <h2>These records are private</h2>
+        <p class="privacy-lede">
+          The generation lists and the individual profiles are <strong>not public</strong>.
+          They are shared only with family members who have been given permission to see them.
+        </p>
+
+        <ul class="privacy-points">
+          <li><span class="n">1</span><span>The <strong>generation lists</strong> — every name on every generation page — are private.</span></li>
+          <li><span class="n">2</span><span>The <strong>individual profiles</strong> behind those names are private too.</span></li>
+          <li><span class="n">3</span><span>If you <strong>do not already have access</strong>, please ask before viewing either. We would rather welcome you properly than have you find a name by accident.</span></li>
+        </ul>
+
+        <div class="privacy-cta">
+          <a class="btn btn-gold" href="https://m.me/61596511283402" target="_blank" rel="noopener">Ask for access</a>
+        </div>
+      </div>
+
+        <div class="gen-grid">
+
+          <a class="gen" href="https://docs.google.com/document/d/10yqOIiTBw9nN3OAc5pgeOpgnN82y-Cp4ZzZ4dbCIRnM/edit" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">I</div>
+              <div class="gen-meta">Generation One</div>
+              <span class="gen-badge">Document</span>
+            </div>
+            <div class="gen-count"><b>1</b> person indexed</div>
+          </a>
+
+          <a class="gen" href="https://docs.google.com/document/d/18rHjWbxUaPiG13C6ws1kpXl_-GGfnQwyZtLemmeGr7s/edit" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">II</div>
+              <div class="gen-meta">Generation Two</div>
+              <span class="gen-badge">Document</span>
+            </div>
+            <div class="gen-count"><b>43</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://docs.google.com/document/d/1z-G8fW4soXv8CD5Mx37p85PsZ1Veka-7_GY8KnXE8MM/edit" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">III</div>
+              <div class="gen-meta">Generation Three</div>
+              <span class="gen-badge">Document</span>
+            </div>
+            <div class="gen-count"><b>71</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://docs.google.com/document/d/1dMz7d1T2Hh6-f7btgQVkL7w5vmCmLOs8J6Zj2sthxSY/edit" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">IV</div>
+              <div class="gen-meta">Generation Four</div>
+              <span class="gen-badge">Document</span>
+            </div>
+            <div class="gen-count"><b>106</b> people indexed</div>
+          </a>
+
+        </div>
+      </div>
+
+      <!-- GROUP TWO: the later generations, each with its own index page -->
+      <div class="gen-group">
+        <div class="gen-group-head">
+          <h3 class="gen-group-title">Generations V–XVIII</h3>
+          <span class="gen-group-count">1,502 people</span>
+        </div>
+        <p class="gen-group-note">The later generations — each with its own index page</p>
+
+        <div class="gen-grid">
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-5-hark/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">V</div>
+              <div class="gen-meta">Generation Five</div>
+            </div>
+            <div class="gen-count"><b>78</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-6/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">VI</div>
+              <div class="gen-meta">Generation Six</div>
+            </div>
+            <div class="gen-count"><b>100</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-7/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">VII</div>
+              <div class="gen-meta">Generation Seven</div>
+            </div>
+            <div class="gen-count"><b>52</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-8/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">VIII</div>
+              <div class="gen-meta">Generation Eight</div>
+            </div>
+            <div class="gen-count"><b>37</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-9/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">IX</div>
+              <div class="gen-meta">Generation Nine</div>
+            </div>
+            <div class="gen-count"><b>53</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-10/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">X</div>
+              <div class="gen-meta">Generation Ten</div>
+            </div>
+            <div class="gen-count"><b>94</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-11/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">XI</div>
+              <div class="gen-meta">Generation Eleven</div>
+            </div>
+            <div class="gen-count"><b>147</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-12/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">XII</div>
+              <div class="gen-meta">Generation Twelve</div>
+            </div>
+            <div class="gen-count"><b>127</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-13/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">XIII</div>
+              <div class="gen-meta">Generation Thirteen</div>
+            </div>
+            <div class="gen-count"><b>122</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-14/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">XIV</div>
+              <div class="gen-meta">Generation Fourteen</div>
+            </div>
+            <div class="gen-count"><b>136</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-15/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">XV</div>
+              <div class="gen-meta">Generation Fifteen</div>
+            </div>
+            <div class="gen-count"><b>134</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-16/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">XVI</div>
+              <div class="gen-meta">Generation Sixteen</div>
+            </div>
+            <div class="gen-count"><b>168</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-17/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">XVII</div>
+              <div class="gen-meta">Generation Seventeen</div>
+            </div>
+            <div class="gen-count"><b>156</b> people indexed</div>
+          </a>
+
+          <a class="gen" href="https://rickbrew13.github.io/american-bloodline/generation-18/" target="_blank" rel="noopener">
+            <div>
+              <div class="gen-num">XVIII</div>
+              <div class="gen-meta">Generation Eighteen</div>
+            </div>
+            <div class="gen-count"><b>98</b> people indexed</div>
+          </a>
+
+        </div>
+      </div>
+
+      <p class="gen-total"><b>1,723</b> people documented across eighteen generations</p>
+    </div>
+  </section>
+
+  <!-- ====================== PRIVACY NOTICE ====================== -->
+  
+
+  <!-- ======================== SURNAMES ======================== -->
+  <section class="surnames" id="surnames">
+    <div class="wrap">
+      <p class="eyebrow">Searching for a name?</p>
+      <h2>Surnames in the line</h2>
+      <p class="section-lede">
+        These are the family names appearing in the Generation V index — the most
+        complete generation page. If one of them is yours, you are probably in the
+        right place.
+      </p>
+      <div class="orn" aria-hidden="true"><span>✦ ★ ✦</span></div>
+
+      <ul class="chips">
+        <li>Brewster</li>
+        <li>Campbell</li>
+        <li>Collins</li>
+        <li>Cossman</li>
+        <li>Dague</li>
+        <li>Fields</li>
+        <li>Green</li>
+        <li>Guglielmo</li>
+        <li>Henry</li>
+        <li>Hess</li>
+        <li>Jordan</li>
+        <li>Lewis</li>
+        <li>Luft</li>
+        <li>McKinney</li>
+        <li>McShane</li>
+        <li>Moore</li>
+        <li>Niles</li>
+        <li>Palmer</li>
+        <li>Shamblen</li>
+        <li>Washington</li>
+        <li>Waulk</li>
+      </ul>
+
+      <p class="note">
+        Older generations carry many more names — the Generation XI index alone lists 147 people.
+      </p>
+    </div>
+  </section>
+
+  <!-- ======================= CONTRIBUTE ======================= -->
+  <section class="contribute" id="contribute">
+    <div class="wrap">
+      <p class="eyebrow">Add to the record</p>
+      <h2>Do you have a piece of this?</h2>
+      <p>
+        A photograph with no name on the back. A Bible page. A letter, a death notice,
+        a story your grandmother told once and nobody wrote down. Those are the things
+        that turn a list of names into a family.
+      </p>
+      <p>
+        Bring it to the group and we will find where it belongs.
+      </p>
+      <div class="orn" aria-hidden="true"><span>✦ ★ ✦</span></div>
+      <div class="hero-cta">
+        <a class="btn btn-gold" href="https://www.facebook.com/groups/1608908947197864/" target="_blank" rel="noopener">Share it in the group</a>
+        <a class="btn btn-ghost" href="https://m.me/61596511283402" target="_blank" rel="noopener">Message the page</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ========================== FOOTER ========================== -->
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+
+      <div>
+        <p class="foot-brand">An American Bloodline</p>
+        <p>
+          A free, ongoing family history project — names, records, and stories kept
+          together so the next generation can find them.
+        </p>
+      </div>
+
+      <div>
+        <p class="foot-h">Explore</p>
+        <ul class="foot-links">
+          <li><a href="#generations">Generations I–XVIII</a></li>
+          <li><a href="#surnames">Surnames</a></li>
+          <li><a href="#privacy">Privacy &amp; access</a></li>
+          <li><a href="https://sites.google.com/view/an-american-bloodline/each-generation" target="_blank" rel="noopener">Full index</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <p class="foot-h">Connect</p>
+        <ul class="foot-links">
+          <li><a href="https://www.facebook.com/people/An-American-Bloodline/61596511283402/" target="_blank" rel="noopener">Facebook page</a></li>
+          <li><a href="https://www.facebook.com/groups/1608908947197864/" target="_blank" rel="noopener">Facebook group</a></li>
+          <li><a href="#contribute">Contribute a record</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="foot-bottom">
+      <span>© <span id="yr">2026</span> An American Bloodline</span>
+      <span>Built to be read by cousins, not crawlers.</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Keep the copyright year current without a build step.
+  document.getElementById('yr').textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>
