@@ -1,89 +1,189 @@
 <!doctype html>
-<!DOCTYPE html>
-
-<!DOCTYPE html>
-
-<!DOCTYPE html>
-
-<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Judith Mae Palmer | An American Bloodline</title>
-<style>body{margin:0;background:#f4ede1;font-family:Lato,Helvetica,Arial,sans-serif;color:#2b2118;font-size:17px;line-height:1.55}
-.w{max-width:900px;margin:0 auto;padding:16px}
-.top{font-family:Cinzel,Georgia,serif;letter-spacing:2px;color:#8a6d3b;font-size:13px;text-align:center;margin:8px 0 14px}
-.top a{color:#8a6d3b;text-decoration:none}
-.hero{display:flex;gap:20px;background:#fff8ee;border:1px solid #b08d57;border-radius:8px;padding:16px;align-items:center}
-.hero img{width:210px;max-width:40%;border:4px solid #efe4d0;border-radius:4px}
-h1{font-family:Cinzel,Georgia,serif;color:#5b3a1e;margin:0 0 6px;font-size:30px;line-height:1.2}
-h2{font-family:Cinzel,Georgia,serif;color:#5b3a1e;border-bottom:2px solid #b08d57;padding-bottom:4px;margin:30px 0 12px;font-size:23px}
-.dates{font-size:20px;margin:0 0 6px}.meta{margin:2px 0;color:#5a4a3a}
-.b{color:#fff;font-size:11px;font-weight:700;padding:2px 6px;border-radius:3px;white-space:nowrap;letter-spacing:.5px}
-.facts{display:grid;grid-template-columns:150px 1fr;border:1px solid #b08d57;border-radius:6px;overflow:hidden;background:#fff8ee}
-.facts div{padding:8px 10px;border-bottom:1px solid #e2d3b8}.facts .k{background:#efe4d0;font-weight:700}
-.fam{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.card ul{margin:0;padding-left:18px}
-.trees{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px;background:#efe4d0;border:2px solid #b08d57;border-radius:8px;padding:12px}
-.tree{background:#fff8ee;border:1px solid #b08d57;border-radius:6px;padding:10px;text-align:center;text-decoration:none;color:#2b2118}
-.tree b{display:block;font-family:Cinzel,Georgia,serif;color:#5b3a1e}.tree span{font-size:13px;color:#5a4a3a;word-break:break-all}.tree.off{opacity:.55}.card{background:#fff8ee;border:1px solid #b08d57;border-radius:6px;padding:10px}
-.card h3{margin:0 0 6px;font-family:Cinzel,Georgia,serif;font-size:16px;color:#5b3a1e}
-.tl{border-left:3px solid #b08d57;margin-left:6px;padding-left:16px}.tl p{margin:0 0 10px}.tl .y{font-weight:700;color:#5b3a1e}
-.gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}.gal figure{margin:0;background:#fff8ee;border:1px solid #b08d57;border-radius:6px;padding:8px;text-align:center}
-.gal img{width:100%;border-radius:4px}.gal figcaption{font-style:italic;font-size:14px}
-.note{background:#fff8ee;border:2px solid #b08d57;border-radius:8px;padding:12px 16px;margin-top:30px}
-a{color:#7a4a1a}.foot{font-size:13px;color:#8a6d3b;border-top:1px solid #b08d57;margin-top:30px;padding-top:8px}
-@media(max-width:640px){.fam{grid-template-columns:1fr}body{font-size:16px}.hero{flex-direction:column;text-align:center}.hero img{max-width:70%;width:240px}
-h1{font-size:25px}.facts{grid-template-columns:1fr}.facts .k{border-bottom:none;padding-bottom:2px}.fam{grid-template-columns:1fr}}</style><link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&amp;family=Lato:wght@400;700&amp;display=swap" rel="stylesheet"/></head><body><div class="w">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#30251c;--muted:#6c5c4d;--paper:#f5f0e7;--card:#fffdf8;--line:#d8c7a9;--gold:#9a7540;--deep:#4d3523;--soft:#eee4d3}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);font-family:Lato,Arial,sans-serif;color:var(--ink);font-size:17px;line-height:1.68}
+.w{max-width:1120px;margin:0 auto;padding:22px 24px 36px}
+.top{font-family:Cinzel,Georgia,serif;letter-spacing:2px;color:var(--gold);font-size:13px;text-align:center;margin:4px 0 22px}
+.top a{color:var(--gold);text-decoration:none}
+.hero{display:grid;grid-template-columns:minmax(190px,270px) 1fr;gap:28px;background:linear-gradient(135deg,#fffdf8,#f0e5d2);border:1px solid var(--line);border-radius:16px;padding:24px;align-items:center;box-shadow:0 8px 24px rgba(62,43,24,.07)}
+.hero img{width:100%;max-height:320px;object-fit:cover;object-position:center;border:6px solid #fff;border-radius:10px;box-shadow:0 3px 12px rgba(0,0,0,.12)}
+h1,h2,.card h3,.tree b{font-family:Cinzel,Georgia,serif}
+h1{color:var(--deep);margin:0 0 10px;font-size:clamp(28px,4vw,42px);line-height:1.18}
+h2{color:var(--deep);border-bottom:2px solid var(--gold);padding-bottom:8px;margin:38px 0 16px;font-size:clamp(21px,2.5vw,27px)}
+.dates{font-size:21px;margin:0 0 8px}.meta{margin:4px 0;color:var(--muted)}
+.facts{display:grid;grid-template-columns:180px 1fr;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:var(--card)}
+.facts div{padding:11px 14px;border-bottom:1px solid #e9dfcf}.facts .k{background:var(--soft);font-weight:700;color:var(--deep)}
+.fam{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;box-shadow:0 3px 12px rgba(62,43,24,.04)}
+.card h3{margin:0 0 8px;color:var(--deep);font-size:18px}
+.card ul{margin:0;padding-left:20px}
+.trees{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px;background:var(--soft);border:1px solid var(--line);border-radius:14px;padding:16px}
+.tree{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:13px;text-align:center;text-decoration:none;color:var(--ink);transition:transform .15s,box-shadow .15s}
+.tree:hover{transform:translateY(-2px);box-shadow:0 5px 14px rgba(62,43,24,.1)}
+.tree b{display:block;color:var(--deep);font-size:16px}.tree span{font-size:13px;color:var(--muted);word-break:break-word}
+.tl{border-left:3px solid var(--gold);margin-left:7px;padding-left:20px}
+.tl p{margin:0 0 16px;position:relative}.tl p:before{content:"";position:absolute;left:-27px;top:9px;width:10px;height:10px;border-radius:50%;background:var(--gold);border:2px solid var(--paper)}
+.tl .y{font-weight:700;color:var(--deep)}
+.gal{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+.gal figure{margin:0;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;text-align:center}
+.gal img{width:100%;height:260px;object-fit:contain;background:#eee7dc;border-radius:8px}
+.gal figcaption{font-style:italic;font-size:14px;color:var(--muted);padding:9px 4px 2px}
+.note{background:#fffaf0;border:1px solid var(--gold);border-radius:12px;padding:16px 20px;margin-top:34px}
+a{color:#76501f;text-underline-offset:3px}.foot{font-size:13px;color:var(--muted);border-top:1px solid var(--line);margin-top:34px;padding-top:12px}
+ol,ul{padding-left:24px}li{margin:0 0 9px}
+@media(max-width:700px){.w{padding:14px 14px 28px}.hero{grid-template-columns:1fr;text-align:center;padding:18px;gap:16px}.hero img{width:min(72%,260px);max-height:300px;margin:auto}.fam{grid-template-columns:1fr}.facts{grid-template-columns:1fr}.facts .k{border-bottom:0;padding-bottom:2px}.facts div:not(.k){padding-top:5px}.gal{grid-template-columns:1fr 1fr}.gal img{height:190px}.trees{grid-template-columns:repeat(2,minmax(0,1fr))}body{font-size:16px}}
+@media(max-width:420px){.gal{grid-template-columns:1fr}.gal img{height:auto;max-height:300px}.trees{grid-template-columns:1fr}.dates{font-size:19px}}
+</style>
+</head>
+<body>
+<div class="w">
 <div class="top"><a href="https://sites.google.com/view/an-american-bloodline/each-generation">AN AMERICAN BLOODLINE · EACH GENERATION</a></div>
-<div class="hero"><img alt="Judith Mae Palmer" src="img/s_bp2.jpg"/><div><div><h1>Judith Mae Palmer</h1><p class="dates">9 February 1939 – 7 June 2006</p><p class="meta">Palmer line · Cincinnati, Ohio</p><p class="meta">Also known as: "Judy"; later surnames Brewster and Clark</p><p class="meta">Profile status: <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span></p></div></div></div>
-<h2>Quick Facts</h2><div class="facts">
-<div class="k">Born</div><div>9 February 1939, Cincinnati, Hamilton County, Ohio <span class="b" style="background:#b26a00">SUPPORTED</span></div>
-<div class="k">Died</div><div>7 June 2006 (Social Security Death Index, as Judith M. Clark) <span class="b" style="background:#2e7d32">DOCUMENTED</span></div>
-<div class="k">Buried</div><div>Spring Grove Cemetery, Cincinnati <span class="b" style="background:#b26a00">SUPPORTED</span></div>
-<div class="k">Occupation</div><div>Not found</div>
-<div class="k">Religion</div><div>Not found</div>
-</div><h2>Immediate Family</h2><div class="fam">
-<div class="card"><h3>Parents</h3><a href="https://rickbrew13.github.io/american-bloodline/william-peter-palmer/">William Peter Palmer</a> <span class="b" style="background:#2e7d32">DOCUMENTED</span><br/><a href="https://rickbrew13.github.io/american-bloodline/mary-jane-williams/">Mary Jane Williams</a> <span class="b" style="background:#2e7d32">DOCUMENTED</span></div><div class="card"><h3>Spouse</h3><a href="https://rickbrew13.github.io/american-bloodline/homer-william-brewster-jr/">Homer William Brewster Jr.</a> (1939–2000); married 18 April 1956, Fentress County, Tennessee <span class="b" style="background:#2e7d32">DOCUMENTED</span><br/><a href="https://rickbrew13.github.io/american-bloodline/larry-clark/">Larry Clark</a>, later husband <span class="b" style="background:#b26a00">SUPPORTED</span></div><div class="card" style="grid-column:1/-1"><h3>Children</h3>With Homer: <a href="https://docs.google.com/document/d/1iGSOf59ADU_QapRTB4pbZaj-zqY_s91B6ELsbidLiP4/edit">Victoria "Vicki" Brewster</a> (b. 1957) <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span><br/><a href="https://docs.google.com/document/d/1-UdTNOwi9Ml1sJUBPKQns5eKb6YV8CLwz8wyBaGeEmg/edit">Michael Eugene Brewster</a> (b. 1958) <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span><br/><a href="https://docs.google.com/document/d/1ocWeGR2pukzYszs6hHYQwB728laVQ8zXF8x5K5ixpps/edit">Garry Anthony Brewster</a> (b. 24 December 1959) <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span><br/><a href="https://docs.google.com/document/d/17m4JMus1KU74xg3cxfgcFakooLdWynHNtiC5MHf6MbM/edit">Ronald "Ron" Brewster</a> (b. 1962) <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span><br/>With Larry Clark: <a href="https://docs.google.com/document/d/10QrztSKcOJp7gl4JwYwjgfJNnBhkXsaBGHBXHM9-e9U/edit">Barry T. Clark</a> (25 Aug 1969 – 24 Jul 2008) <span class="b" style="background:#2e7d32">DOCUMENTED</span></div></div>
-<div class="card" style="margin-top:12px"><h3>Siblings</h3><ul><li><a href="https://rickbrew13.github.io/american-bloodline/mary-ann-palmer/">Mary Ann Palmer</a></li><li><a href="https://rickbrew13.github.io/american-bloodline/penelope-jane-spiess/">Penelope Jane Spiess</a></li></ul></div><h2>On Family Tree Sites</h2><div class="trees">
-<a class="tree" href="https://www.familysearch.org/en/tree/person/GRK1-6KF"><b>FamilySearch</b><span>GRK1-6KF</span></a>
-<a class="tree" href="https://www.geni.com/people/Judith-Palmer/6000000150638240821"><b>Geni</b><span>6000000150638240821</span></a>
-<a class="tree" href="https://www.ancestry.com/family-tree/person/tree/212654536/person/162808571965/facts"><b>Ancestry</b><span>162808571965</span></a>
-<a class="tree" href="https://www.wikitree.com/wiki/Palmer-24818"><b>WikiTree</b><span>Palmer-24818</span></a>
-<a class="tree" href="https://www.werelate.org/wiki/Person:Judith_Palmer_%2814%29"><b>WeRelate</b><span>Judith Palmer (14)</span></a>
-<a class="tree" href="https://www.findagrave.com/memorial/228001578/judith-m-palmer"><b>Find a Grave</b><span>judith-m-palmer</span></a>
-<a class="tree" href="https://www.myheritage.com/profile-OYYV62MYASJM7L5PMZYP2455MQ4V3VY-1000169/judith-mae-palmer"><b>MyHeritage</b><span>1000169</span></a>
-<a class="tree" href="https://www.genesreunited.co.uk/relatives/profile/overview/723156176"><b>Genes Reunited</b><span>723156176</span></a>
-<a class="tree" href="https://www.findmypast.com/tree/fmp-33238226-2127546745/tree/fmp-33238226-2127546886/profile"><b>Findmypast</b><span>fmp-33238226-2127546886</span></a>
-</div><h2>Couple Folder</h2><div class="trees">
-<a class="tree" href="https://drive.google.com/drive/folders/1R01fMyGde3LQjEgSiQT3kFH-bjCTKcgn?usp=sharing"><b>Open the couple folder</b><span>Homer William Brewster Jr. × Judith Mae Palmer · photos, documents and notes on Google Drive (view only)</span></a>
-</div><h2>Life Timeline</h2><div class="tl">
-<p><span class="y">1939</span> · age 0<br/>Born, Cincinnati, Hamilton County, Ohio <span class="b" style="background:#b26a00">SUPPORTED</span></p>
-<p><span class="y">1956</span> · age 17<br/>Married Homer William Brewster Jr., 18 Apr 1956, Fentress County, Tennessee <span class="b" style="background:#2e7d32">DOCUMENTED</span></p>
-<p><span class="y">1957–1962</span> · age 18–23<br/>Four children born, Hamilton and Preble Co., Ohio <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span></p>
-<p><span class="y">Later</span> · age <br/>Lived in Hartwell, Cincinnati, Ohio <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span></p>
-<p><span class="y">2006</span> · age 67<br/>Died 7 Jun 2006 <span class="b" style="background:#2e7d32">DOCUMENTED</span></p>
-</div><h2>Life Story</h2>
-<p>Judith Mae "Judy" Palmer was born February 9, 1939, the daughter of William Peter Palmer and Mary Jane Williams, and grew up in Cincinnati, one of three sisters, with Mary Ann and Penny beside her. <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span> Her father's parents, Peter Palmer and Margaret Lorch, were Austro-Hungarian immigrants who crossed the Atlantic before the First World War.</p>
-<p>At seventeen she ran off to Tennessee with Homer William Brewster Jr., and they married on April 18, 1956, in Fentress County, Tennessee. <span class="b" style="background:#2e7d32">DOCUMENTED</span> Vicki, their eldest daughter, tells the story as her mother told it to her. Judy had taken a ride with Homer down to Tennessee, where her grandparents were visiting people, and Homer had lied and told her he was eighteen. When her family found out, they had a fit. Judy told Homer they had to get married because she couldn't go back, so they found an old man and paid him ten dollars to stand up and say he was her father, because they were underage and needed somebody to give consent, and they got married. When they came back, her grandpa and the woman who raised her made them marry again, properly this time; no record of that second wedding has been found, and no wedding pictures exist. They hadn't planned any of it. It just happened because of circumstances. <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span></p>
-<p>They raised four children in the Hamilton and Preble County areas. That first wedding was not the last. Several of Judy's marriages were to Homer — they married and divorced several times. <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span> Susan, who married into the family and watched it up close, remembers it plainly: the marrying and divorcing, over and over, and that he was very abusive. That is the family's telling, carried here as they tell it. <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span></p>
-<p>She later married <a href="https://rickbrew13.github.io/american-bloodline/larry-clark/">Larry Clark</a>, and they had a son, <a href="https://docs.google.com/document/d/10QrztSKcOJp7gl4JwYwjgfJNnBhkXsaBGHBXHM9-e9U/edit">Barry</a>. The family remembers Barry dying before her, but his headstone and Social Security record show he died on July 24, 2008, two years after she did. Family memory holds that Barry had HIV/AIDS; no record confirms it. Garry holds the stories of Barry and his father. <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span> Her later surname was Clark. <span class="b" style="background:#2e7d32">DOCUMENTED</span></p>
-<p>After Homer left for good, Judy held the family together from a house in Hartwell, with a pool in the backyard where the grandchildren and cousins swam. And then there was Ralph, Judy's boyfriend of ten to fifteen years, as Amanda and the cousins who knew them both confirm, standing beside her in the family photographs of those later years. <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span></p>
-<p>The grandchildren years belonged to Judy's house. One grandson remembers it this way: his dad would pick them up from their apartment in Deer Park and bring them to Judy's more than anywhere else. She had a pet raccoon once, and he may even remember seeing it swim in the pool. Anytime the kids got in her car, she made them sit in car seats, even when they were too big for them. Cousin Ryan lived with Judy for a time. He remembers smearing something all over Ryan's room and toys, and Ryan hitting him in the head with a big red Cincinnati Reds baseball bat in Judy's front yard — on accident, Ryan says, but he is pretty sure that was the first time he was ever knocked out. <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span></p>
-<p>Vicki’s and Ron’s children: Lindsey, Jeremy, Ryan, Amanda, Stefanie, and Randy. <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span></p>
-<p>Her son Michael's name would one day travel further than any of theirs. In the summer of 2012 he robbed eleven banks in ten states, was caught in Roland, Oklahoma, pleaded guilty, and received 135 months in federal prison. The FBI called him the Bucket List Bandit. His release status is not confirmed. <span class="b" style="background:#b26a00">SUPPORTED</span></p>
-<p>She died June 7, 2006, <span class="b" style="background:#2e7d32">DOCUMENTED</span> and was buried at Spring Grove Cemetery, Cincinnati. <span class="b" style="background:#b26a00">SUPPORTED</span> What held was Judy, who fought through a complex life to raise her children, the quiet engine of a family that kept going.</p>
-<h2>Photo Gallery</h2><div class="gal">
-<figure><img alt="Judy as a young woman" loading="lazy" src="img/s_bp2.jpg"/><figcaption>Judy as a young woman</figcaption></figure>
-<figure><img alt="Judy" loading="lazy" src="img/s_judy_redhair.jpg"/><figcaption>Judy</figcaption></figure>
-<figure><img alt="Vicki, Ron, Mike, Barry, Garry" loading="lazy" src="img/s_judy_kids.jpg"/><figcaption>Vicki, Ron, Mike, Barry, Garry</figcaption></figure>
-<figure><img alt="Vicki." loading="lazy" src="img/s_vicki.jpg"/><figcaption>Vicki.</figcaption></figure>
-<figure><img alt="Ron in uniform." loading="lazy" src="img/s_ron_uniform.jpg"/><figcaption>Ron in uniform.</figcaption></figure>
-<figure><img alt="Ron in camouflage fatigues, walking through a doorway." loading="lazy" src="img/s_ron_camo.jpg"/><figcaption>Ron in camouflage fatigues. Family photo shared by Amanda, October 2026.</figcaption></figure>
-<figure><img alt="Amanda, Ron, Judy, and Ralph." loading="lazy" src="img/s_amanda_ron_judy_ralph.jpg"/><figcaption>Amanda, Ron, Judy, and Ralph.</figcaption></figure>
-<figure><img alt="Shared headstone of Judith M. Palmer and her son Barry T. Clark, Spring Grove Cemetery" loading="lazy" src="img/judith-palmer-barry-clark-headstone.jpg"/><figcaption>Her headstone, shared with her son Barry: "In loving memory · Mother, Judith M. Palmer, Feb. 9, 1939 – Jun. 7, 2006 · Son, Barry T. Clark, Aug. 25, 1969 – July 24, 2008," Spring Grove Cemetery, Cincinnati. Photo by Jil, <a href="https://www.findagrave.com/memorial/228001578/judith_m-palmer/photo">Find a Grave</a></figcaption></figure>
+
+<div class="hero">
+  <img src="img/s_bp2.jpg" alt="Judith Mae ‘Judy’ Palmer as a young woman; family photograph">
+  <div>
+    <h1>Judith Mae Palmer</h1>
+    <p class="dates">9 February 1939 – 7 June 2006</p>
+    <p class="meta">Palmer family · Cincinnati, Hamilton County, Ohio</p>
+    <p class="meta">Also known as: Judy; Judy Mae Palmer; Judith Mae Brewster; Judith M. Clark</p>
+  </div>
 </div>
-<h2>Sources and Evidence</h2><ol><li>Marriage 18 Apr 1956, Fentress County, Tennessee: Tennessee County Marriages, 1790–1959, Homer William Brewster (age 18) and Judy Mae Palmer; bride's parents named William Palmer and Mary Jane Williams (<a href="https://www.familysearch.org/ark:/61903/1:1:QKHW-WRNH">FamilySearch record</a>) <span class="b" style="background:#2e7d32">DOCUMENTED</span></li><li>Couple profile, Homer William Brewster Jr. × Judith Mae Palmer (family accounts) <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span></li><li>Death 7 Jun 2006: Social Security Death Index, Judith M Clark, b. 9 Feb 1939, d. 7 Jun 2006, SSN issued in Ohio, last residence Rockaway Beach, Taney Co., Missouri (<a href="https://socialsecuritydeathindexsearch.com/record/clark-judith-36967922">SSDI record</a>; same entry on <a href="https://www.familysearch.org/ark:/61903/1:1:VMQ4-5J4">FamilySearch</a>, ZIP 65740); Social Security Numident (<a href="https://www.familysearch.org/ark:/61903/1:1:6K3M-469Z">FamilySearch</a>), aliases Judith Mae Brewster and Judith M Clark, cited on her FamilySearch profile <span class="b" style="background:#2e7d32">DOCUMENTED</span></li><li>Birth 9 Feb 1939, Cincinnati, and parents William P. Palmer and Mary J. Williams: Social Security Applications and Claims Index (cited on her Geni and FamilySearch profiles); 1940 U.S. census, Cincinnati, Judith age 1 with William and Mary J. Palmer <span class="b" style="background:#b26a00">SUPPORTED</span></li><li><a href="https://sortedbyname.com/letter_c/clark/judithm_clark.html">SortedByName, “Judith M Clark”</a>: compiled entry explicitly cross-references Judith Mae Brewster, Judith Mae Clark and Judy Mae Palmer; gives birth 9 Feb 1939, parents William P. Palmer and Mary J. Williams, death 7 Jun 2006, and last reported residence ZIP 65740. It cites Social Security NUMIDENT death and SS-5 application datasets (1955, 1967, 1968) and Death Master File extracts. This is an index/derivative transcription, not the applications themselves; it reinforces the existing identity bridge but does not independently prove it. Personal identifier withheld. <span class="b" style="background:#b26a00">SUPPORTED (compiled index)</span></li><li>Marriage to Larry Clark: BillionGraves record (via Geni) names her spouse Larry Clark; Cincinnati city directory lists Larry Clark and Judith; family account <span class="b" style="background:#b26a00">SUPPORTED</span></li><li>Burial at Spring Grove Cemetery, Cincinnati: <a href="https://www.findagrave.com/memorial/228001578/judith-m-palmer">Find a Grave memorial 228001578</a>, Judith M Palmer, 9 Feb 1939 – 7 Jun 2006; Find a Grave Index on <a href="https://www.familysearch.org/ark:/61903/1:1:6ZR7-J7XM">FamilySearch</a>; BillionGraves source on her Geni profile names the same cemetery <span class="b" style="background:#b26a00">SUPPORTED</span></li></ol>
-<p><i>Grades: <span class="b" style="background:#2e7d32">DOCUMENTED</span> an original record says it · <span class="b" style="background:#b26a00">SUPPORTED</span> several records point to it · <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span> the family's own telling · <span class="b" style="background:#9e2a2b">UNPROVED</span> a lead, not proved.</i></p>
-<h2>Research Notes and Open Questions</h2><ul><li>Death place unknown. Her last Social Security address was Rockaway Beach, Taney County, Missouri (residence lead, not a death place). Check a 2006 Missouri death certificate, Taney County / Branson obituaries for June 2006, and the Spring Grove interment card.</li><li>1956 marriage record found (Fentress County, Tennessee). The family recalls a second, "proper" ceremony afterward; no record of it found yet.</li><li>Photo conflict: her Find a Grave memorial also carries a 2024 photo of a "Ronald H. / Judith M. Palmer, 1939" companion marker with no death dates. That stone looks like it belongs to a different Judith M. Palmer (wife of a Ronald H. Palmer) and is not used here; Judy's own stone is the one she shares with her son Barry.</li><li>Searched 17 Nov 2026 with no result: a June 2006 obituary or death notice (Cincinnati and Branson papers, Legacy, FamilySearch obituary collections), the 1950 census household (not found in the FamilySearch index), and a marriage record for Larry Clark. Next: Cincinnati Enquirer death notices 8–20 June 2006, Branson Tri-Lakes News / Taney County Times June 2006 on microfilm, the Spring Grove interment record, and a Hamilton County probate marriage search.</li><li>Tree-source review, 19 November 2026: <a href="https://www.werelate.org/wiki/Person:Judith_Palmer_%2814)">WeRelate Judith Mae Palmer page</a> repeats the 9 Feb 1939 birth, links William Peter Palmer and Mary Jane Williams as parents, and links Homer as spouse with the 18 Apr 1956 marriage. Its references are a dated project research note rather than cited original records, and the page gives only an approximate 2006 death; retain as an unproved compiled-tree lead. The public <a href="https://www.wikitree.com/genealogy/PALMER">WikiTree Palmer index</a> lists the exact 9 Feb 1939 Cincinnati birth and 7 Jun 2006 death and identifies Rick as profile manager; direct profile fetch was not available, so this is not new independent evidence.</li><li>Additional web sweep: searched exact name/alias combinations, Clark, Palmer and Brewster death/obituary phrases, Missouri/Taney County, Cincinnati and Spring Grove. No new obituary, newspaper clipping, book/family-book passage, portrait or original record was verified. Search results from SortedByName include many unrelated Judith M. Clarks and Palmer name collisions, including births and marriages in Kentucky, Texas, Nevada and other states; none was attached to Judy without an identity bridge.</li><li>Photo/archive pass, 19 November 2026: reviewed the existing portrait, young-woman image, family group photos, Amanda/Ron/Judy/Ralph photo and the shared headstone image. The two individual portraits represent distinct images; the other photos identify family or companions. No additional identity-verified photo or clipping was found to add. Existing images and credits remain unchanged.</li><li>Paternal grandparents Peter Palmer and Margaret Lorch were Austro-Hungarian immigrants; check their naturalization records.</li></ul>
-<h2>DNA</h2><p>No DNA matches linked yet.</p>
-<div class="note"><h2 style="margin-top:6px">Family Notes</h2><p>Have a story, photo, correction or record? <a href="https://docs.google.com/document/d/14Kmh0TK8GkohPez6GV_drcha4MCUzRT4Iswm0kFUQ24/edit"><b>Leave a note in Judy's Family Notes doc</b></a>. We check each note and update this profile.</p></div>
-<p class="foot">Profile history: Created 2 November 2026 from the family couple profile and research notes. Updated 17 November 2026: photos and sources added.</p></div>
-<div id="edit-or-add" style="margin:28px auto 18px;max-width:760px;padding:14px 18px;border:1px solid #c9b48a;border-radius:8px;background:#faf6ee;text-align:center;font-family:inherit"><a href="https://docs.google.com/document/d/1KWbjBEFbbuiaPvpumoy1DUWloQ60RFXVFvI7ri-AHrQ/edit" style="font-size:1.1em;font-weight:bold">Edit or add to profile</a><div style="font-size:.9em;margin-top:6px">Type your fixes, stories, or records in this doc. We'll update the profile as soon as we can.</div></div>
-</body></html>
+
+<h2>Quick Facts</h2>
+<div class="facts">
+  <div class="k">Born</div><div>9 February 1939, Cincinnati, Hamilton County, Ohio. Social Security records and the shared headstone give this date; the 1940 census index places one-year-old Judith in the Cincinnati household of William P. and Mary J. Palmer. The census image was not transcribed in the reviewed notes. [1, 2, 5]</div>
+  <div class="k">Died</div><div>7 June 2006. The Social Security Death Index lists her as Judith M. Clark, and the shared headstone gives the same date. Her place of death has not been established. [2, 5]</div>
+  <div class="k">Last residence</div><div>Rockaway Beach, Taney County, Missouri, according to the Social Security Death Index. This is a last-residence entry, not evidence of her place of death. [2]</div>
+  <div class="k">Buried</div><div>Reported at Spring Grove Cemetery, Cincinnati, on the shared headstone and cemetery indexes; Spring Grove’s online lookup did not return a listing in the searches recorded so far. The cemetery interment record remains to be checked. [5, 6, 10]</div>
+  <div class="k">Occupation</div><div>Not yet established.</div>
+  <div class="k">Religion</div><div>Not yet established.</div>
+</div>
+
+<h2>Immediate Family</h2>
+<div class="fam">
+  <div class="card"><h3>Parents</h3>
+    <a href="https://rickbrew13.github.io/american-bloodline/william-peter-palmer/">William Peter Palmer</a><br>
+    <a href="https://rickbrew13.github.io/american-bloodline/mary-jane-williams/">Mary Jane Williams</a>
+  </div>
+  <div class="card"><h3>Spouses</h3>
+    <p><a href="https://rickbrew13.github.io/american-bloodline/homer-william-brewster-jr/">Homer William Brewster Jr.</a> (18 March 1939–27 September 2000). A Fentress County, Tennessee marriage record/index names Homer and Judy Mae Palmer on 18 April 1956. Family accounts describe a second ceremony and repeated marriages/divorces, but no record of the second ceremony or other marriage dates has been located. An Ohio index records one Hamilton County divorce granted to Judith on 2 May 1968. [3, 4, 8]</p>
+    <p><a href="https://rickbrew13.github.io/american-bloodline/larry-clark/">Larry Clark</a>. Family sources identify him as Judy’s later husband. A 6 September 1984 Ohio divorce index entry lists Larry Clark and a Judith M., both of Hamilton County, with the wife born in 1939; it records an eight-year marriage and one minor child. This is a strong possible match but omits her surname. The marriage date and place, the exact order of Judy’s marriages, and Larry’s full identity remain unresolved. [7]</p>
+  </div>
+  <div class="card" style="grid-column:1/-1"><h3>Children</h3>
+    <ul>
+      <li>With Homer: <a href="https://docs.google.com/document/d/1iGSOf59ADU_QapRTB4pbZaj-zqY_s91B6ELsbidLiP4/edit">Victoria “Vicki” Brewster</a> (born 1957), <a href="https://docs.google.com/document/d/1-UdTNOwi9Ml1sJUBPKQns5eKb6YV8CLwz8wyBaGeEmg/edit">Michael Eugene Brewster</a> (born 1958), <a href="https://docs.google.com/document/d/1ocWeGR2pukzYszs6hHYQwB728laVQ8zXF8x5K5ixpps/edit">Garry Anthony Brewster</a> (born 24 December 1959), and <a href="https://docs.google.com/document/d/17m4JMus1KU74xg3cxfgcFakooLdWynHNtiC5MHf6MbM/edit">Ronald “Ron” Brewster</a> (born 1962). These birth years and relationships come from the family couple profile. [8]</li>
+      <li><a href="https://docs.google.com/document/d/10QrztSKcOJp7gl4JwYwjgfJNnBhkXsaBGHBXHM9-e9U/edit">Barry T. Clark</a> (25 August 1969–24 July 2008). The shared headstone identifies him as Judy’s son. Family accounts associate him with Judy’s later relationship with Larry Clark, but the records reviewed do not establish Barry’s father. Barry died after Judy, not before her. [6, 7]</li>
+    </ul>
+  </div>
+</div>
+<div class="card" style="margin-top:12px"><h3>Siblings</h3>
+  <ul>
+    <li><a href="https://rickbrew13.github.io/american-bloodline/mary-ann-palmer/">Mary Ann Palmer</a></li>
+    <li><a href="https://rickbrew13.github.io/american-bloodline/penelope-jane-spiess/">Penelope Jane “Penny” Spiess</a></li>
+  </ul>
+  <p>The Palmer grandparents’ obituaries name Judy, Mary Ann, and Penny among their grandchildren; family profiles identify the women as sisters. [8]</p>
+</div>
+
+<h2>On Family Tree Sites</h2>
+<div class="trees">
+  <a class="tree" href="https://www.familysearch.org/en/tree/person/GRK1-6KF"><b>FamilySearch</b><span>GRK1-6KF</span></a>
+  <a class="tree" href="https://www.geni.com/people/Judith-Palmer/6000000150638240821"><b>Geni</b><span>6000000150638240821</span></a>
+  <a class="tree" href="https://www.ancestry.com/family-tree/person/tree/212654536/person/162808571965/facts"><b>Ancestry</b><span>Tree 212654536 · person 162808571965</span></a>
+  <a class="tree" href="https://www.wikitree.com/wiki/Palmer-24818"><b>WikiTree</b><span>Palmer-24818</span></a>
+  <a class="tree" href="https://www.myheritage.com/profile-OYYV62MYASJM7L5PMZYP2455MQ4V3VY-1000169/judith-mae-palmer"><b>MyHeritage</b><span>1000169</span></a>
+  <a class="tree" href="https://www.werelate.org/wiki/Person:Judith_Palmer_%2814%29"><b>WeRelate</b><span>Judith Palmer (14)</span></a>
+  <a class="tree" href="https://www.findagrave.com/memorial/228001578/judith-m-palmer"><b>Find a Grave</b><span>Memorial 228001578</span></a>
+  <a class="tree" href="https://www.genesreunited.co.uk/relatives/profile/overview/723156176"><b>Genes Reunited</b><span>723156176</span></a>
+  <a class="tree" href="https://www.findmypast.com/tree/fmp-33238226-2127546745/tree/fmp-33238226-2127546886/profile"><b>Findmypast</b><span>Profile 2127546886</span></a>
+</div>
+
+<h2>Couple / Family Folder</h2>
+<div class="trees">
+  <a class="tree" href="https://drive.google.com/drive/folders/1R01fMyGde3LQjEgSiQT3kFH-bjCTKcgn?usp=sharing"><b>Open the family folder</b><span>Homer William Brewster Jr. × Judith Mae Palmer · photos, documents and research notes</span></a>
+</div>
+
+<h2>Life Timeline</h2>
+<div class="tl">
+  <p><span class="y">1939</span> · age 0<br>Born 9 February in Cincinnati, Hamilton County, Ohio. The Social Security records and shared headstone give the date; the 1940 census index places her in her parents’ Cincinnati household. [1, 2, 5]</p>
+  <p><span class="y">18 April 1956</span> · age 17<br>Married Homer William Brewster Jr. in Fentress County, Tennessee, according to the county marriage record/index. The application appears to give both ages as 18, which conflicts with their working birth dates; the image fields have not been fully reviewed. [3]</p>
+  <p><span class="y">1957–1962</span> · ages 18–23<br>Four children were born to Judy and Homer, according to the family couple profile. [8]</p>
+  <p><span class="y">2 May 1968</span> · age 29<br>An Ohio divorce index records a Hamilton County divorce granted to Judith from Homer after twelve years of marriage, with four minor children. Family accounts describe additional marriages/divorces, but the other events have not been located in records. [4, 8]</p>
+  <p><span class="y">25 August 1969</span> · age 30<br>Barry T. Clark, identified as Judy’s son on their shared headstone, was born. The headstone does not identify his father. [6]</p>
+  <p><span class="y">6 September 1984</span> · age 45<br>An Ohio divorce index lists Larry Clark and a Judith M., both of Hamilton County, with the wife born in 1939; it records an eight-year marriage and one minor child. It may refer to Judy, but does not state her surname, so the identification remains unresolved. [7]</p>
+  <p><span class="y">7 June 2006</span> · age 67<br>Died as Judith M. Clark, according to the Social Security Death Index; her shared headstone gives the same date. Her place of death has not been established. [2, 5]</p>
+  <p><span class="y">24 July 2008</span><br>Barry died two years after Judy, according to his shared headstone and Social Security death index. This corrects the family recollection that he died before her. [6]</p>
+</div>
+
+<h2>Life Story</h2>
+<p>Judith Mae “Judy” Palmer was born in Cincinnati on 9 February 1939. Social Security records and the inscription on her shared headstone give that date. The 1940 census index places one-year-old Judith in the Cincinnati household of William P. Palmer and Mary J. Palmer; the census image was not transcribed in the reviewed notes. The 1956 Tennessee marriage record names William Palmer and Mary Jane Williams as the bride’s parents. Together with the Social Security Applications and Claims Index, those records support her parents’ identification as William Peter Palmer and Mary Jane Williams. [1, 2, 3, 5]</p>
+<p>Judy and Homer William Brewster Jr. married in Fentress County, Tennessee, on 18 April 1956. The marriage record/index gives their ages as 18, but their working birth dates would make them 17. Their daughter Vicki later recalled that they eloped, that Homer had said he was 18, and that a man was paid to pose as Judy’s father so they could marry. Vicki also recalled a second ceremony after they returned home. That second ceremony has not been found in records. [3, 8, 9]</p>
+<p>The family couple profile names four children with Homer: Vicki, Michael, Garry, and Ron. An Ohio index records one divorce granted to Judy in Hamilton County on 2 May 1968. Family accounts describe Judy and Homer marrying and divorcing more than once. Susan Moore, who married into the family, also recalled that Homer was abusive; this is preserved as her family testimony, not as a statement independently verified by a court or other record. [4, 8]</p>
+<p>Family members remember Judy’s home in Hartwell, Cincinnati, as a gathering place for her children, grandchildren, and cousins. Rick’s memories include the backyard pool, a pet raccoon, and Judy insisting that the children use car seats. Amanda identified a family photograph as showing herself, her father Ron, Judy, and Judy’s companion Ralph. Family sources also describe a later relationship or marriage between Judy and Larry Clark. A 1984 Ohio divorce-index entry for Larry Clark and a Judith M. born in 1939 is a plausible match, but the index omits the wife’s surname. The exact marriage date and place, and Larry’s identity beyond the name, are not yet established. [7, 8]</p>
+<p>Judy’s shared headstone identifies Barry T. Clark as her son and gives his dates as 25 August 1969–24 July 2008. Family accounts associate Barry with Judy’s later relationship with Larry, but the records reviewed here do not establish Barry’s father. The stone corrects the family recollection that Barry died before Judy: Barry died two years after her. A family memory also says Barry had HIV/AIDS; no independent medical record in the reviewed material confirms it. [6, 7, 8]</p>
+<p>The Social Security Death Index records Judy as Judith M. Clark and gives her death date as 7 June 2006. It lists Rockaway Beach, Taney County, Missouri, as her last residence, not her death place. A shared headstone and cemetery indexes identify Spring Grove Cemetery in Cincinnati, although the cemetery’s online lookup did not return a record during the searches documented so far. The cemetery interment record and a death notice or certificate remain useful next sources. [2, 5, 10]</p>
+
+<h2>Photographs &amp; Family Gallery</h2>
+<div class="gal">
+  <figure><img src="img/s_bp2.jpg" alt="Portrait of Judith Mae ‘Judy’ Palmer as a young woman" loading="lazy"><figcaption>Judy as a young woman. The family archive does not give a date, place, or photographer for this portrait.</figcaption></figure>
+  <figure><img src="img/s_judy_redhair.jpg" alt="Judith Mae Palmer in a family photograph" loading="lazy"><figcaption>Judy in a family photograph. The date, place, occasion, and photographer are not recorded in the current archive.</figcaption></figure>
+  <figure><img src="img/s_judy_kids.jpg" alt="Family photograph captioned with Vicki, Ron, Mike, Barry, and Garry" loading="lazy"><figcaption>Family photograph captioned with Vicki, Ron, Mike, Barry, and Garry. The date, occasion, and photographer are not recorded in the current archive.</figcaption></figure>
+  <figure><img src="img/s_vicki.jpg" alt="Victoria ‘Vicki’ Brewster, Judy’s daughter" loading="lazy"><figcaption>Vicki, Judy’s daughter. The date, place, and photographer are not recorded in the current archive.</figcaption></figure>
+  <figure><img src="img/s_ron_uniform.jpg" alt="Ron Brewster in uniform" loading="lazy"><figcaption>Ron Brewster in uniform. The family archive does not identify the service branch or provide a date or photographer.</figcaption></figure>
+  <figure><img src="img/s_ron_camo.jpg" alt="Ron Brewster in camouflage fatigues, walking through a doorway" loading="lazy"><figcaption>Ron in camouflage fatigues, walking through a doorway. Family photo shared by Amanda in October 2026.</figcaption></figure>
+  <figure><img src="img/s_amanda_ron_judy_ralph.jpg" alt="Amanda, Ron, Judy, and Ralph in a family photograph" loading="lazy"><figcaption>Amanda identified the people pictured as herself, her father Ron, Judy, and Judy’s companion Ralph. Date and place are not recorded in the current archive.</figcaption></figure>
+  <figure><img src="img/judith-palmer-barry-clark-headstone.jpg" alt="Shared headstone identifying Judith M. Palmer as Barry T. Clark’s mother" loading="lazy"><figcaption>Shared headstone of Judith M. Palmer and her son Barry T. Clark, Spring Grove Cemetery, Cincinnati. The inscription gives Judy’s dates as 9 February 1939–7 June 2006 and Barry’s as 25 August 1969–24 July 2008. Photo by Jil, via <a href="https://www.findagrave.com/memorial/228001578/judith-m-palmer">Find a Grave memorial 228001578</a>.</figcaption></figure>
+</div>
+
+<h2>Sources &amp; Records</h2>
+<ol>
+  <li>1940 U.S. census index, Cincinnati, Ohio: Judith, age 1, in the household of William P. and Mary J. Palmer. The image was not transcribed in the reviewed archive. Social Security Applications and Claims Index entries, as cited on Judy’s FamilySearch/Geni profiles, give 9 February 1939 and parents William P. Palmer and Mary J. Williams. See <a href="https://www.familysearch.org/en/tree/person/GRK1-6KF">FamilySearch profile GRK1-6KF</a>; consult the original census and application records for full details.</li>
+  <li>Social Security Death Index / Death Master File and Social Security Numident indexes for Judith M. Clark: born 9 February 1939, died 7 June 2006, last residence Rockaway Beach, Taney County, Missouri; Numident names Judith Mae Brewster and Judith M. Clark. <a href="https://socialsecuritydeathindexsearch.com/record/clark-judith-36967922">SSDI entry</a>; <a href="https://www.familysearch.org/ark:/61903/1:1:VMQ4-5J4">FamilySearch death index</a>; <a href="https://www.familysearch.org/ark:/61903/1:1:6K3M-469Z">FamilySearch Numident index</a>.</li>
+  <li>Tennessee County Marriages, 1790–1959, Fentress County: Homer William Brewster and Judy Mae Palmer, married 18 April 1956; the index names William Palmer and Mary Jane Williams as the bride’s parents. <a href="https://www.familysearch.org/ark:/61903/1:1:QKHW-WRNH">FamilySearch marriage record</a>. The application image is <a href="https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BW-N721-P?view=index&amp;personArk=%2Fark%3A%2F61903%2F1%3A1%3AQKHW-WRNH&amp;cc=1619127&amp;lang=en">FamilySearch image 272 of 634, page 416</a>; the age fields appear to read 18, but the image and officiant’s return have not been fully examined.</li>
+  <li>Ohio divorce index, Hamilton County, 2 May 1968: records a divorce granted to Judith from Homer after twelve years of marriage and four minor children, as summarized in <a href="https://rickbrew13.github.io/american-bloodline/homer-william-brewster-jr/">Homer William Brewster Jr.’s profile</a>. The source consulted is an index, not the full court file.</li>
+  <li>Judith M. Palmer’s shared headstone at Spring Grove Cemetery: gives her dates as 9 February 1939–7 June 2006. <a href="https://www.findagrave.com/memorial/228001578/judith-m-palmer">Find a Grave memorial 228001578</a>; the image is credited to Jil.</li>
+  <li>Barry T. Clark’s shared headstone and Social Security death-index entry: the stone calls him Judith’s son and gives 25 August 1969–24 July 2008; the death-index entry agrees on his dates and lists Ohio issuance and Cincinnati last residence. <a href="https://www.findagrave.com/memorial/228001842/barry-t-clark">Find a Grave memorial 228001842</a>; <a href="https://socialsecuritydeathindexsearch.com/record/clark-barry-39977042">SSDI entry</a>. Neither source identifies his father.</li>
+  <li>Ohio Department of Health divorce-index entry, Hamilton County, 6 September 1984, certificate 035410, volume 05370: lists Larry Clark, born 1940, and a Judith M., born 1939, both of Hamilton County; the wife’s surname is omitted. This may be Judy and Larry but is not conclusive by itself. <a href="http://hacourts.henschen.com/VitStats">Ohio Marriage/Divorce Search index</a>.</li>
+  <li>Family sources: the Homer William Brewster Jr. × Judith Mae Palmer couple profile, Vicki’s 7 October 2026 voice-message account of the elopement, Susan Moore’s family account of the Homer/Judy relationship, and family identification of photographs. These are preserved in the <a href="https://drive.google.com/drive/folders/1R01fMyGde3LQjEgSiQT3kFH-bjCTKcgn?usp=sharing">Homer × Judy family folder</a>.</li>
+  <li>Marriage to Larry Clark: a BillionGraves entry cited on Judy’s Geni profile names Larry as spouse; a Cincinnati city-directory listing is reported as “Larry Clark &amp; Judith Palmer” / “Judy M Clark.” The images have not been read in the reviewed archive. This supports the family’s identification but does not supply a verified marriage date or Larry’s full identity. Research summary is in the <a href="https://rickbrew13.github.io/american-bloodline/larry-clark/">Larry Clark profile</a>.</li>
+  <li>Burial: Find a Grave, <a href="https://www.findagrave.com/memorial/228001578/judith-m-palmer">Judith M. Palmer, memorial 228001578</a>, and BillionGraves entries identify Spring Grove Cemetery. Spring Grove’s <a href="https://www.springgrove.org/locate-a-loved-one">online burial lookup</a> returned no matching record in the search noted 19 November 2026; the cemetery’s interment card has not been obtained.</li>
+  <li>SortedByName, “Judith M Clark,” a compiled derivative entry cross-referencing Judith Mae Brewster, Judith Mae Clark, and Judy Mae Palmer; it reports the same dates, parents, and last residence and cites Social Security datasets. <a href="https://sortedbyname.com/letter_c/clark/judithm_clark.html">Compiled index</a>. It is not an original application or independent proof.</li>
+</ol>
+
+<h2>Research Notes and Open Questions</h2>
+<ul>
+  <li>Death place remains unknown. The Social Security last-residence entry is Rockaway Beach, Taney County, Missouri; it does not establish where Judy died. A Missouri death certificate, June 2006 Cincinnati/Branson death notice, or funeral-home file could resolve this.</li>
+  <li>The 1940 census image has not been transcribed in the reviewed archive, and the 1950 census household was not located in the previous FamilySearch-index search. Original Social Security application records should be inspected directly to document Judy’s birth and parents.</li>
+  <li>Marriage-age conflict: Judy and Homer’s working birth dates make them 17 on 18 April 1956, while the marriage application appears to give both ages as 18. The image close-up and officiant’s return/signatures need a full review. Vicki’s account of a second ceremony remains uncorroborated by a located record.</li>
+  <li>Repeated marriages/divorces to Homer are recalled by family members. One Hamilton County divorce index entry, 2 May 1968, has been identified; other dates and the reported second wedding remain unlocated.</li>
+  <li>Larry Clark’s full identity, Judy’s marriage date/place to him, and when that relationship ended remain unresolved. The 1984 Ohio index lists a Larry Clark and Judith M. born in 1939, but does not give her surname. The 1963–1982 Hamilton County index search was incomplete/unclear in the archived notes; do not treat it as a definitive negative. Other Ohio and Kentucky jurisdictions remain to be checked.</li>
+  <li>Barry’s headstone identifies him as Judy’s son and establishes that he died in 2008, after Judy’s 2006 death. Family sources associate Barry with Judy’s later Clark relationship, but the records reviewed do not identify his father. His 1969 Ohio birth record or Social Security application could answer that question.</li>
+  <li>Burial at Spring Grove is supported by the shared marker and cemetery indexes, but the cemetery’s own online lookup did not return an entry. Request the interment card from Spring Grove to confirm placement and obtain any additional details.</li>
+  <li>A different “Ronald H. / Judith M. Palmer, 1939” companion marker appears in a photo attached to Judy’s Find a Grave memorial. It is not used as Judy’s grave; it may belong to a different same-name couple. Judy’s shared marker with Barry is the one used here.</li>
+  <li>The 19 November 2026 public tree/search/photo review found no new obituary, original vital record, independent photo, or book passage that resolves these questions. The WeRelate and WikiTree entries repeat information already in the project and were not counted as independent evidence.</li>
+</ul>
+
+<h2>DNA</h2>
+<p>No DNA matches linked to Judy yet.</p>
+
+<div class="note">
+  <h2 style="margin-top:6px">Family Notes</h2>
+  <p>Have a story, photo, correction, or record? <a href="https://docs.google.com/document/d/14Kmh0TK8GkohPez6GV_drcha4MCUzRT4Iswm0kFUQ24/edit"><b>Leave a note in Judy’s Family Notes document</b></a>. Notes are reviewed before this profile is updated.</p>
+</div>
+
+<p class="foot">Profile history: Created 2 November 2026 from the family couple profile and research notes. Draft prepared 22 November 2026 for review: reorganized to the supplied template, consolidated spouse information, clarified sources and unresolved relationships, and corrected Barry’s death chronology. Not yet published.</p>
+</div>
+
+<div id="edit-or-add" style="margin:28px auto 18px;max-width:760px;padding:14px 18px;border:1px solid #c9b48a;border-radius:8px;background:#faf6ee;text-align:center;font-family:inherit">
+  <a href="https://docs.google.com/document/d/1KWbjBEFbbuiaPvpumoy1DUWloQ60RFXVFvI7ri-AHrQ/edit" style="font-size:1.1em;font-weight:bold">Edit or add to profile</a>
+  <div style="font-size:.9em;margin-top:6px">Type your fixes, stories, or records in this document. The profile manager will review updates before publishing.</div>
+</div>
+</body>
+</html>
