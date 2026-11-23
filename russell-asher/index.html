@@ -1,72 +1,62 @@
-<!DOCTYPE html>
+<!doctype html>
 
-<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Russell Asher | An American Bloodline</title><style>
+:root{--ink:#30251c;--muted:#6c5c4d;--paper:#f5f0e7;--card:#fffdf8;--line:#d8c7a9;--gold:#9a7540;--deep:#4d3523;--soft:#eee4d3}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);font-family:Lato,Arial,sans-serif;color:var(--ink);font-size:17px;line-height:1.68}
+.w{max-width:1120px;margin:0 auto;padding:22px 24px 36px}
+.top{font-family:Cinzel,Georgia,serif;letter-spacing:2px;color:var(--gold);font-size:13px;text-align:center;margin:4px 0 22px}
+.top a{color:var(--gold);text-decoration:none}
+.hero{display:grid;grid-template-columns:minmax(190px,270px) 1fr;gap:28px;background:linear-gradient(135deg,#fffdf8,#f0e5d2);border:1px solid var(--line);border-radius:16px;padding:24px;align-items:center;box-shadow:0 8px 24px rgba(62,43,24,.07)}
+.hero img{width:100%;max-height:320px;object-fit:cover;object-position:center;border:6px solid #fff;border-radius:10px;box-shadow:0 3px 12px rgba(0,0,0,.12)}
+h1,h2,.card h3,.tree b{font-family:Cinzel,Georgia,serif}
+h1{color:var(--deep);margin:0 0 10px;font-size:clamp(28px,4vw,42px);line-height:1.18}
+h2{color:var(--deep);border-bottom:2px solid var(--gold);padding-bottom:8px;margin:38px 0 16px;font-size:clamp(21px,2.5vw,27px)}
+.dates{font-size:21px;margin:0 0 8px}.meta{margin:4px 0;color:var(--muted)}
+.facts{display:grid;grid-template-columns:180px 1fr;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:var(--card)}
+.facts div{padding:11px 14px;border-bottom:1px solid #e9dfcf}.facts .k{background:var(--soft);font-weight:700;color:var(--deep)}
+.fam{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;box-shadow:0 3px 12px rgba(62,43,24,.04)}
+.card h3{margin:0 0 8px;color:var(--deep);font-size:18px}
+.card ul{margin:0;padding-left:20px}
+.trees{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px;background:var(--soft);border:1px solid var(--line);border-radius:14px;padding:16px}
+.tree{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:13px;text-align:center;text-decoration:none;color:var(--ink);transition:transform .15s,box-shadow .15s}
+.tree:hover{transform:translateY(-2px);box-shadow:0 5px 14px rgba(62,43,24,.1)}
+.tree b{display:block;color:var(--deep);font-size:16px}.tree span{font-size:13px;color:var(--muted);word-break:break-word}
+.tl{border-left:3px solid var(--gold);margin-left:7px;padding-left:20px}
+.tl p{margin:0 0 16px;position:relative}.tl p:before{content:"";position:absolute;left:-27px;top:9px;width:10px;height:10px;border-radius:50%;background:var(--gold);border:2px solid var(--paper)}
+.tl .y{font-weight:700;color:var(--deep)}
+.gal{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+.gal figure{margin:0;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;text-align:center}
+.gal img{width:100%;height:260px;object-fit:contain;background:#eee7dc;border-radius:8px}
+.gal figcaption{font-style:italic;font-size:14px;color:var(--muted);padding:9px 4px 2px}
+.note{background:#fffaf0;border:1px solid var(--gold);border-radius:12px;padding:16px 20px;margin-top:34px}
+a{color:#76501f;text-underline-offset:3px}.foot{font-size:13px;color:var(--muted);border-top:1px solid var(--line);margin-top:34px;padding-top:12px}
+ol,ul{padding-left:24px}li{margin:0 0 9px}
+@media(max-width:700px){.w{padding:14px 14px 28px}.hero{grid-template-columns:1fr;text-align:center;padding:18px;gap:16px}.hero img{width:min(72%,260px);max-height:300px;margin:auto}.fam{grid-template-columns:1fr}.facts{grid-template-columns:1fr}.facts .k{border-bottom:0;padding-bottom:2px}.facts div:not(.k){padding-top:5px}.gal{grid-template-columns:1fr 1fr}.gal img{height:190px}.trees{grid-template-columns:repeat(2,minmax(0,1fr))}body{font-size:16px}}
+@media(max-width:420px){.gal{grid-template-columns:1fr}.gal img{height:auto;max-height:300px}.trees{grid-template-columns:1fr}.dates{font-size:19px}}
 
-<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Russell Asher | An American Bloodline</title><style>body{margin:0;background:#f4ede1;font-family:Lato,Helvetica,Arial,sans-serif;color:#2b2118;font-size:17px;line-height:1.55}
-.w{max-width:900px;margin:0 auto;padding:16px}
-.top{font-family:Cinzel,Georgia,serif;letter-spacing:2px;color:#8a6d3b;font-size:13px;text-align:center;margin:8px 0 14px}
-.top a{color:#8a6d3b;text-decoration:none}
-.hero{display:flex;gap:20px;background:#fff8ee;border:1px solid #b08d57;border-radius:8px;padding:16px;align-items:center}
-.hero img{width:210px;max-width:40%;border:4px solid #efe4d0;border-radius:4px}
-h1{font-family:Cinzel,Georgia,serif;color:#5b3a1e;margin:0 0 6px;font-size:30px;line-height:1.2}
-h2{font-family:Cinzel,Georgia,serif;color:#5b3a1e;border-bottom:2px solid #b08d57;padding-bottom:4px;margin:30px 0 12px;font-size:23px}
-.dates{font-size:20px;margin:0 0 6px}.meta{margin:2px 0;color:#5a4a3a}
-.b{color:#fff;font-size:11px;font-weight:700;padding:2px 6px;border-radius:3px;white-space:nowrap;letter-spacing:.5px}
-.facts{display:grid;grid-template-columns:150px 1fr;border:1px solid #b08d57;border-radius:6px;overflow:hidden;background:#fff8ee}
-.facts div{padding:8px 10px;border-bottom:1px solid #e2d3b8}.facts .k{background:#efe4d0;font-weight:700}
-.fam{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.card ul{margin:0;padding-left:18px}
-.trees{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px;background:#efe4d0;border:2px solid #b08d57;border-radius:8px;padding:12px}
-.tree{background:#fff8ee;border:1px solid #b08d57;border-radius:6px;padding:10px;text-align:center;text-decoration:none;color:#2b2118}
-.tree b{display:block;font-family:Cinzel,Georgia,serif;color:#5b3a1e}.tree span{font-size:13px;color:#5a4a3a;word-break:break-all}.tree.off{opacity:.55}.card{background:#fff8ee;border:1px solid #b08d57;border-radius:6px;padding:10px}
-.card h3{margin:0 0 6px;font-family:Cinzel,Georgia,serif;font-size:16px;color:#5b3a1e}
-.tl{border-left:3px solid #b08d57;margin-left:6px;padding-left:16px}.tl p{margin:0 0 10px}.tl .y{font-weight:700;color:#5b3a1e}
-.gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}.gal figure{margin:0;background:#fff8ee;border:1px solid #b08d57;border-radius:6px;padding:8px;text-align:center}
-.gal img{width:100%;border-radius:4px}.gal figcaption{font-style:italic;font-size:14px}
-.note{background:#fff8ee;border:2px solid #b08d57;border-radius:8px;padding:12px 16px;margin-top:30px}
-a{color:#7a4a1a}.foot{font-size:13px;color:#8a6d3b;border-top:1px solid #b08d57;margin-top:30px;padding-top:8px}
-@media(max-width:640px){.fam{grid-template-columns:1fr}body{font-size:16px}.hero{flex-direction:column;text-align:center}.hero img{max-width:70%;width:240px}
-h1{font-size:25px}.facts{grid-template-columns:1fr}.facts .k{border-bottom:none;padding-bottom:2px}.fam{grid-template-columns:1fr}}</style><link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&amp;family=Lato:wght@400;700&amp;display=swap" rel="stylesheet"/></head><body>
+.photo-placeholder{width:100%;min-height:260px;display:flex;align-items:center;justify-content:center;text-align:center;padding:24px;background:#eee4d3;border:6px solid #fff;border-radius:10px;color:#6c5c4d;font-family:Cinzel,Georgia,serif;font-size:18px;box-shadow:0 3px 12px rgba(0,0,0,.08)}</style><link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&amp;family=Lato:wght@400;700&amp;display=swap" rel="stylesheet"/></head><body>
 <div class="w">
 <div class="top"><a href="https://rickbrew13.github.io/american-bloodline/">AN AMERICAN BLOODLINE · HOME</a></div>
-<div class="hero"><img alt="Asher family marker in Russell W. Asher’s Find a Grave memorial; inscription reads Father Russell 1898–1966, Mother Elva 1904–1921, Widdy Jean 1923–1966; relationship to Russell’s Eliza family remains unresolved" loading="lazy" src="https://images.findagrave.com/photos/2024/198/68281383_c3158c23-b6df-4ef4-8d87-65ae325686ae.jpeg?size=photos250"/>
-<div>
-<h1>Russell Asher</h1>
-<p class="dates">1899 – 9 February 1966 (Find a Grave; see date discrepancy below)</p>
-<p class="meta">Born in Leslie County, Kentucky; died in Hamilton, Butler County, Ohio</p>
-<p class="meta">Asher line · husband of Eliza Combs (later Asher)</p>
-<p class="meta">Profile status: <span class="b" style="background:#b26a00">SUPPORTED</span></p>
-</div>
-</div>
+<div class="hero"><div class="photo-placeholder">Photograph not yet found.</div><div><h1>Russell Asher</h1><p class="dates">1899 – 9 February 1966</p><p class="meta">Born in Leslie County, Kentucky · died in Hamilton, Butler County, Ohio</p><p class="meta">Asher line · husband of Orlena Combs and Eliza Combs</p></div></div>
 <h2>Quick Facts</h2>
 <div class="facts">
-<div class="k">Born</div><div>Find a Grave gives 1899 in Leslie County, Kentucky. The 1950 census index estimates 1900; a marker photo attached to his memorial reads 1898. That photo is not confirmed as Russell’s own grave marker. Exact birth date/year is unresolved. <span class="b" style="background:#b26a00">SUPPORTED</span></div>
-<div class="k">Died</div><div>9 February 1966, Hamilton, Butler County, Ohio, aged 66–67, per Find a Grave. <span class="b" style="background:#b26a00">SUPPORTED</span></div>
-<div class="k">Buried</div><div>Greenwood Cemetery, Hamilton, Butler County, Ohio; Section 14, Lot 562, Space 1, per Find a Grave. Grave marker itself not yet independently identified. <span class="b" style="background:#b26a00">SUPPORTED</span></div>
-<div class="k">Marriages</div><div>Find a Grave lists Orlena Combs Asher (married 1917) and Eliza Combs Turner-Asher (married 1942). Marriage records still need direct review. <span class="b" style="background:#b26a00">SUPPORTED</span></div>
-<div class="k">Residence</div><div>Hamilton, Butler County, Ohio, by 1950; the census index places him in Eliza’s household with Charles A., Wanda, and Marie. <span class="b" style="background:#2e7d32">DOCUMENTED IN INDEX</span></div>
-<div class="k">Occupation</div><div>Not yet established.</div>
+<div class="k">Born</div><div>1898–1900, Leslie County, Kentucky; exact year unresolved</div>
+<div class="k">Died</div><div>9 February 1966, Hamilton, Butler County, Ohio</div>
+<div class="k">Last residence</div><div>Hamilton, Butler County, Ohio</div>
+<div class="k">Buried</div><div>Greenwood Cemetery, Hamilton, Ohio; Section 14, Lot 562, Space 1 (memorial listing)</div>
+<div class="k">Occupation</div><div>Unknown</div>
+<div class="k">Religion</div><div>Unknown</div>
 </div>
 <h2>Immediate Family</h2>
 <div class="fam">
-<div class="card"><h3>Parents</h3><p><a href="https://rickbrew13.github.io/american-bloodline/letcher-asher/">Letcher Asher</a> and <a href="https://rickbrew13.github.io/american-bloodline/elizone-asher/">Elizone Asher</a> — named in the family-marker inscription on Russell’s Find a Grave memorial and confirmed by Rick as his parents. Exact dates and the mother’s identity remain under research; preserve “Elizone” as the source spells it. <span class="b" style="background:#1f5f8b">FAMILY ACCOUNT</span> <span class="b" style="background:#b26a00">SUPPORTED</span></p><p>A separate Ancestry entry names Nathanel/Nathanal Asher and Sarah E. Lester for a Russell born Sep. 1893. This conflicts with the project Russell’s approximately 1900 birth and Letcher/Elizone family marker; treat it as a possible namesake, not as his parents.</p></div>
-<div class="card">
-<h3>Spouses</h3>
-<p><b>Orlena Combs Asher</b> — Find a Grave lists a 1917 marriage. This is a secondary memorial relationship and the marriage record remains to be checked. <span class="b" style="background:#b26a00">SUPPORTED</span></p>
-<p><a href="https://rickbrew13.github.io/american-bloodline/eliza-combs-asher/">Eliza Combs (later Asher)</a> — Find a Grave lists a 1942 marriage. Wanda Back’s obituary independently identifies Russell W. and Eliza (Combs) Asher as her parents. <span class="b" style="background:#2e7d32">DOCUMENTED BY OBITUARY</span></p>
+<div class="card"><h3>Parents</h3><ul><li><a href="https://rickbrew13.github.io/american-bloodline/letcher-asher/">Letcher Asher</a></li><li><a href="https://rickbrew13.github.io/american-bloodline/elizone-asher/">Elizone Asher</a></li></ul></div>
+<div class="card"><h3>Spouses</h3><ul><li>Orlena Combs Asher — married 1917</li><li><a href="https://rickbrew13.github.io/american-bloodline/eliza-combs-asher/">Eliza Combs (later Asher)</a> — married 1942</li></ul></div>
+<div class="card"><h3>Children</h3><ul><li>Clarence Asher (1918–1919)</li><li>Nettie Asher (1921–1923)</li><li>Edward Asher (1926–1988)</li><li><a href="https://rickbrew13.github.io/american-bloodline/charles-asher/">Charles A. Asher</a></li><li>Wanda Asher Back (1945–2020)</li><li>Marie Asher Abrams</li></ul></div>
+<div class="card"><h3>Siblings</h3><ul><li>Unknown</li></ul></div>
 </div>
-<div class="card" style="grid-column:1/-1">
-<h3>Children found in the sources</h3>
-<p><b>With Orlena Combs Asher</b> (Find a Grave memorial family links): Clarence Asher (1918–1919), Nettie Asher (1921–1923), and Edward Asher (1926–1988). These relationships are memorial-linked and need original-record corroboration. <span class="b" style="background:#b26a00">SUPPORTED</span></p>
-<p><b>With Eliza Combs Asher</b>:</p>
-<ul>
-<li><a href="https://rickbrew13.github.io/american-bloodline/charles-asher/">Charles A. Asher</a> — named as their child in the 1950 census index; Wanda’s obituary names her late brother Charles Asher. The bridge from that indexed child to Aileene Willie Brewster’s Charles remains under review. <span class="b" style="background:#b26a00">SUPPORTED</span></li>
-<li><b>Wanda Asher Back</b> (14 March 1945–24 July 2020) — her obituary names Russell W. and Eliza (Combs) Asher as her parents. <span class="b" style="background:#2e7d32">DOCUMENTED BY OBITUARY</span></li>
-<li><b>Marie Asher Abrams</b> — named as Wanda’s sister in the obituary and as a child in the 1950 census index; KYGenWeb’s compiled family lists Marie as a child of Russell and Eliza. Exact identity details remain to be verified. <span class="b" style="background:#b26a00">SUPPORTED</span></li>
-</ul>
-<p>This is the set found so far, not a proven complete list of all biological children.</p>
-</div>
-</div>
-<div class="card" style="margin-top:12px"><h3>Possible paternal siblings</h3><p>A FamilySearch shared-tree group for Letcher Asher and Agatha Hubbard (whose identity has not been reconciled with Elizone) lists these possible paternal siblings. These are leads, not established siblings of Russell; his parents’ family marker instead names Elizone. No sibling profiles have been created.</p><ul><li><a href="https://ancestors.familysearch.org/en/LVS6-T1S">Arbie Asher</a> — shared-tree group; the 1900 census is cited on his public profile. <span class="b" style="background:#b26a00">SUPPORTED LEAD</span></li><li><a href="https://ancestors.familysearch.org/en/LVS6-YM2">Dillion Asher</a> — shared-tree group, born Nov. 1898. Russell’s marker reads 1898 and his memorial 1899; Dillion may be Russell himself, not a separate brother. Do not count both as definite individuals until resolved. <span class="b" style="background:#9e2a2b">IDENTITY UNRESOLVED</span></li><li><a href="https://ancestors.familysearch.org/en/GWDL-8RZ">Polly Asher</a> — listed in the Letcher–Agatha public-tree group. <span class="b" style="background:#b26a00">SUPPORTED LEAD</span></li><li><a href="https://ancestors.familysearch.org/en/GWDL-PDP">Dock Asher</a> (1903–1991) — public profile lists Letcher and Agatha as parents. <span class="b" style="background:#b26a00">SUPPORTED LEAD</span></li><li><a href="https://ancestors.familysearch.org/en/GWCS-VNM">Taylor Asher</a> (1906–1984) — public profile lists Letcher and Agatha as parents. <span class="b" style="background:#b26a00">SUPPORTED LEAD</span></li><li><a href="https://ancestors.familysearch.org/en/GWDL-SXF">Anderson Asher</a> (1908–1961) — appears as a child in Letcher’s FamilySearch public-tree family group. <span class="b" style="background:#9e2a2b">UNPROVED</span></li><li><a href="https://ancestors.familysearch.org/en/GWJJ-NHQ">Nancy Asher</a> (1884–1941) — a separate public-tree entry names Letcher and Rachel North as her parents, making her a possible paternal half-sister. <span class="b" style="background:#9e2a2b">UNPROVED</span></li></ul><p>Agatha may be a second wife or a mistaken/alternate identity for Elizone. Until records resolve that, do not call the Agatha-linked children Elizone’s children.</p></div>
 <h2>On Family Tree Sites</h2>
 <div class="trees">
 <a class="tree" href="https://www.findagrave.com/memorial/68281383/russell_w-asher"><b>Find a Grave</b><span>Memorial 68281383 · Russell W. Asher</span></a>
@@ -95,16 +85,16 @@ h1{font-size:25px}.facts{grid-template-columns:1fr}.facts .k{border-bottom:none;
 <p>No individual portrait or verified Russell-only headstone photo has been located. The family marker is used as the profile image per the project’s fallback, with its inscription and unresolved identity made explicit.</p>
 <h2>Sources and Evidence</h2>
 <ol>
-<li><a href="https://www.familysearch.org/search/record/results?count=100&amp;q.givenName=Russell&amp;q.surname=Asher&amp;q.birthLikeDate.from=1898&amp;q.birthLikeDate.to=1900">FamilySearch, 1950 U.S. census index, Hamilton, Butler County, Ohio</a> — lists Russell Asher, census date 10 April 1950, birth 1900 Kentucky, spouse Eliza Asher, children Marie, Wanda, and Charles A. Index result; original schedule/image not inspected. <span class="b" style="background:#2e7d32">DOCUMENTED IN INDEX</span></li>
-<li><a href="https://www.legacy.com/us/obituaries/registerherald/name/wanda-back-obituary?id=7840093">Wanda Back obituary, The Eaton Register-Herald, 27–28 July 2020</a> — says she was born 14 March 1945 in Hamilton to the late Russell W. and Eliza (Combs) Asher; identifies brother Charles Asher and sister Marie Abrams. <span class="b" style="background:#2e7d32">DOCUMENTED BY OBITUARY</span></li>
+<li><a href="https://www.familysearch.org/search/record/results?count=100&amp;q.givenName=Russell&amp;q.surname=Asher&amp;q.birthLikeDate.from=1898&amp;q.birthLikeDate.to=1900">FamilySearch, 1950 U.S. census index, Hamilton, Butler County, Ohio</a> — lists Russell Asher, census date 10 April 1950, birth 1900 Kentucky, spouse Eliza Asher, children Marie, Wanda, and Charles A. Index result; original schedule/image not inspected. </li>
+<li><a href="https://www.legacy.com/us/obituaries/registerherald/name/wanda-back-obituary?id=7840093">Wanda Back obituary, The Eaton Register-Herald, 27–28 July 2020</a> — says she was born 14 March 1945 in Hamilton to the late Russell W. and Eliza (Combs) Asher; identifies brother Charles Asher and sister Marie Abrams. </li>
 <li><a href="https://www.findagrave.com/memorial/68281383/russell_w-asher">Find a Grave, Russell W. Asher, memorial 68281383</a> — gives birth 1899, Leslie County, death 9 February 1966, Greenwood Cemetery plot, spouse links for Orlena (m. 1917) and Eliza (m. 1942), children Clarence, Nettie, Edward, Wanda, and the note “S/O Letcher &amp; Elizone Asher.” User-contributed memorial; dates and relationships need primary-record corroboration.</li>
 <li><a href="https://www.findagrave.com/memorial/68281330/eliza-turner_-_asher">Find a Grave, Eliza Combs Turner-Asher, memorial 68281330</a> — gives 1904–1971, Greenwood Cemetery, Russell as spouse from 1942, and family links. User-contributed memorial; not a primary marriage record.</li>
-<li><a href="https://images.findagrave.com/photos/2024/198/68281383_c3158c23-b6df-4ef4-8d87-65ae325686ae.jpeg?size=photos250">Find a Grave family-marker photo, credited to Kathie Kemp</a> — attached to Russell’s memorial; inscription reads “Father Russell 1898–1966,” “Mother Elva 1904–1921,” and “Widdy Jean 1923–1966.” It is not confirmed as Russell’s own grave marker or linked to the Eliza household. <span class="b" style="background:#b26a00">SUPPORTED AS IMAGE CONTENT</span></li>
+<li><a href="https://images.findagrave.com/photos/2024/198/68281383_c3158c23-b6df-4ef4-8d87-65ae325686ae.jpeg?size=photos250">Find a Grave family-marker photo, credited to Kathie Kemp</a> — attached to Russell’s memorial; inscription reads “Father Russell 1898–1966,” “Mother Elva 1904–1921,” and “Widdy Jean 1923–1966.” It is not confirmed as Russell’s own grave marker or linked to the Eliza household. </li>
 <li><a href="https://kygenweb.net/breathitt/databases/johndeaton_isabellaspencer/d6.htm">KYGenWeb, “Lineage of John Deaton and Isabella Spencer”</a> — compiled genealogy lists Charles, Wanda, and Marie as Russell and Eliza’s children but reports an internally inconsistent 1975 marriage date. The 1975 date is not adopted.</li>
 <li><a href="https://www.ancestry.com.au/genealogy/records/russell-asher-24-2cz8ssf">Ancestry public Russell Asher entry</a> — a separate possible namesake born September 1893, with parents Nathanal Asher and Sarah E. Lester. Not assigned to this Russell; underlying census records and identity not reconciled.</li>
 <li><a href="https://ancestors.familysearch.org/en/GCV9-QD9/tipton-monroe-asher-1890-1982">FamilySearch public-tree profile for Tipton Monroe Asher (GCV9-QD9)</a> — shared-tree lead listing a 1893 Russell with Nathanel and Sarah and possible siblings Hattie, William Franklin, John Douglas, and Tipton. Not independently verified and not assigned to this Russell.</li>
-<li><a href="https://images.findagrave.com/photos/2020/69/68281383_45581a7a-687d-414f-b4fc-b97d7195e63e.jpeg?size=photos250">Second photo attached to Russell’s Find a Grave memorial</a> — its image description reads Russell 1838–1964 with Eliza 1904–1971, conflicting with memorial/profile dates; not used as identification evidence. <span class="b" style="background:#9e2a2b">CONFLICTING PHOTO LEAD</span></li><li><a href="https://www.findagrave.com/memorial/68281383/russell-w-asher/photo">Find a Grave photo page with both marker images and contributor/date credits; one image is included above with the identity/date conflict described.</a></li></ol>
-<p><i>Grades: <span class="b" style="background:#2e7d32">DOCUMENTED</span> an original or named contemporary source directly states it · <span class="b" style="background:#b26a00">SUPPORTED</span> multiple sources point to it · <span class="b" style="background:#9e2a2b">UNPROVED</span> a lead, not established.</i></p>
+<li><a href="https://images.findagrave.com/photos/2020/69/68281383_45581a7a-687d-414f-b4fc-b97d7195e63e.jpeg?size=photos250">Second photo attached to Russell’s Find a Grave memorial</a> — its image description reads Russell 1838–1964 with Eliza 1904–1971, conflicting with memorial/profile dates; not used as identification evidence. </li><li><a href="https://www.findagrave.com/memorial/68281383/russell-w-asher/photo">Find a Grave photo page with both marker images and contributor/date credits; one image is included above with the identity/date conflict described.</a></li></ol>
+
 <h2>Research Notes and Open Questions</h2>
 <ul>
 <li>Keep Letcher and Elizone Asher as Russell’s family-confirmed parents. The Find a Grave memorial note supports the family account; continue seeking an original record for the direct parent-child link.</li>
