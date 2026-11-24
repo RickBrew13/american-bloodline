@@ -298,5 +298,105 @@
     "spouses": "Beverly Jane Marcum (married 21 August 1982)",
     "children": "Richard Tara Michelle Marcum (Tara Michelle Moore) Toni Dell Robert",
     "siblings": "Garry Allen Dave Anthony Joy Dianne"
+  },
+  {
+    "id": "g5-beverly-jane-marcum",
+    "generation": 5,
+    "name": "Beverly Jane Marcum",
+    "url": "https://rickbrew13.github.io/american-bloodline/beverly-jane-marcum/",
+    "parents": "Harold C. Marcum Etta F. McFadden",
+    "spouses": "Dell M. Fields (married 21 August 1982)",
+    "children": "Tara Michelle Marcum (Tara Michelle Moore)",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-richard-l-marcum",
+    "generation": 5,
+    "name": "Richard L. Marcum",
+    "url": "https://rickbrew13.github.io/american-bloodline/richard-l-marcum/",
+    "parents": "Unknown",
+    "spouses": "Connie C. Marcum",
+    "children": "Tara Michelle Marcum (Tara Michelle Moore)",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-connie-c-marcum",
+    "generation": 5,
+    "name": "Connie C. Marcum",
+    "url": "https://rickbrew13.github.io/american-bloodline/connie-c-marcum/",
+    "parents": "Unknown",
+    "spouses": "Richard L. Marcum",
+    "children": "Tara Michelle Marcum (Tara Michelle Moore)",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-fairest-richard-green",
+    "generation": 5,
+    "name": "Fairest Richard Green",
+    "url": "https://rickbrew13.github.io/american-bloodline/fairest-richard-green/",
+    "parents": "James O. Green Martha Ella (Helton) Green",
+    "spouses": "Carrie Easton (married November 1948) Shirley Ann (Taylor) Green (married 8 September 1956)",
+    "children": "Michael Green Mardi Green Michelle Green Rusty Green Mary Jo Green Eddie Green Maggie Suzanne Green",
+    "siblings": "Herman Green Shirley Green Della M. Green Bill E. Green Mary R. Green"
+  },
+  {
+    "id": "g5-shirley-ann-green",
+    "generation": 5,
+    "name": "Shirley Ann (Taylor) Green",
+    "url": "https://rickbrew13.github.io/american-bloodline/shirley-ann-green/",
+    "parents": "Wilbur Kyle Taylor Alice (Costigan) Taylor",
+    "spouses": "Fairest Richard Green (married 8 September 1956)",
+    "children": "Michael Green Mardi Green Michelle Green Rusty Green Mary Jo Green Eddie Green Maggie Suzanne Green",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-gerald-guglielmo",
+    "generation": 5,
+    "name": "Gerald Guglielmo",
+    "url": "https://rickbrew13.github.io/american-bloodline/gerald-guglielmo/",
+    "parents": "Unknown",
+    "spouses": "Frances “Fannie” (Cincinnino) Guglielmo (born about 1911)",
+    "children": "Dolores Guglielmo (1937–1990) Liboria “Libby” (Guglielmo) Lucido (born about 1937) Madeline Ann (Guglielmo) Lillard (7 October 1940 – December 1989) Theresa (Guglielmo) Wilson",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-frances-cincinnino-guglielmo",
+    "generation": 5,
+    "name": "Frances \"Fannie\" (Cincinnino) Guglielmo",
+    "url": "https://rickbrew13.github.io/american-bloodline/frances-cincinnino-guglielmo/",
+    "parents": "Unknown",
+    "spouses": "Gerald Guglielmo (married 16 February 1935)",
+    "children": "Dolores Guglielmo, later Kaylor (1937–1990) Liboria “Libby” Guglielmo, later Lucido (born about 1937) Madeline Ann (Guglielmo) Lillard (7 October 1940 – December 1989) Theresa Guglielmo, later Wilson",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-elmer-david-henry",
+    "generation": 5,
+    "name": "Elmer David Henry",
+    "url": "https://rickbrew13.github.io/american-bloodline/elmer-david-henry/",
+    "parents": "William Pollard Henry (1902–1989) Lillie Mae Carman Henry (1904–1995)",
+    "spouses": "Emma Lee (Gilreath) Henry Joy Henry",
+    "children": "James David “Jimmy” Henry (30 December 1956 – 4 June 2006) Alan Henry Sandy (Henry) Town Jeff Henry Deron Henry Steven Henry",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-emma-lee-gilreath-henry",
+    "generation": 5,
+    "name": "Emma Lee (Gilreath) Henry",
+    "url": "https://rickbrew13.github.io/american-bloodline/emma-lee-gilreath-henry/",
+    "parents": "Glenneth Gilreath Trula Mae (Foster) Gilreath",
+    "spouses": "Elmer David Henry",
+    "children": "James David “Jimmy” Henry (30 December 1956 – 4 June 2006)",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-joy-henry",
+    "generation": 5,
+    "name": "Joy Henry",
+    "url": "https://rickbrew13.github.io/american-bloodline/joy-henry/",
+    "parents": "Unknown",
+    "spouses": "Elmer David Henry",
+    "children": "James David “Jimmy” Henry (1956–2006; stepchild)",
+    "siblings": "Unknown"
   }
 ]
