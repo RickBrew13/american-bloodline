@@ -1,0 +1,3 @@
+# Fairest–Shirley shared archive reference
+
+The canonical 18 Nov 2026 shared couple photo/life audit is in Fairest’s existing archive at `fairest-richard-green/research-notes/2026-11-18-fairest-shirley-photo-life-audit.md`. Shirley’s full-resolution obituary portrait from Drive is preserved as a separate source-quality file in `shirley-ann-green/img/`; the pre-existing profile image is smaller and was not overwritten. The shared folder also has a Fairest Fold3 transcription Google Doc, and the shared profile has a Fairest Google Doc; per Rick’s standing restriction, those Docs were not opened, exported, or changed.
