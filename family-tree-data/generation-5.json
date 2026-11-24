@@ -498,5 +498,105 @@
     "spouses": "Pauline M. (Northcott) McKinney (married 1943)",
     "children": "Michael McKinney Joan Lindland Patrick McKinney",
     "siblings": "Edgar A. McKinney Edna McKinney Ruth Laverne McKinney"
+  },
+  {
+    "id": "g5-polly-mckinney",
+    "generation": 5,
+    "name": "Polly McKinney",
+    "url": "https://rickbrew13.github.io/american-bloodline/polly-mckinney/",
+    "parents": "Stanley F. Northcott Sr. Pauline (Timrick) Northcott",
+    "spouses": "Jackson Ahmeek McKinney",
+    "children": "Michael McKinney Joan McKinney (Joan Lindland) Patrick McKinney",
+    "siblings": "Eugene D. Northcott Dorothy (Northcott) Mosher Virginia (Northcott) Post Geraldine (Northcott) Huckins Patsy (Northcott) Koerber Stanley Northcott Jr. (“Bud”)"
+  },
+  {
+    "id": "g5-edgar-a-mckinney",
+    "generation": 5,
+    "name": "Edgar A. McKinney",
+    "url": "https://rickbrew13.github.io/american-bloodline/edgar-a-mckinney/",
+    "parents": "Dallas Cecil McKinney Laverne (Hurt) McKinney",
+    "spouses": "Sonia (Cain) McKinney",
+    "children": "Unknown",
+    "siblings": "Jackson Ahmeek McKinney Edna McKinney Ruth Laverne McKinney"
+  },
+  {
+    "id": "g5-sonia-mckinney",
+    "generation": 5,
+    "name": "Sonia McKinney",
+    "url": "https://rickbrew13.github.io/american-bloodline/sonia-mckinney/",
+    "parents": "Chester R. Cain Girthie F. Cain",
+    "spouses": "Edgar A. McKinney",
+    "children": "Unknown",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-edna-mckinney",
+    "generation": 5,
+    "name": "Edna McKinney",
+    "url": "https://rickbrew13.github.io/american-bloodline/edna-mckinney/",
+    "parents": "Dallas Cecil McKinney Laverne (Hurt) McKinney",
+    "spouses": "Otto Graff",
+    "children": "Raymond Otto Graff Linda Ellen Graff",
+    "siblings": "Jackson Ahmeek McKinney Edgar A. McKinney Ruth Laverne McKinney"
+  },
+  {
+    "id": "g5-otto-graff",
+    "generation": 5,
+    "name": "Otto Graff",
+    "url": "https://rickbrew13.github.io/american-bloodline/otto-graff/",
+    "parents": "Unknown",
+    "spouses": "Edna McKinney",
+    "children": "Raymond Otto Graff Linda Ellen Graff",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-james-earl-mcshane",
+    "generation": 5,
+    "name": "James Earl McShane",
+    "url": "https://rickbrew13.github.io/american-bloodline/james-earl-mcshane/",
+    "parents": "James Anthony McShane Lillian T. (Gardner) McShane",
+    "spouses": "Doris (Doughman) McShane",
+    "children": "Trish Felock (McShane) Susan Overbeck (McShane)",
+    "siblings": "Mable Ruth (McShane) Ledbetter Lamb (14 September 1915 – 22 April 2005) Dorothy Gardner (McShane) Morse (3 June 1917 – July 1998)"
+  },
+  {
+    "id": "g5-doris-doughman-mcshane",
+    "generation": 5,
+    "name": "Doris (Doughman) McShane",
+    "url": "https://rickbrew13.github.io/american-bloodline/doris-doughman-mcshane/",
+    "parents": "Virgil W. Doughman Maggie (Hill) Doughman",
+    "spouses": "James Earl McShane",
+    "children": "Trish Felock (McShane) Susan Overbeck (McShane) Peggy Jean",
+    "siblings": "Charles Virgil Doughman (1921–2001) Alice Mae (Doughman) Montgomery (about 1923 – 12 May 2015) Donald Edward Doughman (1926–2000) Dorthy Jean (Doughman) Campbell (3 May 1930 – 2 October 2015) Howard Eugene Doughman (1936–2018) Thelma Doughman (age 1 in 1940) Peggy (Doughman) Campbell"
+  },
+  {
+    "id": "g5-patrick-leroy-moore",
+    "generation": 5,
+    "name": "Patrick Leroy Moore",
+    "url": "https://rickbrew13.github.io/american-bloodline/patrick-leroy-moore/",
+    "parents": "Leroy C. Moore (born about 1898) Mila Moore (born about 1917)",
+    "spouses": "Victoria M. “Vicki” (Herman) Moore",
+    "children": "Shawn Kevin Moore Kelly Lynn Pires Christopher Moore Mike Moore",
+    "siblings": "Michael Moore (born about 1938)"
+  },
+  {
+    "id": "g5-victoria-moore",
+    "generation": 5,
+    "name": "Victoria Moore",
+    "url": "https://rickbrew13.github.io/american-bloodline/victoria-moore/",
+    "parents": "Lawrence Herman (5 September 1900 – 11 November 1943) Eleanore R. (Grzybowski) Herman Krause (24 June 1915 – 24 February 1990)",
+    "spouses": "Patrick Leroy Moore",
+    "children": "Shawn Kevin Moore Kelly Lynn Pires Christopher Moore Mike Moore",
+    "siblings": "Rose M. (“Rosemary”) Herman (born about 1935) Eleanor R. Herman (born about 1937) Janet Lucille Herman (1938–2021) Chester William Herman (born 1924)"
+  },
+  {
+    "id": "g5-leon-niles",
+    "generation": 5,
+    "name": "Leon Niles",
+    "url": "https://rickbrew13.github.io/american-bloodline/leon-niles/",
+    "parents": "Major Niles Mary Riggby Niles",
+    "spouses": "Artherine E. Crochen",
+    "children": "Ronald Coleman Niles Jessie L. Niles Altheria Niles",
+    "siblings": "Unknown"
   }
 ]
