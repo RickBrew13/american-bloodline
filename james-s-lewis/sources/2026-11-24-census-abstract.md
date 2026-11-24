@@ -1,0 +1,5 @@
+# Source abstract: James S. Lewis household, 1950 Census
+
+NARA 1950 U.S. Census, Missouri, Reynolds County, Lesterville Township, ED 90-5, sheet 26, enumerated 26 April 1950. Original image: https://1950census.archives.gov/iiif/2/1950census%2F43290879-Missouri%2F43290879-Missouri-150977%2F43290879-Missouri-150977-0027.jpg/full/full/0/default.jpg. Image read directly on 24 November 2026. Household lists James S. Lewis, 58, head; Emma L., 59, wife; a daughter Lora B., age 23 (surname appears as James); and granddaughters Sharon L. and Karen L., both age 5. Birthplaces for James and Emma are recorded Missouri. This supports the SS-5 transcription that names James S. Lewis and Emma L. Lee as Arnold F. Lewis's parents. It does not itself list Arnold in the household. Image is stored in `james-s-lewis/documents/`; Emma’s profile cites the same image rather than duplicating it.
+
+Supporting SS-5 transcription: Arnold F. Lewis, SS-5 66353334323, May 1941, transcribed at https://sortedbyname.com/letter_l/lewis/index_262.html; original application not inspected.
