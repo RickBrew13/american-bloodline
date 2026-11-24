@@ -1,0 +1,7 @@
+# Correction: Lisa Graff family testimony belongs in the profiles
+
+This note supersedes the restrictive wording in `2026-11-19-edna-otto-photo-story-audit.md` about keeping Lisa Graff's testimony off public profiles without Rick's explicit direction. Rick has directed that relevant family accounts not be left out of the profiles. Lisa's account is now included, attributed to Lisa, on the relevant profiles: Dallas Cecil McKinney, Laverne Hurt, Edna McKinney, Ruth Laverne McKinney, Jackson Ahmeek McKinney (“Jack”), and Edgar A. McKinney (“Ed”). The profiles retain her statements in her own words and distinguish her report of what Ed shared from Lisa's own statements and what she had heard.
+
+The full Messenger-sourced note is `2026-10-06-lisa-graff-nana-stories.md` (Lisa Graff, Rick's cousin-in-law, married to Ray, Edna's oldest son). The account describes: the reported rift between Edna and Ruth after Ruth removed items from Nana's house after her death; Ed telling Lisa stories about his father's abuse after Sona died while Lisa was trying to place Ed in a nursing home; Lisa having heard Nana may also have been abusive; and Lisa's statement that most abuse was centered on Jack, the oldest. Keep the attribution and source context, but do not omit the account from the named profiles.
+
+No source material was removed. The profile updates and this correction note preserve the family testimony without representing it as an independently established official-record fact.
