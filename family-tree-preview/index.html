@@ -89,7 +89,7 @@ function build(){const tree=document.getElementById('tree');tree.replaceChildren
  const siblings=document.createElement('section');siblings.className='generation';const sh=document.createElement('h2');sh.className='section-title';sh.textContent='Your other sibling branches · connected through a parent';siblings.append(sh);
  const units=document.createElement('div');units.className='units';
  units.append(group('Adam Gieger',['Garry Anthony Brewster','Deborah Lynn Gieger'],[{name:'Adam Gieger'}]));
- units.append(group('Michael Shawn Moore & Melissa Marie Moore',['Susan Ruth Shamblen','Shawn Kevin Moore'],[{name:'Michael Shawn Moore'},{name:'Melissa Marie Moore'}]));
+ units.append(group('Michael Shawn Moore & Melissa Marie Moore',['Susan Ruth Moore (Shamblen)','Shawn Kevin Moore'],[{name:'Michael Shawn Moore'},{name:'Melissa Marie Moore'}]));
  units.append(group('Christopher Thomas Moore',['Susan Ruth Moore (Shamblen)','Donald Sebastian'],[{name:'Christopher Thomas Moore'}]));
  units.append(group('Danielle Renee Brewster',['Garry Anthony Brewster','Kimberly McPhail'],[{name:'Danielle Renee Brewster'}]));
  siblings.append(units);tree.append(siblings);
@@ -98,10 +98,11 @@ function build(){const tree=document.getElementById('tree');tree.replaceChildren
  next.append(group('Dawn’s children with Jeffrey Lillard',['Dawn Michele Brewster','Jeffrey Stephen Lillard'],[{name:'Victoria Ruth Brewster'}]));
  next.append(group('Dawn’s child with Brandon Niles Sr.',['Dawn Michele Brewster','Brandon Emil Niles, Sr.'],[{name:'Brandon Emil Niles, Jr.'}]));
  next.append(group('Adam’s son with Ashley Yeager',['Adam Gieger','Ashley Yeager'],[{name:'Abel Gieger'}]));
- next.append(group('Adam’s blended family',['Adam Gieger','Bree Schneider'],[{name:'Grayson',role:'unlinked'},{name:'Gretchen',role:'unlinked'}]));
+ next.append(group('Bree’s children · Adam helped raise them',['Bree Schneider'],[{name:'Grayson',role:'raised'},{name:'Gretchen',role:'raised'}]));
  next.append(group('Michael’s son',['Michael Shawn Moore','Karley Maher'],[{name:'Ian Matthew Moore'}]));
  next.append(group('Melissa’s children',['Melissa Marie Moore','Maurice Daniel Contreras'],['Manuela Celine Contreras','Mattea Lynn Contreras','Mila Faith Contreras','Malise Esmeralda Rose Contreras','Mireyah Grace Contreras','Micah Israel Contreras'].map(name=>({name}))));
- next.append(group('Christopher’s family',['Christopher Thomas Moore','Briautumn Leigh Grubenhoff'],[{name:'Elliott Cole Moore'},{name:'Charlotte Mae Grubenhoff',role:'raised'},{name:'Thomas Wade Moore',role:'raised'}]));
+ next.append(group('Christopher’s son with Elizabeth Marcum',['Christopher Thomas Moore','Elizabeth Marcum'],[{name:'Elliott Cole Moore'}]));
+ next.append(group('Briautumn’s children · raised in Christopher’s household',['Briautumn Leigh Grubenhoff'],[{name:'Charlotte Mae Grubenhoff',role:'raised'},{name:'Thomas Wade Moore',role:'raised'}]));
  kids.append(next);tree.append(kids);
  const great=document.createElement('section');great.className='generation';const gh=document.createElement('h2');gh.className='section-title';gh.textContent='Great-niece branch · Violet is one member of the wider family';great.append(gh);
  const v=document.createElement('div');v.className='units';v.append(group('Victoria’s child with Trustin Bronson',['Victoria Ruth Brewster','Trustin Bronson'],[{name:'Violet Bronson'}]));great.append(v);tree.append(great);
