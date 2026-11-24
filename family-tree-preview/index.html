@@ -27,7 +27,7 @@ input{width:min(430px,90vw);padding:11px 13px;border:1px solid var(--gold);borde
 .person{display:inline-flex;flex-direction:column;justify-content:center;align-items:center;min-width:155px;max-width:220px;min-height:66px;padding:10px 13px;border:1px solid #d7c4a3;border-top:3px solid var(--gold);border-radius:6px;background:var(--card);color:var(--brown);text-align:center;box-shadow:0 2px 7px #38281612;text-decoration:none}
 .person strong{font:600 12px/1.35 Cinzel,Georgia,serif}.person small{font:11px Lato;color:var(--muted);margin-top:5px}
 .person.partner{border-top-color:var(--green)}.person.root{border:2px solid var(--brown);border-top:5px solid var(--brown);background:#f4e5cb;min-width:210px;min-height:82px}
-.person.unlinked{border-style:dashed;color:#8b7656}
+.person.unlinked{border-style:dashed;color:#8b7656}.person.raised{border-style:dashed;border-top-color:#8b9870}
 .person:hover{transform:translateY(-2px);box-shadow:0 4px 12px #38281620}
 .connector{width:2px;height:26px;background:var(--gold);margin:0 auto}
 .connector-wide{width:min(90%,1100px);height:24px;border-top:2px solid var(--gold);border-left:2px solid var(--gold);border-right:2px solid var(--gold);margin:0 auto}
@@ -81,17 +81,15 @@ function build(){const tree=document.getElementById('tree');tree.replaceChildren
  const ancestor=document.createElement('section');ancestor.className='generation';const ah=document.createElement('h2');ah.className='section-title';ah.textContent='Parents and grandparents';ancestor.append(ah);
  const grand=document.createElement('div');grand.className='units';grand.append(group('Paternal grandparents',['Homer William Brewster Jr.','Judith Mae Palmer'],[{name:'Garry Anthony Brewster'}]),group('Maternal grandparents',['Lawrence Richard Shamblen','Ruth Laverne McKinney'],[{name:'Susan Ruth Moore (Shamblen)'}]));ancestor.append(grand);
  const stem=document.createElement('div');stem.className='connector';tree.append(ancestor,stem);
- const parent=document.createElement('section');parent.className='generation';const ph=document.createElement('h2');ph.className='section-title';ph.textContent='Parents';parent.append(ph);parent.append(union(['Garry Anthony Brewster','Susan Ruth Moore (Shamblen)'],[{name:'Richard Anthony Brewster',role:'root'}]));tree.append(parent);
+ const parent=document.createElement('section');parent.className='generation';const ph=document.createElement('h2');ph.className='section-title';ph.textContent='Parents';parent.append(ph);parent.append(union(['Garry Anthony Brewster','Susan Ruth Moore (Shamblen)'],[{name:'Richard Anthony Brewster',role:'root'},{name:'Dawn Michele Brewster'}]));tree.append(parent);
  const s=document.createElement('div');s.className='connector';tree.append(s);
  const own=document.createElement('section');own.className='generation';const oh=document.createElement('h2');oh.className='section-title';oh.textContent='Richard · your household';own.append(oh);
  const ownUnits=document.createElement('div');ownUnits.className='units';ownUnits.append(group('With Amber Nicole Dague',['Richard Anthony Brewster','Amber Nicole Dague'],[{name:'Miles Anthony Brewster'},{name:'Kailen Rayne Brewster'}]),group('With Mary Ellen Megan Ort',['Richard Anthony Brewster','Mary Ellen Megan Ort'],[{name:'Samuel James Brewster'}]));own.append(ownUnits);tree.append(own);
  const divider=document.createElement('div');divider.className='connector';tree.append(divider);
- const siblings=document.createElement('section');siblings.className='generation';const sh=document.createElement('h2');sh.className='section-title';sh.textContent='Your six sibling branches · nieces, nephews, and their families';siblings.append(sh);
+ const siblings=document.createElement('section');siblings.className='generation';const sh=document.createElement('h2');sh.className='section-title';sh.textContent='Your other sibling branches · connected through a parent';siblings.append(sh);
  const units=document.createElement('div');units.className='units';
- units.append(group('Dawn Michele Brewster',['Garry Anthony Brewster','Susan Ruth Moore (Shamblen)'],[{name:'Dawn Michele Brewster'}]));
  units.append(group('Adam Gieger',['Garry Anthony Brewster','Deborah Lynn Gieger'],[{name:'Adam Gieger'}]));
- units.append(group('Michael Shawn Moore',['Susan Ruth Moore (Shamblen)','Shawn Kevin Moore'],[{name:'Michael Shawn Moore'}]));
- units.append(group('Melissa Marie Moore',['Susan Ruth Moore (Shamblen)','Shawn Kevin Moore'],[{name:'Melissa Marie Moore'}]));
+ units.append(group('Michael Shawn Moore & Melissa Marie Moore',['Susan Ruth Shamblen','Shawn Kevin Moore'],[{name:'Michael Shawn Moore'},{name:'Melissa Marie Moore'}]));
  units.append(group('Christopher Thomas Moore',['Susan Ruth Moore (Shamblen)','Donald Sebastian'],[{name:'Christopher Thomas Moore'}]));
  units.append(group('Danielle Renee Brewster',['Garry Anthony Brewster','Kimberly McPhail'],[{name:'Danielle Renee Brewster'}]));
  siblings.append(units);tree.append(siblings);
@@ -103,7 +101,7 @@ function build(){const tree=document.getElementById('tree');tree.replaceChildren
  next.append(group('Adam’s blended family',['Adam Gieger','Bree Schneider'],[{name:'Grayson',role:'unlinked'},{name:'Gretchen',role:'unlinked'}]));
  next.append(group('Michael’s son',['Michael Shawn Moore','Karley Maher'],[{name:'Ian Matthew Moore'}]));
  next.append(group('Melissa’s children',['Melissa Marie Moore','Maurice Daniel Contreras'],['Manuela Celine Contreras','Mattea Lynn Contreras','Mila Faith Contreras','Malise Esmeralda Rose Contreras','Mireyah Grace Contreras','Micah Israel Contreras'].map(name=>({name}))));
- next.append(group('Christopher’s family',['Christopher Thomas Moore','Briautumn Leigh Grubenhoff'],[{name:'Elliott Cole Moore',role:'unlinked'},{name:'Charlotte Mae Grubenhoff',role:'unlinked'},{name:'Thomas Wade Moore',role:'unlinked'}]));
+ next.append(group('Christopher’s family',['Christopher Thomas Moore','Briautumn Leigh Grubenhoff'],[{name:'Elliott Cole Moore'},{name:'Charlotte Mae Grubenhoff',role:'raised'},{name:'Thomas Wade Moore',role:'raised'}]));
  kids.append(next);tree.append(kids);
  const great=document.createElement('section');great.className='generation';const gh=document.createElement('h2');gh.className='section-title';gh.textContent='Great-niece branch · Violet is one member of the wider family';great.append(gh);
  const v=document.createElement('div');v.className='units';v.append(group('Victoria’s child with Trustin Bronson',['Victoria Ruth Brewster','Trustin Bronson'],[{name:'Violet Bronson'}]));great.append(v);tree.append(great);
