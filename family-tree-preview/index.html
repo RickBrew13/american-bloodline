@@ -83,22 +83,23 @@ const norm=s=>(s||'').toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u03
 const aliases={
  'victoriaruthbrewster':['Victoria Ruth “Tori” Brewster','Victoria Ruth Tori Brewster'],
  'susanruthmooreshoamblen':['Susan Ruth Shamblen','Susan Ruth Moore'],
- 'euniceebrewster':['Eunice Edna Burton','Eunice E. Burton','Eunice Brewster Burton'],
- 'irvingburton':['Irvin Burton','Irvin David Burton'],
- 'aileenebrewster':['Aileene Willie Brewster','Aileene W. Brewster'],
- 'meridawagers':['Merida Henry Wagers'],
- 'yvonnefarrell':['Yvonne Suzanne Farrell','Yvonne Suzanne Farrell Brewster'],
- 'elmerbrewster':['Elmer Ellis Brewster'],
- 'ruthleewainscott':['Ruth Lee Brewster'],
- 'arlinestone':['Arline Gayhart','Arline Stone Brewster'],
- 'pollynorthcott':['Pauline M. Northcott','Pauline M. Northcott McKinney','Pauline “Polly” Northcott McKinney'],
+ 'euniceednaburton':['Eunice E. Burton','Eunice E. Brewster','Eunice Brewster Burton'],
+ 'irvindavidburton':['Irvin Burton','Irving Burton'],
+ 'aileenewilliebrewster':['Aileene W. Brewster','Aileene Brewster'],
+ 'meridahenrywagers':['Merida Wagers'],
+ 'yvonnesuzannefarrellbrewster':['Yvonne Suzanne Farrell','Yvonne Farrell'],
+ 'elmerellisbbrewster':['Elmer Brewster'],
+ 'ruthleewainscottbrewstermoore':['Ruth Lee Brewster','Ruth Lee Wainscott'],
+ 'arlinestonebrewstergayhart':['Arline Gayhart','Arline Stone'],
+ 'pollymckinney':['Pauline M. Northcott','Pauline M. Northcott McKinney','Pauline “Polly” Northcott McKinney','Polly Northcott'],
  'ottograff':['Otto Graff Jr.'],
  'ednamckinney':['Edna Ellen McKinney'],
- 'terriannweis':['Terri Weiss','Terri Ann Weis Patten'],
- 'arlenemarieforste':['Arlene Marie (Forste) Hess Murphy','Arlene Marie Forste Hess Murphy'],
- 'pansyjrobertson':['Pansy J. Robertson Washington','Pansy J. Robertson'],
- 'victoriaherman':['Victoria M. “Vicki” Herman Moore','Victoria M. Herman Moore'],
- 'charlesasher':['Charles Asher']
+ 'terriannweispatten':['Terri Weiss','Terri Ann Weis'],
+ 'arlenemarieforstehessmurphy':['Arlene Marie Forste','Arlene Marie (Forste) Hess Murphy'],
+ 'pansyjrobertsonwashington':['Pansy J. Robertson','Pansy J. Robertson Washington'],
+ 'victoriamoore':['Victoria M. “Vicki” Herman Moore','Victoria M. Herman Moore','Victoria Herman'],
+ 'jacksonahmeekmckinney':['Jackson Ahmeek “Jack” McKinney','Jackson Ahmeek Jack McKinney'],
+ 'jimmyhenry':['James David “Jimmy” Henry','James “Jimmy” Henry']
 };
 function terms(p){return [p.name,...(aliases[norm(p.name)]||[])];}
 function mention(text,p){const hay=norm(text);return terms(p).some(term=>{const needle=norm(term);if(needle.length<5)return false;let at=hay.indexOf(needle);while(at>=0){const before=at===0?'':hay[at-1],after=at+needle.length>=hay.length?'':hay[at+needle.length];if(!/[a-z0-9]/.test(before)&&!/[a-z0-9]/.test(after))return true;at=hay.indexOf(needle,at+1);}return false;});}
