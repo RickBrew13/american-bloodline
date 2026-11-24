@@ -74,7 +74,7 @@ function partnersOf(p){const t=norm(p.spouses);return people.filter(x=>x.generat
 function childMatches(parent,partner){return people.filter(c=>c.generation===parent.generation-1&&norm(c.parents).includes(norm(parent.name))&&(!partner||aliasesFor(partner).some(n=>n.length>4&&norm(c.parents).includes(n))));}
 function familyBranch(p){const branch=document.createElement('div');branch.className='branch';const partners=partnersOf(p);const pair=document.createElement('div');pair.className='pair';pair.append(personCard(p,p.id===focus?'root':'related'));if(partners.length){for(const partner of partners){const mark=document.createElement('span');mark.className='pairmark';mark.textContent='×';pair.append(mark,personCard(partner,'partner'));}}branch.append(pair);
  const kids=document.createElement('div');kids.className='kids';let childList=[];if(partners.length){for(const partner of partners)childList.push(...childMatches(p,partner));}else childList=childMatches(p,null);childList=childList.filter((x,i,a)=>a.findIndex(y=>y.id===x.id)===i);
- childList.forEach(c=>kids.append(personCard(c)));if(childList.length)branch.append(kids);return branch;}
+ childList.forEach(c=>{const next=people.some(x=>x.generation===c.generation-1&&norm(x.parents).includes(norm(c.name)));kids.append(next?familyBranch(c):personCard(c));});if(childList.length)branch.append(kids);return branch;}
 function render(id='g3-5'){
  focus=id;const root=byId.get(id)||byId.get('g3-5');const tree=document.getElementById('tree');tree.replaceChildren();
  const parents=parentsOf(root);const grandparents=parents.flatMap(parentsOf).filter((p,i,a)=>a.findIndex(x=>x.id===p.id)===i);
@@ -83,7 +83,6 @@ function render(id='g3-5'){
  const ancestorRow=grandparents.map(p=>personCard(p));if(ancestorRow.length)tree.append(level('Grandparents',ancestorRow),connector());
  const parentRow=parents.map(p=>personCard(p));if(parentRow.length)tree.append(level('Parents',parentRow),connector());
  const familyRow=level(root.id==='g3-5'?'Richard & siblings':'This person & siblings',core.map(p=>familyBranch(p)));tree.append(familyRow);
- const nieces=people.filter(p=>p.generation===1&&core.some(parent=>norm(p.parents).includes(norm(parent.name))));if(nieces.length)tree.append(connector(),level('Next generation',nieces.map(p=>personCard(p))));
  document.getElementById('details').style.display='none';document.getElementById('search').value='';
 }
 document.getElementById('home').addEventListener('click',()=>render('g3-5'));
