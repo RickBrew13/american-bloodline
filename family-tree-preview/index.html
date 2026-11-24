@@ -77,11 +77,33 @@ footer{text-align:center;color:var(--muted);font:12px Cinzel,Georgia,serif;paddi
 </main>
 <footer>An American Bloodline · Family Tree · Generations I–V</footer>
 <script>
-const files=[1,2,3,4,5].map(n=>'family-tree-data/generation-'+n+'.json');
+const files=[1,2,3,4,5].map(n=>'/american-bloodline/family-tree-data/generation-'+n+'.json');
 let people=[],byId=new Map(),parentEdges=[],spouseEdges=[],siblingEdges=[],selectedId=null,activeGen='all';
 const norm=s=>(s||'').toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]/g,'');
-function findMentions(text,candidates,excludeId){const n=norm(text);return candidates.filter(p=>p.id!==excludeId&&norm(p.name).length>4&&n.includes(norm(p.name)));}
-function confidence(child,parent){const t=(child.parents||'').toLowerCase();if(t.includes('unproved')&&norm(parent.name).includes('charlesasher'))return'Unproved';if(t.includes('probable'))return'Probable';if(t.includes('adoptive'))return'Adoptive';if(t.includes('step'))return'Step-parent';return'';}
+const aliases={
+ 'victoriaruthbrewster':['Victoria Ruth “Tori” Brewster','Victoria Ruth Tori Brewster'],
+ 'susanruthmooreshoamblen':['Susan Ruth Shamblen','Susan Ruth Moore'],
+ 'euniceebrewster':['Eunice Edna Burton','Eunice E. Burton','Eunice Brewster Burton'],
+ 'irvingburton':['Irvin Burton','Irvin David Burton'],
+ 'aileenebrewster':['Aileene Willie Brewster','Aileene W. Brewster'],
+ 'meridawagers':['Merida Henry Wagers'],
+ 'yvonnefarrell':['Yvonne Suzanne Farrell','Yvonne Suzanne Farrell Brewster'],
+ 'elmerbrewster':['Elmer Ellis Brewster'],
+ 'ruthleewainscott':['Ruth Lee Brewster'],
+ 'arlinestone':['Arline Gayhart','Arline Stone Brewster'],
+ 'pollynorthcott':['Pauline M. Northcott','Pauline M. Northcott McKinney','Pauline “Polly” Northcott McKinney'],
+ 'ottograff':['Otto Graff Jr.'],
+ 'ednamckinney':['Edna Ellen McKinney'],
+ 'terriannweis':['Terri Weiss','Terri Ann Weis Patten'],
+ 'arlenemarieforste':['Arlene Marie (Forste) Hess Murphy','Arlene Marie Forste Hess Murphy'],
+ 'pansyjrobertson':['Pansy J. Robertson Washington','Pansy J. Robertson'],
+ 'victoriaherman':['Victoria M. “Vicki” Herman Moore','Victoria M. Herman Moore'],
+ 'charlesasher':['Charles Asher']
+};
+function terms(p){return [p.name,...(aliases[norm(p.name)]||[])];}
+function mention(text,p){const hay=norm(text);return terms(p).some(term=>{const needle=norm(term);if(needle.length<5)return false;let at=hay.indexOf(needle);while(at>=0){const before=at===0?'':hay[at-1],after=at+needle.length>=hay.length?'':hay[at+needle.length];if(!/[a-z0-9]/.test(before)&&!/[a-z0-9]/.test(after))return true;at=hay.indexOf(needle,at+1);}return false;});}
+function findMentions(text,candidates,excludeId){return candidates.filter(p=>p.id!==excludeId&&mention(text,p));}
+function confidence(child,parent){const t=(child.parents||'').toLowerCase();const termsForParent=terms(parent).map(x=>x.toLowerCase());let at=-1;for(const term of termsForParent){at=t.indexOf(term);if(at>=0)break;}const around=at>=0?t.slice(at,at+130):t;if(around.includes('unproved'))return'Unproved';if(around.includes('probable'))return'Probable';if(around.includes('adoptive'))return'Adoptive';if(around.includes('step'))return'Step-parent';return'';}
 function makeEdges(){
  parentEdges=[];spouseEdges=[];siblingEdges=[];
  for(const child of people){
@@ -93,7 +115,7 @@ function makeEdges(){
  }
  // Generation I is one person; its named parents are in Generation II.
  const violet=people.find(p=>p.id==='g1-violet-bronson');
- if(violet){for(const name of ['Victoria Ruth “Tori” Brewster','Trustin Bronson']){const p=people.find(x=>norm(x.name)===norm(name));if(p&&!parentEdges.some(e=>e.from===p.id&&e.to===violet.id))parentEdges.push({from:p.id,to:violet.id,type:'Parent'});}}
+ if(violet){for(const name of ['Victoria Ruth Brewster','Trustin Bronson']){const p=people.find(x=>norm(x.name)===norm(name));if(p&&!parentEdges.some(e=>e.from===p.id&&e.to===violet.id))parentEdges.push({from:p.id,to:violet.id,type:'Parent'});}}
 }
 function makeLink(p,label){const b=document.createElement('button');b.type='button';b.textContent=label||p.name;b.addEventListener('click',()=>selectPerson(p.id));return b;}
 function render(){
