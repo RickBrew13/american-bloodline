@@ -1,0 +1,3 @@
+# Family-photo archive references
+
+This folder has no new standalone family-photo file from the Homer–Judith Drive pictures beyond the materials filed in Judith's archive. The pre-existing family photograph of Homer Sr. and Homer Jr. is already in this person's `img/` as `s_homer_sr_jr.jpg`; it remains there to avoid breaking the existing profile image path. The source image was not present in the Homer–Judith couple folder reviewed for this transfer.
