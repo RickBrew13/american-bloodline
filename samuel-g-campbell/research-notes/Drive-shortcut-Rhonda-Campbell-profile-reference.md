@@ -1,0 +1,3 @@
+# Drive shortcut reference — Rhonda Campbell profile
+
+The Gen V Samuel–Janice folder contains a shortcut (Drive shortcut ID `1WGKnRYtow9NHl556Gt6W8FmXL8OG69fm`) to the separate Google Doc `Rhonda Campbell - Profile` (target Doc ID `1IJv8UJ-x2b6PepIlWSkSamqmCg11k7zIWwDK98EplMI`). It is a daughter’s living-person profile, not a Gen V Samuel/Janice profile. To avoid expanding public disclosure of her personal information in this public repository, the target Doc was not exported or copied here; it remains intact in Drive. The shortcut’s existence and target are recorded for audit. No profile folder or page was created.
