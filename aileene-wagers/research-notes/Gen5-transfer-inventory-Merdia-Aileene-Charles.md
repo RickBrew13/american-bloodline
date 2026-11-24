@@ -1,0 +1,12 @@
+# Gen V Drive-to-GitHub copy inventory: Merdia Wagers, Aileene Brewster and Charles Asher
+
+All Drive originals remain in place. The Google Doc was exported read-only and not edited. Merdia’s two existing GitHub images were compared byte-for-byte with both Drive image sources; both already match, so no redundant copies were uploaded. Charles’s separate Aileene–Charles couple folder was not part of this shared-family group inventory.
+
+| Drive source ID | Drive source path | GitHub copy/reference | Handling |
+|---|---|---|---|
+| `1gnngDRjU1JKFV7PUw6iEP2qhyLZ4ktaY8p7luxkGCEk` | Merdia Henry Wagers (husband of Aileene Wagers)/Military Records (Fold3)/Merida Henry Wagers - Fold3 military records (Hark 2026-11-15) | `merdia-wagers/documents and research-notes` | Read-only PDF and Markdown export; Drive Doc unchanged. |
+| `1ryl7O01IIt2sGTrTU0siCQunEo52G_jg` | Merdia Henry Wagers × Aileene Willie Brewster × Charles Asher — shared family archive/Notes/2026-11-03-geni-survey-aileene-wagers.md | `aileene-wagers/research-notes/2026-11-03-geni-survey-aileene-wagers.md` | Copied and verified. |
+| `1s49YJS-Iwn8SXTJhh8RgRJKCoocXA9d2` | Merdia Henry Wagers × Aileene Willie Brewster × Charles Asher — shared family archive/Notes/2026-11-06-aileene-gilpin-source-review.md | `aileene-wagers/research-notes/2026-11-06-aileene-gilpin-source-review.md` | Copied and verified. |
+| `1nRDdCNGispBd-fi8zqOZc1hzfQtNOfBw` | Merdia Henry Wagers × Aileene Willie Brewster × Charles Asher — shared family archive/Notes/2026-11-18-merdia-aileene-charles-source-photo-audit.md | `aileene-wagers/research-notes/2026-11-18-merdia-aileene-charles-source-photo-audit.md` | Copied once; referenced from Merdia and Charles archive notes. |
+| `1ETLqJ1oUQ7SYDAkQeUqoKwlypKPTYJmi` | Merdia Henry Wagers × Aileene Willie Brewster × Charles Asher — shared family archive/Pictures/Merida Henry Wagers - VA marker, A.R. Dyche Memorial Park (Find a Grave, Earth Angel).jpg | `merdia-wagers/img/merida-wagers-va-marker.jpg` | Exact byte match to existing GitHub canonical image; no duplicate uploaded. |
+| `1xG5ZKI1O8puWdfkj1_-PSME2fufyqad8` | Merdia Henry Wagers × Aileene Willie Brewster × Charles Asher — shared family archive/Pictures/Merida Wagers - Wagers family reunion, Berea KY, 2 Sep 2000 (Find a Grave, Beverly Dunn, shared by Paul Wagers).jpg | `merdia-wagers/img/merida-wagers-reunion-2000.jpg` | Exact byte match to existing GitHub canonical image; no duplicate uploaded. |
