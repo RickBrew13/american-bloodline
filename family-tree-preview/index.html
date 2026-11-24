@@ -103,7 +103,7 @@ const aliases={
 function terms(p){return [p.name,...(aliases[norm(p.name)]||[])];}
 function mention(text,p){const hay=norm(text);return terms(p).some(term=>{const needle=norm(term);if(needle.length<5)return false;let at=hay.indexOf(needle);while(at>=0){const before=at===0?'':hay[at-1],after=at+needle.length>=hay.length?'':hay[at+needle.length];if(!/[a-z0-9]/.test(before)&&!/[a-z0-9]/.test(after))return true;at=hay.indexOf(needle,at+1);}return false;});}
 function findMentions(text,candidates,excludeId){return candidates.filter(p=>p.id!==excludeId&&mention(text,p));}
-function confidence(child,parent){const t=(child.parents||'').toLowerCase();const termsForParent=terms(parent).map(x=>x.toLowerCase());let at=-1;for(const term of termsForParent){at=t.indexOf(term);if(at>=0)break;}const around=at>=0?t.slice(at,at+130):t;if(around.includes('unproved'))return'Unproved';if(around.includes('probable'))return'Probable';if(around.includes('adoptive'))return'Adoptive';if(around.includes('step'))return'Step-parent';return'';}
+function confidence(child,parent){const t=(child.parents||'').toLowerCase();for(const term of terms(parent)){const at=t.indexOf(term.toLowerCase());if(at<0)continue;const before=t.slice(Math.max(0,at-45),at),after=t.slice(at,at+75);if(before.includes('stepfather')||before.includes('stepmother')||before.includes('step-parent')||before.includes('step-parents'))return'Step-parent';if(after.includes('unproved'))return'Unproved';if(after.includes('probable'))return'Probable';if(after.includes('adoptive'))return'Adoptive';}return'';}
 function makeEdges(){
  parentEdges=[];spouseEdges=[];siblingEdges=[];
  for(const child of people){
@@ -112,6 +112,15 @@ function makeEdges(){
   for(const partner of partners){const key=[child.id,partner.id].sort().join('|');if(!spouseEdges.some(e=>e.key===key))spouseEdges.push({key,a:child.id,b:partner.id});}
   const sibs=findMentions(child.siblings,people.filter(p=>p.generation===child.generation),child.id);
   for(const sib of sibs){const key=[child.id,sib.id].sort().join('|');if(!siblingEdges.some(e=>e.key===key))siblingEdges.push({key,a:child.id,b: sib.id});}
+ }
+ // Add explicitly identified stepchildren from the adult profile, without treating them as biological children.
+ for(const parent of people.filter(p=>p.generation>1)){
+  const younger=people.filter(p=>p.generation===parent.generation-1);
+  for(const child of findMentions(parent.children,younger,parent.id)){
+   const txt=(parent.children||'').toLowerCase();const term=terms(child).find(t=>txt.includes(t.toLowerCase()))||child.name;
+   const at=txt.indexOf(term.toLowerCase());const nearby=at>=0?txt.slice(at,at+100):txt;
+   if(nearby.includes('stepchild')&&!parentEdges.some(e=>e.from===parent.id&&e.to===child.id))parentEdges.push({from:parent.id,to:child.id,type:'Step-parent'});
+  }
  }
  // Generation I is one person; its named parents are in Generation II.
  const violet=people.find(p=>p.id==='g1-violet-bronson');
