@@ -398,5 +398,105 @@
     "spouses": "Elmer David Henry",
     "children": "James David “Jimmy” Henry (1956–2006; stepchild)",
     "siblings": "Unknown"
+  },
+  {
+    "id": "g5-john-richard-hess-sr",
+    "generation": 5,
+    "name": "John Richard Hess Sr.",
+    "url": "https://rickbrew13.github.io/american-bloodline/john-richard-hess-sr/",
+    "parents": "Howard Bernard Hess (1899–1953) Anne Elizabeth (Mader) Hess (1903–1990)",
+    "spouses": "Arlene Marie (Forste) Hess Murphy (divorced 1967)",
+    "children": "Holly Brewster (born May 1960) John Hess Jr. Heidi Marie (Hess) Smith (9 June 1963 – 28 September 2018)",
+    "siblings": "Katherine Hess Brady (1929–2002) Howard B. Hess Jr. (1930–1967) Nancy Jane Hess Herbert (1932–2017) Robert Charles / Herbert Robert Charles Hess (1933–2018; given-name order varies across sources) Mary Helen Hess Pratt (1937–2012) Charles H. Hess (1941–2002)"
+  },
+  {
+    "id": "g5-arlene-marie-forste-hess-murphy",
+    "generation": 5,
+    "name": "Arlene Marie (Forste) Hess Murphy",
+    "url": "https://rickbrew13.github.io/american-bloodline/arlene-marie-forste-hess-murphy/",
+    "parents": "Unknown",
+    "spouses": "John Richard Hess Sr. (divorced 1967) Carl Gordon Murphy",
+    "children": "Holly Brewster (born May 1960) John Hess Jr. Heidi Marie (Hess) Smith (9 June 1963 – 28 September 2018) Colleen Murphy",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-richard-lee-jordan",
+    "generation": 5,
+    "name": "Richard Lee Jordan",
+    "url": "https://rickbrew13.github.io/american-bloodline/richard-lee-jordan/",
+    "parents": "Ray W. Jordan Irene Jordan",
+    "spouses": "Terri Ann (Weis) Patten (1945–2002)",
+    "children": "Damaris K. (Jordan) Brewster (born 1 September 1962) Tammy Lynn (Jordan) Rush",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-terri-ann-weis-patten",
+    "generation": 5,
+    "name": "Terri Ann (Weis) Patten",
+    "url": "https://rickbrew13.github.io/american-bloodline/terri-ann-weis-patten/",
+    "parents": "Abraham Benjamin Weis Margaret G. Alexander Weis",
+    "spouses": "Richard Lee Jordan Daniel “Gus” Patten",
+    "children": "Damaris K. (Jordan) Brewster Tammy Lynn (Jordan) Rush Nicholas “Nick” Patten",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-daniel-gus-patten",
+    "generation": 5,
+    "name": "Daniel “Gus” Patten",
+    "url": "https://rickbrew13.github.io/american-bloodline/daniel-gus-patten/",
+    "parents": "Harry O. Patton Lola G. Patton",
+    "spouses": "Terri Ann (Weis) Patten Barbara (Helton) Patten",
+    "children": "Nicholas “Nick” Patten Damaris Brewster (stepchild) Tammy Rush (stepchild) Patti Lindsey (stepchild) Jeff Eaton (stepchild)",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-edward-a-lewis-sr",
+    "generation": 5,
+    "name": "Edward A. Lewis Sr.",
+    "url": "https://rickbrew13.github.io/american-bloodline/edward-a-lewis-sr/",
+    "parents": "Arnold Lewis Martha (Sullivan) Lewis",
+    "spouses": "Gloria Lewis",
+    "children": "Chad Edward-Matthew Lewis",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-gloria-lewis",
+    "generation": 5,
+    "name": "Gloria Lewis",
+    "url": "https://rickbrew13.github.io/american-bloodline/gloria-lewis/",
+    "parents": "Unknown",
+    "spouses": "Edward A. Lewis Sr.",
+    "children": "Chad Edward-Matthew Lewis",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-eva-l-luft",
+    "generation": 5,
+    "name": "Eva L. Luft",
+    "url": "https://rickbrew13.github.io/american-bloodline/eva-l-luft/",
+    "parents": "Alexander Luft Bertha (Tarmin) Luft",
+    "spouses": "Unknown",
+    "children": "Deborah Ann (Luft) Alexander Joseph “Alex” Luft Robert Vanhorn",
+    "siblings": "Henry Von Luft (born 1913) Minnie Luft (5 September 1914 – 23 May 1999) David Luft (19 October 1915 or 1916 – 7 July 1993) Annie Luft (Grinter) (born 1918)"
+  },
+  {
+    "id": "g5-john-b-davis",
+    "generation": 5,
+    "name": "John B. Davis",
+    "url": "https://rickbrew13.github.io/american-bloodline/john-b-davis/",
+    "parents": "Unknown",
+    "spouses": "Unknown",
+    "children": "Deborah Ann (Luft) Alexander Joseph “Alex” Luft",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-jackson-ahmeek-mckinney",
+    "generation": 5,
+    "name": "Jackson Ahmeek McKinney",
+    "url": "https://rickbrew13.github.io/american-bloodline/jackson-ahmeek-mckinney/",
+    "parents": "Dallas Cecil McKinney LaVerne (Hurt) McKinney",
+    "spouses": "Pauline M. (Northcott) McKinney (married 1943)",
+    "children": "Michael McKinney Joan Lindland Patrick McKinney",
+    "siblings": "Edgar A. McKinney Edna McKinney Ruth Laverne McKinney"
   }
 ]
