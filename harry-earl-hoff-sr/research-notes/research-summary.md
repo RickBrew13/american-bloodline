@@ -1,0 +1,5 @@
+# Harry Earl Hoff Sr.: research summary
+
+Updated 24 November 2026.
+
+Harry’s Roane County birth register entry (25 Feb 1892) names Daniel Homer Hoff and Elmanza C. Hoff; his 1942 draft card repeats the exact birth date and gives Clendenin as residence. The 1940 census household names wife Edith and four children. The printed 1910 Roane household transcription lists a son “Earl” age 18 with Daniel and Elmanza; family tree and birth evidence make the Harry identification strong. The broader 12-name sibling set is from the shared FamilySearch family graph and has unresolved date/count inconsistencies. “Harold” in the Daniel family photograph is not equated with Harry.
