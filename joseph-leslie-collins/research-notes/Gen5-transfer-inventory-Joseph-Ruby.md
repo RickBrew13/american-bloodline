@@ -1,0 +1,14 @@
+# Gen V Drive-to-GitHub inventory: Joseph Leslie Collins and Ruby Mae Pugh
+
+All eight file/Doc items in the couple folder were copied to existing person archives. Google Docs were exported read-only as PDF and Markdown; Drive originals were not edited, moved, or deleted. The 21 Nov HTML profile snapshot is an archive artifact only and does not replace the live GitHub page. No media files were present in the enumerated couple tree.
+
+| Drive source ID | Drive source path | GitHub copy/reference | Handling |
+|---|---|---|---|
+| `1FPRKoK9z2lOWFnrAug7AB1TinZmwDKjT3jTUIyqMP_s` | Joseph Leslie Collins × Ruby Mae Pugh/Documents/Joseph Leslie Collins × Ruby Mae Pugh - Records (Hark 2026-11-15) | `joseph-leslie-collins/documents/Drive-Google-Doc-export-Joseph-Ruby-records-Hark-2026-11-15.pdf` | Read-only PDF/Markdown export; source Doc remains unchanged. |
+| `1B72e8S8iAom3dyapTWinYXTWDVzuNnxQ` | Joseph Leslie Collins × Ruby Mae Pugh/Notes/2026-11-19-joseph-collins-deep-audit.md | `joseph-leslie-collins/research-notes/2026-11-19-joseph-collins-deep-audit.md` | Copied; verified. |
+| `14QpspEcSEqZn4sbYdeZZjVglsoQUtCB0` | Joseph Leslie Collins × Ruby Mae Pugh/Notes/2026-11-19-ruby-pugh-deep-audit.md | `ruby-mae-pugh/research-notes/2026-11-19-ruby-pugh-deep-audit.md` | Copied; verified. |
+| `10u8dd47Pj0mr-dxjWCLEPQhEIN4Eh1Ys2PDcd5gNgZ4` | Joseph Leslie Collins × Ruby Mae Pugh/Profile/FamilyNotes-JosephLeslieCollins | `joseph-leslie-collins/documents/Drive-Google-Doc-export-Joseph-family-notes-blank.pdf` | Read-only PDF/Markdown export; source Doc remains unchanged. |
+| `1UzOE-eHQht2Sd6rucIXVCraBRxFxOvuVf5eNsVhdh60` | Joseph Leslie Collins × Ruby Mae Pugh/Profile/FamilyNotes-RubyMae(Pugh)Collins | `ruby-mae-pugh/documents/Drive-Google-Doc-export-Ruby-family-notes-blank.pdf` | Read-only PDF/Markdown export; source Doc remains unchanged. |
+| `17irzoRv1lOmvVjOO7BNs5GyWZWu1HLKz` | Joseph Leslie Collins × Ruby Mae Pugh/Profile/Joseph-Leslie-Collins-Generation-VI-profile-2026-11-21-updated-parent-links.html | `joseph-leslie-collins/documents/Drive-snapshot-Joseph-Leslie-Collins-GenVI-profile-2026-11-21.html` | Historical Drive HTML snapshot copied as a source artifact only; live GitHub page not replaced or modified. |
+| `1LRoHsFY8veQKRdnelWULVYg-r90pU_Ghr_9FoYDBIAQ` | Joseph Leslie Collins × Ruby Mae Pugh/Profile/JosephLeslieCollins-EditorAddtoProfile | `joseph-leslie-collins/documents/Drive-Google-Doc-export-Joseph-edit-add-profile-template.pdf` | Read-only PDF/Markdown export; source Doc remains unchanged. |
+| `1LW7Ros-myZQ7FLWRehwvh8VPMJxCkhihnyQu6Vtc8h8` | Joseph Leslie Collins × Ruby Mae Pugh/Profile/RubyMae(Pugh)Collins-EditorAddtoProfile | `ruby-mae-pugh/documents/Drive-Google-Doc-export-Ruby-edit-add-profile-template.pdf` | Read-only PDF/Markdown export; source Doc remains unchanged. |
