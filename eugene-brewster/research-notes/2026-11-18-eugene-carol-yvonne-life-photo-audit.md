@@ -1,0 +1,18 @@
+# Eugene Brewster, Carol Craig, and Yvonne Farrell — life and photo-source audit
+
+Reviewed 18 November 2026. One shared archive for Eugene E. Brewster and both spouse relationships, with Carol Ann Craig and Yvonne Suzanne Farrell: https://drive.google.com/drive/folders/1kQP3FliwnOtN5Wa8s7Z-1Pj8egzC6KWS
+
+## Pictures reviewed and saved in the shared archive
+- Eugene E. Brewster: Find a Grave memorial 134097895 contains two cemetery photographs only: his flat marker, inscribed Eugene E. Brewster, 1933–1983, and a separate upright surname-only BREWSTER stone. No portrait of Eugene appears on that memorial. Both were already in the Eugene–Yvonne archive and remain in the unified archive.
+- Yvonne Suzanne Farrell Brewster: Find a Grave memorial 154652437 has a memorial/garden marker photo credited to DancinSue and a second image of the Whispering Winds scattering-garden sign. The memorial says her cremains were scattered there. The marker is not an individual portrait; the garden sign is memorial context, not a portrait. Existing marker copies remain in the shared archive.
+- Carol Ann Craig: Find a Grave memorial 203374794 supplies a young portrait credited to Bob Pettit and a headstone photo credited to Carol S. Both have now been copied into the unified archive; the originals remain in the earlier Eugene–Carol archive. The headstone reads “Carol A. Rechel,” dates 14 Feb 1937–21 Sep 2019, and “Raised 6 children by herself.”
+
+## Source-level life-story detail
+- Eugene's Find a Grave memorial (134097895) gives only years 1933–1983 and Greenlawn Cemetery, Section 21, lot 88; its two photos do not show his personal portrait. His public profile already distinguishes those stones and preserves nephew Earl Gene Brewster Jr.'s baseball/diabetes story as FAMILY ACCOUNT, not documented fact.
+- Carol's Find a Grave memorial (203374794) reproduces a Gilligan Funeral Homes obituary and additional details supplied by daughter Mary Beth Hillman-Greco. The obituary says Carol died peacefully at home 21 Sep 2019, surrounded by family; she had worked as an executive secretary for the State of Ohio, GE and Bureau of Workers' Compensation; she was proud to raise her children while working. The headstone's phrase and portrait provenance are separately credited in the photo gallery. The family note says “Gene Brewster, no children, 8 years”; keep this family attribution distinct from the two Kentucky index marriages in 1977 and 1979.
+- Yvonne's Find a Grave memorial (154652437) transcribes a Cincinnati Post death notice dated 16 Feb 1994: “Yvonne Brewster Dukes, 57, of Ocean Springs, Miss., died Monday”; Mass at St. Elizabeth Seton Church and arrangements by Bradford-O'Keefe Funeral Home. The Monday was 14 Feb, while Social Security records give 15 Feb. Its grave details identify Whispering Winds as a scattering garden for cremains; preserve the date conflict and distinguish cremation from cemetery burial.
+
+## Remaining limits / next leads
+- A direct portrait for Eugene or Yvonne has not been found in the reviewed Find a Grave memorials; no picture is inferred from a stone, relative, or namesake.
+- Eugene's Ohio death certificate 071732, Greenlawn interment record, and Cincinnati newspapers (October 1983) remain promising sources for fuller obituary/service detail. Yvonne's Mississippi death certificate, fuller Ocean Springs/Sun Herald or Mississippi Press obituary, and Arlington interment record remain open leads.
+- No Google Docs were edited. Existing archive contents were retained; Carol's two memorial images are copied into the unified folder for complete shared access.
