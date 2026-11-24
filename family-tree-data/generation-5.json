@@ -598,5 +598,105 @@
     "spouses": "Artherine E. Crochen",
     "children": "Ronald Coleman Niles Jessie L. Niles Altheria Niles",
     "siblings": "Unknown"
+  },
+  {
+    "id": "g5-artherine-e-crochen",
+    "generation": 5,
+    "name": "Artherine E. Crochen",
+    "url": "https://rickbrew13.github.io/american-bloodline/artherine-e-crochen/",
+    "parents": "Albert Crochen Callie Martin",
+    "spouses": "Leon Niles",
+    "children": "Ronald Coleman Niles",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-mary-ann-palmer",
+    "generation": 5,
+    "name": "Mary Ann Palmer",
+    "url": "https://rickbrew13.github.io/american-bloodline/mary-ann-palmer/",
+    "parents": "William Peter Palmer Mary Jane Williams",
+    "spouses": "Unknown",
+    "children": "Unknown",
+    "siblings": "Judith Mae Palmer Penelope Jane Spiess"
+  },
+  {
+    "id": "g5-penelope-jane-spiess",
+    "generation": 5,
+    "name": "Penelope Jane Spiess",
+    "url": "https://rickbrew13.github.io/american-bloodline/penelope-jane-spiess/",
+    "parents": "William Peter Palmer Mary Jane Williams",
+    "spouses": "David Michael Spiess",
+    "children": "David M. Spiess",
+    "siblings": "Judith Mae Palmer Mary Ann Palmer"
+  },
+  {
+    "id": "g5-david-michael-spiess",
+    "generation": 5,
+    "name": "David Michael Spiess",
+    "url": "https://rickbrew13.github.io/american-bloodline/david-michael-spiess/",
+    "parents": "Philip A. Spiess Marie L. (Lavanier) Spiess",
+    "spouses": "Penelope Jane (Palmer) Spiess (married about 1964–1982)",
+    "children": "David M. Spiess",
+    "siblings": "Ronald P. Spiess (1934–2024)"
+  },
+  {
+    "id": "g5-richard-lawrence-shamblen",
+    "generation": 5,
+    "name": "Lawrence Richard Shamblen",
+    "url": "https://rickbrew13.github.io/american-bloodline/richard-lawrence-shamblen/",
+    "parents": "Arvel Lawrence Shamblin Georgia Mae Fisher",
+    "spouses": "Ruth Laverne McKinney (1932–2018)",
+    "children": "Susan Ruth Shamblen (born 25 November 1960) Tricia Marie Shamblen (1965–2016)",
+    "siblings": "Betty Carolyn Shircliff (born 1934) Lowell Harold Shamblen (born 1935) Clifford Earl Shamblen (born 1938)"
+  },
+  {
+    "id": "g5-ruth-laverne-mckinney",
+    "generation": 5,
+    "name": "Ruth Laverne McKinney",
+    "url": "https://rickbrew13.github.io/american-bloodline/ruth-laverne-mckinney/",
+    "parents": "Dallas Cecil McKinney Laverne Hurt",
+    "spouses": "Lawrence Richard Shamblen (1932–1968) James Thomas “Tom” McGregor (1937–2022)",
+    "children": "Susan Ruth Shamblen (born 25 November 1960) Tricia Marie Shamblen (22 April 1965 – 2016)",
+    "siblings": "Jackson Ahmeek McKinney (born 21 January 1924; died 2014) Edgar A. McKinney (6 October 1928 – 2018) Edna McKinney (12 January 1931 – 2002)"
+  },
+  {
+    "id": "g5-james-thomas-mcgregor",
+    "generation": 5,
+    "name": "James Thomas \"Tom\" McGregor",
+    "url": "https://rickbrew13.github.io/american-bloodline/james-thomas-mcgregor/",
+    "parents": "Rev. James William McGregor Marye Elizabeth (Hooper) McGregor",
+    "spouses": "Ruth Laverne McKinney (married 10 July 1976)",
+    "children": "Susan Ruth Shamblen (born 25 November 1960; stepdaughter) Tricia Marie Shamblen (22 April 1965 – 2016; stepdaughter)",
+    "siblings": "William Clarence “Bill” McGregor (14 April 1936 – 2 June 2021) Wayne Martin McGregor"
+  },
+  {
+    "id": "g5-betty-carolyn-shircliff",
+    "generation": 5,
+    "name": "Betty Carolyn Shircliff",
+    "url": "https://rickbrew13.github.io/american-bloodline/betty-carolyn-shircliff/",
+    "parents": "Arvel Lawrence Shamblin (1909–2001) Georgia Mae Fisher (1909–1988)",
+    "spouses": "Robert Lee Hoff (9 June 1930 – 20 July 2007) James Wayne Shircliff (24 April 1932 – 3 February 2018; married December 1979)",
+    "children": "Gregory Paul Hoff (born 22 February 1958) Douglas Earl Hoff (born 15 August 1959)",
+    "siblings": "Lawrence Richard Shamblen (1932–1968) Lowell Harold Shamblen (born 1935) Clifford Earl Shamblen (born 1938)"
+  },
+  {
+    "id": "g5-james-wayne-shircliff",
+    "generation": 5,
+    "name": "James Wayne Shircliff",
+    "url": "https://rickbrew13.github.io/american-bloodline/james-wayne-shircliff/",
+    "parents": "James Edward Shircliff Rita Pauline French Shircliff",
+    "spouses": "Betty Carolyn Shircliff",
+    "children": "Unknown",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-robert-lee-hoff",
+    "generation": 5,
+    "name": "Robert Lee Hoff",
+    "url": "https://rickbrew13.github.io/american-bloodline/robert-lee-hoff/",
+    "parents": "Harry Earl Hoff Sr. Edith Elizabeth Samples Hoff",
+    "spouses": "Betty Carolyn Shircliff",
+    "children": "Gregory Paul Hoff (born 22 February 1958) Douglas Earl Hoff (born 15 August 1959)",
+    "siblings": "Unknown"
   }
 ]
