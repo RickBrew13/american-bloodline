@@ -1,0 +1,2 @@
+# Photo recovery — 2026-10-03
+- `pictures/spring-grove-cemetery-lake-mausoleum.jpg` — RECOVERED. Carol M. Highsmith, Library of Congress (public domain), Spring Grove Cemetery lake view with fountain and mausoleum-form structure, autumn trees. Grade: exact-place (Spring Grove grounds, NOT Richard's grave). Note: this is a different Highsmith frame than the lost original (which showed a mausoleum reflection with swan); caption should describe what's shown.
