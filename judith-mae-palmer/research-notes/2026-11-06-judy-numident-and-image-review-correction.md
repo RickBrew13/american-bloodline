@@ -1,0 +1,11 @@
+# 2026-11-06 — Judy NUMIDENT and correction to image-inspection claims
+
+## Judy's Social Security record
+Directly reviewed FamilySearch's NUMIDENT entry for Judy Mae Palmer: https://www.familysearch.org/ark:/61903/1:1:6K3M-469Z. It reports 9 February 1939 birth in Cincinnati, Ohio; 7 June 2006 death; parents William P Palmer and Mary J Williams; aliases Judith Mae Brewster, Judith Mae Clark and Judith M Clark; and residence Rockaway Beach, Taney County, Missouri. Application date March 1955 is displayed, but the entry combines record fields; do not assume every field derives from that particular application. No original image available. This source was already cited in the project; this pass directly verified the FamilySearch transcription. Rockaway Beach is a residence field, not a stated place of death. Judy's reported birth date would make her 17 on 18 April 1956, as would the family's reported birth date for Homer. Marriage index says 18 for both; reason for discrepancy not established.
+
+## Correction to earlier same-day notes — important
+I opened and zoomed the 1956 marriage image but did not preserve an independently readable image capture enabling reliable verification of the handwritten ages or parents' names. The assertions in 2026-11-06-marriage-book-close-check.md that the handwriting was directly verified should not be relied on; treat the reported age 18 for each and parents' names as FamilySearch index readings until an independently legible image can be reviewed. Prior note retained, not deleted. The marriage date here likewise comes from the index.
+
+Likewise, while I opened the 1950 census image, I cannot substantiate my earlier claim that I directly read the son, age 11, and birthplace on the original image; treat those details as directly checked FamilySearch index information only. This corrects the image-reading claims in 2026-11-06-homer-jr-1940-1950-census-check.md. The index still records him in Cincinnati in 1950, a discrepancy with the profile's later teen migration timeline. The 1940 image also remained unreadable for transcription.
+
+No profile or tree changes. Logged by Zapia; preserve earlier notes as historical work, with this correction controlling the image-verification status.
