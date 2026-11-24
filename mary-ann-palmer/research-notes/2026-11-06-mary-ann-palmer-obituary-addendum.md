@@ -1,0 +1,3 @@
+# Mary Ann Palmer — obituary lead addendum (2026-11-06)
+
+Following the initial Mary Ann person pass, directly checked the Cincinnati Enquirer obituary for Robert William Henderson: https://www.cincinnati.com/obituaries/pwoo1199284 (posted 9 June 2025). It names “Penny Spiess” and Mary Ann Palmer as Robert's first cousins. This is independent obituary evidence that the two named women belong to the same reported sibling group; it does not give Mary Ann's birth date or establish that Penny is Penelope Jane Palmer. Keep the identity bridge unresolved. No profile/tree edits; living status remains unknown and private status unchanged.
