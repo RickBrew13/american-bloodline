@@ -1,0 +1,24 @@
+# Ruth Laverne McKinney — FULL Tricia's Ancestry tree pull
+Source: "Tricia's Shamblen/McKinney Family Tree" (tree 44342901, owner Michael Calhoon; Rick = Contributor), as harvested read-only 2026-10-31 and inventoried 2026-11-01. Nothing edited, copied to another tree, or purchased.
+LIMIT — READ FIRST: As a generic subagent I cannot sign in to Ancestry or run a live browser. This is a FULL re-pull from the last verified harvests (2026-10-31 harvest note + 2026-11-01 full inventory), not a fresh live read of Ruth's Tricia-tree profile today. Any change to her Tricia-tree profile after 2026-11-01 would NOT be in here — a fresh live check by the parent agent is still owed before calling the Ancestry pull current.
+
+## Ruth Laverne McKinney — Tricia-tree person 6189636141
+- Header: Birth "10 Jul", Beckley, Raleigh, West Virginia — NO birth year shown anywhere on her tree (header or timeline fact). Death: 7 Jul 2018, Cincinnati, Hamilton, Ohio — 0 sources attached to the death fact.
+- Facts (7, as inventoried): Name (3 sources); Birth 10 Jul, Beckley, Raleigh, WV (1 source: 1940 Census, Town, Raleigh, WV, Roll m-t0627-04443, Page 6B, ED 41-38; household Dallas 35, La Verne 33, Jack 16, Edgar 11, Edna 9, Ruth 7, 1st grade; Ruth's age 7 = record estimate abt 1933 only); Residence 1935, Town, Raleigh, WV (same 1940 census); Residence 1940, Town, Raleigh, WV, Single, Daughter (same census); Marriage 1955, Kanawha, West Virginia, to Lawrence Richard Shamblen (1 source: West Virginia, Marriages Index, 1785-1971); Death 7 Jul 2018, Cincinnati, Hamilton, OH (0 sources).
+- Sources (3 total): 1940 Census; West Virginia, Marriages Index, 1785-1971; OneWorldTree (name only).
+- Family as shown: Parents Dallas Cecil Mckinney (1904–1958) x Laverne Hurt (1906–1986). Siblings: Jackson Ahmeek McKinney (1923– AND 1923–2014, duplicate — one person, NOT two), Edgar Alba Mckinney (1928–2018), Dr. Edna Ellen McKinney (1931–2002). Spouses: Lawrence Richard Shamblen (1932–1968) and, under a separate Spouse heading, James Thomas McGregor (no dates shown on that heading in the harvest). Children: Susan Ruth Shamblen (1960–), Tricia Marie Shamblen (1965–2016).
+- Gallery (1 item, NO albums, NO stories): the wedding photo, same file as Lawrence's gallery item 3 (lawrence-shamblen-ruth-mckinney-wedding-ancestry.jpg, 160,833 bytes, md5 94cf6b97...), already in Lawrence×Ruth Pictures. Her Gallery Sources tab shows only the 1940 Census, NOT the marriage-register document.
+- Notes on her tree profile: NONE recorded. Comments on her tree profile: NONE recorded (the only Ancestry comment recorded for this family is Michael Calhoon's left-to-right caption on the four-children photo on Lawrence's profile: "Clifford, Lowell, Betty, and Richard").
+- Unresolved label, preserved only: every fact modal showed "2001–2018" under the name heading — reported as a label only, NOT a date range, and NOT used anywhere.
+- Profile image on her tree: the wedding photo (not a solo portrait). Her Rick-tree Ancestry profile (162808572278) gallery was EMPTY in the 2026-10-31 survey, profile image a generic silhouette — the "add her portrait" question for Rick's tree remains open, not auto-added.
+
+## What was NEW vs Ruth's live website page
+- NOTHING new as a fact: birth 10 Jul Beckley, 1955 Kanawha marriage, 7 Jul 2018 death, parents, siblings, both husbands, both daughters were already on the page or in the folder.
+- What the pull CONFIRMS for the page patch: 1940 residence (Town, Raleigh, WV) as a DOCUMENTED timeline item; 1955 Kanawha marriage as DOCUMENTED (register, not family account alone); Tricia's tree gives NO birth year for Ruth — our Jul 10, 1932 stands from Geni + family record, and must NOT be "corrected" from her tree.
+- What the pull does NOT settle: Ruth's 1932 WV birth record image (Ancestry WV Births Index entry, FHL Film 567211, cited for Lawrence's birth in the inventory — Ruth's own birth image was NOT pulled; FamilySearch WV birth collections end 1930); her 2018 death record/obituary (0 sources on her tree; Ohio Death Index ends 2007; ODH order $21.50 is the documented route, Rick's call, NOT ordered); the 1976 Tom marriage record (no source on Geni either).
+
+## Images/documents from this pull — filing status
+- Wedding photo: already in Lawrence×Ruth Pictures (lawrence-shamblen-ruth-mckinney-wedding-ancestry.jpg) — NOT re-filed, NOT added to Ruth's page gallery as a third wedding photo (page already carries two wedding photos).
+- Marriage register pp. 306–307: already in Lawrence×Ruth Documents and as a public Geni document (6000000228455070134) — NOT re-filed; now cited as DOCUMENTED on Ruth's page.
+- 1940 census image (Ruth, Town, Raleigh): already in Lawrence×Ruth Documents (ruth-laverne-mckinney-1940-census.jpg) — NOT re-filed; now a DOCUMENTED timeline item on the page.
+- No new image or document from Tricia's tree for Ruth was found in this pull to file.
