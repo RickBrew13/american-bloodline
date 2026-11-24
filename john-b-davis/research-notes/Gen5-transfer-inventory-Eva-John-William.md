@@ -1,0 +1,18 @@
+# Gen V Drive-to-GitHub inventory: Eva Luft, John Davis and William VanHorn
+
+Ten Markdown files and two Google Docs appear in the shared/individual folder tree. The Markdown research notes are copied into the existing Eva and John archives; the shared audit is canonical in John’s archive and referenced from Eva’s. Three John findings-note copies are byte-identical and represented by one GitHub copy. The two Google Docs remain untouched/unread/unexported under the standing restriction. No Drive originals were moved or deleted.
+
+| Drive source ID | Drive path | GitHub copy/reference | Handling |
+|---|---|---|---|
+| `13KFotpY6MFVLzF7hpUpmhIkPVW-NXHnv` | Eva L. Luft × John B. Davis × William Allen VanHorn — shared family archive/Notes/2026-11-13-eva-l-luft-photo-search.md | `eva-l-luft/research-notes/2026-11-13-eva-l-luft-photo-search.md` | Copied and verified. |
+| `1xgZEOVFDdguj-heHaROTz4Y_pKzQIQhv` | Eva L. Luft × John B. Davis × William Allen VanHorn — shared family archive/Notes/2026-11-15-eva-l-luft-findings.md | `eva-l-luft/research-notes/2026-11-15-eva-l-luft-findings.md` | Copied and verified. |
+| `1L_ekWUsLei0xXUPoyhy72FIxHOtOtIeW` | Eva L. Luft × John B. Davis × William Allen VanHorn — shared family archive/Notes/2026-11-19-eva-john-vanhorn-shared-family-audit.md | `john-b-davis/research-notes/2026-11-19-eva-john-vanhorn-shared-family-audit.md` | Shared three-person audit; canonical copy filed with John research and referenced from Eva archive. |
+| `16pKAXSIxxw8xM2XJTO1rjfcC0ZXdtxXT` | Eva L. Luft × John B. Davis × William Allen VanHorn — shared family archive/Notes/2026-11-19-eva-luft-deep-audit.md | `eva-l-luft/research-notes/2026-11-19-eva-luft-deep-audit.md` | Copied and verified. |
+| `1eG6nfNApjOs_Y-2aicPYBTUeC5uYyU-e` | Eva L. Luft × John B. Davis × William Allen VanHorn — shared family archive/Notes/2026-11-19-john-b-davis-deep-audit.md | `john-b-davis/research-notes/2026-11-19-john-b-davis-deep-audit.md` | Copied and verified. |
+| `1phqV_MlUytqsv_NXx2Tdfoz8XG--AHTI` | Eva L. Luft × John B. Davis × William Allen VanHorn — shared family archive/Notes/john-b-davis-findings.md | `john-b-davis/research-notes/john-b-davis-findings.md` | Canonical copy of repeated John findings note; exact duplicate Drive IDs listed in inventory. |
+| `1SkZGYFEir6r1zcqPhhcrJFdcYh2qKTSW` | Eva L. Luft × John B. Davis × William Allen VanHorn — shared family archive/Notes/john-b-davis-findings.md | `john-b-davis/research-notes/john-b-davis-findings.md` | Exact duplicate of canonical John findings note source 1phqV... . |
+| `1B62acoTnleak788wdBtXRYgHGfexszDFFC9rJEoOG-s` | Eva L. Luft × John B. Davis × William Allen VanHorn — shared family archive/Profile/Eva L. Luft - Profile | `Not copied` | Google Doc left untouched and unread/exported per standing restriction. |
+| `12sb-bqfBoEGBK2HdDTuK_jRoCsWab8Uc` | John B. Davis/Notes/2026-11-13-john-b-davis-photo-search.md | `john-b-davis/research-notes/2026-11-13-john-b-davis-photo-search.md` | Copied and verified. |
+| `17B_ZJX1XjDKxy7eAiN-uFQA4sbeoOUf1` | John B. Davis/Notes/2026-11-15-john-b-davis-gen5-dig-findings.md | `john-b-davis/research-notes/2026-11-15-john-b-davis-gen5-dig-findings.md` | Copied and verified. |
+| `1ko5wvYT_wm9U0t9Sy7efPxMMYyybvBiG` | John B. Davis/Notes/john-b-davis-findings.md | `john-b-davis/research-notes/john-b-davis-findings.md` | Exact duplicate of canonical John findings note source 1phqV... . |
+| `1fmtEE9S7tUNgM0rcyvKcjBtTwtCvJ2-P1KA03VroJs4` | John B. Davis/Profile/John B. Davis - Profile | `Not copied` | Google Doc left untouched and unread/exported per standing restriction. |
