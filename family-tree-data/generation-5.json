@@ -198,5 +198,105 @@
     "spouses": "Aileene Willie Brewster",
     "children": "Julie Marlene (Asher) Korman (2 September 1964 – 10 July 2004) Charlene (Asher) Eubanks (about 1967 – 1 January 2009) Greg Asher",
     "siblings": "Unknown"
+  },
+  {
+    "id": "g5-samuel-g-campbell",
+    "generation": 5,
+    "name": "Samuel G. Campbell",
+    "url": "https://rickbrew13.github.io/american-bloodline/samuel-g-campbell/",
+    "parents": "Logan Ira Campbell (1897–1970) Ora Foster Campbell (1898–1988)",
+    "spouses": "Janice E. (Woodrum) Campbell",
+    "children": "Rhonda Sue (Campbell) Brewster (born 23 October 1963) Connie Renee Campbell (d. 13 June 1959) Marva Charlene Campbell (12 April 1955 – 9 August 1962)",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-janice-e-woodrum-campbell",
+    "generation": 5,
+    "name": "Janice E. (Woodrum) Campbell",
+    "url": "https://rickbrew13.github.io/american-bloodline/janice-e-woodrum-campbell/",
+    "parents": "Unknown",
+    "spouses": "Samuel G. Campbell",
+    "children": "Rhonda Sue (Campbell) Brewster (23 October 1963)",
+    "siblings": "Mildrum “Junior” Woodrum Wilda Jean Woodrum Bobbie Woodrum William Clement Woodrum Alta Roe Woodrum Velma M. Woodrum Anna Charlene Woodrum"
+  },
+  {
+    "id": "g5-joseph-leslie-collins",
+    "generation": 5,
+    "name": "Joseph Leslie Collins",
+    "url": "https://rickbrew13.github.io/american-bloodline/joseph-leslie-collins/",
+    "parents": "Joseph Collins Sarah Johnson",
+    "spouses": "Ruby Mae Pugh (born about 1923)",
+    "children": "Leslie Mae (Collins) Niles (28 July 1940 – 6 June 2003)",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-ruby-mae-pugh",
+    "generation": 5,
+    "name": "Ruby Mae Pugh",
+    "url": "https://rickbrew13.github.io/american-bloodline/ruby-mae-pugh/",
+    "parents": "Cornelius Pugh Rosabelle (Grant / White) Pugh",
+    "spouses": "Joseph Leslie Collins (married 15 November 1939) George Howard Moore (married 5 February 1945)",
+    "children": "Leslie Mae (Collins) Niles (28 July 1940–6 June 2003) George Howard Moore Jr. (1947–2006)",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-stanley-william-cossman",
+    "generation": 5,
+    "name": "Stanley William Cossman",
+    "url": "https://rickbrew13.github.io/american-bloodline/stanley-william-cossman/",
+    "parents": "Stanley Peter Cossman Beulah Mae Cornett Cossman",
+    "spouses": "Monica Lynn (Wise) Cossman Kathryn (Coffey) Cossman",
+    "children": "Samuel (Sam) Cossman Matthew Cossman Daniel Cossman Ashley Cossman",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-monica-lynn-cossman",
+    "generation": 5,
+    "name": "Monica Lynn Cossman",
+    "url": "https://rickbrew13.github.io/american-bloodline/monica-lynn-cossman/",
+    "parents": "Samuel P. Wise Virginia (Greiner) Wise",
+    "spouses": "Stanley William Cossman (married 30 June 1976)",
+    "children": "Unknown",
+    "siblings": "Unknown"
+  },
+  {
+    "id": "g5-kathryn-coffey-cossman",
+    "generation": 5,
+    "name": "Kathryn (Coffey) Cossman",
+    "url": "https://rickbrew13.github.io/american-bloodline/kathryn-coffey-cossman/",
+    "parents": "Clyde Estill Coffey Dora (Dobbs) Coffey",
+    "spouses": "Stanley William Cossman",
+    "children": "Daniel Cossman Ashley Cossman",
+    "siblings": "Harold Coffey Helen Panko Norman Coffey Opal (Coffey) Stewart"
+  },
+  {
+    "id": "g5-william-m-dague",
+    "generation": 5,
+    "name": "William M. Dague",
+    "url": "https://rickbrew13.github.io/american-bloodline/william-m-dague/",
+    "parents": "Woodrow W. Dague Ruth A. (Kevelder) Dague",
+    "spouses": "Dorothy Ann (McCartt) Doney",
+    "children": "Dewayne Miles Dague (17 December 1964 – 2002)",
+    "siblings": "Robert A. Dague (21 August 1937 – 14 October 2000)"
+  },
+  {
+    "id": "g5-dorothy-ann-mccartt-doney",
+    "generation": 5,
+    "name": "Dorothy Ann (McCartt) Doney",
+    "url": "https://rickbrew13.github.io/american-bloodline/dorothy-ann-mccartt-doney/",
+    "parents": "William “Bill” McCartt Flora (Strunk) McCartt",
+    "spouses": "William M. Dague (1937–2011) Mr. Babington Robert L. Doney (1947–2004)",
+    "children": "Dewayne Miles Dague (17 December 1964 – 14 April 2002)",
+    "siblings": "Nellie J. (McCartt) Bridges (6 August 1929 – 28 May 2021) John “Jack” McCartt Melvin McCartt Thelma Frazier Kenneth McCartt Denny McCartt (12 July 1945 – 10 November 2018) Janice McCartt"
+  },
+  {
+    "id": "g5-dell-m-fields",
+    "generation": 5,
+    "name": "Dell M. Fields",
+    "url": "https://rickbrew13.github.io/american-bloodline/dell-m-fields/",
+    "parents": "Dell Fields Cora (Carubba) Fields Mullins",
+    "spouses": "Beverly Jane Marcum (married 21 August 1982)",
+    "children": "Richard Tara Michelle Marcum (Tara Michelle Moore) Toni Dell Robert",
+    "siblings": "Garry Allen Dave Anthony Joy Dianne"
   }
 ]
