@@ -9,6 +9,16 @@ FamilySearch, United States Census 1940, Homer W Brewster, https://www.familysea
 ## 1950 — Cincinnati, Ohio
 FamilySearch, United States Census 1950, Homer Brewster Jr., https://www.familysearch.org/ark:/61903/1:1:6XYB-5MCR; index places him age 11, son, Tennessee-born, in Cincinnati, Hamilton County, on 15 April 1950; ED 91-136, p. 3, line 19. FamilySearch indexes the head as Homer N Brewster, age 38, and his wife Sarah H, age 38; the 1940 index calls the head Homer W. The 1950 middle initial should remain as indexed until original handwriting can be securely read, not silently harmonized. Its index lists Eugene E, Elmer, Earl and Aleene W with the household. Original image https://www.familysearch.org/ark:/61903/3:1:3QHK-SQHW-79GJ-Y opened and magnified: the son's line appears to read Homer Jr, son, age 11, born Tennessee. Do not rely on the image for the father's ambiguous initial without closer transcription. The precise birth date is not stated by either census.
 
+## Earlier Cincinnati connection through Eunice — qualified secondary-index lead
+
+Eunice Edna Brewster's profile cites the Social Security Applications and Claims Index as giving her birth on **22 December 1930 in Cincinnati, Ohio**, with parents indexed as “Willie H Brewster” and Sarah H Kelley. The profile links a SortedByName transcription of that index. This is not an original birth certificate and the father's first/middle-name rendering is inconsistent with the family record; use it only as a qualified birthplace lead.
+
+If the Cincinnati birthplace is accurate, the family was in Cincinnati at Eunice's birth in 1930, was enumerated in Morgan County, Tennessee, in 1940, and was back in Cincinnati by April 1950. This suggests more than one move between Tennessee and Ohio, not one continuous migration north during Homer's adolescence. Exact move dates and routes remain unknown. The 1940 census index lists Eunice in the Morgan County household but its image has not been legibly transcribed; do not claim her 1940 birthplace or age from the image until it is re-read.
+
+Sources:
+- Eunice profile and source notes: https://rickbrew13.github.io/american-bloodline/eunice-burton/
+- Social Security index transcription: https://sortedbyname.com/letter_b/brewster/index_307.html
+
 ## Reconciliation and handoff
 These independent census indices are consistent with Rick's account and the Ohio death index (1939 birth, Tennessee, mother Kelly), but neither proves that Kelly was Sarah's maiden name on its own. The two censuses support roughly 1939 and a child in his parents' household; the 1950 image and index establish Cincinnati residence by April 1950, which directly conflicts with the current individual profile's timeline claim that he moved to Cincinnati in the 1950s as a teen. Recommend Muse revise to 'living with his family in Cincinnati by April 1950, age 11' with the source and preserve any family account about later moves separately. The profile's narrative that he met Judy in Ohio remains family account, not proven by the census. Do not automatically change birth county or exact birth date to documented, and keep mother's maiden name anchored to proper sources.
 
