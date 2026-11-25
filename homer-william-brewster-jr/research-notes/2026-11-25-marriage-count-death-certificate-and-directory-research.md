@@ -68,14 +68,30 @@ Priority years and areas to check:
 
 No directory entry for Homer Jr. has been verified in this sweep. Do not infer an occupation from his parents' 1950 census occupations or from another Homer Brewster.
 
-## 4. Remaining record tasks
+## 4. Selective Service and military record request
+
+Homer was born 18 March 1939 and turned 18 on 18 March 1957. He was therefore within the Selective Service registration period; his birth year is not among the later years exempted when registration was suspended. No military service has been established from the online research completed so far.
+
+The Selective Service System confirms that records for men born before 1 January 1960 are held by the National Archives. NARA's St. Louis facility holds the WWII-through-Vietnam-era records for men born 28 April 1877 through 28 March 1957. The available individual records are:
+- **Draft Registration Card (SSS Form 1): $7** — may provide name, registration number, date/place of birth, residence at registration, and physical description.
+- **Classification History (SSS Form 102): $27**, including the registration card — may show classification, examination, induction or entry into active duty, branch, and separation information.
+
+Request route:
+- National Archives at St. Louis, ATTN: RRPOR, P.O. Box 38757, St. Louis, MO 63138-0757
+- Email: **stl.archives@nara.gov**
+- Official NARA instructions and request form: https://www.archives.gov/st-louis/selective-service
+- Selective Service confirmation that pre-1960 registrant records are at NARA: https://www.sss.gov/history-and-records/
+
+The most useful request is the **Classification History (Form 102)** because it includes the card and may establish whether Homer entered active duty, the branch and separation date, or another classification. Use the exact full name, date of birth, and likely 1957 residence in Cincinnati/Hamilton County, Ohio. No request has been submitted and no fee has been paid.
+
+## 5. Remaining record tasks
 
 1. Obtain the 1968 Hamilton County divorce case number and complete petition-through-decree file. The separate Homer-specific retrieval note gives the Clerk's official search and request route.
 2. Identify Homer's pre-Judith marriage using Ohio's county marriage records, the statewide marriage abstract index, and likely neighboring-state records. Search surname and name variants and use his age/birth date, not just the exact full name.
 3. Obtain the 1977 divorce and marriage abstracts and the 1978 divorce file/abstract to reconcile the Homer/Flora marriage sequence.
 4. Request the 2000 death certificate (076423) if authorized to incur the $25 fee.
 5. Work through Cincinnati and suburban directories for addresses, occupation, employer, spouse listings, and later residences.
-6. Keep military, religion, cause of death, and the 1998 Osprey, Florida public-record hit unconfirmed unless primary evidence is found.
+6. Request Homer's Selective Service Classification History (SSS Form 102) from NARA St. Louis if authorized; this may establish military status and a 1957 address. Until then, military service remains unconfirmed. Religion, cause of death, and the 1998 Osprey, Florida public-record hit also remain unconfirmed unless primary evidence is found.
 7. Keep Edna Sharon Bailey in the profile as an unresolved marriage lead only. The reported 18 June 1966 Franklin County, Indiana marriage has not been independently verified.
 
 ## 5. Source and attribution rules
