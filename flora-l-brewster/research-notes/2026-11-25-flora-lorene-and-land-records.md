@@ -42,6 +42,18 @@ Obtain the complete deed from Flora Lorene Brewster to David K. Hood and Cynthia
 
 The Recorder's guide says books 4062–4414 can only be viewed on Recorder's Office computers; book 4144 falls in that range. The Recorder's office instructions are here: https://recordersoffice.hamilton-co.org/helpful_information/help_deeds_21-4414.html. The 1975 and 1976 books (4025 and 4040) fall within the stated online range 3225–4061, accessible through the Recorder's Book/Page search.
 
+## Additional route for the 1977 marriage application
+
+FamilySearch's statewide **Ohio, County Marriages, 1789–2016** collection includes licenses, certificates, declarations, affidavits, loose documents, and abstracts. Its description says individual images may include the applicants' ages, residences, birthplaces, occupations, parents (including the mother's maiden name), and witnesses. This makes it a potentially valuable route to the original 12 September 1977 application, not just the index.
+
+- Collection: https://www.familysearch.org/en/search/collection/1614804
+- Search target: Flora L. Brewster and Homer William Brewster Jr., Hamilton County, Ohio, 1977.
+- Known index locator: Hamilton County Marriage Licenses, volume 13, page 1432; FamilySearch index image 123 of 207.
+- Hamilton County Recorder's FamilySearch instructions: https://recordersoffice.hamilton-co.org/helpful_information/family_search.html
+- Hamilton County Genealogical Society marriage-record guide: https://www.hcgsohio.org/cpage.php?pt=60
+
+The collection's image browser was opened to the Hamilton County waypoint, but the page returned a FamilySearch “Something went wrong” error in this research session. I did not retrieve or inspect the 1977 license image, and I am not claiming that this exact volume/page is present in the collection. A free FamilySearch account is required for many image views. The original completed license remains on file with the Hamilton County Probate Court; a copy can be requested from the court if the FamilySearch image is unavailable.
+
 ## Family, children, parents, siblings, and photographs
 
 This pass did not identify a reliable record naming Flora's parents, siblings, children, maiden name, or prior spouses. The 1977 marriage index reports two previous marriages but does not identify the former spouses in the index extract currently available. The separate March 1977 divorce index's “no minor children” applies only to that case if it is correctly attributed; it does not establish that Flora never had children from any marriage.
