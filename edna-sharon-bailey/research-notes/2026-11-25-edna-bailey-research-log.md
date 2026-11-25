@@ -63,3 +63,13 @@ Next targets:
 - No record request has been submitted and no paid records have been ordered.
 
 **Research status:** In progress. Do not mark Edna complete.
+
+## 7. New paternal-family photograph lead — Jackson County, Christmas Day 1923
+
+A Jackson County KYGenWeb photo-album page identifies a family photograph taken in Jackson County on **25 December 1923**. Its caption names **William C. “Bill” Bailey** and **Elizabeth “Byrd” Bailey** as the older couple and identifies **James “Boyd” Bailey** among the children in the front row. The caption also names several other Bailey family members, including Ida Bailey Lakes, Elbert Bailey, Ethel Bailey Burke, Ellen Bailey Gabbard, Albert Bailey, Stanley Bailey, Robert Bailey, and William “Lloyd” Bailey. The photograph is consistent with the 1939 marriage record's reported parents for James (W. C. Bailey and Elizabeth Bailey), and it offers a promising path to identify James's siblings and paternal grandparents. It is a captioned family photograph, not a civil record; use as corroborating family-history evidence and seek the original contributor/source and records for each relationship.
+- Photo album/caption: https://kygenweb.net/jackson/images/countyphotoalbum/bailey/slides/Christmas%20Day%2C%201923.html
+- Direct photograph: https://kygenweb.net/jackson/images/countyphotoalbum/bailey/Christmas%20Day%2C%201923.jpg
+
+**Important same-name distinction:** the caption also names an **Edna Bailey** in the 1923 photograph. That person cannot be Edna Sharon Bailey, whose indexed birth is 6 December 1939. Do not merge the two Ednas or use the older Edna's appearance/family role as evidence about Edna Sharon. The photo is useful here because it identifies James “Boyd” Bailey and the older Bailey family, not because it depicts our subject.
+
+The page states that the image was taken in Jackson County on Christmas Day 1923 and that the back carried the handwritten note “All the Bailey's at this time, many more later.” The caption is a secondary identification and its contributor/provenance should be traced if possible.
