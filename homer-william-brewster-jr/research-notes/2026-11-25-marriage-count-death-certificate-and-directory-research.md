@@ -43,6 +43,16 @@ This count needs to be checked against the actual 1968 divorce abstract and comp
 
 The strongest working reconstruction is therefore: an unidentified first marriage before 1956; marriage two to Judith in 1956, ending in the 1968 divorce; marriage three to Flora in 1977, ending in the 1978 divorce. This reconstruction depends on the accuracy and identity of the Ohio index entries; it does not identify the first wife. Edna Sharon Bailey's alleged 1966 marriage remains an unverified and chronologically unresolved lead, not the identified first wife. The original 1968 and 1977–1978 abstracts, marriage license, and case files are needed to settle the sequence. The family account of repeated Homer/Judith marriages also remains separate from what the indexes prove.
 
+## 2. 1930 Cincinnati birthplace clue for Eunice — family movement was not one-way
+
+Eunice Edna Brewster's Social Security Applications and Claims Index transcription gives her birth as **22 December 1930, Cincinnati, Ohio**. The index names her father as **“Willie H. Brewster”** and her mother as **Sarah H. Kelley**. The father's given-name form does not exactly match Homer William Brewster Sr., so this index alone cannot establish that the 1930 Cincinnati birth belongs to the same Homer/Sarah couple. However, Eunice's 1987 family death notice identifies her as daughter of **Homer Brewster and Sarah Brewster**, and the 1940 census index places Eunice in the parents' Morgan County, Tennessee household. The original 1950 census image then places Homer Jr. in Cincinnati by age eleven.
+
+**Working conclusion:** the family appears to have had an earlier Cincinnati period, then was in Morgan County by 1940, and was back in Cincinnati by April 1950. Do not write a single uninterrupted “moved north” story or invent exact move dates. The 1930 SSA index is a secondary index and its father-name discrepancy must remain visible.
+
+- SSA Applications and Claims Index transcription for Eunice: https://sortedbyname.com/letter_b/brewster/index_307.html
+- Eunice's 1987 death notice is a family-held newspaper clipping, already cited in her profile.
+- 1940 census index and image: https://www.familysearch.org/ark:/61903/1:1:K4ZX-8KS and https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-D46S
+
 ## 3. Original 1950 census image — direct confirmation of Cincinnati by age eleven
 
 The original National Archives 1950 census sheet was downloaded and visually inspected on 19 November 2026. It is Cincinnati/Hamilton County, Ohio, Enumeration District 91-136, handwritten sheet 3, dated 15 April 1950; Homer Jr. is line 19. The image identifies him as a son, male, age 11, born in Tennessee, in the household of Homer W. and Sarah H. Brewster. The father's initial is visibly W on the original image, although FamilySearch's index transcribes it as N. The image's race column is marked “W,” the enumerator's historical category; it does not establish ethnicity or genetic ancestry. No occupation is entered for Homer Jr., which says nothing about his adult occupation. The father's “Press Operator / Motor Mfg” occupation belongs to Homer Sr., not his son.
