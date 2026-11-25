@@ -5,7 +5,7 @@
 - Shelby Lee Strunk’s 1965 obituary (The Scott County News, 12 Nov. 1965, p. 1) names Flora McCartt of Detroit among his five daughters; memorial/transcription: https://www.findagrave.com/memorial/60817877/shelby-lee-strunk. This supports Shelby as Flora’s father.
 - Flora’s user-contributed memorial https://www.findagrave.com/memorial/105862078/flora_g-mccartt links Shelby and Nellie Phillips as parents.
 - Nellie Phillips Strunk’s 1924 obituary transcription says she was wife of S.L. Strunk and left seven children, two deceased: https://www.findagrave.com/memorial/139743759/nellie-strunk. Seigal Strunk’s obituary/memorial names Shelby and Nellie as his parents and Flora among his sisters: https://www.findagrave.com/memorial/38216997/seigal_james-strunk.
-- Nellie is retained as a **probable working mother**, not a direct-record proof.
+- Nellie is retained as a **probable working mother, about 60% confidence**. This is a cautious working estimate from the linked memorial parent group, the same Shelby/Nellie family context in Seigal’s obituary and the 2001 family genealogy post; these sources are derivative/possibly related and there is no direct birth record naming Nellie as Flora’s mother.
 
 ## Siblings
 

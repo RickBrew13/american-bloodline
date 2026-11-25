@@ -18,7 +18,7 @@
 ## Memorial and photo evidence
 
 - Bill McCartt memorial 105861992: https://www.findagrave.com/memorial/105861992/bill-mccartt. Flora G. Strunk McCartt memorial 105862078: https://www.findagrave.com/memorial/105862078/flora_g-mccartt. Both link the same spouse and shared marker.
-- Shared marker photo, credited on Find a Grave to Clara McIver: https://images.findagrave.com/photos/2013/56/105862078_136191400449.jpg?size=photos250. Web-extracted text gives Bill 1908–1972 and Flora G. 1910–1977, but The marker text extraction reads only “BILL”; no middle initial is recorded. Use it as a shared-marker image, not a portrait.
+- Shared marker photo, credited on Find a Grave to Clara McIver: https://images.findagrave.com/photos/2013/56/105862078_136191400449.jpg?size=photos250. Web-extracted text gives Bill 1908–1972 and Flora G. 1910–1977, The marker text extraction reads only “BILL”; no middle initial is visible. Use it as a shared-marker image, not a portrait.
 - The Find a Grave entries are user-contributed. The marker text extraction gives a useful cemetery/date clue, but no civil death record or cemetery register was checked.
 
 ## Same-name conflict
