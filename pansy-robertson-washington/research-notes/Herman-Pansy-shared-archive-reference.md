@@ -1,0 +1,1 @@
+The shared Drive inventory for Herman and Pansy Washington is in Herman’s existing archive at `herman-washington/research-notes/Gen5-transfer-inventory-Herman-Pansy.md`. Pansy-specific audit and original headstone image are in this archive. Google Docs and Drive originals remain unchanged.
