@@ -14,13 +14,11 @@
    - Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
    - The entry is visible in the official index around lines 2706–2712 of the web-readable transcription: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
 
-3. **26 November 1969 — Deed Book 3708, page 344.** The official 1969 grantor-to-grantee index lists **“Brewster, Homer et al”** as grantor and **James A. Katsanis** as grantee. This is a new same-surname deed lead. The index does not provide Homer's middle name, age, spouse, or the other grantor(s), so it is **not yet attributed to Homer Jr.** It may relate to Homer Jr., Homer Sr., or another Brewster. Do not add it as a confirmed event to either public profile until the original deed identifies the parties.
-   - Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1969trteb.pdf
-   - Web-readable entry appears in the November 26 sequence at Book 3708, page 344.
+3. **26 November 1969 — Deed Book 3708, page 344.** This “Brewster, Homer et al” → James A. Katsanis entry is no longer treated as a Homer Jr. lead. It is tracked in Homer Sr.'s research folder because a 1966 deed names “Homer & Sarah” as grantees and the 1969 deed may be their later conveyance. That connection is unproven until the original deeds' grantor names and legal descriptions are compared. See Homer Sr.'s note: https://github.com/RickBrew13/american-bloodline/blob/main/homer-william-brewster-sr/research-notes/2026-11-25-1966-apollo-land-company-deed-lead.md
 
 ## How to obtain the original deed images
 
-The Hamilton County Genealogical Society's updated instructions (7/21/2025) describe the Recorder's Acclaim system for historical documents. The relevant books—**3463 (1966), 3708 (1969), 4025 (1975), and 4040 (1976)**—are within the Recorder's stated historical Book/Page retrieval range for this research period.
+The Hamilton County Genealogical Society's updated instructions (7/21/2025) describe the Recorder's Acclaim system for historical documents. The relevant Homer Jr. books—**4025 (1975) and 4040 (1976)**—are within the Recorder's stated historical Book/Page retrieval range. The 1966 and 1969 deed books are tracked separately in Homer Sr.'s folder.
 
 1. Open the Recorder's Acclaim system: https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive
 2. Choose the **BOOK/PAGE** search.
@@ -44,7 +42,7 @@ Until each original deed page is inspected, do not state the property's street a
 
 ## Research priority
 
-Retrieve and inspect the original deed pages for Books 3708/344, 4025/55, and 4040/738. For each, transcribe the full legal description, instrument type, parties, execution/recording dates, consideration, witnesses/notary, and parcel/address exactly. Then use any identified parcel/address to follow ownership history through the Hamilton County Auditor. Keep each transfer separate and file each person's material in that person's own archive.
+Retrieve and inspect the original deed pages for Books 4025/55 and 4040/738. For each, transcribe the full legal description, instrument type, parties, execution/recording dates, consideration, witnesses/notary, and parcel/address exactly. Then use any identified parcel/address to follow ownership history through the Hamilton County Auditor. Keep each transfer separate and file each person's material in that person's own archive.
 
 
 ## Additional route: Hamilton County Auditor ownership cards and historical sales
