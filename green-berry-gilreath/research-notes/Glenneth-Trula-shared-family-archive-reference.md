@@ -1,0 +1,1 @@
+The shared Gen V source inventory for the Glenneth–Trula family folder is in `glenneth-gilreath/research-notes/Gen5-transfer-inventory-Glenneth-Trula.md`. Parent-couple source research is filed in the existing Green Berry and Manuel Foster archives. The documented family relationship claims retain their source-specific grades.
