@@ -1,10 +1,13 @@
-# Correction to Homer Brewster property-index transcription — 25 November 2026
+# Second correction to Homer Brewster property-index transcription — 25 November 2026
 
-A reinspection of the official Hamilton County 1976 grantor-to-grantee index corrects both the date and direction of the Book 4040, page 738 transfer.
+A closer inspection of the actual page image in the official Hamilton County Recorder's 1976 **FROM / TO** index resolves both the direction and the date for Deed Book 4040, page 738.
 
-- 13 August 1975: Wilbur C. Rapp and Ruth are grantors; Homer W. Brewster and Flora L. are grantees. Deed book 4025, page 55. Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1975trter.pdf
-- **8 January 1976:** Homer W. Brewster is the grantor; Flora L. Brewster is the grantee. Deed book 4040, page 738. The entry appears in the January 8 chronological sequence in the official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
+- **5 March 1976:** the index's left column is headed **GRANTOR** and names **Homer W. Brewster**; the right column is headed **GRANTEE** and names **Flora L. Brewster**. The deed reference is Book **4040**, page **738**.
+- The entry appears on printed index page 8 (PDF page 7), in the March 5 date group. It is not January 8.
+- The official PDF is https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf. The entry is visible on the image page with the headings FROM / TO, GRANTOR / GRANTEE, and the March 5 date sequence.
 
-The earlier 25 November research update incorrectly described the 1976 transfer in the reverse direction (Flora to Homer). That statement is superseded by this correction. The deed index shows Homer as grantor and Flora as grantee.
+This supersedes the previous correction note, which correctly identified Homer as grantor and Flora as grantee but incorrectly assigned the date as 8 January 1976. The original March 5 date was correct. Earlier statements that Flora was grantor and Homer grantee were also incorrect.
 
-The earlier March 1976 date was an erroneous inference from the index sequence. The corrected date is 8 January 1976. The original deed has not yet been inspected. Do not infer the property address, deed type, consideration, or reason for transfer. The transfer could be relevant to their household/property history, but it should not be characterized as a divorce settlement without the deed itself.
+The 1975 index separately records Wilbur C. Rapp and Ruth as grantors to Homer W. Brewster and Flora L. as grantees, Book 4025, page 55, on 13 August 1975. The 1979 index records “Flora Lorene Brewster” as grantor to David K. Hood and Cynthia A., Book 4144, page 1074, on 8 January 1979. These may form a chain of title, but the legal descriptions in the original deeds have not been compared; do not assume they concern the same parcel.
+
+The original 1976 deed has not been inspected. Do not infer its legal effect, property address, parcel, consideration, marital-status wording, or reason for transfer. No deed request has been submitted.
