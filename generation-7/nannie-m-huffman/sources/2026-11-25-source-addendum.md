@@ -1,0 +1,6 @@
+# Nannie M. Huffman — source addendum (25 November 2026)
+
+- [FamilySearch 1950 census: Nannie M. Huffman](https://www.familysearch.org/ark:/61903/1:1:6X11-MV5Q) — Valdese, Burke County, North Carolina, ED 12-16, page 13, 10 April 1950. Index gives Nannie age 37, widowed, relationship “daughter”; the two Huffman boys are indexed as grandsons of the household head.
+- [Derivative SortedByName entry: Huffman/Benfield family-name lead](https://sortedbyname.com/letter_b/benfield/index_58.html) — Derivative compilation associates a Grace Irene Huffman / Irene Ben Moore with Richard Benfield and Nannie M. Huffman; underlying record not retrieved.
+- [Derivative SortedByName King index (alternate alias transcription)](https://sortedbyname.com/letter_k/king/index_1759.html) — Lists Grace Irene Huffman / Irene Ben Moore / Grace Irene King with the same reported March 1933 birth and parent leads; derivative compilation only, underlying records not retrieved.
+- [Geni profile for Grace Irene Huffman](https://www.geni.com/people/Grace-Irene-Huffman/6000000150919711890) — Profile ID 6000000150919711890, reviewed as a tree lead in prior research; reports Nannie M. Coleman as mother and no father. Not an original record.
