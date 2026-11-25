@@ -1,6 +1,6 @@
 # Gen V Drive-to-GitHub inventory: Lowell Harold Shamblen, Helen Claire Powell and Evelyn Majors
 
-The Drive tree has 39 non-Doc source rows plus one Fold3 Google Doc. Thirty-one unique source files are byte-identical to existing GitHub files and are referenced rather than duplicated; four unique files are newly copied (three research notes and one Lisa Karen Mountcastle portrait); three Drive source rows are byte-identical duplicates of another source row. The Fold3 Google Doc remains untouched/unread/exported. All Drive originals are still in place. The standalone Lowell–Evelyn folder has only empty subfolders.
+The Drive tree has 39 non-Doc source rows plus one Fold3 Google Doc. Those 39 rows contain 36 unique file contents: 31 byte-identical matches to existing GitHub files, which are referenced rather than duplicated; 5 unique source files copied (4 research notes and Lisa Karen Mountcastle’s portrait); and 3 extra Drive rows that are exact duplicates of other source rows. The Fold3 Google Doc remains untouched/unread/exported. All Drive originals are still in place. The standalone Lowell–Evelyn folder has only empty subfolders.
 
 | Drive source ID | Drive source path | GitHub canonical copy/reference | Handling |
 |---|---|---|---|
