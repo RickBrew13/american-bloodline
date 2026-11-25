@@ -1,0 +1,1 @@
+The shared Mitch–Jeanette source audit is archived in Mitch’s existing research notes. Jeanette’s individual research notes are preserved in her existing archive. All five Drive Markdown notes are represented in GitHub; no Docs/media appear in this shared folder listing, and no Drive originals were changed.
