@@ -11,6 +11,17 @@ The Tennessee State Library & Archives (TSLA) confirms that a statewide marriage
 - TSLA marriage-record periods, search scope, and fees: https://sharetngov.tnsosfiles.com.s3.amazonaws.com/tsla/history/mailcnty.htm
 - TSLA Microfilm Copy Order form (SS-2237): https://tsla.tnsosfiles.com/general/forms/ss-2237.pdf
 
+### Hamilton County, Ohio index check for a possible first marriage before Judith
+
+Because Homer was living in Cincinnati by 1950, the Hamilton County Probate Court's historical marriage index is another plausible place to find the unidentified first marriage. The Court's official index page has separate alphabetic scans for **1953–1957** and **1963–1967**:
+- **1953–1957, B index** (the likely surname section for Brewster): item 257 on the official index page; direct PDF conversion link: https://www.probatect.org/recordsearch/tif2pdf/ConvertBookToPdf.asp?image=xxr.dtl%2FBooks%5Cmarrindx%5C00000059%5CXXXXXXmi19531957b.tif
+- **1963–1967, B index** (check only as a separate cross-check for a possible intervening/duplicate marriage): item 233 on the same official index page.
+- **Official historical index page:** https://www.probatect.org/court-records/archive-categories/marriages/marriage-license-index-%281817-1983%29
+
+The 1953–1957 PDF contains 45 scanned pages but the current web viewer returned a cache error when trying to render its pages; text search found no OCR because it is an image scan. **No search result or absence has been established.** The next check is to inspect the B-index scan for Homer/Homer W. Brewster and then retrieve the matching marriage volume/page from the Probate Court Archive Search. The index is alphabetized by surname and includes groom and bride names, year, volume, and page.
+
+The actual marriage index for 1953–1957 is particularly important because a first marriage before the 18 April 1956 Judith marriage is the leading inference from the 1968 Ohio divorce abstract. If no Hamilton County entry exists, that does not rule out a marriage in another Ohio county or Tennessee; the TSLA statewide index search remains the broader route.
+
 The known **18 April 1956 Fentress County marriage to Judith Mae Palmer** should also be verified from the county's original marriage record. The Fentress County Clerk says marriage licenses dating to January 1903 can be printed in the office; a mailed certified copy requires the full names, date, **$2 per copy plus $3 mail fee**. This can establish the precise legal record and potentially correct the age/ceremony details in the current account. No request has been submitted.
 
 - Fentress County Clerk certified marriage-copy instructions: https://fentresscountytn.gov/certified-copy-marriage-license/
