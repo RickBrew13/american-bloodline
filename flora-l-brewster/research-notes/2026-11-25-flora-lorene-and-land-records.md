@@ -18,7 +18,7 @@ Two earlier Hamilton County deed-index entries show a property connection betwee
 
 1. **13 August 1975**, Deed Book **4025**, page **55**: the grantor index names **Wilbur C. Rapp & Ruth** as grantors and **Homer W. Brewster & Flora L.** as grantees. This records a joint acquisition by the two named buyers. It does not by itself prove marriage or the nature of their relationship.
    - Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1975trter.pdf
-2. **8 January 1976**, Deed Book **4040**, page **738**: the grantee index names **Flora L. Brewster** as grantor and **Homer W. Brewster** as grantee. The index does not state the legal nature of the instrument or why the transfer was made.
+2. **5 March 1976**, Deed Book **4040**, page **738**: the FROM/TO index names **Homer W. Brewster** as grantor and **Flora L. Brewster** as grantee. The index does not state the legal nature of the instrument or why the transfer was made.
    - Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
 
 These transactions establish a property relationship before the September 1977 indexed marriage. They make the separate Ohio divorce-index lead dated 18 March 1977 (Homer W. Brewster and Flora L.; reported seven-year marriage) more important to investigate. They do not resolve the conflict in the marriage-order fields or prove that the March divorce belongs to this Homer and Flora.
@@ -35,7 +35,7 @@ These transactions establish a property relationship before the September 1977 i
 Obtain the complete deed from Wilbur C. Rapp and Ruth to Homer W. Brewster and Flora L. Brewster. It may identify the property's legal description, the grantees' marital status, and their residences.
 
 ### 1976 deed — Book 4040, page 738
-Obtain the complete instrument from Flora L. Brewster to Homer W. Brewster. Determine whether it is a quitclaim, survivorship/title adjustment, sale, or another transfer; inspect execution date, consideration, marital status, and legal description.
+Obtain the complete instrument from Homer W. Brewster to Flora L. Brewster. Determine whether it is a quitclaim, survivorship/title adjustment, sale, or another transfer; inspect execution date, consideration, marital status, and legal description.
 
 ### 1979 deed — Book 4144, page 1074
 Obtain the complete deed from Flora Lorene Brewster to David K. Hood and Cynthia A. Determine whether it identifies her as single, divorced, or otherwise; check residence, signature, marital status, consideration, legal description, and any references to prior title. This is the key record to confirm whether “Flora Lorene Brewster” is the same person as the 1977 marriage applicant Flora L.
@@ -51,7 +51,7 @@ Image search returned a portrait labelled **Flora A. Brewster**, a nineteenth-ce
 ## Current conclusions
 
 - “Flora Lorene Brewster” is a likely full-name lead, not yet a proven expansion of Flora L.
-- A joint property acquisition with Homer is indexed in 1975; a transfer from Flora to Homer is indexed in 1976.
+- A joint property acquisition with Homer is indexed in 1975; a transfer from Homer to Flora is indexed on 5 March 1976.
 - A later deed from Flora Lorene Brewster is indexed on 8 January 1979.
 - The property sequence is consistent with a pre-1977 relationship and makes the 1977 divorce lead worth further investigation, but does not prove a marriage before 1977.
 - Parents, siblings, children, prior spouses, maiden name, death, burial, occupation, and a matching photograph remain unverified.
