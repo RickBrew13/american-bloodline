@@ -191,15 +191,16 @@ The original 1952 Cincinnati directory page has now been inspected. The entry �
 
 - Williams Cincinnati Directory, 1952, p. 1128, transcript lines 180–204 show the SWEET section and Homer (Minnie): https://cdm16998.contentdm.oclc.org/digital/api/collection/p16998coll5/id/260247/download
 
-## 13. Remaining record tasks
+## 13. Remaining record tasks — priority order
 
-1. Obtain the 1968 Hamilton County divorce case number and complete petition-through-decree file. The separate Homer-specific retrieval note gives the Clerk's official search and request route.
-2. Identify Homer's pre-Judith marriage using Ohio's county marriage records, the statewide marriage abstract index, and likely neighboring-state records. Search surname and name variants and use his age/birth date, not just the exact full name.
-3. Obtain the 1977 marriage license and 1978 divorce abstract/case file for the likely third marriage to Flora. Separately obtain the 18 March 1977 divorce abstract/case file to determine whether it is the same couple or a same-name record.
-4. Request the 2000 Ohio death certificate (076423) if authorized to incur the fee. The Ohio Department of Health's current fee is $21.50 per certified copy; its current application covers Ohio deaths within the last 50 years. https://odh.ohio.gov/know-our-programs/vital-statistics/how-to-order-certificates
-5. Work through Cincinnati and suburban directories for addresses, occupation, employer, spouse listings, and later residences.
-6. Request Homer's Selective Service Classification History (SSS Form 102) from NARA St. Louis if authorized; this may establish military status and a 1957 address. Until then, military service remains unconfirmed. Religion, cause of death, and the 1998 Osprey, Florida public-record hit also remain unconfirmed unless primary evidence is found.
-7. Keep Edna Sharon Bailey in the profile as an unresolved marriage lead only. The reported 18 June 1966 Franklin County, Indiana marriage has not been independently verified.
+1. **Test the pre-Judith marriage first.** Request the complete 18 April 1956 Fentress County marriage file (application, license, bond, consent/affidavit, and return) and ask whether Homer reported a previous marriage. In parallel, search TSLA's statewide 1950–1964 marriage index for Homer William/Homer W. Brewster in 1950–1955; the five-year search is paid and has not been submitted.
+2. **Run the statewide Ohio Henschen search.** Search groom surname Brewster and first name Homer, then surname only and name variants. Its results include residence and previous-marriage counts, but the web form could not be submitted from this session; no new statewide search has been run.
+3. **Inspect Hamilton County's 1953–1957 B marriage index** for a pre-Judith marriage. Item 257 on the Probate Court's historical index page is the correct surname section, but its 45-page scan would not render in the current viewer. No result or absence is claimed.
+4. **Obtain the 1968 Hamilton County divorce file** from petition through decree. The separate Homer-specific retrieval note gives the Clerk's official name-search and request route; this may confirm the marriage-order field and provide marriage date, addresses, custody, and support details.
+5. **Obtain the 1977 Homer–Flora marriage license** at Hamilton County Marriage Licenses, **volume 13, page 1432**, plus the application, return, and any marriage-history attachment. Also request the 1978 divorce abstract/case file and the separate 18 March 1977 divorce abstract to test whether it is the same couple or a same-name record.
+6. **Verify identity and life details with original federal/state records.** Request Homer's original SSA SS-5 ($23) and Ohio death certificate 076423 (ODH current fee $21.50; https://odh.ohio.gov/know-our-programs/vital-statistics/how-to-order-certificates). Request NARA St. Louis Selective Service Classification History (SSS Form 102, $27) if authorized; this may establish military status and a 1957 address. No paid request has been submitted.
+7. **Continue directory and property research.** Search Cincinnati, Dayton, Hamilton, and Preble County directories for addresses and occupation. The 1975/1976 Homer–Flora deed images remain uninspected; see the deed retrieval note for Recorder microfilm/copy instructions. The 1969 “Brewster, Homer et al” deed remains in Homer Sr.'s folder pending identification.
+8. Keep Edna Sharon Bailey in the profile as an unresolved marriage lead only. The reported 18 June 1966 Franklin County, Indiana marriage has not been independently verified. Religion, cause of death, and the 1998 Osprey, Florida public-record hit also remain unconfirmed.
 
 ## 14. Source and attribution rules
 
