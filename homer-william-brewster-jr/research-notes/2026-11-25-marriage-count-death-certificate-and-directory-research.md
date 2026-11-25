@@ -134,6 +134,21 @@ Ask for Homer William Brewster, died 27 September 2000, certificate 076423. Ask 
 
 The Dayton Daily News notice dated 29 September 2000 names a Homer Brewster, age 67, formerly of Dayton and of Cincinnati, and lists a memorial service at Newcomer-Barclay. Because this age conflicts with the age 61 implied by Homer's indexed birth and death dates, and the notice gives no middle name or relatives, its identity remains unconfirmed. Do not state the notice proves Homer's service or funeral arrangements.
 
+### Newspaper obituary search — new public route
+
+The Cincinnati & Hamilton County Public Library's **Newsdex** is a public index of local newspaper stories, death notices, and obituaries; no library card is required. It returns citation details (publication, date, page, column) and sometimes notes whether an image accompanies the entry. The library recommends searching death notices by surname first, first name second, in quotation marks: **“Brewster, Homer”**.
+
+- Newsdex search: https://newsdex.chpl.org/
+- CHPL Newspapers/Newsdex description: https://chpl.org/resources-types/newspaper/
+- CHPL Newsdex search tutorial: https://chpl.org/blogs/post/newsdex-upgrade/
+
+If Newsdex has no entry, the Hamilton County Genealogical Society says that when the exact death date is known, CHPL may search newspapers for the **five days after the death date**. For Homer (died 27 September 2000), request a search for 27 September–2 October 2000 in the Cincinnati Enquirer and Cincinnati Post, and ask for any full obituary or death notice:
+- CHPL Magazines & Newspapers: **513-369-6973**, **Magazines@CincinnatiLibrary.org**
+- CHPL Genealogy & Local History research help: **513-369-6909**, **research@CHPL.org**
+- HCGS obituary-copy guidance: https://www.hcgsohio.org/cpage.php?pt=62
+
+CHPL's current page says Newsdex is not comprehensive. The search form could not be submitted through the available web interface here, so no Homer-specific Newsdex search result or absence is claimed. The Cincinnati Enquirer (1841–2009) and Cincinnati Post (1882–2007) full-text databases require a library card; no article has yet been retrieved from them.
+
 ## 7. Obtain the original 1977 Homer–Flora marriage application, not just the index
 
 Hamilton County Probate Court maintains the original marriage licenses. The modern public inquiry system's ordinary Marriage License tab begins in 1984, but the Court separately publishes a historical **Marriage License Index (1817–1983)**. Its **1974–1982** index includes the 12 September 1977 marriage period, is alphabetized by surname, and supplies a year, volume, and page for each entry:
