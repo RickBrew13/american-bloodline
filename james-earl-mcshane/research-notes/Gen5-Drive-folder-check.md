@@ -4,6 +4,6 @@ Checked the Gen V Drive tree on 24 November 2026. James Earl McShane's individua
 
 ## Source-ID reconciliation
 
-| Drive source ID | GitHub destination | Handling |
-|---|---|---|
-| `1Rz_kTa3KCD5ho5U6ZPHBpH1ZBPDjln14vpeDvV6v9o4` | `Not copied (Google Doc)` | Left untouched and not opened/exported under the standing restriction. |
+| Drive source ID | Drive source path | GitHub destination | Handling |
+|---|---|---|---|
+| `1Rz_kTa3KCD5ho5U6ZPHBpH1ZBPDjln14vpeDvV6v9o4` | `James Earl McShane (father of Doris McShane)/Military Records (Fold3)/James Earl McShane - Fold3 military records (Hark 2026-11-15)` | `Not copied (Google Doc)` | Left untouched and not opened/exported under the standing restriction. |
