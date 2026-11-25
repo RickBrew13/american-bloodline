@@ -150,16 +150,18 @@ A relevant county-level collection exists and is more specific than the statewid
 
 The 26 November 1969 “Brewster, Homer et al” → James A. Katsanis deed (Book 3708, p.344) is no longer treated as a Homer Jr. lead. It is tracked in Homer Sr.'s folder as a possible later conveyance of the 1966 Homer & Sarah property; the connection remains unproven until both original deeds' legal descriptions are compared. See [Homer Sr.'s 1966/1969 property research note](https://github.com/RickBrew13/american-bloodline/blob/main/homer-william-brewster-sr/research-notes/2026-11-25-1966-apollo-land-company-deed-lead.md).
 
-## 11. Excluded Cincinnati directory same-name entry — 1952
+## 11. 1952 Cincinnati directory lead — resolved as Homer Sweet, not Brewster
 
-The full-text 1952 Cincinnati directory page returned a “Homer (Minnie) fctywkr GE h1020 Bank” entry. This is not Homer Jr., who was thirteen in 1952, and it is not safely attributable to Homer Sr., whose documented wife was Sarah. It is an excluded same-name directory lead; do not use its occupation or address in either Brewster profile. The directory is available through the Cincinnati & Hamilton County Public Library Digital Library: https://cdm16998.contentdm.oclc.org/digital/api/collection/p16998coll5/id/260247/download
+The original 1952 Cincinnati directory page has now been inspected. The entry “Homer (Minnie) fctywkr GE h1020 Bank” appears under the explicit surname heading **SWEET** (directory page 1128, directory listings, column 2). It is therefore a **Homer Sweet**, not Homer Brewster. Exclude Minnie, the General Electric factory-worker occupation, and 1020 Bank from Homer William Brewster Jr.'s record.
+
+- Williams Cincinnati Directory, 1952, p. 1128, transcript lines 180–204 show the SWEET section and Homer (Minnie): https://cdm16998.contentdm.oclc.org/digital/api/collection/p16998coll5/id/260247/download
 
 ## 12. Remaining record tasks
 
 1. Obtain the 1968 Hamilton County divorce case number and complete petition-through-decree file. The separate Homer-specific retrieval note gives the Clerk's official search and request route.
 2. Identify Homer's pre-Judith marriage using Ohio's county marriage records, the statewide marriage abstract index, and likely neighboring-state records. Search surname and name variants and use his age/birth date, not just the exact full name.
 3. Obtain the 1977 marriage license and 1978 divorce abstract/case file for the likely third marriage to Flora. Separately obtain the 18 March 1977 divorce abstract/case file to determine whether it is the same couple or a same-name record.
-4. Request the 2000 death certificate (076423) if authorized to incur the $25 fee.
+4. Request the 2000 Ohio death certificate (076423) if authorized to incur the fee. The Ohio Department of Health's current fee is $21.50 per certified copy; its current application covers Ohio deaths within the last 50 years. https://odh.ohio.gov/know-our-programs/vital-statistics/how-to-order-certificates
 5. Work through Cincinnati and suburban directories for addresses, occupation, employer, spouse listings, and later residences.
 6. Request Homer's Selective Service Classification History (SSS Form 102) from NARA St. Louis if authorized; this may establish military status and a 1957 address. Until then, military service remains unconfirmed. Religion, cause of death, and the 1998 Osprey, Florida public-record hit also remain unconfirmed unless primary evidence is found.
 7. Keep Edna Sharon Bailey in the profile as an unresolved marriage lead only. The reported 18 June 1966 Franklin County, Indiana marriage has not been independently verified.
