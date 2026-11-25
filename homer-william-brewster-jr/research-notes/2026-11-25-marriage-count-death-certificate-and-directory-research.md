@@ -101,7 +101,7 @@ The original National Archives 1950 census sheet was downloaded and visually ins
 
 ### Sibling count resolved; twin claim remains open
 
-The old family book's statement that Homer grew up with **five brothers and sisters** is now consistent with the evidence. The six children are Homer Jr., Eugene, Elmer, Earl, Eunice, and Aileene. Aileene W. Gilpin's 9 September 2015 obituary identifies her as the daughter of Homer and Sarah and names her siblings **Elmer, Eugene, Earl, Homer Jr., and Eunice**. This confirms the five-sibling count and resolves the old online-tree version that listed only four siblings.
+The old family book's statement that Homer grew up with **five brothers and sisters** is now consistent with the evidence. The source is the book's “Grandparents” section, Brewster side, page 4; the book title, author, and edition are not recorded in the current citation notes. The six children are Homer Jr., Eugene, Elmer, Earl, Eunice, and Aileene. Aileene W. Gilpin's 9 September 2015 obituary identifies her as the daughter of Homer and Sarah and names her siblings **Elmer, Eugene, Earl, Homer Jr., and Eunice**. This confirms the five-sibling count and resolves the old online-tree version that listed only four siblings.
 
 - *Clay County News*, obituary for Aileene W. Gilpin, 9 September 2015: https://www.clayconews.com/obituaries/aileene-gilpin
 
