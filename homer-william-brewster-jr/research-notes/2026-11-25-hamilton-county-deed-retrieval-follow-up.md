@@ -14,13 +14,13 @@
    - Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
    - The entry is visible in the official index around lines 2706–2712 of the web-readable transcription: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
 
-3. **26 November 1969 — Deed Book 3708, page 344.** This “Brewster, Homer et al” → James A. Katsanis entry is no longer treated as a Homer Jr. lead. It is tracked in Homer Sr.'s research folder because a 1966 deed names “Homer & Sarah” as grantees and the 1969 deed may be their later conveyance. That connection is unproven until the original deeds' grantor names and legal descriptions are compared. See Homer Sr.'s note: https://github.com/RickBrew13/american-bloodline/blob/main/homer-william-brewster-sr/research-notes/2026-11-25-1966-apollo-land-company-deed-lead.md
+3. **26 November 1969 — Deed Book 3708, page 343/344 (cross-index discrepancy).** The grantor-to-grantee index records “Brewster, Homer et al” → James A. Katsanis at page 344; the reverse grantee-to-grantor index records the same parties and date at page 343. This is no longer treated as a Homer Jr. lead. It is tracked in Homer Sr.'s research folder because a 1966 deed names “Homer & Sarah” as grantees and the 1969 deed may be their later conveyance. That connection is unproven until the original deeds' grantor names and legal descriptions are compared. See Homer Sr.'s note: https://github.com/RickBrew13/american-bloodline/blob/main/homer-william-brewster-sr/research-notes/2026-11-25-1966-apollo-land-company-deed-lead.md
 
 ## How to obtain the original deed images
 
-The Hamilton County Genealogical Society's updated instructions (7/21/2025) describe the Recorder's Acclaim system for historical documents. The relevant Homer Jr. books—**4025 (1975) and 4040 (1976)**—are within the Recorder's stated historical Book/Page retrieval range. The 1966 and 1969 deed books are tracked separately in Homer Sr.'s folder.
+The Recorder's own deed-book guide states that Books 852–4061 (1901–1971) are on microfilm at the Recorder's Office. Books 4025 and 4040 are in that range, so they should **not** be described as confirmed downloadable online Acclaim images. The Acclaim Book/Page page provides an electronic search interface, but the original images for these particular books were not retrieved here. The 1966 and 1969 deed books are also in the 1901–1971 microfilm range and are tracked separately in Homer Sr.'s folder.
 
-1. Open the Recorder's Acclaim system: https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive
+1. Open the Recorder's Acclaim system (search interface; online image availability for these books is not confirmed): https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive
 2. Choose the **BOOK/PAGE** search.
 3. Select book type **DEED - Deed Books**.
 4. Enter the relevant book and page:
@@ -28,10 +28,10 @@ The Hamilton County Genealogical Society's updated instructions (7/21/2025) desc
    - 4040 / 738 — Homer W. Brewster to Flora L. Brewster, 8 Jan 1976
 5. Open the matching brown result to view the document image. If the viewer presents paired microfilm pages, use the Recorder's page-number guidance to navigate to the correct numbered page.
 
-The 1966 deed, Book 3463, page 428, is a separate lead for **Homer Sr. and Sarah** and belongs in Homer Sr.'s archive, not Homer Jr.'s.
+The 1966 deed, Book 3463, page 428, is a separate lead for **Homer Sr. and Sarah** and belongs in Homer Sr.'s archive, not Homer Jr.'s. The 1969 cross-index page discrepancy must be resolved from the actual instrument or Recorder's microfilm.
 
 Official instructions:
-- Recorder's deed-book availability and date ranges: https://recordersoffice.hamilton-co.org/helpful_information/help_deeds_21-4414.html
+- Recorder's deed-book availability and date ranges: https://recordersoffice.hamilton-co.org/search_help/search_deed_books.htm
 - Genealogical Society Acclaim retrieval walkthrough: https://hcgsohio.org/cpage.php?pt=286
 - Recorder's index portal: https://recordersoffice.hamilton-co.org/deed_indexes/
 
