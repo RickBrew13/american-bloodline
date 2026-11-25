@@ -137,3 +137,15 @@ The full-text 1952 Cincinnati directory page returned a “Homer (Minnie) fctywk
 - The Dayton Daily News death notice is a possible same-name match, not a confirmed obituary.
 - Family accounts about abuse, lupus, ashes, and multiple marriages remain attributed family testimony unless independently documented.
 - Place each person's own life facts and records in that person's profile and archive folder. Do not copy Judy's or Larry's personal history into Homer's profile.
+
+
+## Unresolved 1972 Hamilton directory lead — do not attribute yet
+
+A 1972 Williams' Hamilton city directory transcript contains the lines:
+- “Homer (Hazel J) stock atndt Pillsbury Co h151 Hermay Dr”
+- “Homer Jr r151 Hermay Dr”
+
+Source: https://cdm16998.contentdm.oclc.org/digital/collection/p16998coll5/id/275454/
+
+This could look like a Homer-and-son household, but the transcript snippet does not expose the surname or enough page context to identify the people. The spouse shown is Hazel J., not Judith or Flora, and the directory is for Hamilton, Butler County, rather than Cincinnati/Hamilton County. It may be an unrelated same-name household. **Do not attribute the Pillsbury job, Hazel J., Homer Jr., or 151 Hermay Drive to Homer William Brewster Jr.** The original directory page image and surname heading must be inspected before using this lead.
+
