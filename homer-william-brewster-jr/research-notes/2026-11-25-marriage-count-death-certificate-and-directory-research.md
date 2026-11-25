@@ -17,15 +17,15 @@ Ohio-specific evidence clarifies the field. The Ohio Department of Health's cert
 
 This count needs to be checked against the actual 1968 divorce abstract and complete court file before the earlier marriage is treated as fully established. Keep the unknown prior spouse as an open research question.
 
-### Marriage records that must be reconciled
+### Best-supported marriage sequence and the unresolved 1977 entry
 
 - 18 April 1956: Homer and Judith married in Fentress County, Tennessee. Their recorded birth dates make them 17, although the application appears to give both ages as 18.
-- 2 May 1968: Ohio divorce index reports Homer married twice and Judith once.
-- 18 March 1977: Ohio divorce index reports Homer W. Brewster and Flora L., marriage duration seven years, no minor children.
-- 12 September 1977: Ohio marriage index reports Homer and Flora married again; the earlier research transcription records two previous marriages for each.
-- 27 November 1978: Ohio divorce index reports a further Homer/Flora divorce and Homer married three times.
+- 2 May 1968: The Ohio divorce index records “Number of this marriage” as 2 for Homer and 1 for Judith. If the index transcription is correct, the marriage to Judith was Homer's second marriage and her first. This indicates an earlier Homer marriage before Judith, but the earlier spouse, date, and place are unknown.
+- 12 September 1977: The Ohio marriage index names Homer W. Brewster Jr., age 38, and Flora L. Brewster, age 41, and records two past marriages for each. This is consistent with Homer's earlier marriage plus his marriage to Judith being his two prior marriages; the marriage to Flora would then be his third.
+- 27 November 1978: The Ohio divorce index names Homer W. Brewster (birth year 1939) and Flora L. (birth year 1935) and records “Number of this marriage” as 3. This is consistent with the September 1977 marriage being Homer's third marriage.
+- 18 March 1977: A separate Ohio divorce-index entry names Homer W. Brewster (birth year 1939) and Flora L. (birth year 1935), reports a seven-year marriage, and records “Number of this marriage” as 2 for each. Its marriage-order value conflicts with the 1968, September 1977, and November 1978 entries if all refer to the same couple. It may be a same-name couple or an index error. **Do not yet attach this March 1977 divorce to the confirmed September 1977/November 1978 Homer–Flora sequence.**
 
-These index counts and the two Flora divorce/marriage events do not yet reconcile cleanly. Do not invent a spouse sequence or combine the events. The original 1968 and 1977–1978 divorce abstracts, marriage license, and case files are needed to settle the number and order of Homer's marriages. The family account of repeated Homer/Judith marriages also remains separate from what the indexes prove.
+The strongest working reconstruction is therefore: an unidentified first marriage before 1956; marriage two to Judith in 1956, ending in the 1968 divorce; marriage three to Flora in 1977, ending in the 1978 divorce. This reconstruction depends on the accuracy and identity of the Ohio index entries; it does not identify the first wife. Edna Sharon Bailey's alleged 1966 marriage remains an unverified and chronologically unresolved lead, not the identified first wife. The original 1968 and 1977–1978 abstracts, marriage license, and case files are needed to settle the sequence. The family account of repeated Homer/Judith marriages also remains separate from what the indexes prove.
 
 ## 2. Obtain the original 2000 death certificate
 
@@ -89,7 +89,7 @@ The most useful request is the **Classification History (Form 102)** because it 
 
 1. Obtain the 1968 Hamilton County divorce case number and complete petition-through-decree file. The separate Homer-specific retrieval note gives the Clerk's official search and request route.
 2. Identify Homer's pre-Judith marriage using Ohio's county marriage records, the statewide marriage abstract index, and likely neighboring-state records. Search surname and name variants and use his age/birth date, not just the exact full name.
-3. Obtain the 1977 divorce and marriage abstracts and the 1978 divorce file/abstract to reconcile the Homer/Flora marriage sequence.
+3. Obtain the 1977 marriage license and 1978 divorce abstract/case file for the likely third marriage to Flora. Separately obtain the 18 March 1977 divorce abstract/case file to determine whether it is the same couple or a same-name record.
 4. Request the 2000 death certificate (076423) if authorized to incur the $25 fee.
 5. Work through Cincinnati and suburban directories for addresses, occupation, employer, spouse listings, and later residences.
 6. Request Homer's Selective Service Classification History (SSS Form 102) from NARA St. Louis if authorized; this may establish military status and a 1957 address. Until then, military service remains unconfirmed. Religion, cause of death, and the 1998 Osprey, Florida public-record hit also remain unconfirmed unless primary evidence is found.
