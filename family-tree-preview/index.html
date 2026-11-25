@@ -55,15 +55,18 @@ input{width:min(430px,90vw);padding:11px 13px;border:1px solid var(--gold);borde
 .legend i{display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--gold);margin-right:6px}.legend .partner-dot{background:var(--green)}.legend .focus-dot{background:var(--brown)}
 footer{text-align:center;padding:22px;border-top:1px solid #d8c5a6;color:#80694b;font:11px Cinzel,Georgia,serif}
 @media(max-width:700px){nav{padding:12px 15px}header{padding:26px 14px 20px}main{padding:14px 9px 45px}.tree-shell{padding:12px 8px}.family-group{min-width:220px}}
+
+.connected-panel{display:none;margin-top:18px;border:1px solid #d8c5a6;border-radius:9px;background:#fffaf2;padding:18px;overflow:auto}.connected-panel h2{font:600 17px Cinzel,Georgia,serif;color:var(--brown);text-align:center;margin:0 0 8px}.connected-intro{max-width:900px;margin:0 auto 18px;text-align:center;color:var(--muted);font-size:12px;line-height:1.5}.connected-generation{min-width:980px;padding:14px 0 24px;border-top:1px solid #e5d6bf}.connected-generation h3{font:600 11px Cinzel,Georgia,serif;letter-spacing:1.5px;text-transform:uppercase;text-align:center;color:var(--muted);margin:0 0 14px}.connected-units{display:flex;justify-content:center;align-items:flex-start;flex-wrap:wrap;gap:12px}.connected-unit{display:flex;flex-direction:column;align-items:center;min-width:245px;max-width:360px;padding:10px;border:1px solid #e4d4ba;border-radius:7px;background:#fffdf8}.connected-parents{display:flex;align-items:center;justify-content:center;gap:7px;flex-wrap:wrap}.connected-parents .person{min-width:120px;max-width:155px}.connected-children{display:flex;align-items:flex-start;justify-content:center;gap:7px;flex-wrap:wrap;margin-top:7px;padding-top:12px;border-top:2px solid var(--line);position:relative}.connected-children .person{min-width:120px;max-width:155px}.connected-children .person small{font-size:10px}.connected-label{font:10px Lato;color:var(--muted);margin-top:5px;text-align:center}.connected-empty{padding:14px;text-align:center;color:var(--muted);font-size:13px}
 </style></head>
 <body>
 <nav><a href="https://rickbrew13.github.io/american-bloodline/">An American Bloodline</a></nav>
 <header><div class="eyebrow">A connected family history</div><h1>The Brewster Family Tree</h1><p>Richard Anthony Brewster is the starting point. Follow the tree upward through his parents and grandparents, and outward through his own children and the families of all six of his siblings—including nieces, nephews, and their branches.</p></header>
 <main>
-<div class="tools"><input id="search" type="search" placeholder="Search all 295 profiles by name…"><button class="action" id="reset">Return to Richard</button></div>
+<div class="tools"><input id="search" type="search" placeholder="Search all 295 profiles by name…"><button class="action" id="reset">Return to Richard</button><button class="action" id="allBranches">Explore all connected branches</button></div>
 <div id="results" aria-live="polite"></div>
 <div class="tree-shell"><div class="tree" id="tree"><p>Loading family records…</p></div></div>
 <div class="legend"><span><i class="focus-dot"></i>Starting person</span><span><i></i>Parent / child connection</span><span><i class="partner-dot"></i>Spouse or partner</span></div>
+<div class="connected-panel" id="connectedPanel"><h2>All connected family branches</h2><p class="connected-intro" id="connectedIntro"></p><div id="connectedTree"></div></div>
 <div id="details"></div>
 <p class="note">The tree distinguishes different parent partnerships rather than treating every sibling as if they shared the same two parents. Children described as stepchildren or as raised within a family are identified accordingly. A name without a profile link is still shown when it appears in the family records. Search reaches every available Generation I–V profile, including branches not yet connected to Richard by verified relationships. Private document profiles remain access-controlled by their owner.</p>
 </main>
@@ -107,8 +110,55 @@ function build(){const tree=document.getElementById('tree');tree.replaceChildren
  const great=document.createElement('section');great.className='generation';const gh=document.createElement('h2');gh.className='section-title';gh.textContent='Great-niece branch · Violet is one member of the wider family';great.append(gh);
  const v=document.createElement('div');v.className='units';v.append(group('Victoria’s child with Trustin Bronson',['Victoria Ruth Brewster','Trustin Bronson'],[{name:'Violet Bronson'}]));great.append(v);tree.append(great);
 }
+function buildConnected(){
+ const byId=new Map(people.map(p=>[p.id,p]));
+ const ordered=[...people].sort((a,b)=>norm(b.name).length-norm(a.name).length);
+ const edges=[];
+ for(const child of people){
+  const raw=child.parents||'', t=norm(raw);
+  for(const parent of ordered){
+   if(parent.id===child.id||parent.generation!==child.generation+1)continue;
+   const pn=norm(parent.name);if(pn.length<4||!t.includes(pn))continue;
+   const at=t.indexOf(pn), before=t.slice(Math.max(0,at-36),at), after=t.slice(at+pn.length,at+pn.length+36);
+   if(/stepfather|stepmother|step-parent/.test(before+after))continue;
+   const adoptive=/adoptive/.test(before+after);
+   edges.push({parent,child,adoptive});
+  }
+ }
+ const adj=new Map(people.map(p=>[p.id,new Set()]));
+ edges.forEach(e=>{adj.get(e.parent.id).add(e.child.id);adj.get(e.child.id).add(e.parent.id);});
+ const root=people.find(p=>norm(p.name)===norm('Richard Anthony Brewster'));
+ const connected=new Set(root?[root.id]:[]),queue=root?[root.id]:[];
+ while(queue.length){const id=queue.shift();for(const next of adj.get(id)||[])if(!connected.has(next)){connected.add(next);queue.push(next);}}
+ const kept=edges.filter(e=>connected.has(e.parent.id)&&connected.has(e.child.id));
+ const groups=new Map();
+ kept.forEach(e=>{const ids=[e.parent.id];const siblings=kept.filter(x=>x.child.id===e.child.id).map(x=>x.parent.id);const key=[...new Set(siblings)].sort().join('|');if(!groups.has(key))groups.set(key,{parents:[...new Set(siblings)].map(id=>byId.get(id)).filter(Boolean),children:[],adoptive:new Set()});const g=groups.get(key);if(!g.children.some(c=>c.id===e.child.id))g.children.push(e.child);if(e.adoptive)g.adoptive.add(e.parent.id);});
+ const host=document.getElementById('connectedTree');host.replaceChildren();
+ const intro=document.getElementById('connectedIntro');
+ const counts=[1,2,3,4,5].map(g=>[g,[...connected].filter(id=>byId.get(id)?.generation===g).length]);
+ intro.textContent=connected.size+' profiles are connected to Richard through recorded parent relationships ('+counts.map(([g,n])=>'Generation '+['','I','II','III','IV','V'][g]+': '+n).join(' · ')+'). Explicit step-parent links are not treated as biological parent links; adoptive relationships are retained and labeled. Only people with matching profiles in the five data files can be connected automatically.';
+ for(let childGen=1;childGen<=4;childGen++){
+  const units=[...groups.values()].filter(g=>g.children.some(c=>c.generation===childGen)).sort((a,b)=>a.parents.map(p=>p.name).join('').localeCompare(b.parents.map(p=>p.name).join('')));
+  if(!units.length)continue;
+  const section=document.createElement('section');section.className='connected-generation';
+  const heading=document.createElement('h3');heading.textContent='Generation '+['','I','II','III','IV','V'][childGen]+' · parent and child households';section.append(heading);
+  const row=document.createElement('div');row.className='connected-units';
+  units.forEach(g=>{
+   const unit=document.createElement('div');unit.className='connected-unit';
+   const parents=document.createElement('div');parents.className='connected-parents';
+   g.parents.forEach((p,i)=>{if(i){const mark=document.createElement('span');mark.textContent='×';mark.className='pairmark';parents.append(mark);}const card=person(p.name,p.id===root?.id?'root':'partner');if(g.adoptive.has(p.id)){const tag=document.createElement('small');tag.textContent='Adoptive parent';card.append(tag);}parents.append(card);});
+   const kids=document.createElement('div');kids.className='connected-children';
+   g.children.sort((a,b)=>a.name.localeCompare(b.name)).forEach(c=>kids.append(person(c.name,c.id===root?.id?'root':'')));
+   unit.append(parents,kids);row.append(unit);
+  });
+  section.append(row);host.append(section);
+ }
+ if(!connected.size){const msg=document.createElement('p');msg.className='connected-empty';msg.textContent='No connected family records were found.';host.append(msg);}
+ document.getElementById('connectedIntro').dataset.profileCount=String(connected.size);
+}
 function searchProfiles(q){const results=document.getElementById('results');results.replaceChildren();if(!q){results.style.display='none';return;}const hits=people.filter(p=>norm(p.name).includes(norm(q))).slice(0,30);if(!hits.length){results.style.display='block';const x=document.createElement('div');x.className='result';x.textContent='No matching profile found.';results.append(x);return;}results.style.display='block';hits.forEach(p=>{const b=document.createElement('button');b.className='result';b.textContent=p.name+' · Generation '+p.generation;b.addEventListener('click',()=>{showDetails(p);results.style.display='none';});results.append(b);});}
-async function init(){try{const sets=await Promise.all(files.map(f=>fetch(f).then(r=>{if(!r.ok)throw new Error('Could not load family records');return r.json();})));people=sets.flat();people.forEach(p=>byName.set(norm(p.name),p));build();}catch(e){document.getElementById('tree').textContent='Family records could not be loaded. Please refresh the page.';}}
+async function init(){try{const sets=await Promise.all(files.map(f=>fetch(f).then(r=>{if(!r.ok)throw new Error('Could not load family records');return r.json();})));people=sets.flat();people.forEach(p=>byName.set(norm(p.name),p));build();buildConnected();}catch(e){document.getElementById('tree').textContent='Family records could not be loaded. Please refresh the page.';}}
+document.getElementById('allBranches').addEventListener('click',()=>{const p=document.getElementById('connectedPanel');const open=p.style.display==='block';p.style.display=open?'none':'block';document.getElementById('allBranches').textContent=open?'Explore all connected branches':'Hide connected branches';if(!open)p.scrollIntoView({behavior:'smooth',block:'start'});});
 document.getElementById('search').addEventListener('input',e=>searchProfiles(e.target.value));document.getElementById('reset').addEventListener('click',()=>{document.getElementById('search').value='';document.getElementById('results').style.display='none';document.getElementById('details').style.display='none';document.querySelector('.tree-shell').scrollTo({left:0,top:0,behavior:'smooth'});});
 init();
 </script></body></html>
