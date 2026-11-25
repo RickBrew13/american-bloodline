@@ -144,6 +144,11 @@ The Cincinnati & Hamilton County Public Library's **Newsdex** is a public index 
 - CHPL Newspapers/Newsdex description: https://chpl.org/resources-types/newspaper/
 - CHPL Newsdex search tutorial: https://chpl.org/blogs/post/newsdex-upgrade/
 
+The **Ohio Obituary Index** at the Rutherford B. Hayes Presidential Library is another free statewide index with more than 3.7 million obituary, death-notice, and other references. It is about 90% newspaper citations and 10% other sources; entries can be one-line notices, so an index result is only a pointer to the original article. Search Homer Brewster, Homer W. Brewster, and the 27 September 2000 death date. The search widget returned a 403 error in this session, so no Homer-specific result or absence is claimed. Its coverage is uneven by county and partner library, so no result would not prove that no obituary exists.
+
+- Ohio Obituary Index: https://www.rbhayes.org/main/ohio-obituary-index/
+- History and scope (coverage, partner libraries, and ordering rules): https://www.rbhayes.org/ohio-obituary-index/history-and-scope-of-the-ohio-obituary-index/
+
 If Newsdex has no entry, the Hamilton County Genealogical Society says that when the exact death date is known, CHPL may search newspapers for the **five days after the death date**. For Homer (died 27 September 2000), request a search for 27 September–2 October 2000 in the Cincinnati Enquirer and Cincinnati Post, and ask for any full obituary or death notice:
 - CHPL Magazines & Newspapers: **513-369-6973**, **Magazines@CincinnatiLibrary.org**
 - CHPL Genealogy & Local History research help: **513-369-6909**, **research@CHPL.org**
