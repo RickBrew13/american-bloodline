@@ -287,3 +287,33 @@ For men who registered before 1976, NARA says the surviving individual record ty
 - NARA, record-series date coverage (1948–1959, DOB 1922–1940): https://www.archives.gov/files/research/newsletter/2013-autumn.pdf
 - NARA, Selective Service records overview: https://www.archives.gov/research/guide-fed-records/groups/147.html
 
+
+
+## 18. 1975–1976 property transactions — both index directions now cross-checked
+
+The Hamilton County Recorder's original annual deed indexes now independently confirm the two transactions already noted in Homer's timeline:
+
+- **13 August 1975, Deed Book 4025, page 55:** the 1975 grantor/grantee index lists **Homer W. Brewster and Flora L.** as grantees from **Wilbur C. Rapp and Ruth**. The reverse (grantor/grantee) index independently lists **Rapp, Wilbur C. & Ruth → Homer W. Brewster & Flora L.**, Book 4025, page 55. This confirms the names and book/page locator in both directions; it does not identify the property address, legal description, or whether Homer Jr. is the Homer named in the instrument.
+  - Official 1975 index, TO/FROM: https://recordersoffice.hamilton-co.org/deed_indexes/di1975tetrb.pdf
+  - Official 1975 index, FROM/TO: https://recordersoffice.hamilton-co.org/deed_indexes/di1975trter.pdf
+
+- **8 January 1976, Deed Book 4040, page 738:** the 1976 grantor/grantee index lists **Homer W. Brewster** as grantee from **Flora L. Brewster**. The corresponding entry is **Brewster, Homer W. → Flora L. Brewster**, Book 4040, page 738; the index's orientation and exact parties must be read carefully: the TO/FROM index gives the named grantee first and grantor second. This is a separate transaction from the 1975 purchase. The instrument itself is still required to establish the legal effect, property, marital status language, and identity.
+  - Official 1976 index, TO/FROM: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
+
+The Recorder's current historic-record guidance says books 3225–4061 (1962–1976) are available through the county's online Book/Page search; the correct way to inspect these records is to enter Book Type DEED and the book/page, accounting for the site's image-frame/page-numbering guidance. The indexes are not substitutes for the instruments. No deed image has yet been inspected, and no legal description or address is added to Homer's profile.
+
+- Recorder's deed-book access and numbering guidance: https://recordersoffice.hamilton-co.org/helpful_information/help_deeds_21-4414.html
+- Recorder's Acclaim search entry point: https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive
+
+## 19. Original divorce-file route — official clerk confirms 1968-era files are retained
+
+Hamilton County Clerk of Courts' Domestic Relations Division confirms that divorce decrees from **1885 to the current year** can be obtained at the Document Center, Hamilton County Courthouse, 1000 Main Street, Room 315, Cincinnati, Ohio; phone **513-946-5693**. The clerk's online name-search page warns that some case files/documents are not remotely available and directs requesters to submit a specific record request or visit the office. The 1968 divorce file is therefore within the stated retained period, but the case number still needs to be located and the petition-through-decree file requested. The HCGS guide recommends requesting all pages from petition through decree, not only the final decree.
+
+- Official Domestic Relations record location: https://www.courtclerk.org/our-office/common-pleas-court-clerk/domestic-relations-division/
+- Official name search: https://www.courtclerk.org/records-search/name/
+- Official request-record page: https://www.courtclerk.org/records-search/request-records/
+- HCGS divorce-record instructions: https://www.hcgsohio.org/cpage.php?pt=60
+
+## 20. Current stopping point and unresolved originals
+
+This online pass has not produced the original records needed to settle the remaining questions. The following are **not** evidence of completed requests: the Tennessee statewide marriage search, Hamilton County 1953–1957 marriage-index image, 1968 divorce file, 1977 marriage application, 1978 divorce file, 1975/1976 deed instruments, Franklin County Indiana 1966 marriage file for the Edna Bailey claim, Homer's SS-5, Ohio death certificate 076423, or NARA Selective Service classification history. No paid order or government record request has been submitted. No earlier wife has been identified, Edna Sharon Bailey remains an unverified lead, and no adult occupation or military service has been established. Keep these distinctions explicit in the profile and do not mark Homer complete until the obtainable records and online avenues have been exhausted or clearly documented as requiring an outside request.
