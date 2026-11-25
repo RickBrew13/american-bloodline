@@ -21,7 +21,7 @@ Two earlier Hamilton County deed-index entries show a property connection betwee
 2. **5 March 1976**, Deed Book **4040**, page **738**: the FROM/TO index names **Homer W. Brewster** as grantor and **Flora L. Brewster** as grantee. The index does not state the legal nature of the instrument or why the transfer was made.
    - Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
 
-These transactions establish a property relationship before the September 1977 indexed marriage. They make the separate Ohio divorce-index lead dated 18 March 1977 (Homer W. Brewster and Flora L.; reported seven-year marriage) more important to investigate. They do not resolve the conflict in the marriage-order fields or prove that the March divorce belongs to this Homer and Flora.
+These transactions establish a property relationship before the September 1977 indexed marriage. Together, the 1975 joint acquisition, the 5 March 1976 transfer from Homer to Flora, and the 8 January 1979 transfer by Flora Lorene may form a chain of title. If the legal descriptions match, that would strongly support identifying the 1979 Flora Lorene as the same Flora L.; the original deeds have not yet been compared. The sequence also makes the separate Ohio divorce-index lead dated 18 March 1977 (Homer W. Brewster and Flora L.; reported seven-year marriage) more important to investigate. It does not resolve the conflict in the marriage-order fields or prove that the March divorce belongs to this Homer and Flora.
 
 ## 1977–1978 marriage/divorce context
 
@@ -44,7 +44,7 @@ The Recorder's guide says books 4062–4414 can only be viewed on Recorder's Off
 
 ## Family, children, parents, siblings, and photographs
 
-This pass did not identify a reliable record naming Flora's parents, siblings, children, maiden name, or prior spouses. The 1977 marriage index reports two previous marriages but does not identify the former spouses in the index extract currently available. The 1977 divorce index's “no minor children” applies only to that indexed case if it is correctly attributed; it does not establish that Flora never had children from any marriage.
+This pass did not identify a reliable record naming Flora's parents, siblings, children, maiden name, or prior spouses. The 1977 marriage index reports two previous marriages but does not identify the former spouses in the index extract currently available. The separate March 1977 divorce index's “no minor children” applies only to that case if it is correctly attributed; it does not establish that Flora never had children from any marriage.
 
 Image search returned a portrait labelled **Flora A. Brewster**, a nineteenth-century American physician born in 1852. That is a different person and must not be used in this profile. No photograph of the 1935-born Flora L./possible Flora Lorene Brewster was found in this pass.
 
