@@ -25,10 +25,17 @@ The companion 1966 grantor-to-grantee index PDF was also inspected, but its OCR 
 
 ## Next steps
 
-1. Retrieve Hamilton County Deed Book **3463**, page **428**, using the Recorder's Acclaim BOOK/PAGE search.
-2. Transcribe all grantee names, marital status, date, consideration, legal description, parcel or lot references, and signatures.
-3. Use the legal description to identify the property through the Hamilton County Auditor and trace subsequent conveyances.
-4. If the original deed confirms Homer W. Brewster and Sarah, add the property and source to Homer Sr.'s profile. Keep this record out of Homer Jr.'s life timeline.
+1. Try the Recorder's Acclaim BOOK/PAGE interface for Deed Book **3463**, page **428**: https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive
+2. Book 3463 is in the Recorder's **1901–1971 microfilm** range. Remote image access is not confirmed. If Acclaim does not display the image, request the page from the Recorder's microfilm/copy service: 138 E. Court St., Room 205, Cincinnati, OH 45202; (513) 946-4596; recordersoffice@hamiltoncountyohio.gov. Public self-service copies are $0.10/page; staff-produced copies are $2.00/page; certified copies are $2.00/page plus a $1.00 seal. Confirm current mailing options and fees with staff before sending payment.
+3. Inspect the separate 1969 “Brewster, Homer et al” → James A. Katsanis instrument in Book 3708, page **343/344**. The two official indexes disagree on the page; both books are within the same microfilm range. Compare the grantor names and legal descriptions before deciding whether it is the same Homer & Sarah property.
+4. Transcribe all grantee/grantor names, marital status, dates, consideration, legal description, parcel or lot references, and signatures.
+5. Use any confirmed legal description to identify the property through the Hamilton County Auditor and trace subsequent conveyances.
+6. Only if the original deed confirms Homer W. Brewster and Sarah, add the property and source to Homer Sr.'s profile. Keep this record out of Homer Jr.'s life timeline.
+
+Official access, hours, and fee references:
+- Deed-book date ranges and microfilm: https://recordersoffice.hamilton-co.org/search_help/search_deed_books.htm
+- Recorder contact and hours: https://recordersoffice.hamilton-co.org/contact_us_feedback/
+- Copy services and fees: https://recordersoffice.hamilton-co.org/additional_services/
 
 ## Research caution
 
