@@ -22,6 +22,10 @@ The official Spring Grove website identifies the cemetery at 4521 Spring Grove A
 
 No identity-secure obituary or death certificate has yet been located. The exact Spring Grove match confirms the burial index's reported death date but does not identify the death location.
 
+A focused web search on 25 November 2026 for the exact-name variants “Judith Mae Palmer,” “Judith M. Clark,” and “Judy Palmer,” paired with the 7 June 2006 death date, did not surface an identity-secure obituary. Search results included unrelated people with similar names; none was added to Judy's profile. This is a search result, not proof that no obituary exists. The State Historical Society of Missouri notes that most Missouri newspapers are not indexed, so newspaper microfilm and local-library searches remain worthwhile: https://shsmo.org/research/guides/genealogy.
+
+Missouri's official death-record FAQ says the State Archives' public database contains death certificates more than 50 years old; for certificates less than 50 years old, request information from the Missouri Bureau of Vital Records. Judy's 2006 certificate is therefore not in the Archives' public 50-year collection and any request is subject to current eligibility rules: https://www.sos.mo.gov/archives/resources/birthdeath/deathFAQ.
+
 The Hamilton County Genealogical Society explains that the Cincinnati & Hamilton County Public Library's Newsdex indexes many 20th-century Cincinnati newspaper obituaries and death notices. A library card is not required to search. Once an index entry and publication date are known, the library's Information & Reference Department can provide a copy by email or phone; its published contact is research@chpl.org / 513-369-6900. Research instructions: https://www.hcgsohio.org/cpage.php?pt=62.
 
 Continue searching variants:
