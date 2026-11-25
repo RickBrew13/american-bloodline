@@ -95,6 +95,8 @@ The original National Archives 1950 census sheet was downloaded and visually ins
 - FamilySearch image: https://www.familysearch.org/ark:/61903/3:1:3QHK-SQHW-79GJ-Y
 - Existing original-image copy in Drive: https://drive.google.com/file/d/1qpt1-Xvz3zpeKHNKeKj7s5nN544I1k0i/view
 
+**Outstanding migration check:** the 1940 census image itself has not yet been transcribed for the **1 April 1935 residence** column. Because the 1940 household is indexed in Morgan County, this column may show whether the family was already in Morgan County by 1935 or was living somewhere else (possibly Cincinnati). The image is linked above: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-D46S. The FamilySearch viewer could not be read through this session, so no 1935 residence is claimed.
+
 **Profile consequence:** The family was in Cincinnati by April 1950, when Homer was eleven. The old family-book phrase that he moved north “as a young man” is not consistent with the census; keep the Hillbilly Highway description as family-history context, but place the move in his childhood. The 1940 index still places the family in Morgan County, Tennessee. The precise move date and route are not known.
 
 ### Sibling count resolved; twin claim remains open
