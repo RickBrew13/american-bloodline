@@ -37,8 +37,9 @@ This was discovered while checking a Homer Jr. property lead. It is recorded her
 
 ## Possible 1969 conveyance of the same property — unconfirmed
 
-A later Hamilton County grantor-to-grantee index contains an entry dated **26 November 1969**: **“Brewster, Homer et al” → James A. Katsanis**, Deed Book **3708**, page **344**:
-- Official 1969 index: https://recordersoffice.hamilton-co.org/deed_indexes/di1969trteb.pdf
+A later Hamilton County grantor-to-grantee index contains an entry dated **26 November 1969**: **“Brewster, Homer et al” → James A. Katsanis**, Deed Book **3708**, page **344**. The reverse grantee-to-grantor index gives the same parties and date but page **343**. This cross-index page discrepancy is unresolved; refer to the instrument as Book 3708, page **343/344** until the original deed image is inspected.
+- Official grantor-to-grantee index (page 344): https://recordersoffice.hamilton-co.org/deed_indexes/di1969trteb.pdf
+- Official grantee-to-grantor index (page 343): https://recordersoffice.hamilton-co.org/deed_indexes/di1969tetrk.pdf
 
 This may be a subsequent conveyance by Homer Sr. and Sarah of the property they acquired from Apollo Land Co. in 1966 (Book 3463, p.428). The matching surname and county make the connection worth testing, but the 1969 index does not identify Sarah or give the other grantor(s), and the original deed has not been inspected. It could be a different Homer Brewster or a different property.
 
