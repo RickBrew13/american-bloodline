@@ -34,12 +34,17 @@ The 1953–1957 PDF contains 45 scanned pages but the current web viewer returne
 
 The actual marriage index for 1953–1957 is particularly important because a first marriage before the 18 April 1956 Judith marriage is the leading inference from the 1968 Ohio divorce abstract. If no Hamilton County entry exists, that does not rule out a marriage in another Ohio county or Tennessee; the TSLA statewide index search remains the broader route.
 
-The known **18 April 1956 Fentress County marriage to Judith Mae Palmer** should also be verified from the county's original marriage record. The Fentress County Clerk says marriage licenses dating to January 1903 can be printed in the office; a mailed certified copy requires the full names, date, **$2 per copy plus $3 mail fee**. This can establish the precise legal record and potentially correct the age/ceremony details in the current account. No request has been submitted.
+The known **18 April 1956 Fentress County marriage to Judith Mae Palmer** is now located in FamilySearch's Tennessee County Marriages collection:
+- County record: https://www.familysearch.org/ark:/61903/1:1:QKHW-WRNH
+- Original application image: https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BW-N721-P?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AQKHW-WRNH&cc=1619127&lang=en
+The application image reportedly lists Homer as age 18; his 18 March 1939 birth date makes him 17 on 18 April 1956. Judith's 9 February 1939 birth date also makes her 17. The record is therefore an actual original application image, not merely an index, but the age discrepancy remains unresolved.
+
+ The Fentress County Clerk says marriage licenses dating to January 1903 can be printed in the office; a mailed certified copy requires the full names, date, **$2 per copy plus $3 mail fee**. This can establish the precise legal record and potentially correct the age/ceremony details in the current account. No request has been submitted.
 
 - Fentress County Clerk certified marriage-copy instructions: https://fentresscountytn.gov/certified-copy-marriage-license/
 - Fentress County Clerk: (931) 879-8014; P.O. Box 823, Jamestown, TN 38556.
 
-**Important request detail:** because the 1968 Ohio divorce index indicates the 1956 marriage to Judith may have been Homer's second, ask Fentress County for the **complete original marriage file**, not merely a short certified abstract: application, license, bond, consent/affidavit if any, and minister's return/register entry. Ask whether the application records a prior marriage or the date/place of a previous divorce. No request has been submitted.
+**Remaining request detail:** the FamilySearch application image is available and has already been used to read the ages, but the full county file may include additional material not digitized with the image. Because the 1968 Ohio divorce index indicates the 1956 marriage to Judith may have been Homer's second, ask Fentress County for any **supplemental marriage file** beyond the surviving application image: license, bond, consent/affidavit, minister's return/register entry, and any separate prior-marriage declaration. Ask whether the county record contains a previous-marriage statement or a date/place of an earlier divorce. No county request has been submitted.
 
 FamilySearch's Tennessee County Marriages collection covers records only through 1959 and includes Fentress County, but the collection description says it contains county register, license, bond, and certificate images. It is a secondary online route to inspect the actual record if the correct image is indexed:
 - https://www.familysearch.org/en/search/collection/1619127
