@@ -56,12 +56,13 @@ The strongest working reconstruction is therefore: an unidentified first marriag
 
 ## 2. 1930 Cincinnati birthplace clue for Eunice — family movement was not one-way
 
-Eunice Edna Brewster's Social Security Applications and Claims Index transcription gives her birth as **22 December 1930, Cincinnati, Ohio**. The index names her father as **“Willie H. Brewster”** and her mother as **Sarah H. Kelley**. The father's given-name form does not exactly match Homer William Brewster Sr., so this index alone cannot establish that the 1930 Cincinnati birth belongs to the same Homer/Sarah couple. However, Eunice's 1987 family death notice identifies her as daughter of **Homer Brewster and Sarah Brewster**, and the 1940 census index places Eunice in the parents' Morgan County, Tennessee household. The original 1950 census image then places Homer Jr. in Cincinnati by age eleven.
+Eunice Edna Brewster's Social Security Applications and Claims Index transcription gives her birth as **22 December 1930, Cincinnati, Ohio**. The index names her father as **“Willie H. Brewster”** and her mother as **Sarah H. Kelley**. The father's given-name form does not exactly match Homer William Brewster Sr., so this index alone cannot establish that the 1930 Cincinnati birth belongs to the same Homer/Sarah couple. Eunice's 1987 family death notice does identify her as daughter of **Homer Brewster and Sarah Brewster**, and the 1940 census index places Eunice in the parents' Morgan County, Tennessee household. The original 1950 census image places Homer Jr. in Cincinnati by age eleven.
 
-**Working conclusion:** the family appears to have had an earlier Cincinnati period, then was in Morgan County by 1940, and was back in Cincinnati by April 1950. Do not write a single uninterrupted “moved north” story or invent exact move dates. The 1930 SSA index is a secondary index and its father-name discrepancy must remain visible.
+**Working conclusion:** the records establish the family in Morgan County by 1940 and in Cincinnati by April 1950. Eunice's 1930 Cincinnati birthplace is a possible earlier Cincinnati connection, but it does not prove that the household lived there; it could reflect the place of birth only. A search of the 1930–31 Cincinnati city directory's Brewster entries did not locate Homer Sr. under that surname, although directory absence is not proof that the family was not in the city. Do not write an established earlier migration or invent exact move dates. The 1930 SSA index is secondary, and its father-name discrepancy must remain visible.
 
 - SSA Applications and Claims Index transcription for Eunice: https://sortedbyname.com/letter_b/brewster/index_307.html
 - Eunice's 1987 death notice is a family-held newspaper clipping, already cited in her profile.
+- 1930–31 Cincinnati directory, alphabetical Brewster section: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1930-31_Pt01.pdf
 - 1940 census index and image: https://www.familysearch.org/ark:/61903/1:1:K4ZX-8KS and https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-D46S
 
 ## 4. Original 1950 census image — direct confirmation of Cincinnati by age eleven
