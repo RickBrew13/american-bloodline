@@ -20,13 +20,17 @@
 
 The Recorder's own deed-book guide states that Books 852–4061 (1901–1971) are on microfilm at the Recorder's Office. Books 4025 and 4040 are in that range, so they should **not** be described as confirmed downloadable online Acclaim images. The Acclaim Book/Page page provides an electronic search interface, but the original images for these particular books were not retrieved here. The 1966 and 1969 deed books are also in the 1901–1971 microfilm range and are tracked separately in Homer Sr.'s folder.
 
-1. Open the Recorder's Acclaim system (search interface; online image availability for these books is not confirmed): https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive
-2. Choose the **BOOK/PAGE** search.
-3. Select book type **DEED - Deed Books**.
-4. Enter the relevant book and page:
+1. The Acclaim BOOK/PAGE search interface can be tried first: https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive
+2. Choose **BOOK/PAGE**, select **DEED - Deed Books**, and enter:
    - 4025 / 55 — Rapp to Homer W. and Flora L. Brewster, 13 Aug 1975
    - 4040 / 738 — Homer W. Brewster to Flora L. Brewster, 8 Jan 1976
-5. Open the matching brown result to view the document image. If the viewer presents paired microfilm pages, use the Recorder's page-number guidance to navigate to the correct numbered page.
+3. Remote access to the original images for these 1901–1971 microfilm books is **not confirmed**. If the search only identifies the book/page or no image is displayed, use the Recorder's microfilm/copy service rather than assuming the image is downloadable.
+4. The Recorder's Office is at **138 E. Court St., Room 205, Cincinnati, OH 45202**; public hours are Monday–Friday, 7:30 a.m.–4:00 p.m. General information: **(513) 946-4596**; office supervisor: **(513) 946-4574**; email **recordersoffice@hamiltoncountyohio.gov**. The office says public self-service copies are **$0.10/page** and staff-produced copies are **$2.00/page**; certified copies are $2.00/page plus a $1.00 certification seal. Mail requests require a self-addressed stamped envelope. Confirm any mailing arrangement and current fee with staff before sending payment.
+5. Recorder guidance and fee details:
+   - Deed-book date ranges and microfilm: https://recordersoffice.hamilton-co.org/search_help/search_deed_books.htm
+   - Office contact and hours: https://recordersoffice.hamilton-co.org/contact_us_feedback/
+   - Copy services and fees: https://recordersoffice.hamilton-co.org/additional_services/
+   - Fee schedule: https://recordersoffice.hamilton-co.org/fees/main_office.html
 
 The 1966 deed, Book 3463, page 428, is a separate lead for **Homer Sr. and Sarah** and belongs in Homer Sr.'s archive, not Homer Jr.'s. The 1969 cross-index page discrepancy must be resolved from the actual instrument or Recorder's microfilm.
 
