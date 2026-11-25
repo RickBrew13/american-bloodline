@@ -69,6 +69,7 @@ Eunice Edna Brewster's Social Security Applications and Claims Index transcripti
 
 The original National Archives 1950 census sheet was downloaded and visually inspected on 19 November 2026. It is Cincinnati/Hamilton County, Ohio, Enumeration District 91-136, handwritten sheet 3, dated 15 April 1950; Homer Jr. is line 19. The image identifies him as a son, male, age 11, born in Tennessee, in the household of Homer W. and Sarah H. Brewster. The father's initial is visibly W on the original image, although FamilySearch's index transcribes it as N. The image's race column is marked “W,” the enumerator's historical category; it does not establish ethnicity or genetic ancestry. No occupation is entered for Homer Jr., which says nothing about his adult occupation. The father's “Press Operator / Motor Mfg” occupation belongs to Homer Sr., not his son.
 
+- NARA metadata identifies ED 91-136 as Cincinnati city, Hamilton County, Ward 6, Tract 11 (part); population-schedule object: https://nara-1950-census.s3.us-east-2.amazonaws.com/1950census/43290879-Ohio/43290879-Ohio-180356
 - NARA 1950 Census viewer: https://1950census.archives.gov/search/?state=OH&ed=91-136
 - NARA manifest: https://1950census.archives.gov/api/manifest?state=OH&ed=91-136
 - FamilySearch index: https://www.familysearch.org/ark:/61903/1:1:6XYB-5MCR
