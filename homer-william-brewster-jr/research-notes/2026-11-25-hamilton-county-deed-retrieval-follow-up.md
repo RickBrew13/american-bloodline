@@ -24,7 +24,6 @@ The Hamilton County Genealogical Society's updated instructions (7/21/2025) desc
 2. Choose the **BOOK/PAGE** search.
 3. Select book type **DEED - Deed Books**.
 4. Enter the relevant book and page:
-   - 3708 / 344 — unidentified “Homer et al” to James A. Katsanis, 26 Nov 1969
    - 4025 / 55 — Rapp to Homer W. and Flora L. Brewster, 13 Aug 1975
    - 4040 / 738 — Homer W. Brewster to Flora L. Brewster, 8 Jan 1976
 5. Open the matching brown result to view the document image. If the viewer presents paired microfilm pages, use the Recorder's page-number guidance to navigate to the correct numbered page.
