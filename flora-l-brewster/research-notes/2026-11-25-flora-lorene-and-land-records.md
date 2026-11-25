@@ -77,3 +77,58 @@ Image search returned a portrait labelled **Flora A. Brewster**, a nineteenth-ce
 5. Hamilton County Recorder, Deed Indexes 1914–1988: https://recordersoffice.hamilton-co.org/deed_indexes/
 
 **No original deed has been obtained or examined. No county request has been submitted.**
+
+
+## Final online research review — 25 November 2026
+
+This profile's current online research pass is now closed. The facts above are the strongest supportable results from the indexes and public sources available in this session. “Closed” means the available online research has been reviewed and recorded; it does **not** mean that every biographical fact has been recovered or that the original county records have been obtained.
+
+### Portrait found, but excluded
+
+A web search located a portrait labelled **“Flora A. Brewster, M.D.”** on Rawpixel:
+https://www.rawpixel.com/image/11506960/flora-brewster-md-free-image
+
+This is **not** the Flora L. Brewster in this profile. The portrait belongs to **Flora Alzora Brewster (26 February 1852–February 1919)**, a physician born in Alfred, Allegany County, New York, and later associated with Baltimore and Seattle. She is a distinct nineteenth-century woman. The image is recorded here only to explain the name collision; it must not be copied into Flora L.'s image gallery or used as her portrait.
+
+Identification references:
+- Rawpixel image listing: https://www.rawpixel.com/image/11506960/flora-brewster-md-free-image
+- Biographical entry identifying Flora A. as Flora Alzora Brewster, born 1852: https://en.wikipedia.org/wiki/Flora_A._Brewster
+- “A Woman of the Century” scan containing her portrait: https://upload.wikimedia.org/wikipedia/commons/a/ac/A_woman_of_the_century_-_fourteen_hundred-seventy_biographical_sketches_accompanied_by_portraits_of_leading_American_women_in_all_walks_of_life_%28IA_cu31924032324752%29.pdf
+
+No matching photograph of the 1935-born Flora L. / possible Flora Lorene Brewster was identified in the online image and genealogy searches.
+
+### Additional official record-access routes checked
+
+**1977 marriage license/application:** Hamilton County Probate Court's online Marriage License index begins in 1984; its historical Marriage Record Archive Search covers 1808–1973, so neither online search exposes the 1977 application. The Probate Court's document-request page expressly allows a marriage-license request by listing both parties and the year. It lists a $2 certified marriage-record fee and provides an online request form:
+https://efile.probatect.org/documentrequest/index
+
+The request should identify **Homer William Brewster Jr. and Flora L. Brewster, Hamilton County, Ohio, 1977**, with the index locator **Marriage Licenses, volume 13, page 1432**. Ask for the completed application/license and any attached marriage-history pages. No request has been submitted and no fee has been paid.
+
+**18 March 1977 divorce lead:** Hamilton County Clerk of Courts Domestic Relations Division maintains divorce decrees from 1885 onward. The underlying 1977 case file should be retrieved to determine whether the indexed Homer W. Brewster and Flora L. are this couple, whether it contains a prior marriage date, and whether it identifies children or other relevant details. Official routes:
+- Domestic Relations Division records information: https://www.courtclerk.org/our-office/common-pleas-court-clerk/domestic-relations-division/
+- Clerk's records search: https://www.courtclerk.org/records-search/
+- Clerk's document request instructions: https://www.courtclerk.org/records-search/request-records/
+
+The case number has not been established from the accessible index extract. Do not attribute the 1977 divorce entry to this Flora until the court case caption and record are checked. No request has been submitted.
+
+**Deed originals:** The Recorder confirms that books 4062–4414 (1971–1988) can only be viewed on Recorder's Office computers. This means Book 4144, page 1074 (the Flora Lorene deed) is not available for remote inspection through the normal historic-book image route. Books 4025 and 4040 are within the earlier online range, but the actual instruments have not been retrieved in this session. Recorder's instructions:
+https://recordersoffice.hamilton-co.org/search_help/search_deed_books.htm
+https://recordersoffice.hamilton-co.org/helpful_information/help_deeds_21-4414.html
+
+### Final status of the family questions
+
+| Question | Current conclusion |
+|---|---|
+| Full name | “Flora Lorene Brewster” is a strong 1979 deed-index lead, but not proven to be this Flora. |
+| Birth | About 1935, inferred from Ohio marriage/divorce index ages; exact date and place unknown. |
+| Parents | Not identified. |
+| Siblings | Not identified. |
+| Maiden name | Not identified. |
+| Spouses | Homer William Brewster Jr. is confirmed as spouse in the 12 Sep 1977 marriage index. The index reports two prior marriages for Flora; neither earlier spouse is identified. |
+| Children | None independently identified. The 1977 divorce lead's “no minor children” cannot be generalized to all of Flora's marriages. |
+| Death/burial | Not established; no assumption that she is deceased. |
+| Occupation/religion | Not found. |
+| Photograph | No verified photograph. The Flora A. Brewster portrait is a different person and excluded. |
+| Property | 1975 joint acquisition with Homer; 5 Mar 1976 Homer-to-Flora transfer; 8 Jan 1979 Flora Lorene conveyance. These are index entries, not inspected original deeds. |
+
+**Research disposition:** The profile is ready to be treated as finished for this current online research pass, with unknowns honestly preserved. The only meaningful next evidence would come from the original Probate Court marriage application, the 1977 divorce case file, and the deed originals. No family relationship should be invented to fill those gaps.
