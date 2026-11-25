@@ -297,8 +297,8 @@ The Hamilton County Recorder's original annual deed indexes now independently co
   - Official 1975 index, TO/FROM: https://recordersoffice.hamilton-co.org/deed_indexes/di1975tetrb.pdf
   - Official 1975 index, FROM/TO: https://recordersoffice.hamilton-co.org/deed_indexes/di1975trter.pdf
 
-- **8 January 1976, Deed Book 4040, page 738:** the 1976 TO/FROM index lists **Homer W. Brewster as grantee (TO)** and **Flora L. Brewster as grantor (FROM)**. The indexed direction is therefore **Flora L. Brewster → Homer W. Brewster**, not Homer → Flora. This corrects the direction previously stated in the profile and earlier notes. The instrument itself is still required to establish the legal effect, property, marital-status language, and identity.
-  - Official 1976 index, TO/FROM: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
+- **5 March 1976, Deed Book 4040, page 738:** the 1976 FROM/TO index lists **Homer W. Brewster as grantor (FROM)** and **Flora L. Brewster as grantee (TO)**. The indexed direction is therefore **Homer W. Brewster → Flora L. Brewster**. The actual page image confirms the column headings and March 5 date group; the original deed is still required to establish legal effect, property, marital-status language, and identity.
+  - Official 1976 index, FROM/TO: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
 
 The Recorder's current historic-record guidance says books 3225–4061 (1962–1976) are available through the county's online Book/Page search; the correct way to inspect these records is to enter Book Type DEED and the book/page, accounting for the site's image-frame/page-numbering guidance. The indexes are not substitutes for the instruments. No deed image has yet been inspected, and no legal description or address is added to Homer's profile.
 
