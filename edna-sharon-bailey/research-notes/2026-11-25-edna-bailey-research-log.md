@@ -73,3 +73,18 @@ A Jackson County KYGenWeb photo-album page identifies a family photograph taken 
 **Important same-name distinction:** the caption also names an **Edna Bailey** in the 1923 photograph. That person cannot be Edna Sharon Bailey, whose indexed birth is 6 December 1939. Do not merge the two Ednas or use the older Edna's appearance/family role as evidence about Edna Sharon. The photo is useful here because it identifies James “Boyd” Bailey and the older Bailey family, not because it depicts our subject.
 
 The page states that the image was taken in Jackson County on Christmas Day 1923 and that the back carried the handwritten note “All the Bailey's at this time, many more later.” The caption is a secondary identification and its contributor/provenance should be traced if possible.
+
+
+## 8. Additional Indiana marriage-index route confirmed — statewide searchable index
+
+The Indiana State Library's public Indiana Legacy system exposes a dedicated **Indiana Marriages 1958–2022** index. The search form has fields for both applicants' first, middle, and last names, marriage date, county, and certificate number. Its page says the index derives from public records of the Indiana State Department of Health, and warns that transcription errors may occur. This is a direct public index route for testing the reported Edna Bailey–Homer Brewster marriage.
+
+- Search page: https://digital.statelib.lib.in.us/legacy/search.aspx?index=2
+- The Indiana State Library Online Resources page lists this as Indiana Marriages Index 1958–2018: https://www.in.gov/library/online-resources/
+- The current index page itself identifies its range as 1958–2022; use the current live page range.
+- Search targets: applicant 1 Edna (Edna S. / Edna Sharon) Bailey; applicant 2 Homer (Homer William) Brewster; county Franklin; date 18 June 1966. Also search without county/date to allow for an incorrect tree location/date.
+- **No couple-specific index hit has been retrieved.** The index and its fields are confirmed, but the actual search form has not been submitted; no positive or negative result is claimed.
+
+Ancestry separately describes the Franklin County, Indiana, U.S., Marriage Records, 1821–1997 collection as including marriage registers and individual license applications. Depending on the record, fields may include names, ages, birth details, license and marriage dates/places, spouse, parents and their birthplaces, mother's maiden name, children, certificate number, occupations, and officiant. This is potentially the best original-record route if the state index returns a candidate. Collection: https://www.ancestry.com/search/collections/62716. Access to the underlying search/images may require an Ancestry account or subscription; no record has been viewed.
+
+**Research outcome:** Two named, date-appropriate databases and the fields likely available in the original county record are now documented. The alleged marriage itself remains unestablished.
