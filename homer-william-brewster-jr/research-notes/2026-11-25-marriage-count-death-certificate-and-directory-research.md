@@ -289,7 +289,7 @@ For men who registered before 1976, NARA says the surviving individual record ty
 
 
 
-## 18. 1975–1976 property transactions — both index directions now cross-checked
+## 18. 1975–1976 property transactions — 1975 cross-checked in both index directions; 1976 direction clarified
 
 The Hamilton County Recorder's original annual deed indexes now independently confirm the two transactions already noted in Homer's timeline:
 
