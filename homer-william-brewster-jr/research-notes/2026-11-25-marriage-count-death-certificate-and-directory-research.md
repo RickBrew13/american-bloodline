@@ -30,7 +30,7 @@ The known **18 April 1956 Fentress County marriage to Judith Mae Palmer** should
 FamilySearch's Tennessee County Marriages collection covers records only through 1959 and includes Fentress County, but the collection description says it contains county register, license, bond, and certificate images. It is a secondary online route to inspect the actual record if the correct image is indexed:
 - https://www.familysearch.org/en/search/collection/1619127
 
-## 3. The 1968 divorce count points to an earlier marriage before Judith
+## 2. The 1968 divorce count points to an earlier marriage before Judith
 
 The Ohio divorce index entry for Homer Brewster and Judith, granted in Hamilton County on 2 May 1968, reports Homer as having been married twice and Judith once. This is more significant than a simple note that Homer had “two weddings.”
 
@@ -54,7 +54,7 @@ This count needs to be checked against the actual 1968 divorce abstract and comp
 
 The strongest working reconstruction is therefore: an unidentified first marriage before 1956; marriage two to Judith in 1956, ending in the 1968 divorce; marriage three to Flora in 1977, ending in the 1978 divorce. This reconstruction depends on the accuracy and identity of the Ohio index entries; it does not identify the first wife. Edna Sharon Bailey's alleged 1966 marriage remains an unverified and chronologically unresolved lead, not the identified first wife. The original 1968 and 1977–1978 abstracts, marriage license, and case files are needed to settle the sequence. The family account of repeated Homer/Judith marriages also remains separate from what the indexes prove.
 
-## 2. 1930 Cincinnati birthplace clue for Eunice — family movement was not one-way
+## 3. 1930 Cincinnati birthplace clue for Eunice — family movement was not one-way
 
 Eunice Edna Brewster's Social Security Applications and Claims Index transcription gives her birth as **22 December 1930, Cincinnati, Ohio**. The index names her father as **“Willie H. Brewster”** and her mother as **Sarah H. Kelley**. The father's given-name form does not exactly match Homer William Brewster Sr., so this index alone cannot establish that the 1930 Cincinnati birth belongs to the same Homer/Sarah couple. Eunice's 1987 family death notice does identify her as daughter of **Homer Brewster and Sarah Brewster**, and the 1940 census index places Eunice in the parents' Morgan County, Tennessee household. The original 1950 census image places Homer Jr. in Cincinnati by age eleven.
 
