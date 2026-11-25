@@ -4,7 +4,22 @@
 **Scope:** Homer William Brewster Jr. only  
 **Status:** New source routes and one important marriage-count inference established; original records still required.
 
-## 1. The 1968 divorce count points to an earlier marriage before Judith
+## Tennessee marriage-record routes — verify the 1956 marriage and search for an earlier one
+
+The Tennessee State Library & Archives (TSLA) confirms that a statewide marriage index exists for **1950–1964**, searchable by either groom or bride. TSLA offers a five-year-range search for **$10 for a non-Tennessee resident**. The request form accepts the groom's name, bride if known, date or five-year range, and county if known. This is the strongest next step for testing the 1968 Ohio divorce abstract's indication that Homer's marriage to Judith was his second: search the statewide index under **Homer William Brewster / Homer W. Brewster** across 1950–1955 (and, if needed, 1950–1959), not only Fentress County. No earlier spouse or marriage has yet been found, and no paid search has been submitted.
+
+- TSLA marriage-record periods, search scope, and fees: https://sharetngov.tnsosfiles.com.s3.amazonaws.com/tsla/history/mailcnty.htm
+- TSLA Microfilm Copy Order form (SS-2237): https://tsla.tnsosfiles.com/general/forms/ss-2237.pdf
+
+The known **18 April 1956 Fentress County marriage to Judith Mae Palmer** should also be verified from the county's original marriage record. The Fentress County Clerk says marriage licenses dating to January 1903 can be printed in the office; a mailed certified copy requires the full names, date, **$2 per copy plus $3 mail fee**. This can establish the precise legal record and potentially correct the age/ceremony details in the current account. No request has been submitted.
+
+- Fentress County Clerk certified marriage-copy instructions: https://fentresscountytn.gov/certified-copy-marriage-license/
+- Fentress County Clerk: (931) 879-8014; P.O. Box 823, Jamestown, TN 38556.
+
+FamilySearch's Tennessee County Marriages collection covers records only through 1959 and includes Fentress County, but the collection description says it contains county register, license, bond, and certificate images. It is a secondary online route to inspect the actual record if the correct image is indexed:
+- https://www.familysearch.org/en/search/collection/1619127
+
+## 2. The 1968 divorce count points to an earlier marriage before Judith
 
 The Ohio divorce index entry for Homer Brewster and Judith, granted in Hamilton County on 2 May 1968, reports Homer as having been married twice and Judith once. This is more significant than a simple note that Homer had “two weddings.”
 
@@ -28,7 +43,7 @@ This count needs to be checked against the actual 1968 divorce abstract and comp
 
 The strongest working reconstruction is therefore: an unidentified first marriage before 1956; marriage two to Judith in 1956, ending in the 1968 divorce; marriage three to Flora in 1977, ending in the 1978 divorce. This reconstruction depends on the accuracy and identity of the Ohio index entries; it does not identify the first wife. Edna Sharon Bailey's alleged 1966 marriage remains an unverified and chronologically unresolved lead, not the identified first wife. The original 1968 and 1977–1978 abstracts, marriage license, and case files are needed to settle the sequence. The family account of repeated Homer/Judith marriages also remains separate from what the indexes prove.
 
-## 2. Original 1950 census image — direct confirmation of Cincinnati by age eleven
+## 3. Original 1950 census image — direct confirmation of Cincinnati by age eleven
 
 The original National Archives 1950 census sheet was downloaded and visually inspected on 19 November 2026. It is Cincinnati/Hamilton County, Ohio, Enumeration District 91-136, handwritten sheet 3, dated 15 April 1950; Homer Jr. is line 19. The image identifies him as a son, male, age 11, born in Tennessee, in the household of Homer W. and Sarah H. Brewster. The father's initial is visibly W on the original image, although FamilySearch's index transcribes it as N. The image's race column is marked “W,” the enumerator's historical category; it does not establish ethnicity or genetic ancestry. No occupation is entered for Homer Jr., which says nothing about his adult occupation. The father's “Press Operator / Motor Mfg” occupation belongs to Homer Sr., not his son.
 
@@ -40,7 +55,7 @@ The original National Archives 1950 census sheet was downloaded and visually ins
 
 **Profile consequence:** The family was in Cincinnati by April 1950, when Homer was eleven. The old family-book phrase that he moved north “as a young man” is not consistent with the census; keep the Hillbilly Highway description as family-history context, but place the move in his childhood. The 1940 index still places the family in Morgan County, Tennessee. The precise move date and route are not known.
 
-## 3. Obtain the original 2000 death certificate
+## 4. Obtain the original 2000 death certificate
 
 The Ohio death index identifies Homer William Brewster, death date 27 September 2000, Preble County, residence Cincinnati, disposition cremation, certificate **076423**. The death certificate is the best next record for resolving his age, exact place, cause, and informant.
 
