@@ -103,3 +103,18 @@ A closer comparison with Homer's own indexed divorce/marriage sequence adds an i
 **Next decisive checks:** obtain the original 1968 Ohio divorce abstract/case file to verify item 24 and its marriage date; search the actual Franklin County, Indiana, 1966 register/license applications for Edna Bailey and Homer Brewster (including name variants); and identify Homer's earlier first marriage before Judith through the Tennessee and Ohio record routes already documented in Homer's own research file. Keep Homer-specific research and records in Homer's folder; this Edna log records only the contradiction relevant to evaluating Edna's tree claim.
 
 **Current conclusion for Edna:** the 18 June 1966 Homer Brewster marriage remains an unsupported online-tree claim and is now in direct conflict with the recorded marriage-order sequence. It should be treated as probably a tree error unless an original Indiana record proves otherwise.
+
+
+## 10. Direct county-clerk route for the decisive 1966 record
+
+The official Franklin County, Indiana, Clerk's Department page identifies the Clerk of the Circuit Court as the office handling marriage licenses and provides these contact details:
+- Franklin County Clerk of the Circuit Court, 459 Main Street, Brookville, IN 47012
+- Phone: 765-647-5111
+- Email: clerk@franklincounty.in.gov
+- Official office page: https://www.franklincounty.in.gov/department/clerk/
+
+Indiana's Judicial Branch says marriage certificates are not available through the online court public-records page and directs record requests to the clerk in the county where the marriage occurred. Indiana Archives and Records Administration also states that county originals remain the route when digitized copies cannot be located. Official guidance: https://www.in.gov/courts/public-records/how-to-request/ and https://www.in.gov/iara/services-for-public/search-archives-holdings/vital-records/
+
+**Specific search request to the clerk (not yet sent):** Please check the 1966 marriage register and license/application files for (1) Edna Bailey, including Edna S. Bailey and Edna Sharon Bailey, with Homer William Brewster, Homer W. Brewster, or Homer Brewster; first for 18 June 1966 and then across all of 1966 if no exact-date entry appears. Ask whether the register contains a certificate number, license date, marriage return, ages, prior-marriage status, residences, parents, witnesses, or an image/copy of the application and return. Ask for the search/copy fee and whether genealogical copies can be provided. A search of the county's original index/register is especially important because neither the Indiana Legacy search form nor a couple-specific FamilySearch result was successfully retrieved in this research session.
+
+No email or record request has been sent, no clerk has confirmed a result, and no fee has been paid. This is a verified contact route, not evidence that the marriage occurred.
