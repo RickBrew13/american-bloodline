@@ -98,6 +98,16 @@ Request route:
 
 The most useful request is the **Classification History (Form 102)** because it includes the card and may establish whether Homer entered active duty, the branch and separation date, or another classification. Use the exact full name, date of birth, and likely 1957 residence in Cincinnati/Hamilton County, Ohio. No request has been submitted and no fee has been paid.
 
+## Franklin County, Indiana marriage-record search for the Edna Bailey lead
+
+A relevant county-level collection exists and is more specific than the statewide index description. FamilySearch's **Indiana, Franklin County, Marriage Records, 1853–1997** collection is sourced from the Franklin County Court and includes marriage licenses and marriage information; birth and parents' information may be present. It currently describes 15,138 records and 25,292 images:
+- Collection: https://www.familysearch.org/en/search/collection/5000717
+- Indiana State Library marriage index: https://digital.statelib.lib.in.us/legacy/search.aspx?index=2
+- Indiana Archives and Records Administration explains that the original license is held by the county clerk where the license was issued: https://www.in.gov/iara/services-for-public/search-archives-holdings/vital-records/
+- Indiana State Department of Health application and rules for marriage searches: https://www.in.gov/health/vital-records/marriages/
+
+**Search target:** reported Homer Brewster × Edna Sharon Bailey, 18 June 1966, Franklin County. The FamilySearch collection's search form requires JavaScript and could not be submitted in this research environment; no matching record has been located or ruled out. The Indiana State Library page exposes the relevant applicant/date/county fields but likewise did not return a submitted query. Do not state that either index was searched successfully. The county collection is the next best route because the underlying license may include both applicants' ages, birthplaces, parents, and signatures.
+
 ## Hamilton County deed lead — 26 November 1969
 
 The official 1969 grantor-to-grantee index records **“Brewster, Homer et al” → James A. Katsanis**, deed book **3708**, page **344**, on **26 November 1969**. The “et al” entry does not identify the additional grantors. It could involve Homer Jr., Homer Sr., or another Brewster; no person is attached until the original deed image names all grantors. The deed book/page is in the 1962–1976 range that the Recorder says is available through Acclaim, using Book Type DEED – Deed Books. The public search page exposes a form but the records were not retrieved in this research pass.
@@ -105,6 +115,10 @@ The official 1969 grantor-to-grantee index records **“Brewster, Homer et al”
 - Official 1969 index: https://recordersoffice.hamilton-co.org/deed_indexes/di1969trteb.pdf
 - Acclaim book/page search: https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive/Search/SearchTypeBookPage
 - Recorder's instructions: https://recordersoffice.hamilton-co.org/helpful_information/help_deeds_21-4414.html
+
+## Excluded Cincinnati directory same-name entry — 1952
+
+The full-text 1952 Cincinnati directory page returned a “Homer (Minnie) fctywkr GE h1020 Bank” entry. This is not Homer Jr., who was thirteen in 1952, and it is not safely attributable to Homer Sr., whose documented wife was Sarah. It is an excluded same-name directory lead; do not use its occupation or address in either Brewster profile. The directory is available through the Cincinnati & Hamilton County Public Library Digital Library: https://cdm16998.contentdm.oclc.org/digital/api/collection/p16998coll5/id/260247/download
 
 ## 6. Remaining record tasks
 
