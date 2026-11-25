@@ -45,3 +45,17 @@ Until each original deed page is inspected, do not state the property's street a
 ## Research priority
 
 Retrieve and inspect the original deed pages for Books 3708/344, 4025/55, and 4040/738. For each, transcribe the full legal description, instrument type, parties, execution/recording dates, consideration, witnesses/notary, and parcel/address exactly. Then use any identified parcel/address to follow ownership history through the Hamilton County Auditor. Keep each transfer separate and file each person's material in that person's own archive.
+
+
+## Additional route: Hamilton County Auditor ownership cards and historical sales
+
+The Recorder's official deed-search guide says to use the Auditor's Property Search for the parcel history and, for older transfers, open **“See Ownership Card”**. The Auditor's historical references page states that permanent duplicate cards, owner/address indexes, and plat maps exist from about 1940 onward. This gives a second route to recover the address and parcel behind the 1975/1976 deed entries even if the Acclaim image cannot be opened.
+
+- Hamilton County Auditor owner search: https://hammap.hcauditor.org/
+- Official Recorder search guide: https://recordersoffice.hamilton-co.org/helpful_information/how_to_search_pdi.pdf
+- Auditor historical records overview: https://recordersoffice.hamilton-co.org/helpful_information/hamilton_county_history.html
+- Auditor public-records request page and custodian: https://hcauditor.org/downloads.asp
+- Public-records custodian: Connor Moreton, County.Auditor@auditor.hamilton-co.org, (513) 946-4000, 138 E Court Street, Room 304, Cincinnati, Ohio 45202.
+
+**Specific request to the Auditor:** search the ownership card and owner/address index for **Homer W. Brewster and Flora L. Brewster**, using the Recorder references **Deed Book 4025, p.55 (13 Aug 1975)** and **Deed Book 4040, p.738 (8 Jan 1976)**. Request the parcel number, property address, legal description, ownership-card image, transfer history, and any available tax duplicate for the relevant years. Ask whether the 1969 Book 3708, p.344 deed to James A. Katsanis is indexed to the same parcel or another Brewster property. The Auditor's site provides an online Historic Sales Export, but the downloadable XLSX could not be retrieved in this research environment. No Auditor request has been submitted.
+
