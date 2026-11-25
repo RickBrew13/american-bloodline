@@ -1,0 +1,8 @@
+# Mila Moore — source addendum, 25 November 2026
+
+- [FamilySearch, 1940 U.S. Census, Mila Moore](https://www.familysearch.org/ark:/61903/1:1:KHMT-J99?lang=en), indexed as age 23, born Indiana, wife of Leroy Moore, mother of Patrick and Michael; Detroit Ward 6, Wayne County, Michigan, ED 84-246, sheet 13B, line 63, digital folder 005461733, image 352. Index only; original sheet not reviewed.
+- [FamilySearch, Leroy Moore, 1940 U.S. Census](https://www.familysearch.org/ark:/61903/1:1:KHMT-J9M?lang=en), with [Patrick](https://www.familysearch.org/ark:/61903/1:1:KHMT-J9S?lang=en) and [Michael](https://www.familysearch.org/ark:/61903/1:1:KHMT-J93?lang=en); indexed household relationships corroborate that Mila was their mother in 1940.
+- The 1950 schedule images for Leroy’s Dearborn household, archived in `leroy-c-moore/documents/`, show wife Elizabeth, Patrick, Michael, and Gary as sons, with Raymond J. Kroft, Isabell Kroft, Florence M., and Marvin E. labeled stepchildren of the head. Those stepchildren are not identified as Mila’s children.
+- FamilySearch 1940 record’s Similar Records panel shows “Myrtle Or Mila Christina Moore,” Michigan Death Certificates, 1921–1952. No record ID or actual certificate was accessible, so the association is unverified.
+- Search notes: public FamilySearch result pages for Mila Moore in 1910 (collection 1727033), 1920 (1488411), and 1930 (1810731) census collections returned zero visible results. Bounded interface searches only, not proof no such record exists.
+- Photo check: no image files in this profile’s GitHub `img/family-photos/` or `img/headstones/` folders beyond placeholders; no verifiable public portrait or headstone located in the searches recorded in the dated research note.
