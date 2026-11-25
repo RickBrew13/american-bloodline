@@ -8,11 +8,12 @@
 
 The Ohio divorce index entry for Homer Brewster and Judith, granted in Hamilton County on 2 May 1968, reports Homer as having been married twice and Judith once. This is more significant than a simple note that Homer had “two weddings.”
 
-The federal standard divorce statistical record defines the “number of times married” as including all marriages of each party, including the present marriage being dissolved:
-- CDC, *Vital Statistics of the United States, 1960*, marriage and divorce forms and definitions: https://www.cdc.gov/nchs/data/vsus/mgdv60_3.pdf
-- Ohio's certified divorce abstract form also contains a separate “Number of this marriage” field for each applicant: https://codes.ohio.gov/assets/laws/administrative-code/pdfs/3701/0/5/3701-5-02_PH_FF_A_APP28_20160623_0851.pdf
+Ohio-specific evidence clarifies the field. The Ohio Department of Health's certified abstract of divorce uses the field **“Number of this marriage”** separately for the husband and wife. A 2008 federal/state systems study reproduces the Ohio form and confirms that ODH receives certified paper divorce abstracts from the county courts and enters the fields into its statewide index:
+- Ohio Department of Health, *Certified Abstract* form, HEA 2744: https://odh.ohio.gov/wps/wcm/connect/gov/debe66dd-da23-4dcf-a75d-092b5e115c6b/combined%2Bpdf%2B632019.pdf
+- The Lewin Group, *Electronic Collection of Marriage and Divorce Statistics: Findings from Seven States* (2008), Ohio site visit, pp. 49–52: https://acf.gov/sites/default/files/documents/opre/electronic_coll.pdf
+- Henschen's search help explains that divorce results include each spouse's personal details and information about the marriage and decree: https://hacourts.com/VitStats/Help/index.shtml
 
-**Working inference:** If the 1968 index's count was transcribed correctly and follows the standard field definition, Homer had at least one marriage before the marriage to Judith. Judith's count of one means her marriage to Homer was her first. This is not explained by the family story of a second ceremony after their Tennessee elopement; do not treat the family ceremony as the missing prior marriage. No earlier spouse, date, county, or certificate has yet been identified.
+**Working inference:** If the 1968 index value was transcribed correctly, the “2” for Homer means his marriage to Judith was his second marriage; Judith's “1” means her marriage to Homer was her first. This indicates at least one earlier marriage for Homer before Judith. It is not explained by the family story of a second ceremony after their Tennessee elopement; do not treat that ceremony as the missing prior marriage. No earlier spouse, date, county, or certificate has yet been identified. Verify the field value against the actual 1968 abstract before treating the inference as final.
 
 This count needs to be checked against the actual 1968 divorce abstract and complete court file before the earlier marriage is treated as fully established. Keep the unknown prior spouse as an open research question.
 
