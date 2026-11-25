@@ -11,6 +11,15 @@ The Tennessee State Library & Archives (TSLA) confirms that a statewide marriage
 - TSLA marriage-record periods, search scope, and fees: https://sharetngov.tnsosfiles.com.s3.amazonaws.com/tsla/history/mailcnty.htm
 - TSLA Microfilm Copy Order form (SS-2237): https://tsla.tnsosfiles.com/general/forms/ss-2237.pdf
 
+### Statewide Ohio marriage search through Henschen
+
+The Ohio Marriage/Divorce Search help page says its marriage index reaches back to **14 December 1926** and that marriage results can include both applicants' ages, residences, and previous-marriage counts. The search is exact-match sensitive: even a missing period can prevent a match, and the help page recommends dropping first names or other details when a precise search fails. This is a useful statewide route for the unidentified first marriage, not just Hamilton County.
+
+- Search page: http://hacourts.henschen.com/VitStats
+- Official Henschen help: https://hacourts.com/VitStats/Help/index.shtml
+
+Recommended query: Groom last name **Brewster**, first name **Homer**; search Marriages and Divorces. If no result, repeat with only surname Brewster, then try William or W. as the first/middle-name variant. The site is an index compiled from Ohio Department of Health data and expressly warns that records may be incomplete, incorrect, or missing. I could inspect the search instructions but the web interface does not expose a way to submit its form here; **no new statewide search has been run**.
+
 ### Hamilton County, Ohio index check for a possible first marriage before Judith
 
 Because Homer was living in Cincinnati by 1950, the Hamilton County Probate Court's historical marriage index is another plausible place to find the unidentified first marriage. The Court's official index page has separate alphabetic scans for **1953–1957** and **1963–1967**:
