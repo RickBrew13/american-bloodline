@@ -1,0 +1,1 @@
+The canonical Gen V source inventory for the Clifford Shamblen shared archive is in Clifford’s existing research notes at `clifford-earl-shamblen/research-notes/Gen5-transfer-inventory-Clifford-Lois-Marjorie.md`. Items about this person/family were routed to the existing archive named by their source; private autobiography materials remain in Drive.
