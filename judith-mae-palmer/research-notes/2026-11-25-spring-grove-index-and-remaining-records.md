@@ -40,9 +40,9 @@ The Ohio divorce index entry currently attributed as a possible Judy/Larry match
 
 Hamilton County Clerk of Courts says divorce decrees from 1885 to the current year are held at the Document Center, Hamilton County Courthouse, 1000 Main Street, Room 315, Cincinnati, OH 45202, phone 513-946-5693. Records request instructions: https://www.courtclerk.org/records-search/request-records/. Request the full case file, especially petition through decree, and ask the clerk to identify the case using the Ohio certificate/volume data if the court case number is not known. A full petition/decree may reveal Judith's full legal name, date of marriage, addresses, and the identity/age of the minor child. Do not state that child was Barry until the file confirms it.
 
-## Barry T. Clark — father remains unresolved
+## Barry T. Clark — family identifies Larry Clark as his father
 
-Barry's shared headstone and family records establish him as Judy's son, born 25 August 1969 and died 24 July 2008. They do not identify his father. The 1984 divorce entry's “one minor child” is a possible research clue only; it is not evidence that Barry was that child or that Larry was his father.
+Barry's shared headstone and family records establish him as Judy's son, born 25 August 1969 and died 24 July 2008. The family identifies Larry Clark as Barry's father, and this is the working family fact reflected in Judy's profile. Documentary records are still worth pursuing to corroborate the relationship. The 1984 divorce entry's “one minor child” remains a separate clue only; do not assume that child was Barry unless the full case file confirms it.
 
 Next records to pursue:
 1. Barry's Ohio birth certificate / birth registration, through Ohio Department of Health or the local issuing office, subject to eligibility and access rules.
@@ -58,7 +58,7 @@ Ohio's Bureau of Vital Statistics maintains birth records from 20 December 1908 
 - Clarified in the life story that this index corroborates the Spring Grove burial and exact dates but does not prove place of death or exact plot.
 - Updated the open research question to distinguish secondary-index support from the original cemetery record.
 - Kept the Missouri death-location question open.
-- Kept Barry's father unresolved.
+- Corrected the profile to reflect the family's identification of Larry Clark as Barry's father; documentary corroboration remains a research task.
 - Kept the 1984 Larry/Judith divorce as a possible match, not a proven marriage.
 - No records or photographs were duplicated into Ralph's or Larry's folders. Judy's shared family photograph remains in Judy's archive.
 
@@ -68,7 +68,7 @@ Before moving the main research focus to Ralph and then Larry, continue auditing
 - [ ] Death certificate, obituary, funeral home, death location
 - [ ] Spring Grove original interment records for Judy and Barry; Larry only when independently identified
 - [ ] Full 1984 divorce file and legal relationship timeline
-- [ ] Barry's father through original birth/SSA/court records
+- [ ] Seek original birth/SSA/court records to document the family's identification of Larry Clark as Barry's father; do not treat the relationship itself as unknown
 - [ ] Parents, sisters, children, grandchildren, and relationship links checked against original sources where available
 - [ ] All existing family photographs reviewed for identifications, dates, provenance, and any additional Judy images
 - [ ] Documents, headstones, sources, family books, research notes, and photos correctly filed in Judy's own archive without duplicating shared records
