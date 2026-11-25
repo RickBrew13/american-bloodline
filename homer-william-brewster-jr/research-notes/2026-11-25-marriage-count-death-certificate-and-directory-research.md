@@ -12,6 +12,7 @@ Ohio-specific evidence clarifies the field. The Ohio Department of Health's cert
 - Ohio Department of Health, *Certified Abstract* form, HEA 2744: https://odh.ohio.gov/wps/wcm/connect/gov/debe66dd-da23-4dcf-a75d-092b5e115c6b/combined%2Bpdf%2B632019.pdf
 - The Lewin Group, *Electronic Collection of Marriage and Divorce Statistics: Findings from Seven States* (2008), Ohio site visit, pp. 49–52: https://acf.gov/sites/default/files/documents/opre/electronic_coll.pdf
 - Henschen's search help explains that divorce results include each spouse's personal details and information about the marriage and decree: https://hacourts.com/VitStats/Help/index.shtml
+- CDC/NCHS, *Handbook on Divorce Registration* (April 1988), item 24: if never married before, enter “First”; if previously married, enter “Second,” “Third,” etc.: https://ftp.cdc.gov/pub/Health_statistics/NCHS/Publications/DVD/DVD_3/Misc/hb_div.pdf
 
 **Working inference:** If the 1968 index value was transcribed correctly, the “2” for Homer means his marriage to Judith was his second marriage; Judith's “1” means her marriage to Homer was her first. This indicates at least one earlier marriage for Homer before Judith. It is not explained by the family story of a second ceremony after their Tennessee elopement; do not treat that ceremony as the missing prior marriage. No earlier spouse, date, county, or certificate has yet been identified. Verify the field value against the actual 1968 abstract before treating the inference as final.
 
@@ -27,7 +28,19 @@ This count needs to be checked against the actual 1968 divorce abstract and comp
 
 The strongest working reconstruction is therefore: an unidentified first marriage before 1956; marriage two to Judith in 1956, ending in the 1968 divorce; marriage three to Flora in 1977, ending in the 1978 divorce. This reconstruction depends on the accuracy and identity of the Ohio index entries; it does not identify the first wife. Edna Sharon Bailey's alleged 1966 marriage remains an unverified and chronologically unresolved lead, not the identified first wife. The original 1968 and 1977–1978 abstracts, marriage license, and case files are needed to settle the sequence. The family account of repeated Homer/Judith marriages also remains separate from what the indexes prove.
 
-## 2. Obtain the original 2000 death certificate
+## 2. Original 1950 census image — direct confirmation of Cincinnati by age eleven
+
+The original National Archives 1950 census sheet was downloaded and visually inspected on 19 November 2026. It is Cincinnati/Hamilton County, Ohio, Enumeration District 91-136, handwritten sheet 3, dated 15 April 1950; Homer Jr. is line 19. The image identifies him as a son, male, age 11, born in Tennessee, in the household of Homer W. and Sarah H. Brewster. The father's initial is visibly W on the original image, although FamilySearch's index transcribes it as N. The image's race column is marked “W,” the enumerator's historical category; it does not establish ethnicity or genetic ancestry. No occupation is entered for Homer Jr., which says nothing about his adult occupation. The father's “Press Operator / Motor Mfg” occupation belongs to Homer Sr., not his son.
+
+- NARA 1950 Census viewer: https://1950census.archives.gov/search/?state=OH&ed=91-136
+- NARA manifest: https://1950census.archives.gov/api/manifest?state=OH&ed=91-136
+- FamilySearch index: https://www.familysearch.org/ark:/61903/1:1:6XYB-5MCR
+- FamilySearch image: https://www.familysearch.org/ark:/61903/3:1:3QHK-SQHW-79GJ-Y
+- Existing original-image copy in Drive: https://drive.google.com/file/d/1qpt1-Xvz3zpeKHNKeKj7s5nN544I1k0i/view
+
+**Profile consequence:** The family was in Cincinnati by April 1950, when Homer was eleven. The old family-book phrase that he moved north “as a young man” is not consistent with the census; keep the Hillbilly Highway description as family-history context, but place the move in his childhood. The 1940 index still places the family in Morgan County, Tennessee. The precise move date and route are not known.
+
+## 3. Obtain the original 2000 death certificate
 
 The Ohio death index identifies Homer William Brewster, death date 27 September 2000, Preble County, residence Cincinnati, disposition cremation, certificate **076423**. The death certificate is the best next record for resolving his age, exact place, cause, and informant.
 
@@ -45,7 +58,7 @@ Ask for Homer William Brewster, died 27 September 2000, certificate 076423. Ask 
 
 The Dayton Daily News notice dated 29 September 2000 names a Homer Brewster, age 67, formerly of Dayton and of Cincinnati, and lists a memorial service at Newcomer-Barclay. Because this age conflicts with the age 61 implied by Homer's indexed birth and death dates, and the notice gives no middle name or relatives, its identity remains unconfirmed. Do not state the notice proves Homer's service or funeral arrangements.
 
-## 3. Cincinnati directories and occupation/residence research
+## 4. Cincinnati directories and occupation/residence research
 
 The Cincinnati & Hamilton County Public Library and Cincinnati History Library & Archives hold directory runs that cover the years Homer lived in southwest Ohio. The Hamilton County Genealogical Society's directory guide states:
 - Cincinnati directories for 1942–1960 are available through Ancestry (CHPL card-holder access).
@@ -69,7 +82,7 @@ Priority years and areas to check:
 
 No directory entry for Homer Jr. has been verified in this sweep. Do not infer an occupation from his parents' 1950 census occupations or from another Homer Brewster.
 
-## 4. Selective Service and military record request
+## 5. Selective Service and military record request
 
 Homer was born 18 March 1939 and turned 18 on 18 March 1957. He was therefore within the Selective Service registration period; his birth year is not among the later years exempted when registration was suspended. No military service has been established from the online research completed so far.
 
@@ -85,7 +98,15 @@ Request route:
 
 The most useful request is the **Classification History (Form 102)** because it includes the card and may establish whether Homer entered active duty, the branch and separation date, or another classification. Use the exact full name, date of birth, and likely 1957 residence in Cincinnati/Hamilton County, Ohio. No request has been submitted and no fee has been paid.
 
-## 5. Remaining record tasks
+## Hamilton County deed lead — 26 November 1969
+
+The official 1969 grantor-to-grantee index records **“Brewster, Homer et al” → James A. Katsanis**, deed book **3708**, page **344**, on **26 November 1969**. The “et al” entry does not identify the additional grantors. It could involve Homer Jr., Homer Sr., or another Brewster; no person is attached until the original deed image names all grantors. The deed book/page is in the 1962–1976 range that the Recorder says is available through Acclaim, using Book Type DEED – Deed Books. The public search page exposes a form but the records were not retrieved in this research pass.
+
+- Official 1969 index: https://recordersoffice.hamilton-co.org/deed_indexes/di1969trteb.pdf
+- Acclaim book/page search: https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive/Search/SearchTypeBookPage
+- Recorder's instructions: https://recordersoffice.hamilton-co.org/helpful_information/help_deeds_21-4414.html
+
+## 6. Remaining record tasks
 
 1. Obtain the 1968 Hamilton County divorce case number and complete petition-through-decree file. The separate Homer-specific retrieval note gives the Clerk's official search and request route.
 2. Identify Homer's pre-Judith marriage using Ohio's county marriage records, the statewide marriage abstract index, and likely neighboring-state records. Search surname and name variants and use his age/birth date, not just the exact full name.
@@ -95,7 +116,7 @@ The most useful request is the **Classification History (Form 102)** because it 
 6. Request Homer's Selective Service Classification History (SSS Form 102) from NARA St. Louis if authorized; this may establish military status and a 1957 address. Until then, military service remains unconfirmed. Religion, cause of death, and the 1998 Osprey, Florida public-record hit also remain unconfirmed unless primary evidence is found.
 7. Keep Edna Sharon Bailey in the profile as an unresolved marriage lead only. The reported 18 June 1966 Franklin County, Indiana marriage has not been independently verified.
 
-## 5. Source and attribution rules
+## 7. Source and attribution rules
 
 - The 1968 marriage-count inference is not a spouse identification.
 - The 1969 “Homer et al” deed is not attributed to Homer Jr. until the original instrument identifies him.
