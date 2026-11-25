@@ -55,7 +55,18 @@ The original National Archives 1950 census sheet was downloaded and visually ins
 
 **Profile consequence:** The family was in Cincinnati by April 1950, when Homer was eleven. The old family-book phrase that he moved north “as a young man” is not consistent with the census; keep the Hillbilly Highway description as family-history context, but place the move in his childhood. The 1940 index still places the family in Morgan County, Tennessee. The precise move date and route are not known.
 
-## 4. Obtain the original 2000 death certificate
+## Obtain Homer's original Social Security application (SS-5)
+
+Homer died in 2000, so the Social Security Administration will release his original Social Security card application (SS-5) or Numident record when supplied with acceptable proof of death. The original SS-5 is the better choice because it may give his full name at application, date and place of birth, parents' names (including his mother's maiden name), and the address where he applied. This could independently confirm the family-reported birth details and help distinguish him from same-name Brewsters.
+
+- Current SSA FOIA instructions: https://www.ssa.gov/foia/request.html
+- Current official fee effective 1 October 2026: **$23 for the original SS-5** or **$22 for a Numident extract**; certification adds $10. The older fee figures still shown on some SSA portal pages are outdated.
+- Request online through SSA's FOIA Public Access Link or by mailing Form SSA-711 to: Social Security Administration, OEIO, FOIA Workgroup, 6100 Wabash Ave, P.O. Box 33022, Baltimore, MD 21290-3022.
+- SSA-711 form: https://www.ssa.gov/forms/ssa-711.pdf
+
+Proof of death can be a public death record or obituary with sufficient identifying information. The Ohio death-index citation and certificate number 076423 should be supplied, along with his full name, birth date 18 March 1939, and any known SSN. No request has been submitted and no fee has been paid.
+
+## 5. Obtain the original 2000 death certificate
 
 The Ohio death index identifies Homer William Brewster, death date 27 September 2000, Preble County, residence Cincinnati, disposition cremation, certificate **076423**. The death certificate is the best next record for resolving his age, exact place, cause, and informant.
 
