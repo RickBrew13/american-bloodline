@@ -4,7 +4,7 @@
 
 ## Corrections and clarifications added 25 November 2026
 
-- The 1976 deed Book 4040, page 738 is dated **8 January 1976**, not 5 March 1976. Homer W. Brewster is the grantor and Flora L. Brewster the grantee. See the updated deed retrieval note.
+- The 1976 deed Book 4040, page 738 is dated **5 March 1976**, not 8 January 1976. Homer W. Brewster is the grantor and Flora L. Brewster the grantee. The earlier 8 January date was a misread of the chronological index; the original 5 March date was correct. See the updated deed retrieval note.
 - The 18 March 1977 divorce-index entry for Homer W. Brewster and Flora L. (seven-year duration; marriage number 2) is not yet linked to the Homer Jr./Flora marriage indexed 12 September 1977 and divorce indexed 27 November 1978. The 1977 marriage records two past marriages for each, and the 1978 divorce numbers the marriage as Homer’s third. The March entry may be a same-name couple or index error.
 - The 1968 divorce abstract's “Number of this marriage” value is 2 for Homer and 1 for Judith. If correct, this indicates the Judith marriage was Homer's second and her first; no earlier wife has been identified. The September 1977 Flora marriage and November 1978 divorce support a third marriage to Flora. Edna Sharon Bailey remains an unverified 1966 Indiana lead, not the identified earlier wife.
 
@@ -13,9 +13,9 @@
 Two deed-index entries connect Homer W. Brewster and Flora L. Brewster to a Hamilton County property transaction:
 
 - **13 August 1975:** Grantor Wilbur C. Rapp & Ruth; grantees Homer W. Brewster & Flora L.; deed book **4025**, page **55**. Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1975tetrb.pdf
-- **8 January 1976:** Grantor Homer W. Brewster; grantee Flora L. Brewster; deed book **4040**, page **738**. Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
+- **5 March 1976:** Grantor Homer W. Brewster; grantee Flora L. Brewster; deed book **4040**, page **738**. Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
 
-The 8 January 1976 date is read from the January 8 chronological sequence in the index. These entries establish indexed property transactions, but not the property address, deed type, consideration, or reason for the transfer. Obtain the original deeds through the Hamilton County Recorder's book/page search before describing the 1976 transfer as a quitclaim, divorce settlement, or other specific legal action.
+The 5 March 1976 date is read from the March 5 chronological sequence in the official index page image. These entries establish indexed property transactions, but not the property address, deed type, consideration, or reason for the transfer. Obtain the original deeds through the Hamilton County Recorder's book/page search before describing the 1976 transfer as a quitclaim, divorce settlement, or other specific legal action.
 
 ## 2. Edna Sharon Bailey — spouse claim is unverified and conflicts with the timeline
 
