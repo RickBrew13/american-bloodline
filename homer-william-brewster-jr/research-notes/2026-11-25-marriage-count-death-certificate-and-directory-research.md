@@ -276,3 +276,13 @@ Preble County Public Health's current Vital Statistics page states that Ohio dea
 
 - Preble County Public Health, Vital Statistics: https://www.preblecountyhealth.org/vital-statistics
 
+## Selective Service — exact record set and eligibility window
+
+NARA's St. Louis holdings page confirms that a man born **18 March 1939** falls in the **1948–1959** Selective Service registration run (DOB range **1922–1940**). Homer turned eighteen on 18 March 1957, so a registration record is a legitimate research target. This is not evidence that he served in the military.
+
+For men who registered before 1976, NARA says the surviving individual record types are the **Draft Registration Card (SSS Form 1)** and **Classification History (SSS Form 102)**; the other individual draftee files were destroyed by the Selective Service System in 1978. The card may show residence at registration, birth information, physical description, and sometimes occupation. The classification history may show board classifications, examination result, induction/enlistment, branch, and separation. NARA's current mailed-copy fees are **$7 for the card** or **$27 for the classification history (which includes the card)**. No name-specific NARA/Ancestry search or paid request has yet been completed. The board and residence must be determined from the actual record, not assumed from the 1950 census or Tennessee marriage.
+
+- NARA, Selective Service Records and fees: https://www.archives.gov/st-louis/selective-service
+- NARA, record-series date coverage (1948–1959, DOB 1922–1940): https://www.archives.gov/files/research/newsletter/2013-autumn.pdf
+- NARA, Selective Service records overview: https://www.archives.gov/research/guide-fed-records/groups/147.html
+
