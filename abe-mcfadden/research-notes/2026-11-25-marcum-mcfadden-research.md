@@ -1,0 +1,3 @@
+# Research note — 25 November 2026
+
+A contemporaneous Hamilton Daily News Journal obituary dated 9 Dec 1964 (clipping from Find a Grave) reports Abe “Mac” McFadden’s birth 17 Apr 1905 in London, Kentucky; death 8 Dec 1964 in Hamilton, Ohio; work as farmer then Burger Brewing truck driver; marriage to Rose Bolser in 1948; children Laura, Abe Jr. and Etta Marcum; first wife Maggie’s death in 1943; and Darrtown cemetery burial. The clipping spells his mother “Delia Ann Gregory”; the Find a Grave linked parent form is Cordilia Ann Gregory. Laura Lee’s obituary calls her oldest of three children of Abe and Maggie and names Etta as sister. The 1964 clipping is archived and transcribed.

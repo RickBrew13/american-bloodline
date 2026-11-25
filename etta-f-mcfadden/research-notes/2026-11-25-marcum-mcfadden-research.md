@@ -1,0 +1,3 @@
+# Research note — 25 November 2026
+
+The FamilySearch Memories scan titled “Obituary for Etta Marcum,” dated 8 July 1970, states she was wife of Harold Marcum and mother of Deborah, Beverly, Alton, Douglas, William, Ronald and Michael Marcum; it gives her death as 6 July and Blue Ash funeral arrangements. Her Hopewell Cemetery marker reads Etta F. Marcum, 1927–1970. Find a Grave gives full form Etta Fay McFadden Marcum, born 14 Dec 1927 and died 6 July 1970. Beverly’s 1982 marriage license names Harold C. and Etta F. Marcum as her parents. FamilySearch’s compiled Michael profile names Harold Clayton and Etta Fay as parents and “Deb Marcum” as sibling; possible match to obituary Deborah is unproved. Find a Grave’s “m. 1940” spouse date is impossible and is not used.
