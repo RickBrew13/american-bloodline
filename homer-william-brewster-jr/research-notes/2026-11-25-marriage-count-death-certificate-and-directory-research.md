@@ -262,11 +262,12 @@ The full searchable transcript shows the surname heading **BAKER** immediately b
 
 ## 16. 1930–1931 Cincinnati directory check — no Brewster household located
 
-The Cincinnati & Hamilton County Public Library's searchable **Williams' Cincinnati Directory, 1930–31** was searched for “Brewster” and “Homer.” The surname section does not return a Brewster household, and the Homer matches are listed under other surnames. This does **not** prove the family was not in Cincinnati in 1930: city directories can omit residents, and the 1930 birth-place index for Eunice does not by itself establish household residence. It does mean there is currently no directory corroboration for the possible 1930 Cincinnati connection.
+The Cincinnati & Hamilton County Public Library's searchable **Williams' Cincinnati Directories, 1930–31 and 1931–32** were searched for “Brewster” and “Homer.” The alphabetical Brewster entries in both years contain other Brewster listings but no Homer William/Homer W. Brewster household. The 1930–31 directory's other Homer matches occur under different surnames. This does **not** prove the family was not in Cincinnati in 1930–31: city directories can omit residents, and the 1930 birth-place index for Eunice does not by itself establish household residence. It does mean there is no directory corroboration for the possible 1930 Cincinnati connection.
 
 The Eunice Social Security Applications and Claims Index remains internally inconsistent with the Brewster family evidence: it gives her birthplace as Cincinnati and father's name as “Willie H. Brewster,” while her 1987 death notice names Homer and Sarah Brewster as her parents. Until Eunice's original birth certificate or application is found, do not rewrite the family's migration chronology to include a 1930 Cincinnati residence.
 
 - Williams' Cincinnati Directory, 1930–31, searchable PDF: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1930-31_Pt01.pdf
+- Williams' Cincinnati Directory, 1931–32, searchable PDF: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1931-32_Pt01.pdf
 - National Archives list of 1930-era city directories: Cincinnati coverage 1928–1932: https://www.archives.gov/research/census/1930/city-directories.html
 - Eunice's indexed application details and qualified interpretation are recorded in Homer's profile sources.
 
