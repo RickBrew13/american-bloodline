@@ -19,7 +19,7 @@ The known **18 April 1956 Fentress County marriage to Judith Mae Palmer** should
 FamilySearch's Tennessee County Marriages collection covers records only through 1959 and includes Fentress County, but the collection description says it contains county register, license, bond, and certificate images. It is a secondary online route to inspect the actual record if the correct image is indexed:
 - https://www.familysearch.org/en/search/collection/1619127
 
-## 2. The 1968 divorce count points to an earlier marriage before Judith
+## 3. The 1968 divorce count points to an earlier marriage before Judith
 
 The Ohio divorce index entry for Homer Brewster and Judith, granted in Hamilton County on 2 May 1968, reports Homer as having been married twice and Judith once. This is more significant than a simple note that Homer had “two weddings.”
 
@@ -53,7 +53,7 @@ Eunice Edna Brewster's Social Security Applications and Claims Index transcripti
 - Eunice's 1987 death notice is a family-held newspaper clipping, already cited in her profile.
 - 1940 census index and image: https://www.familysearch.org/ark:/61903/1:1:K4ZX-8KS and https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-D46S
 
-## 3. Original 1950 census image — direct confirmation of Cincinnati by age eleven
+## 4. Original 1950 census image — direct confirmation of Cincinnati by age eleven
 
 The original National Archives 1950 census sheet was downloaded and visually inspected on 19 November 2026. It is Cincinnati/Hamilton County, Ohio, Enumeration District 91-136, handwritten sheet 3, dated 15 April 1950; Homer Jr. is line 19. The image identifies him as a son, male, age 11, born in Tennessee, in the household of Homer W. and Sarah H. Brewster. The father's initial is visibly W on the original image, although FamilySearch's index transcribes it as N. The image's race column is marked “W,” the enumerator's historical category; it does not establish ethnicity or genetic ancestry. No occupation is entered for Homer Jr., which says nothing about his adult occupation. The father's “Press Operator / Motor Mfg” occupation belongs to Homer Sr., not his son.
 
@@ -65,7 +65,7 @@ The original National Archives 1950 census sheet was downloaded and visually ins
 
 **Profile consequence:** The family was in Cincinnati by April 1950, when Homer was eleven. The old family-book phrase that he moved north “as a young man” is not consistent with the census; keep the Hillbilly Highway description as family-history context, but place the move in his childhood. The 1940 index still places the family in Morgan County, Tennessee. The precise move date and route are not known.
 
-## 4. Obtain Homer's original Social Security application (SS-5)
+## 5. Obtain Homer's original Social Security application (SS-5)
 
 Homer died in 2000, so the Social Security Administration will release his original Social Security card application (SS-5) or Numident record when supplied with acceptable proof of death. The original SS-5 is the better choice because it may give his full name at application, date and place of birth, parents' names (including his mother's maiden name), and the address where he applied. This could independently confirm the family-reported birth details and help distinguish him from same-name Brewsters.
 
@@ -76,7 +76,7 @@ Homer died in 2000, so the Social Security Administration will release his origi
 
 Proof of death can be a public death record or obituary with sufficient identifying information. The Ohio death-index citation and certificate number 076423 should be supplied, along with his full name, birth date 18 March 1939, and any known SSN. No request has been submitted and no fee has been paid.
 
-## 5. Obtain the original 2000 death certificate
+## 6. Obtain the original 2000 death certificate
 
 The Ohio death index identifies Homer William Brewster, death date 27 September 2000, Preble County, residence Cincinnati, disposition cremation, certificate **076423**. The death certificate is the best next record for resolving his age, exact place, cause, and informant.
 
@@ -94,7 +94,7 @@ Ask for Homer William Brewster, died 27 September 2000, certificate 076423. Ask 
 
 The Dayton Daily News notice dated 29 September 2000 names a Homer Brewster, age 67, formerly of Dayton and of Cincinnati, and lists a memorial service at Newcomer-Barclay. Because this age conflicts with the age 61 implied by Homer's indexed birth and death dates, and the notice gives no middle name or relatives, its identity remains unconfirmed. Do not state the notice proves Homer's service or funeral arrangements.
 
-## 6. Obtain the original 1977 Homer–Flora marriage application, not just the index
+## 7. Obtain the original 1977 Homer–Flora marriage application, not just the index
 
 Hamilton County Probate Court maintains the original marriage licenses. The modern public inquiry system's ordinary Marriage License tab begins in 1984, but the Court separately publishes a historical **Marriage License Index (1817–1983)**. Its **1974–1982** index includes the 12 September 1977 marriage period, is alphabetized by surname, and supplies a year, volume, and page for each entry:
 - Historical Marriage License Index (1817–1983): https://www.probatect.org/court-records/archive-categories/marriages/marriage-license-index-%281817-1983%29
@@ -106,7 +106,7 @@ Hamilton County Probate Court maintains the original marriage licenses. The mode
 
 **Specific record request if the index scan cannot be completed:** Homer William Brewster Jr. and Flora L. Brewster, marriage solemnized **12 September 1977**, Hamilton County, Ohio. Ask the Records Department to search the 1974–1982 Marriage License Index by Brewster/Homer and provide the volume/page, then request the original application/license, license return, and any supplemental marriage-history form. Specifically ask for the exact prior-marriage information entered for Homer and Flora, including names of prior spouses, dates/manner in which prior marriages ended, and the number of prior marriages. A certified abstract may establish the marriage, but the original application may contain more genealogical detail. The Court's online document request page lists photocopies at $0.10/page, certified marriage records at $2, and exemplified records at $3; confirm the applicable fee before ordering. No request has been submitted.
 
-## 7. Cincinnati directories and occupation/residence research
+## 8. Cincinnati directories and occupation/residence research
 
 The Cincinnati & Hamilton County Public Library and Cincinnati History Library & Archives hold directory runs that cover the years Homer lived in southwest Ohio. The Hamilton County Genealogical Society's directory guide states:
 - Cincinnati directories for 1942–1960 are available through Ancestry (CHPL card-holder access).
@@ -130,7 +130,7 @@ Priority years and areas to check:
 
 No directory entry for Homer Jr. has been verified in this sweep. Do not infer an occupation from his parents' 1950 census occupations or from another Homer Brewster.
 
-## 8. Selective Service and military record request
+## 9. Selective Service and military record request
 
 Homer was born 18 March 1939 and turned 18 on 18 March 1957. He was therefore within the Selective Service registration period; his birth year is not among the later years exempted when registration was suspended. No military service has been established from the online research completed so far.
 
@@ -146,7 +146,7 @@ Request route:
 
 The most useful request is the **Classification History (Form 102)** because it includes the card and may establish whether Homer entered active duty, the branch and separation date, or another classification. Use the exact full name, date of birth, and likely 1957 residence in Cincinnati/Hamilton County, Ohio. No request has been submitted and no fee has been paid.
 
-## 9. Franklin County, Indiana marriage-record search for the Edna Bailey lead
+## 10. Franklin County, Indiana marriage-record search for the Edna Bailey lead
 
 A relevant county-level collection exists and is more specific than the statewide index description. FamilySearch's **Indiana, Franklin County, Marriage Records, 1853–1997** collection is sourced from the Franklin County Court and includes marriage licenses and marriage information; birth and parents' information may be present. It currently describes 15,138 records and 25,292 images:
 - Collection: https://www.familysearch.org/en/search/collection/5000717
@@ -156,17 +156,17 @@ A relevant county-level collection exists and is more specific than the statewid
 
 **Search target:** reported Homer Brewster × Edna Sharon Bailey, 18 June 1966, Franklin County. The FamilySearch collection's search form requires JavaScript and could not be submitted in this research environment; no matching record has been located or ruled out. The Indiana State Library page exposes the relevant applicant/date/county fields but likewise did not return a submitted query. Do not state that either index was searched successfully. The county collection is the next best route because the underlying license may include both applicants' ages, birthplaces, parents, and signatures.
 
-## 10. Excluded/relocated 1969 deed lead
+## 11. Excluded/relocated 1969 deed lead
 
 The 26 November 1969 “Brewster, Homer et al” → James A. Katsanis deed (Book 3708, p.344) is no longer treated as a Homer Jr. lead. It is tracked in Homer Sr.'s folder as a possible later conveyance of the 1966 Homer & Sarah property; the connection remains unproven until both original deeds' legal descriptions are compared. See [Homer Sr.'s 1966/1969 property research note](https://github.com/RickBrew13/american-bloodline/blob/main/homer-william-brewster-sr/research-notes/2026-11-25-1966-apollo-land-company-deed-lead.md).
 
-## 11. 1952 Cincinnati directory lead — resolved as Homer Sweet, not Brewster
+## 12. 1952 Cincinnati directory lead — resolved as Homer Sweet, not Brewster
 
 The original 1952 Cincinnati directory page has now been inspected. The entry “Homer (Minnie) fctywkr GE h1020 Bank” appears under the explicit surname heading **SWEET** (directory page 1128, directory listings, column 2). It is therefore a **Homer Sweet**, not Homer Brewster. Exclude Minnie, the General Electric factory-worker occupation, and 1020 Bank from Homer William Brewster Jr.'s record.
 
 - Williams Cincinnati Directory, 1952, p. 1128, transcript lines 180–204 show the SWEET section and Homer (Minnie): https://cdm16998.contentdm.oclc.org/digital/api/collection/p16998coll5/id/260247/download
 
-## 12. Remaining record tasks
+## 13. Remaining record tasks
 
 1. Obtain the 1968 Hamilton County divorce case number and complete petition-through-decree file. The separate Homer-specific retrieval note gives the Clerk's official search and request route.
 2. Identify Homer's pre-Judith marriage using Ohio's county marriage records, the statewide marriage abstract index, and likely neighboring-state records. Search surname and name variants and use his age/birth date, not just the exact full name.
@@ -176,7 +176,7 @@ The original 1952 Cincinnati directory page has now been inspected. The entry �
 6. Request Homer's Selective Service Classification History (SSS Form 102) from NARA St. Louis if authorized; this may establish military status and a 1957 address. Until then, military service remains unconfirmed. Religion, cause of death, and the 1998 Osprey, Florida public-record hit also remain unconfirmed unless primary evidence is found.
 7. Keep Edna Sharon Bailey in the profile as an unresolved marriage lead only. The reported 18 June 1966 Franklin County, Indiana marriage has not been independently verified.
 
-## 13. Source and attribution rules
+## 14. Source and attribution rules
 
 - The 1968 marriage-count inference is not a spouse identification.
 - The 1969 “Homer et al” deed is not attributed to Homer Jr. until the original instrument identifies him.
@@ -185,7 +185,7 @@ The original 1952 Cincinnati directory page has now been inspected. The entry �
 - Place each person's own life facts and records in that person's profile and archive folder. Do not copy Judy's or Larry's personal history into Homer's profile.
 
 
-## 14. 1972 Hamilton directory lead — resolved as a different Baker household
+## 15. 1972 Hamilton directory lead — resolved as a different Baker household
 
 The 1972 Williams' Hamilton city directory transcript contains:
 - “Homer (Hazel J) stock atndt Pillsbury Co h151 Hermay Dr”
