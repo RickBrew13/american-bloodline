@@ -1,0 +1,1 @@
+The source-to-GitHub inventory for the Lowell–Helen–Evelyn family archive is in Lowell’s existing archive at `lowell-harold-shamblen/research-notes/Gen5-transfer-inventory-Lowell-Helen-Evelyn.md`. Helen parentage research is also preserved here. Drive originals and the Fold3 Google Doc remain unchanged.
