@@ -162,13 +162,14 @@ The full-text 1952 Cincinnati directory page returned a “Homer (Minnie) fctywk
 - Place each person's own life facts and records in that person's profile and archive folder. Do not copy Judy's or Larry's personal history into Homer's profile.
 
 
-## Unresolved 1972 Hamilton directory lead — do not attribute yet
+## 1972 Hamilton directory lead — resolved as a different Baker household
 
-A 1972 Williams' Hamilton city directory transcript contains the lines:
+The 1972 Williams' Hamilton city directory transcript contains:
 - “Homer (Hazel J) stock atndt Pillsbury Co h151 Hermay Dr”
 - “Homer Jr r151 Hermay Dr”
 
-Source: https://cdm16998.contentdm.oclc.org/digital/collection/p16998coll5/id/275454/
+The full searchable transcript shows the surname heading **BAKER** immediately before these first-name entries. They are listed within the Baker household entries, so the man is a **Homer Baker**, not Homer Brewster. The directory is for Hamilton, Butler County, Ohio. This lead is now excluded from Homer William Brewster Jr.'s residence and occupation history; do not attribute Hazel J., the Pillsbury job, Homer Jr., or 151 Hermay Drive to either Brewster.
 
-This could look like a Homer-and-son household, but the transcript snippet does not expose the surname or enough page context to identify the people. The spouse shown is Hazel J., not Judith or Flora, and the directory is for Hamilton, Butler County, rather than Cincinnati/Hamilton County. It may be an unrelated same-name household. **Do not attribute the Pillsbury job, Hazel J., Homer Jr., or 151 Hermay Drive to Homer William Brewster Jr.** The original directory page image and surname heading must be inspected before using this lead.
+- Williams' Hamilton City Directory, 1972, full searchable transcript: https://cdm16998.contentdm.oclc.org/digital/collection/p16998coll5/id/275454/
+- Search-result transcript excerpt includes the BAKER heading followed by Homer (Hazel J) and Homer Jr.: https://cdm16998.contentdm.oclc.org/digital/collection/p16998coll5/id/275454/
 
