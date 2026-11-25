@@ -36,6 +36,8 @@ The known **18 April 1956 Fentress County marriage to Judith Mae Palmer** should
 - Fentress County Clerk certified marriage-copy instructions: https://fentresscountytn.gov/certified-copy-marriage-license/
 - Fentress County Clerk: (931) 879-8014; P.O. Box 823, Jamestown, TN 38556.
 
+**Important request detail:** because the 1968 Ohio divorce index indicates the 1956 marriage to Judith may have been Homer's second, ask Fentress County for the **complete original marriage file**, not merely a short certified abstract: application, license, bond, consent/affidavit if any, and minister's return/register entry. Ask whether the application records a prior marriage or the date/place of a previous divorce. No request has been submitted.
+
 FamilySearch's Tennessee County Marriages collection covers records only through 1959 and includes Fentress County, but the collection description says it contains county register, license, bond, and certificate images. It is a secondary online route to inspect the actual record if the correct image is indexed:
 - https://www.familysearch.org/en/search/collection/1619127
 
