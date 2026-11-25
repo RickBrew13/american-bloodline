@@ -97,6 +97,14 @@ The original National Archives 1950 census sheet was downloaded and visually ins
 
 **Profile consequence:** The family was in Cincinnati by April 1950, when Homer was eleven. The old family-book phrase that he moved north “as a young man” is not consistent with the census; keep the Hillbilly Highway description as family-history context, but place the move in his childhood. The 1940 index still places the family in Morgan County, Tennessee. The precise move date and route are not known.
 
+### Sibling count resolved; twin claim remains open
+
+The old family book's statement that Homer grew up with **five brothers and sisters** is now consistent with the evidence. The six children are Homer Jr., Eugene, Elmer, Earl, Eunice, and Aileene. Aileene W. Gilpin's 9 September 2015 obituary identifies her as the daughter of Homer and Sarah and names her siblings **Elmer, Eugene, Earl, Homer Jr., and Eunice**. This confirms the five-sibling count and resolves the old online-tree version that listed only four siblings.
+
+- *Clay County News*, obituary for Aileene W. Gilpin, 9 September 2015: https://www.clayconews.com/obituaries/aileene-gilpin
+
+**Still unresolved:** Elmer and Earl are both listed with a birth date of 17 January 1935, and the family book describes them as twins. The 1940 census places both in the household at age five, but no original birth record or independent contemporary source has yet confirmed they were twins. Keep the twin relationship qualified.
+
 ## 5. Obtain Homer's original Social Security application (SS-5)
 
 Homer died in 2000, so the Social Security Administration will release his original Social Security card application (SS-5) or Numident record when supplied with acceptable proof of death. The original SS-5 is the better choice because it may give his full name at application, date and place of birth, parents' names (including his mother's maiden name), and the address where he applied. This could independently confirm the family-reported birth details and help distinguish him from same-name Brewsters.
