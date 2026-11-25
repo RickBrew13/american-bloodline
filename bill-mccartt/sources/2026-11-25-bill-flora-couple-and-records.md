@@ -21,10 +21,9 @@
 - Shared marker photo, credited on Find a Grave to Clara McIver: https://images.findagrave.com/photos/2013/56/105862078_136191400449.jpg?size=photos250. Web-extracted text gives Bill 1908–1972 and Flora G. 1910–1977, The marker text extraction reads only “BILL”; no middle initial is visible. Use it as a shared-marker image, not a portrait.
 - The Find a Grave entries are user-contributed. The marker text extraction gives a useful cemetery/date clue, but no civil death record or cemetery register was checked.
 
-## Same-name conflict
+## Identity confirmation and chronology correction
 
-- A 25 Dec. 2000 Genealogy.com post asks about Sylvania’s son Willie McCartt/Stephens and Flora Strunk: https://www.genealogy.com/forum/surnames/topics/strunk/333/. A 10 Feb. 2001 reply assigns a William Leslie McCartt (born 9 Aug. 1901, died 19 May 1976) to Flora Helen Strunk (born 1911), married 16 May 1928: https://www.genealogy.com/forum/surnames/topics/strunk/347/. These details conflict with the target Willie’s 1910/1920 census ages and 1940 registration. Do not merge the William Leslie family into this couple without an identity bridge.
-
-## Outstanding
-
-- Bill’s biological father; couple’s civil marriage record; exact death dates and cemetery records; Flora’s exact birth day; direct document naming Nellie as Flora’s mother; original 1940 draft-card image.
+- Rick confirms the William Leslie McCartt in the 10 February 2001 reply is the same man as Sylvania’s son Willie “Bill” McCartt and Flora’s husband. The forum thread begins with a question about Sylvania’s son Willie McCartt/Stephens and Flora Strunk: https://www.genealogy.com/forum/surnames/topics/strunk/333/; the reply is https://www.genealogy.com/forum/surnames/topics/strunk/347/.
+- The reply reports William Leslie McCartt born 9 August 1901 and died 19 May 1976. Those dates are wrong for this person: census ages support a birth about 1908, and the shared marker plus user-contributed Find a Grave memorial report 1972 as the death year. No original birth/death record has verified exact dates.
+- The reply also gives a marriage date of 16 May 1928 and calls the wife Flora Helen Strunk, born 1911. These details remain attributed forum claims and are not independently verified; other family evidence identifies Bill’s wife as Flora (Strunk) McCartt and the shared marker/memorial report Flora’s year as 1910.
+- Keep this as one couple and one identity, not two men. Mike Stephens remains Bill’s stepfather; Bill’s biological father is unidentified.

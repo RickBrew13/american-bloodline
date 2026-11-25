@@ -15,7 +15,7 @@
 
 ## Couple’s family
 
-Children’s obituaries identify Bill and Flora as parents. Denny’s obituary names Melvin and other siblings and reports the family move to Michigan about 1950: https://www.dignitymemorial.com/obituaries/warren-mi/denny-mccartt-10351773. Flora’s shared headstone photo is https://images.findagrave.com/photos/2013/56/105862078_136191400449.jpg?size=photos250, credited to Clara McIver; it is a grave marker, not an individual portrait.
+Children’s obituaries identify Bill and Flora as parents. Rick confirms the Genealogy.com forum’s William Leslie McCartt is the same Bill; its 1901/1976 birth/death dates are wrong, while the census supports birth about 1908 and the shared marker/memorial report 1972. Its marriage date and Flora Helen/1911 details remain unverified. Denny’s obituary names Melvin and other siblings and reports the family move to Michigan about 1950: https://www.dignitymemorial.com/obituaries/warren-mi/denny-mccartt-10351773. Flora’s shared headstone photo is https://images.findagrave.com/photos/2013/56/105862078_136191400449.jpg?size=photos250, credited to Clara McIver; it is a grave marker, not an individual portrait.
 
 ## Unresolved
 
