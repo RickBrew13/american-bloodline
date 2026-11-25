@@ -9,6 +9,7 @@ The Hamilton County Recorder's official 1966 chronological TO/FROM deed index co
 
 - **Grantee:** “Brewster, Homer & Sarah”
 - **Grantor:** Apollo Land Co Inc
+- **Date:** 9 February 1966 (inferred from the index's chronological date sequence; the entry follows the Feb. 9 heading and precedes the Feb. 10 heading)
 - **Deed Book:** 3463
 - **Page:** 428
 - **Index:** https://recordersoffice.hamilton-co.org/deed_indexes/di1966tetrb.pdf
@@ -18,7 +19,9 @@ The Hamilton County Recorder's official 1966 chronological TO/FROM deed index co
 
 Homer William Brewster Sr. was married to Sarah Hazel Kelly. Their son, Homer William Brewster Jr., was married to Judith Mae Palmer in 1966. The index names a Homer and Sarah together, making Homer Sr. and Sarah the strong likely identification and making Homer Jr. an unlikely match.
 
-The index entry alone does not give a street address, parcel, legal description, consideration, instrument type, or exact transaction date. Do not add the property to the public profile or state that ownership is conclusively theirs until the original deed is inspected and the grantee names and legal description are confirmed.
+The index entry alone does not give a street address, parcel, legal description, consideration, or instrument type. The date of 9 February 1966 is inferred from the index's chronological sequence: the entry follows the explicit Feb. 9 entry and precedes the explicit Feb. 10 entry; it is not printed on the Brewster row itself. Do not add the property to the public profile or state that ownership is conclusively theirs until the original deed is inspected and the grantee names and legal description are confirmed.
+
+The companion 1966 grantor-to-grantee index PDF was also inspected, but its OCR text did not return a searchable Brewster/Apollo match. This is not evidence that no matching entry exists; the scan/OCR is difficult to search, so the original page or image still needs visual inspection.
 
 ## Next steps
 
