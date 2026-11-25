@@ -10,7 +10,7 @@
    - Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1975tetrb.pdf
    - The index entry appears in the official PDF at the Aug. 13 sequence: https://recordersoffice.hamilton-co.org/deed_indexes/di1975tetrb.pdf
 
-2. **8 January 1976 — Deed Book 4040, page 738.** The official 1976 grantor-to-grantee index lists **Homer W. Brewster as grantor** and **Flora L. Brewster as grantee**, Book 4040, page 738. The prior research note incorrectly dated this entry to March 1976. Re-reading the chronological index shows that the entry falls in the **January 8** sequence, following the January 8 date marker and before the January 9 section. The earlier March date was an erroneous inference and must not be reused.
+2. **5 March 1976 — Deed Book 4040, page 738.** The official 1976 FROM/TO index lists **Homer W. Brewster as grantor** and **Flora L. Brewster as grantee**, Book 4040, page 738. The entry falls in the **March 5** chronological group on printed index page 8 (PDF page 7). The earlier 8 January reading was incorrect; the original March 5 date is correct.
    - Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
    - The entry is visible in the official index around lines 2706–2712 of the web-readable transcription: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
 
@@ -23,7 +23,7 @@ The Recorder's own deed-book guide states that Books 852–4061 (1901–1971) ar
 1. The Acclaim BOOK/PAGE search interface can be tried first: https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive
 2. Choose **BOOK/PAGE**, select **DEED - Deed Books**, and enter:
    - 4025 / 55 — Rapp to Homer W. and Flora L. Brewster, 13 Aug 1975
-   - 4040 / 738 — Homer W. Brewster to Flora L. Brewster, 8 Jan 1976
+   - 4040 / 738 — Homer W. Brewster to Flora L. Brewster, 5 Mar 1976
 3. Remote access to the original images for these 1901–1971 microfilm books is **not confirmed**. If the search only identifies the book/page or no image is displayed, use the Recorder's microfilm/copy service rather than assuming the image is downloadable.
 4. The Recorder's Office is at **138 E. Court St., Room 205, Cincinnati, OH 45202**; public hours are Monday–Friday, 7:30 a.m.–4:00 p.m. General information: **(513) 946-4596**; office supervisor: **(513) 946-4574**; email **recordersoffice@hamiltoncountyohio.gov**. The office says public self-service copies are **$0.10/page** and staff-produced copies are **$2.00/page**; certified copies are $2.00/page plus a $1.00 certification seal. Mail requests require a self-addressed stamped envelope. Confirm any mailing arrangement and current fee with staff before sending payment.
 5. Recorder guidance and fee details:
@@ -58,5 +58,5 @@ The Recorder's official deed-search guide says to use the Auditor's Property Sea
 - Auditor public-records request page and custodian: https://hcauditor.org/downloads.asp
 - Public-records custodian: Connor Moreton, County.Auditor@auditor.hamilton-co.org, (513) 946-4000, 138 E Court Street, Room 304, Cincinnati, Ohio 45202.
 
-**Specific request to the Auditor:** search the ownership card and owner/address index for **Homer W. Brewster and Flora L. Brewster**, using the Recorder references **Deed Book 4025, p.55 (13 Aug 1975)** and **Deed Book 4040, p.738 (8 Jan 1976)**. Request the parcel number, property address, legal description, ownership-card image, transfer history, and any available tax duplicate for the relevant years. Ask whether the 1969 Book 3708, p.344 deed to James A. Katsanis is indexed to the same parcel or another Brewster property. The Auditor's site provides an online Historic Sales Export, but the downloadable XLSX could not be retrieved in this research environment. No Auditor request has been submitted.
+**Specific request to the Auditor:** search the ownership card and owner/address index for **Homer W. Brewster and Flora L. Brewster**, using the Recorder references **Deed Book 4025, p.55 (13 Aug 1975)** and **Deed Book 4040, p.738 (5 Mar 1976)**. Request the parcel number, property address, legal description, ownership-card image, transfer history, and any available tax duplicate for the relevant years. Ask whether the 1969 Book 3708, p.344 deed to James A. Katsanis is indexed to the same parcel or another Brewster property. The Auditor's site provides an online Historic Sales Export, but the downloadable XLSX could not be retrieved in this research environment. No Auditor request has been submitted.
 
