@@ -1,15 +1,21 @@
 # Homer William Brewster Jr. — Research Update (2026-11-25)
 
-**Status:** Research in progress. This note records new leads and unresolved conflicts. Do not treat unverified spouse claims, the newspaper notice, or the Florida public-record match as proven.
+**Status:** Historical research update with corrections added 25 November 2026. Use the corrections below and the linked follow-up notes as current. Do not treat unverified spouse claims, the newspaper notice, or the Florida public-record match as proven.
+
+## Corrections and clarifications added 25 November 2026
+
+- The 1976 deed Book 4040, page 738 is dated **8 January 1976**, not 5 March 1976. Homer W. Brewster is the grantor and Flora L. Brewster the grantee. See the updated deed retrieval note.
+- The 18 March 1977 divorce-index entry for Homer W. Brewster and Flora L. (seven-year duration; marriage number 2) is not yet linked to the Homer Jr./Flora marriage indexed 12 September 1977 and divorce indexed 27 November 1978. The 1977 marriage records two past marriages for each, and the 1978 divorce numbers the marriage as Homer’s third. The March entry may be a same-name couple or index error.
+- The 1968 divorce abstract's “Number of this marriage” value is 2 for Homer and 1 for Judith. If correct, this indicates the Judith marriage was Homer's second and her first; no earlier wife has been identified. The September 1977 Flora marriage and November 1978 divorce support a third marriage to Flora. Edna Sharon Bailey remains an unverified 1966 Indiana lead, not the identified earlier wife.
 
 ## 1. Hamilton County, Ohio property records — new findings
 
 Two deed-index entries connect Homer W. Brewster and Flora L. Brewster to a Hamilton County property transaction:
 
 - **13 August 1975:** Grantor Wilbur C. Rapp & Ruth; grantees Homer W. Brewster & Flora L.; deed book **4025**, page **55**. Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1975tetrb.pdf
-- **5 March 1976:** Grantor Flora L. Brewster; grantee Homer W. Brewster; deed book **4040**, page **738**. Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
+- **8 January 1976:** Grantor Homer W. Brewster; grantee Flora L. Brewster; deed book **4040**, page **738**. Official index: https://recordersoffice.hamilton-co.org/deed_indexes/di1976trteb.pdf
 
-The 1976 date is read from the March 1976 date sequence in the index. These entries establish indexed property transactions, but not the property address, deed type, consideration, or reason for the transfer. Obtain the original deeds through the Hamilton County Recorder's book/page search before describing the 1976 transfer as a quitclaim, divorce settlement, or other specific legal action.
+The 8 January 1976 date is read from the January 8 chronological sequence in the index. These entries establish indexed property transactions, but not the property address, deed type, consideration, or reason for the transfer. Obtain the original deeds through the Hamilton County Recorder's book/page search before describing the 1976 transfer as a quitclaim, divorce settlement, or other specific legal action.
 
 ## 2. Edna Sharon Bailey — spouse claim is unverified and conflicts with the timeline
 
@@ -40,7 +46,7 @@ The archived Ohio death-index research for Homer reports:
 
 A birth on 18 March 1939 makes him **61** on 27 September 2000, not 64. The Dayton Daily News notice dated 29 September 2000 reportedly gives “Homer, 67,” also inconsistent. The notice's name, Cincinnati connection, Wednesday death timing, and Newcomer-Barclay service details make it a possible match, but its age conflict means it should not be treated as conclusive identity evidence without the death certificate or funeral-home record.
 
-The “married” field is a separate unresolved clue: the currently identified divorce records end with the 1978 Flora L. Brewster divorce. Homer may have married again after 1978, or the death-index marital-status field may be wrong. No later spouse has yet been identified.
+The “married” field is a separate unresolved clue: the currently identified divorce records include the 1978 Flora L. Brewster divorce. Homer may have married again after 1978, or the death-index marital-status field may be wrong. No later spouse has yet been identified.
 
 A 1998 public-record entry for a Homer W. Brewster in Osprey, Florida, with a matching birth date has been noted in the existing research, but identity is unconfirmed. It may be relevant to the later-marriage question; do not assume it is the same man.
 
