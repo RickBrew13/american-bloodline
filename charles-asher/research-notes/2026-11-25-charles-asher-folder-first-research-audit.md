@@ -94,3 +94,27 @@ The Ohio History Connection's Death Record Index Search includes Ohio Department
 6. Continue searching for Julie's birth record and any original Aileene–Charles marriage/divorce record.
 
 No new parents, siblings, spouses, dates or military/occupation/property claims have been attached to Charles. The profile change is limited to preserving the alternative candidate evidence and access path. No paid records were ordered or outside parties contacted.
+
+
+## Additional distinct Charles Asher candidate: Charles Asher Jr. (1931–2023), Hamilton/New Miami, Ohio
+
+A search of local funeral-home obituaries identifies a **different, well-documented Charles Asher Jr.**, born 15 September 1931 in Manchester, Kentucky, died 3 July 2023 in Hamilton, Ohio. His 2023 Brown-Dawson-Flick obituary names his parents as **Charlie Asher and Cleoria (Smith) Smallwood**, his wife as **Ruth Colson** (married in Tennessee in 1954; she died in 2021), and his siblings as Johnny Asher, J.B. Asher, Curney Asher, Audrey Smallwood, Clersia/Clearsie Jackson, Gracie Stewart and half-brother Bobby Smallwood. It names children Wayne, Linda, Barbara and David. His wife's 2021 obituary independently confirms the 1954 Tennessee marriage and their shared household/family.
+
+Clearsie Jackson's 2013 obituary names a brother **Charles Asher of New Miami, Ohio**, and Andy Smallwood's 2016 obituary names a son Charles Asher (Ruth) among his surviving family. These independently corroborate the Ohio Charles's sibling/household group. The 2023 obituary is therefore a strong identity cluster for the 1931-born Charles, not merely a same-name guess.
+
+This Charles is **not attached** to Aileene's Charles. His 1954 marriage to Ruth Colson and their later family are documented, but no record connects him to Aileene Brewster or Julie Asher Korman. The long marriage to Ruth makes him a separate candidate unless a primary record explicitly bridges him to Aileene; do not merge him because of the shared surname and Ohio/Kentucky geography.
+
+Sources:
+- Brown-Dawson-Flick, Charles Asher Jr. obituary, 3 July 2023: https://www.browndawsonflick.com/obituaries/charles-asherjr
+- Brown-Dawson-Flick, Ruth M. Asher obituary, 14 August 2021: https://www.browndawsonflick.com/obituaries/ruth-asher
+- ClayCoNews, Clearsie Jackson obituary, 6 March 2013: https://www.clayconews.com/obituaries/ms-clearsie-jackson
+- Brown-Dawson-Flick, Andy Smallwood obituary, 9 November 2016: https://www.browndawsonflick.com/obituaries/andy-smallwood
+
+## Candidate register — keep three Charles identities separate
+
+1. **Aileene's Charles (subject of this profile):** Julie's NUMIDENT names Charles Asher and Aileene W. Brewster as parents. No dates, parents, residence or identity bridge yet.
+2. **1950 Hamilton County household Charles A.:** index-only child in Russell and Eliza Asher's household, born about 1940 in Kentucky; original image not inspected and no link to Aileene.
+3. **1943–1969 Charles Asher:** derivative death/burial pages give birth March 1943, death October 1969 and Manchester Memorial Gardens burial. Taft Asher's 2019 obituary names a deceased brother Charles among the children of Mack and Clarissa Helton Asher. It is plausible that this is the 1943–1969 candidate, but no original certificate or cemetery register links them.
+4. **Charles Asher Jr. (1931–2023):** parents Charlie Asher and Cleoria Smith; married Ruth Colson in 1954; long-lived Hamilton/New Miami family documented in three funeral-home obituaries. This is a distinct, documented family and is not linked to Aileene.
+
+No candidate above has been substituted for Aileene's Charles. The next decisive evidence remains Julie's original birth record/SS-5 and the full Charlene obituary, followed by the original 1950 census image and the 1969 Ohio death certificate for the possible younger Charles.
