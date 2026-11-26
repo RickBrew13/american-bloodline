@@ -775,3 +775,35 @@ The Butler County Probate Court confirms that it maintains court records and giv
 - Ohio State Archives classification lists OY N 77.15/2 “Nurse inventory” for the 1955–1988 State Board of Nursing Education and Nurse Registration: https://dam.assets.ohio.gov/image/upload/library.ohio.gov/government-documents/oh-classification/OH_classification_independent_N.pdf
 
 No new school, graduation date, RN license number, employer, or portrait has been attributed to Eunice. These are named, source-backed archive targets for the next research pass.
+
+
+## 26 November 2026 — NARA roll/ED cross-check and further identity screening
+
+### Exact 1940 NARA reel entry verified
+
+Used NARA's official 1940 T627 roll-list PDF and the `find` function to locate the Tennessee entry. NARA's table explicitly places **Moore and Morgan Counties, Tennessee, EDs 64-1 through 64-7 and 65-1 through 65-15, on roll 03924** (T627). Thus Eunice's indexed ED 65-15 is physically on NARA microfilm roll 03924. This is the strongest possible reel-level locator, but it still does not identify the frame number or replace inspection of the original handwritten sheet. NARA explains that its 1940 schedules can be accessed through the National Archives Catalog and downloaded by county/ED; its online-resources page also links FamilySearch and the 1940 census street-search site. The Stephen P. Morse viewer offers another ED-based image route. No handwritten image was retrieved in this pass.
+
+- NARA official T627 roll-list PDF (Tennessee, roll 03924, ED 65-1–65-15): https://www.archives.gov/files/research/census/1940/t627-roll-list.pdf
+- NARA 1940 census online resources: https://www.archives.gov/research/census/online-resources
+- NARA 1940 census FAQs / Catalog image access: https://www.archives.gov/research/census/1940/faqs
+- NARA 1940 dataset metadata and schedule access: https://www.archives.gov/developer/1940-census
+- Stephen P. Morse viewer: https://stephenmorse.org/census/viewer1940.html
+
+### Additional exact-name screening of Eunice's named children
+
+Searched exact combinations for Demetria Sexton, Elaine Bishop and Anthony Q. Burton with Cincinnati/Hamilton/Ohio and obituary terms. Search results did not provide a reliable obituary or vital record connecting any same-name result to Eunice. A data-broker result surfaced a possible Anthony Q. Burton in Butler County, but it is a living-person address aggregator, has no documented family relationship or source record, and is explicitly excluded. No address or private contact detail is copied into the archive. The known original 1987 death notice remains the only evidence for the three children's names; it does not give birth dates or prove paternity.
+
+For Alicea and Brandy Bishop, exact-name searches likewise did not yield a reliable record linking a same-name individual to Eunice. No child or grandchild identity was upgraded from name-only matches.
+
+- Original source for the children's names remains the already archived 1987 Hodapp death-notice clipping in the Sarah Hazel Kelly/Eunice shared source inventory.
+- False Demetria Lawrence match, positively excluded: https://www.rileyfuneralhome.com/obituaries/demetria-lawrence
+
+### Morgan County sibling obituary index recheck
+
+Rechecked Morgan County TNGenWeb's surname pages for B, E and H and targeted the names Earl, Eugene and Elmer Brewster. No matching obituary for Eunice's brothers surfaced in those indexed pages. The site describes its obituary archive as a large collection, but it is not a complete vital-record index; no countywide absence claim is made. Aileene Gilpin's 2015 obituary remains the independently retrieved notice that names deceased siblings Elmer, Eugene, Earl and Homer Jr., and sister Eunice.
+
+- Morgan County obituary archive: https://tngenweb.org/morgan/obituaries-of-morgan-county/
+- B surname page: https://tngenweb.org/morgan/b-obituaries/
+- E surname page: https://tngenweb.org/morgan/e-obituaries/
+- H surname page: https://tngenweb.org/morgan/h-obituaries/
+- Aileene Gilpin obituary: https://www.clayconews.com/obituaries/aileene-gilpin
