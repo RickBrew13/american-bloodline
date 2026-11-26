@@ -65,3 +65,26 @@ This is the first meaningful potential parent/sibling lead for a Larry Clark in 
 ### Exclusion: the sibling Judy Clark is not Judith Mae Palmer
 
 The 2007 Bentley Haze Clark obituary explicitly lists sister Judy Clark among his surviving siblings. Judith Mae Palmer (the user's Judy) died on 7 June 2006, according to the family's established cemetery/SSDI evidence. Therefore, the Judy Clark in Bentley's 2007 surviving-sibling list cannot be Judith Mae Palmer. Vicki McNew's 2026 obituary later lists her sister Judy Clark as deceased, which is consistent with a different Judy Clark in the Albert Haze Clark/Ruth Greenfield sibling group. This removes the apparent Judy-name overlap as a way to connect that family to the user's Judy. The brother Larry Clark remains only a same-name candidate; there is still no evidence connecting him to Barry's father.
+
+## 3. Possible Cincinnati radio-career lead — 25 November 2026
+
+A new search located contemporary evidence for a **Larry Clark working as a Cincinnati radio disc jockey** during the period relevant to Judy and Barry:
+
+- A Fall 1968 *Radio Programming Profile* lists a “Larry Clark Show” on Cincinnati station WSAI, 7–11 p.m. It describes him as a native Ohioan who began in a small town near Cincinnati, then worked in Columbus before joining WSAI. Source: https://www.worldradiohistory.com/Archive-Radio-Programming-Profile/Radio-Programming-Profile-Fall-1968.pdf (WSAI section, PDF text around lines 9280–9307).
+- A 17 April 1969 Cincinnati newspaper archive page identifies an article titled “Dee Jay Larry Clark profile on WSAI radio host.” Its search-result description says the profile traces him from St. Ignatius in Cleveland to Xavier University and radio stations in Washington Court House, Hamilton, Columbus, and Cincinnati (WSAI, beginning 1967). The article image/full text is subscription-gated in the available view. Source: https://newspaperarchive.com/the-hilltop-news-and-community-news-apr-17-1969-p-6/
+- A 1967 *Billboard* trade-paper search result reports that Larry Clark, formerly of WCOL in Columbus, filled a WSAI slot in Cincinnati. A 1972 *Billboard* item reports that Clark departed WSAI and that Jack Shaw took over his slot. Sources: https://www.worldradiohistory.com/Archive-All-Music/Billboard/60s/1967/Billboard%201967-12-09.pdf and https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1972/BB-1972-12-23.pdf
+
+### Why this matters, and what it does not prove
+
+The Ohio divorce-index result already preserved in Larry's profile gives the husband Larry Clark a reported birth year of **1940**, Hamilton County residence, and a wife Judith M. born 1939; it also reports an eight-year marriage and one minor child. A native-Ohio radio personality active in Cincinnati/Columbus in 1967–1972 is geographically and chronologically plausible as that man. The 1968 trade directory's description (“native Ohioan,” early career near Cincinnati, then Columbus, then WSAI) is an unusually specific lead worth testing against the divorce record and city directories.
+
+However, the radio sources identify only a professional **Larry Clark**, not his full legal name, date of birth, spouse, children, or parents. No source yet links the disc jockey to Judith M. or Barry. Do not add “radio disc jockey” as a confirmed occupation to Larry's public profile until a record ties this career to the target man.
+
+The previously noted **Larry Thomas Clark, born 22 September 1946 in Princeton, West Virginia and died 20 August 1999**, does not match the 1940 birth year in the divorce index and is not supported as the radio personality by any evidence located. Keep him as a separate namesake candidate; do not merge him into this profile.
+
+### Next tests
+
+- Obtain the complete 1969 *Hilltop News* article; it may give the DJ's age, education dates, hometown, family or career history.
+- Search WCOL and WSAI staff announcements, broadcast trade press, Ohio newspaper archives, and Cincinnati/Columbus directories for Larry Clark across 1965–1973.
+- Compare the DJ's address, education, and age clues with the 1984 divorce index and the original city-directory entries for “Larry Clark & Judith Palmer.”
+- Request the 1984 case file and verify the husband's full name and date of birth before connecting the DJ career or assigning relatives.
