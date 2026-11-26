@@ -88,3 +88,9 @@ The previously noted **Larry Thomas Clark, born 22 September 1946 in Princeton, 
 - Search WCOL and WSAI staff announcements, broadcast trade press, Ohio newspaper archives, and Cincinnati/Columbus directories for Larry Clark across 1965–1973.
 - Compare the DJ's address, education, and age clues with the 1984 divorce index and the original city-directory entries for “Larry Clark & Judith Palmer.”
 - Request the 1984 case file and verify the husband's full name and date of birth before connecting the DJ career or assigning relatives.
+
+### Additional radio chronology located
+
+The 1973 *RPM* trade-paper result says WSAI Cincinnati disc jockey Larry Clark moved to CHAM in Hamilton, Ontario, where he took the 3–6 p.m. slot. This extends the possible radio-career trail beyond the 1968–1969 Cincinnati references. It still identifies only a professional by that name, not the husband in the divorce index. Source: https://www.worldradiohistory.com/CANADA/RPM/70s/1973/RPM-1973-03-10.pdf
+
+The strongest current working identification test is now: **Does the radio personality match the 1940-born Larry Clark named in the 1984 divorce index?** If so, the 1967–1973 career path (small-town Cincinnati area → Columbus → WSAI Cincinnati → CHAM Hamilton, Ontario) may provide a way to find his full name, addresses, and later family records. Until the 1969 profile article or a primary record supplies a date of birth/address, this remains a lead only.
