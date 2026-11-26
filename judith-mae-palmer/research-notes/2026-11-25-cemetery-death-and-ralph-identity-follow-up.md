@@ -11,11 +11,9 @@ A third-party burial-index page lists **Judith M. Palmer, 1939–2006, Spring Gr
 
 **Evidence assessment:** useful as a secondary index cross-check, not an independent original record. It does not supply the interment date, lot/section, funeral home, or original cemetery register image. The shared headstone remains the stronger source for the exact dates and mother/son relationship. Spring Grove's original interment card/register is still needed.
 
-## 2. New lead for Judy’s companion “Ralph” — surname not proven
+## 2. Judy’s companion — Ralph Hall accepted as the family’s working identity
 
-A people-search aggregator result surfaced a **Ralph Hall** and a **Judith Clark** in the Rockaway Beach, Missouri area. The Judith entry gives a February 1939 birth month/year and aliases “Judy Clark”; the Ralph entry gives a January 1940 birth month/year. The same aggregator associates both entries with Cincinnati history and presents them in the same location/telephone-number result.
-
-- [Free People Search — reverse lookup result](https://freepeoplesearch.com/phone-number/417-561-1411/)
+The user accepts **Ralph Hall** as the working identity for Judy’s Missouri companion, based on family knowledge and a reverse-telephone result associating Ralph Hall and Judith Clark in Rockaway Beach. The result displays January 1940 for Ralph, but this is an unverified data-broker birth lead, not a vital record. The phone-number-specific lookup URL and contact details are not reproduced in this public research note.
 
 This is a **low-confidence identity lead only**. It is a data-broker aggregation, not a vital record, obituary, marriage record, or proof that the two people were a couple. It may be the Ralph whom family members remember as Judy’s long-term companion, but that connection has not been established. Do not add “Ralph Hall” as Judy’s spouse or partner in the public profile or tree unless an independent source confirms it. Do not copy the aggregator’s private contact or street-address details into the genealogy archive.
 
