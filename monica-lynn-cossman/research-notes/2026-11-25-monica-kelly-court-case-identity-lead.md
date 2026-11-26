@@ -230,3 +230,12 @@ FamilySearch identifies Mary Emma's parents as **William Stewart Irving McIntosh
 - Virginia Greiner's parents and siblings remain unresolved beyond the obituary's mention of sister Gladys Adams and niece Helen Strickland.
 
 These are ancestor leads and family-group reconstructions, not all primary-record proven. No original 1909 Wise marriage image, 1880 Wise–Chaney marriage image, death certificates, cemetery register, or original census images were obtained in this pass.
+
+
+## Virginia Greiner namesake exclusion and unresolved maternal line
+
+An online Cochran–Shroyer family compilation lists a **Virginia Greiner**, daughter of Ross Leroy Greiner and Dorothy Cotton, born **15 December 1925** in Ainsworth, Nebraska, and died **27 June 1999** in Chadron, Nebraska. This is not Monica's mother: Virginia's 1976 marriage abstract and 2006 Cincinnati obituary identify the mother as Virginia Greiner / Virginia G. Wise, born **17 February 1920** and died **2 October 2006**, with burial at Wise Cemetery in Irvine, Kentucky. The 1925 Nebraska woman is a same-name false lead and is not added to this family.
+- Cochran–Shroyer family compilation, Virginia Greiner (1925–1999): https://www.cochranshroyer.com/g1/p337.htm
+- Virginia G. Wise obituary, Cincinnati, 4 October 2006: https://www.gilliganfuneralhomes.com/obituaries/virginia-wise
+
+Exact-name searches for Virginia Greiner / Griener with Cincinnati, 1920, 1930 census, and the sister Gladys Adams did not identify her parents or a matching childhood household. Her parents and siblings remain unknown beyond the obituary's named sister Gladys Adams and niece Helen Strickland. No attempt was made to identify living relatives through people-search sites.
