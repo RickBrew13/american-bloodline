@@ -74,3 +74,9 @@ These index entries establish that Stanley and Monica jointly acquired a propert
 The 1979 Hamilton County Recorder grantor index contains a separate entry dated **17 October 1979** under Monica Lynn Cossman as grantor and “Affidavit” as the grantee/type, deed book **4172**, page **756**. This is distinct from Stanley's transfer to Monica (book 4170, page 955). The index does not describe the affidavit's contents; it may concern title or another recorded matter, but no interpretation is made without the original. The Recorder's Office states that books 4062–4414 are available only on its office computers, so neither underlying document was inspected remotely.
 
 Virginia's original funeral-home obituary is hosted by Gilligan Funeral Homes: https://www.gilliganfuneralhomes.com/obituaries/virginia-wise . Its attached “profile photo” is a religious angel graphic, not a photograph of Virginia or Monica. No portrait was added to either profile.
+
+
+## Same-name Monica Kelly obituary checked and excluded
+A 2024 PenBay Pilot obituary for **Monica Jean Kelly** initially looked like a possible death record for Monica Kelly, the daughter named in Virginia's 2006 obituary. The full obituary resolves it as a different woman: born 27 November 1956 in Cleveland to **Dr. Hugh Kelly and Rita Giordano Kelly**, married Peter Pfister, and mother of Noah, Angus and Conor. She died 3 May 2024 in Maine. Source: https://www.penbaypilot.com/article/monica-jean-kelly-obituary/186056 .
+
+This is not Monica Lynn Wise/Cossman: the latter's 1976 marriage license gives birth 17 July 1956 in Ohio and parents Samuel P. Wise and Virginia Greiner. The conflicting birth date and both parents rule out the Maine obituary. Do not attach the Maine Monica's death, husband, children, career, or photo to this profile. This means the 2006 surname “Monica Kelly” remains only a documented later name for the Wise daughter; no death or current status for our Monica has been found.
