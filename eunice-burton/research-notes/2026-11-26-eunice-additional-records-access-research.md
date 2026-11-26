@@ -66,3 +66,22 @@ Sources:
 - Ohio History Connection State Archives description: https://www.ohiohistory.org/research/archives-library/state-archives/
 
 No inquiry was sent and no visit or fee was arranged.
+
+
+## 26 November 2026 — final public-image and census/record-collection sweep
+
+### Photograph search
+Ran exact-name and variant searches for Eunice Edna Brewster, Eunice E. Brewster, Eunice E. Whittle and Eunice E. Burton, including Hamilton/Cincinnati and the known spouse names. No identity-secure portrait, family photograph, school photograph, nursing photograph or newspaper photograph surfaced. The GitHub folder currently contains only her headstone image; `img/family-photos/` has no photograph. No unrelated same-name woman's image was copied into the profile. Existing family-held photos in Drive/shared folders remain a separate source to check if access becomes available.
+
+### Census and vital-record access
+- Reconfirmed that the National Archives' official 1950 Census portal provides the original population schedules and location-based browsing; its index is OCR/AI-derived and can contain errors. Eunice's 1950 Cincinnati household image is already archived in her folder, so this is a citation/access reference rather than a new household discovery.
+- Rechecked the FamilySearch catalog description for Ohio, Hamilton County Records, 1791–1994. It includes the county marriage index (1817–1983), marriage banns (1883–1975), probate indexes and related records. This collection is a concrete route for testing any additional marriage/divorce or probate references involving Eunice, Avery and Irvin. The public catalog description is not itself a record of a marriage.
+- Exact-name public web searches did not return a reliable 1930 census entry, 1947 marriage announcement, nursing employer listing, or a second copy of the 1987 death notice. No negative conclusion is drawn from search-engine absence; the source images and indexes must be searched directly.
+
+Sources:
+- National Archives, 1950 Census portal and original schedule access: https://1950census.archives.gov/
+- National Archives, 1950 Census FAQ (index limitations and browsing by enumeration district): https://1950census.archives.gov/howto/faq.html
+- FamilySearch, Ohio, Hamilton County Records, 1791–1994 (marriage index/banns and probate collections): https://www.familysearch.org/en/search/collection/2141016
+
+### Profile status
+Eunice's available family-held documents and current public online material have been reviewed and the new research routes recorded. The following are still not obtainable from the sources accessed in this session: her original Ohio death certificate, the original SS-5, the individual nursing registration/application file or state nurse-inventory contents, the underlying county nurse-registration book (if extant), and original funeral/interment files. These are explicit external-access tasks, not facts to infer. No new spouse, child, sibling, parent or grandchild has been added from a same-name hit.
