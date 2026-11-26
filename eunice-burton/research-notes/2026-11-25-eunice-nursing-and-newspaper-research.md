@@ -33,3 +33,11 @@ Ran additional exact-name searches pairing Eunice Brewster / Eunice Whittle / Eu
 - Do not infer a divorce date or remarriage date from the spouse sequence.
 - Do not assign any of Eunice's three named children to Avery or Irvin without a direct source. The family-tree note that Irvin was Demetria's father remains explicitly a family account.
 - No profile or family-tree JSON was changed in this pass; this note records access research and negative-search boundaries only.
+
+
+## 1947 marriage-age rule — legal context clarified
+The original Kentucky marriage certificate is still the controlling record for what the clerk recorded: Eunice and Avery each stated they were 21 and single. Her independently supported birth date, 22 December 1930, makes her 16 on 23 July 1947.
+
+The contemporaneous U.S. Department of Labor Women's Bureau report, *The Legal Status of Women in the United States: January 1, 1948 — Kentucky*, is based on the Kentucky Revised Statutes 1946 and explains the rule then in force: if either party was under 21 and not previously married, a license could not issue without the consent of the minor's father or guardian (or, under the stated circumstances, the mother's consent). The report separately says a female under 14 was below the statutory marriage minimum; Eunice, at 16, was above that minimum. Thus her age alone did not make the marriage automatically void, but parental/guardian consent was required if she was in fact 16 and previously unmarried. No consent document has been found in the archived certificate or the searches so far. Do not assume whether consent was filed, whether the clerk relied on the sworn age statement, or whether the marriage was legally invalid.
+
+Source: U.S. Department of Labor, Women's Bureau Bulletin 157-16 (Revised), *The Legal Status of Women in the United States of America: January 1, 1948 — Report for Kentucky* (1949), section II, item 18, pp. 8–9: https://fraser.stlouisfed.org/files/docs/publications/women/b0157-16-rev_dolwb_1949.pdf
