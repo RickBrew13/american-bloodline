@@ -132,3 +132,52 @@ Sources:
 3. Search Kentucky marriage records for Geneva/Nelma/Naomi Campbell to Elmer Eugene Bell and for Virginia Elece Campbell to a Hatter; no original certificate yet located.
 4. Obtain Samuel's U.S. Navy Official Military Personnel File or equivalent service record; the 1998 obituary's “retired Navy veteran” is the only inspected evidence of service, with no dates, service number, ships, stations, rank or awards.
 5. Search the U.S. Postal Service employment/retirement record only if accessible through public archive or family-held records; no employer personnel record is available.
+
+
+## Further ancestor and sibling-group audit — 25 November 2026
+
+### New Ora Foster parent lead from a separately researched family-history article
+
+A published genealogy research article about the Scott Pruitt family independently discusses an **Ora Foster**, age one in the 1900 census, whose son Sam's 1998 obituary called her “Doll.” It describes her parents as a Kentucky-born couple, married about 1897, living in a rented home in 1900; her father was an engineer in a sawmill and her mother was named **Cordelia** (the article says Cordelia could read but not write). The article also states Ora later completed sixth grade. These details align unusually closely with Samuel's mother Ora “Doll” Foster Campbell (born about 1898) and his 1998 obituary. This is a strong lead that Ora's parents included a woman named Cordelia and a sawmill engineer, but the article does not give either parent's full name in the visible text and is not itself an original record. Do not add Cordelia or an unidentified sawmill engineer as proven grandparents.
+
+Source:
+- Tina's History Blog, “Part 1 of a lil Trump Admin history research project,” section on Scott Pruitt's ancestors, lines 718–721: https://tinashistoryblog.wordpress.com/
+
+The same article describes Logan Campbell, age three in 1900, living on a rented farm with his parents and three siblings; his mother was 26, had been married nine years, and had four children. This is consistent with the FamilySearch profile's Logan Ira Campbell (born 9 May 1897) and the 1900 census age. The article reports the household's 6- and 8-year-old children attended school, and that Logan later completed sixth grade. This is secondary research commentary and should be used to locate the underlying 1900 schedule, not as a replacement for it.
+
+### Expanded Logan Ira and Maude Allen Combs sibling context — compiled lead
+
+The FamilySearch compiled profiles now expose the full proposed child group for Logan Ira's parents, **James Logan Campbell (1864–1949)** and **Maude Allen Combs (1873–1958)**:
+- Iva M. Campbell, later Iva M. Gulledge/Wilson (born 21 February 1892; married William T. Wilson 28 February 1909; children John L., Arley M., Woodrow, Charlie, Mary Maudie and Howard Wilson)
+- Della Campbell (1893–1941)
+- Logan Ira Campbell (9 May 1897–30 March 1970)
+- Franklin Filmore Campbell (26 November 1899–28 January 1920)
+- Mary Etta Campbell (1902–1957)
+- Nanie Bet Campbell (1905–1936)
+- Edith Carrell Campbell (1908–1993)
+- Nora Lizabeth Campbell (1911–2005)
+- Joseph Campbell (1915–1915)
+
+This list comes from compiled FamilySearch profiles, not a complete set of original birth records. It does not establish that every name is correct or that no additional children existed. The profiles cite census, marriage and death records, but the original images have not been reviewed here. These are Samuel's proposed paternal aunts/uncles, not his own siblings. The eight-child Logan–Ora list must remain separate from this nine-child James–Maude list.
+
+Sources:
+- Logan Ira Campbell, FamilySearch compiled profile: https://ancestors.familysearch.org/en/L6XR-9BZ/logan-ira-campbell-1897-1970
+- Maude Allen Combs, FamilySearch compiled profile: https://ancestors.familysearch.org/en/LJJX-TQM/maude-allen-combs-1873-1958
+- Franklin Filmore Campbell, FamilySearch compiled profile: https://ancestors.familysearch.org/en/LX3Y-3L4/franklin-filmore-campbell-1899-1920
+- Iva M. Gulledge, FamilySearch compiled profile: https://ancestors.familysearch.org/en/27T7-J5L/iva-m-gulledge-1892-1978
+
+### Geneva Bell identity strengthened; still not a direct sibling link
+
+The Lincoln County obituary transcription for Elmer Eugene “Gene” Bell explicitly gives his wife as **Geneva Campbell Bell** and says she lived with him in Moreland. This is an exact match for the “Geneva Bell of Moreland” named as Samuel's sister in the 1998 obituary. The identification is now strong enough to label “likely Geneva Campbell Bell” in the research narrative, but the two obituaries still do not state that Geneva was the daughter of Logan and Ora. A marriage certificate, her own obituary, or a birth/census household record naming her parents remains necessary.
+- KYGenWeb, Lincoln County Obituaries, Section 74, Elmer Eugene Bell, obituary published 7 July 2010: https://mail.kygenweb.net/lincoln/family/obituaries/section-74/
+
+### Corrections and limits retained
+- The FamilySearch Logan Ira profile lists eight children, while Find a Grave's Logan memorial reportedly associates a daughter Naomi Campbell Reeves and the 1998 obituary names Geneva Bell. Do not merge Nelma, Naomi and Geneva. There may be an alternate name, an omitted child, or an error in one of the compiled memorials.
+- Virginia Elece Campbell (1942–2011) remains a possible match to “Elece Hatter of Indianapolis,” but no marriage/obituary record directly connects the Hatter surname.
+- Logan Ray Campbell (1927–2017) remains the likely match for “Ray Campbell of Athens,” supported by Samuel's obituary, Logan Ray's own obituary and the compiled Logan–Ora child group.
+- The 1950 FamilySearch index attached to Logan remains garbled and must not be used to assert Samuel's household. The original 1950 census schedule is still required.
+- The obituary's twelve grandchildren remain unnamed in the accessible transcription. No child-parent assignments beyond the specifically documented Rhonda, Connie and Marva evidence have been made.
+- No Navy personnel file, postal employment record, death certificate, Salem Cemetery plot register, original obituary clipping, new portrait or property instrument has been obtained. No paid request or outside contact was made.
+
+### Status after this pass
+Samuel's identity, birth/death, parents, one documented marriage, occupation, veteran status, burial cemetery, six children, and the siblings explicitly named in the 1998 obituary are now supported by a combination of original marriage/death records, an obituary transcription, and carefully labeled compiled-tree/obituary leads. His Navy service specifics, complete spouse history, all children's mothers, grandchild names, direct proof of the sibling identities, and grandparents through Ora remain open. The profile must not be labeled fully documented while these records remain outstanding.
