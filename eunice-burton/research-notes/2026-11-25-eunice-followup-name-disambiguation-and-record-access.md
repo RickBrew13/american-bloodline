@@ -266,3 +266,31 @@ The Ohio Department of Health's current local registrar directory also lists But
 - Ohio History Connection coverage: https://resources.ohiohistory.org/death/faq.php
 
 The official Hamilton City page says $25 per certified copy. No request or payment has been made. The certificate should not be ordered through the ODH online portal on the assumption it covers a 1987 record; ODH's stated custody begins in 1971, and the local registrar is the safer route for this older local event.
+
+
+## Rose Hill interment-record route checked (25 November 2026)
+
+The cemetery's public-facing site and third-party burial indexes do not expose a confirmed interment card for Eunice. The cemetery itself is currently listed as Rose Hill Burial Park, 2565 Princeton Road, Hamilton, OH 45011, phone (513) 894-9206. The historical Rose Hill Burial Park listings also use 2421 Princeton Road and phone (513) 895-3278; the current cemetery operator is the better first contact. The existing family archive already has a headstone photograph and memorial/plot locator (Section 11, Lot 191, Grave 3), so the missing evidence is the underlying cemetery register/interment card, not the location itself.
+
+Ask the cemetery office for:
+- the interment card/register entry for Eunice E. Burton (born 22 December 1930; died 16 December 1987);
+- exact date of interment, section/lot/grave confirmation, purchaser/owner of the lot, and next-of-kin/contact details recorded at burial;
+- any adjacent family plot or deed records for Irvin D. Burton, whose grave is Section 11, Lot 191, Grave 4.
+
+Official cemetery contact: https://www.dignitymemorial.com/funeral-homes/ohio/hamilton/rose-hill-funeral-home/8370
+
+A separate online graves-registration-card archive for Rose Hill is a **veterans' grave-card collection**, not a general cemetery interment register; it should not be mistaken for Eunice's record. The Hamilton County Recorder's Rose Hill (Mt. Carmel) veteran-card collection is also a different cemetery from the Butler County Rose Hill Burial Park in Hamilton. No cemetery office contact or request has been made.
+
+### Record-access limits after this pass
+
+The main remaining items that cannot be obtained from the public web interfaces in this session require a repository or custodian to search the physical/archival source:
+1. Butler County / Hamilton City historic nurse-certificate register and any Ohio RN file;
+2. 1987 Ohio death certificate (certificate 088337, volume 27087);
+3. Hodapp Funeral Home's 1987 case/arrangement file and any retained copy of the death notice;
+4. Rose Hill's original interment card and lot/deed record;
+5. CHPL Newsdex citation for the exact newspaper clipping;
+6. direct vital records identifying the children and their parentage, and the grandchildren;
+7. original SS-5/application image and the 1940 census sheet image;
+8. divorce/marriage records clarifying the Avery-to-Irvin transition.
+
+The public searches have not produced reliable substitutes for these originals. These are therefore preserved as **specific custodian requests**, not treated as proof of nonexistence. No contact, order, payment, or submission was made.
