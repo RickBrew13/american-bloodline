@@ -104,3 +104,9 @@ Sources:
 - Butler County Records Center contact: https://bcohio.gov/Document_Center/Records%20Center/Records%20Manual%20Final%20-%202025.pdf
 
 No coroner request has been sent and no cause of death has been inferred.
+
+
+### Butler County Coroner custodian contact
+The Ohio Attorney General's published Butler County Coroner chain-of-evidence form lists the office at **315 High Street, Suite 650, Hamilton, Ohio 45011**, phone **513-785-5860**, fax **513-785-5866**, and the office website as butlercountycoroner.org. This is the direct custodian contact route for the 1987 case-index and final-report request described above. No call, email or written request has been made.
+
+Source: Ohio Attorney General, Butler County Coroner chain-of-evidence form and contact block: https://www.ohioattorneygeneral.gov/getattachment/3f7d250d-bbc7-405a-87c1-786396eae747/3f7d250d-bbc7-405a-87c1-786396eae747.aspx
