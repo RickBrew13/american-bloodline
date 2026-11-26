@@ -35,7 +35,7 @@ The 20 January 1920 census for Aragon, Polk County, Georgia, places James P. Kel
 
 ## Sources
 - Morgan County, Tennessee Genealogy & History, “B” Obituaries, entry for Sarah Elizabeth Brewster Galloway (d. 7 February 2009), transcribed from Schubert Funeral Home notice: https://tngenweb.org/morgan/b-obituaries/
-- West-Murley Funeral Home, “Cleo R. Brewster,” 18 October 1940–13 November 2024: https://www.westmurleyfh.com/obituaries/cleo-brewster
+- West-Murley Funeral Home, “Cleo R. Brewster,” 18 October 1940–13 November 2024: https://www.tributearchive.com/obituaries/33791595/cleo-r-brewster
 - Patch reproduction of Cleo R. Brewster's obituary (20 November 2024), same funeral-home notice, not an independent record: https://patch.com/illinois/joliet/obituary-cleo-r-brewster
 - 1920 U.S. census, Aragon, Polk County, Georgia, ED 170, sheet 17-B, 20 January 1920, household of James P. Kelley and Belle; family archive profile cites the census and the Tennessee death index for Bessie.
 - Kentucky County Marriages, Julia B. Kelly and William Brewster, 15 June 1929, Newport, Campbell County, Kentucky; indexed record, FamilySearch link already cited on Julia and William profiles.
