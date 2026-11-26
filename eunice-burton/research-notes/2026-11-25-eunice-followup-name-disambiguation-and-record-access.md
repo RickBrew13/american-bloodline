@@ -973,3 +973,15 @@ CHPL Newsdex/newspaper resources: https://chpl.org/resources-types/newspaper/ .
 - Any paid cemetery, funeral-home, newspaper or library reproduction fee.
 
 These specifications are preserved for execution when authorized; none has been submitted and no fee has been incurred.
+
+
+## 26 November 2026 — Rose Hill cemetery custodian and exact inquiry address verified
+
+The current official Rose Hill Burial Park page identifies the cemetery as part of Rose Hill Funeral Home / Dignity Memorial, at **2565 Princeton Road, Hamilton, OH 45011**, phone **513-894-9206**. This is the current contact for the historical interment-card and lot-file inquiry. The 1987 death notice's 2421 Princeton Park Road is the historical chapel address printed at the time; do not use it as the current cemetery mailing address. The cemetery inquiry should request Eunice's original interment card, burial date, Section 11/Lot 191/Grave 3, lot purchaser/owner and funeral-home file, and confirm the adjacent Irvin Grave 4 record. The official website provides the current address and phone but does not itself expose historic burial records.
+
+- Official cemetery page: https://www.dignitymemorial.com/en-ca/funeral-homes/ohio/hamilton/rose-hill-funeral-home/8370/cemetery
+- Official funeral-home/cemetery page: https://www.dignitymemorial.com/funeral-homes/ohio/hamilton/rose-hill-funeral-home/8370
+
+Hamilton County Recorder's Office also explains that its WPA grave-registration cards cover known veterans (mostly burials through 1939) and later veteran information through the 1980s; these are not a general burial register and are not a likely record for Eunice. This route is not being treated as evidence for her burial. The cemetery itself is the correct custodian for her 1987 interment card.
+
+- Hamilton County Recorder cemetery/veteran card guide: https://recordersoffice.hamilton-co.org/helpful_information/cemetery_locations.html
