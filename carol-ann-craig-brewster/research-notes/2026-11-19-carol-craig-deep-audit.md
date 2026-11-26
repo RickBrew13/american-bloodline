@@ -20,3 +20,29 @@ Added a clearer obituary citation with the reproduced source and its limits; add
 - Carol’s Ohio birth certificate or SSA record to document Craig as birth surname and parents; H. Clyde Craig father link remains UNPROVED in the current profile.
 - Original marriage/divorce records for Hillman, Henderson, Eugene Brewster and Norman Rechel if the family chronology is to be independently documented.
 - Gilligan Funeral Homes original obituary/death notice and probate/estate record may give stronger source provenance and a more complete family account.
+
+
+## Further official obituary and Craig-family lead review — 25 November 2026
+
+### Gilligan Funeral Homes obituary listing
+The Gilligan Funeral Homes obituary listing independently confirms Carol Ann Rechel's death on **21 September 2019**, at home surrounded by family. It says she joined her two deceased children **Vicki and Chris**, and was survived by four children **Mary, Pat, Paula and Jill**, her husband of 25 years **Norman**, 13 grandchildren and 15 great-grandchildren. This is a direct funeral-home obituary listing, stronger than the Find a Grave reproduction for the basic death/family summary. The listing does not supply her birth date, maiden name, parents, earlier spouses, occupation, or full descendant names.
+- Gilligan Funeral Homes, obituary listing, page 44, “Carol Ann Rechel,” 21 September 2019: https://www.gilliganfuneralhomes.com/obituaries?page=44
+
+This independently confirms the two deceased children and four surviving children, but does not independently identify their fathers or establish which prior marriage each child belongs to. The daughter-attributed note on Find a Grave remains a family account for the sequence of Paul Hillman, Danny Henderson, Eugene Brewster and Norman Rechel, including the approximate relationship durations. Keep the family-account label and do not convert those durations into exact marriage dates.
+
+### H. Clyde Craig lead — not attached as father
+A search for the reported possible father H. Clyde Craig located Cincinnati city-directory references:
+- The 1936–37 Cincinnati directory lists H. Clyde Craig as secretary of Buka Coal Co.
+- The 1939 Cincinnati directory also lists H. Clyde Craig as secretary of Buka Coal Co.
+- A PeopleLegacy cemetery-aggregator page lists an H. Clyde Craig, 1901–1939, buried at Rest Haven Memorial Park, Evendale, Ohio.
+
+This is a plausible geographic/time-period lead only. The directory references do not name a wife or child, and the cemetery aggregator is not an original death or burial record. No source yet connects this H. Clyde Craig to Carol Ann Craig, and the possible 1939 death date must not be used to assign him as her father. Required next records: H. Clyde Craig's 1930/1940 census household, Ohio death certificate, marriage record, and original cemetery register, followed by Carol's birth record or Social Security application naming her parents.
+Sources:
+- Cincinnati Public Library, 1936–37 directory, p. 297: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1936-37_Pt01.pdf
+- Cincinnati Public Library, 1939 directory, entry for Buka Coal Co., H. Clyde Craig, secretary: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1939_Pt01.pdf
+- PeopleLegacy, H. Craig burial index, H. Clyde Craig 1901–1939: https://peoplelegacy.com/burial-records/h/craig/
+
+### Archive and profile handling
+Carol's existing folder was inspected before this research. It contains her profile, the 19 November deep-audit note, the shared-archive reference, the young portrait, two headstone-image files and empty family-photo/documents/sources/family-books folders. The portrait and marker remain correctly attributed to Carol. No new portrait, original civil record, family document or identified descendant photograph was found in this pass. No image was duplicated, moved or removed.
+
+No profile or family-tree JSON change is justified by this research pass: the official obituary's family summary is consistent with the current profile, and the H. Clyde Craig lead is not sufficiently linked to Carol. Unresolved primary-record work remains: Carol's birth certificate/SSA application, H. Clyde Craig's original records if that lead proves relevant, the original Kentucky marriage certificates 24676 and 28705, and the civil marriage/divorce records for each reported spouse. No paid record was ordered and no outside party was contacted.
