@@ -172,3 +172,28 @@ Sources:
 - New Castle–Henry County Public Library Indiana Room: https://nchcpl.org/resources/genealogy/
 
 **No archival request or directory order was submitted. The new nursing-school and directory paths have been added to the active research plan.**
+
+
+### Further follow-through — Avery's death, child-name disambiguation, and a database correction (25 November 2026)
+
+#### Avery's obituary and death date: rechecked against the actual Whittle folder
+- Re-opened `ello-whittle/research-notes/2026-11-19-avery-whittle-deep-audit.md` and `ello-whittle/index.html`, not merely a search result. Avery's archived 1977 obituary clipping was previously read and transcribed there. It says Avery Whittle, 50, of New Castle, Indiana, died **10 April 1977**, names Charlotte as his wife, lists four daughters and three sons, and records five sisters and two brothers; services were at Bernard Funeral Home Chapel and burial at Whittle Cemetery, Russell County, Kentucky. The 2025 Charlotte obituary independently says Avery preceded her in death and that they had eight children, including Becky, who died at six months. Their daughter Theresa's 2016 obituary independently names Avery as her father and Charlotte as her mother, and identifies siblings Rob, Debra, Jeff, Mike, Cindy and Louretta, plus deceased sister Rebecca Jo. It says Theresa was born 27 June 1965 in Tucson and the family later lived in New Castle before moving to Texas when she was 14.
+- This confirms Avery and Charlotte were a family by 1965 at the latest and that Avery died in 1977. It does **not** establish the date of their marriage or the date Eunice's marriage to Avery ended. Eunice's 1950 census with Avery still shows them together; the divorce/end-of-marriage record remains a live question. Do not put an unsupported “1950s–1960s” marriage date into Eunice's profile.
+- A separate web-indexed death listing gives Avery's date as 1 April 1977, but the actual obituary clipping in his folder and his profile/headstone say **10 April 1977**. The clipping and headstone take priority over the derivative index date; the April 1 reading is likely a bad index transcription.
+
+#### Potential child-name false match ruled out
+- Searched the name Demetria Sexton and related Eunice/Burton variants. A superficially similar result, Demetria Kim Lawrence (22 September 1965–21 March 2018), is **not** the Demetria Sexton named in Eunice's 1987 death notice: her obituary explicitly says she was born in Lansing to Jack E. and Delilah Lawrence, and identifies her own family. Do not merge her into Eunice's family. No direct birth, marriage, or obituary record confirming the parentage of Demetria Sexton, Elaine Bishop, or Anthony Q. Burton was obtained in this pass. Their names remain attributed to Eunice's family death notice only; Irvin's paternity is still not independently proven.
+
+#### Correction: New Castle Public Library Marriage & Obituary database is Pennsylvania, not Indiana
+- The database's own About page identifies New Castle Public Library at **207 E. North St., New Castle, Pennsylvania 16101**. Its index covers New Castle newspaper marriage and obituary announcements from 1849 onward, but it is **not** the New Castle, Indiana library and must not be used as evidence for Avery's Indiana marriage or obituary. The previously cited New Castle–Henry County Public Library Indiana Room is a different institution. This correction prevents the wrong state's library index from being used.
+- The Indiana State Library's Indiana Legacy advanced search is still the correct public index lead: its live form explicitly lists “Indiana Marriages 1958–2022,” “Divorce,” “Obituary,” “School,” and “ISL High School and College Yearbook Collection.” The form is visible but no query was submitted successfully in this browser session. No Indiana marriage/divorce result is claimed.
+
+Sources checked in this pass:
+- Avery Whittle existing archive note and profile: `ello-whittle/research-notes/2026-11-19-avery-whittle-deep-audit.md`; `ello-whittle/index.html`
+- Charlotte Ann (Mulvey) Whittle obituary (2025): https://www.charleswsmithandsonsfuneralhome.com/obituaries/charlotte-whittle
+- Theresa Lynn Whittle obituary (2016): https://www.charleswsmithandsonsfuneralhome.com/obituaries/theresa-whittle
+- Indiana Legacy advanced search: https://digital.statelib.lib.in.us/legacy/advancedsearch.aspx
+- New Castle Public Library marriage/obituary database About page (Pennsylvania; excluded from Indiana research): https://marriage-obit-ncdlc.org/about-us/
+- Demetria Kim Lawrence obituary (used only to rule out a same-name false match): https://www.rileyfuneralhome.com/obituaries/demetria-lawrence
+
+**No new original Eunice record or marriage/divorce decree was obtained. No request, call, or purchase was made. The new findings and correction are recorded here; Avery's files were inspected but not modified.**
