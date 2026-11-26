@@ -75,3 +75,27 @@ A fresh exact-name search using Joseph Collins, Joseph Leslie Collins, Mobile, B
 No new source justified changing the public profile. The current page remains appropriately cautious: known birth, marriage, 1940 household, porter occupation, parents and daughter; death, later residence, additional spouses/children, siblings, property, probate, military service and burial remain unknown. No verified photograph or family book is in the folder. The next meaningful evidence requires access to original records or restricted/library-only collections: 1940 schedule image, 1940 draft card, Birmingham directories/newspapers, Jefferson County Circuit Court pre-1950 divorce files, Alabama death index/certificate, and probate/cemetery records. No paid orders, institutional contact, profile merge or speculative family assignment was made.
 
 The Ohio namesake investigation is resolved; the Alabama subject's later life is not. This profile should remain open rather than be described as fully documented.
+
+
+## Final folder and public-record sweep — 25 November 2026
+
+### Parent and spouse archive checks
+- Checked the linked parent profiles **Joseph Collins** and **Sarah Johnson**. Their person folders contain HTML profiles and empty research-notes folders (only .gitkeep); no original records, family photos, or additional parent/sibling material was present there.
+- Checked the linked spouse profile **Ruby Mae Pugh** and her complete follow-up notes. Her file independently preserves the 1930 Birmingham census index, 1939 marriage image, Leslie's NUMIDENT and 1959 marriage, the 1945 George Moore marriage index, and two namesake exclusions. Ruby's own images, documents, sources and family-books folders contain no verified portrait, death record, cemetery photo or independent document for her.
+- Re-read the original read-only couple-record export and transfer inventory. The eight listed source items are accounted for in the two person archives; no hidden photo/document file is described in the inventory. The source Drive records remain untouched.
+
+### Additional exact-name and record-collection search
+Fresh searches using Joseph Leslie Collins, Joseph Collins, Mobile, 22 January 1918, Birmingham, Sarah Johnson, Ruby Mae Pugh, porter, death, obituary, cemetery, military, and 1941–1945 did not surface an attributable later-life record. The apparent exact-name Ohio Joseph was already traced and excluded: his 1940 Ohio household, parents John Z. Collins and Martha Tanzie, and 1948 marriage to Alberdine Heil are incompatible with the Mobile-born Alabama groom already married in Birmingham in 1939.
+- FamilySearch's Alabama Deaths collection (1908–1974) is the relevant state death-certificate collection. Its catalog explains that original certificates can provide parents, spouse, informant, last residence, occupation and burial details; the public name searches in this pass still did not identify a matching Joseph.
+  - https://www.familysearch.org/en/search/collection/1307888
+- Alabama Department of Archives and History confirms that it provides onsite access as a FamilySearch affiliate library to many Alabama death records from 1908–1974; no onsite lookup or paid order was made.
+  - https://www.archives.alabama.gov/research/guidance/FAQs.aspx
+- Birmingham Public Library lists a continuing Obituary Index for Birmingham-area newspapers and historical newspaper access, but it is not a remotely searchable result for this individual in the material reviewed.
+  - https://www.cobpl.org/virtual/subjects/Default.aspx?s_page=23&s_section=8
+
+### Current evidence and stop point
+The identity of this profile remains strong through the original 15 November 1939 Birmingham marriage record (Mobile birth, 1st Street Birmingham residence, porter occupation, parents Joseph Collins and Sarah Johnson), the 1940 Birmingham household with Ruby, Leslie's 1940 NUMIDENT, and Leslie's 1959 marriage record naming her father Joseph Leslie Collins. Ruby's 5 February 1945 marriage index indicates the first marriage had ended by then if it is the same Ruby, but neither the termination date nor whether it was divorce, death or another legal event has been established.
+
+No further public, accessible, identity-matched record was found for Joseph's parents beyond their names on the marriage record; no siblings, other children, later spouse, military service, later occupation, property, probate, death, burial, obituary, or verified photograph has been established. The 1940 Joe Collins/Sara Rogers index remains excluded, and the Ohio namesake remains excluded. Do not fill these gaps with same-name candidates.
+
+The next highest-value evidence requires a direct original-record route: the 1940 Birmingham census schedule, 1942 draft registration card (if registered), Jefferson County divorce/court file for the 1939–1945 interval, Alabama death certificate or index match, and contemporary Birmingham city-directory/newspaper records. These routes have been documented; no fees, record orders, institutional contacts or access requests have been made. No profile facts were changed in this pass because no new identity-matched biographical claim was established.
