@@ -347,3 +347,30 @@ Important caution: the previously consulted FamilySearch image URL was inaccessi
 A 2024 people-search/data-broker entry for an “Anthony Q Burton” in Hamilton, Ohio surfaced in search. It does not establish that he is Eunice's son: it supplies no reliable birth date, parentage, or primary-source link to her. It is excluded from the family tree and not used to publish or expose a private address.
 
 A 1932–1933 Cincinnati city-directory result for an “Eunice E, stenographer” and a 1933–1934 directory result for “Eunice E, stenographer” are chronologically impossible matches for Eunice Edna Brewster, who was a toddler in 1932–1934. They are excluded. The Cincinnati Public Library's digitized directory archive remains useful for searching later years and tracing a named adult by occupation/address, but a same-name directory hit must be cross-checked against age, spouse and address before use.
+
+
+## Major new lead: 1947 Kentucky marriage likely generated a separate minor-consent record (26 November 2026)
+
+The 1947 marriage age discrepancy now has a concrete record trail. Eunice was born 22 December 1930, so she was 16 years, 7 months old on 23 July 1947. The contemporary U.S. Department of Labor Women's Bureau report *The Legal Status of Women in the United States of America: January 1, 1948 — Kentucky* summarizes Kentucky law then in force: if either party was under 21 and had not previously been married, a marriage license could not issue without consent of the minor's father or guardian, or, if there was none or he was out of state, the mother's consent, personally given or certified in writing, signed and attested by two witnesses and proved by oath. It also states the marriage was prohibited and void if the male was under 16 or the female under 14. Eunice's documented age of 16 therefore falls in the parental-consent category under the 1948 summary of the law, even though the 1947 certificate states she was 21.
+
+This does **not** establish that no consent was obtained, that the marriage was invalid, or that a clerk knowingly accepted a false age. It creates a very specific archival question: where is the consent/permission or supporting application that accompanied the marriage license? The Kentucky Department for Libraries and Archives' current marriage-record guide explains that county marriage files may consist of separate bonds, consents/permissions, licenses, certificates, ministers' returns and registers; these papers may be filed separately, and not all survive or are digitized. The 1947 certificate in the family archive is the officiant's certificate/return and may not be the complete application packet.
+
+The highest-value request is to the **Campbell County Clerk**, which issued the license/holds the county marriage records, not the Circuit Court Clerk. Request the complete original file or loose papers for:
+- Avery E. Whittle and Eunice Brewster;
+- marriage date 23 July 1947;
+- marriage book 196, page 83;
+- FamilySearch film/DGS 007734735, image 99 (certificate);
+- any application, affidavit, proof-of-age document, parental consent, guardian consent, bond, court order, clerk's register entry, or associated loose paper.
+Ask specifically whether the original consent or application packet survives separately from the bound marriage certificate book and whether the file is at the County Clerk or Kentucky Department for Libraries and Archives.
+
+Official/reliable sources:
+- U.S. Department of Labor, Women's Bureau Bulletin No. 157-16 (Revised), *The Legal Status of Women in the United States: January 1, 1948 — Kentucky*, section II, “Age of Consent to Marriage—Men and Women”: https://fraser.stlouisfed.org/files/docs/publications/women/b0157-16-rev_dolwb_1949.pdf
+- Kentucky Department for Libraries and Archives, *Kentucky Marriage Records* (updated 4 June 2026), describing separate county marriage record components and access: https://kdla.ky.gov/Archives-and-Reference/Documents/Handouts-RR/Handout-MarriageRecords.pdf
+- Campbell County Clerk marriage-license service: https://campbellcountyclerk.ky.gov/services/marriage-licenses/
+- Campbell County Clerk marriage license phone: 859-292-3885 (as listed by the clerk's public materials).
+- FamilySearch marriage index: https://www.familysearch.org/ark:/61903/1:1:Q2DX-LBZS
+- FamilySearch certificate image: https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91S-2QLP-2
+
+A secondary marriage-record search page links a Campbell County marriage portal that accepts book/page lookup, party names and dates, but the portal itself returned 403 in this browser session. No result/no-result is claimed from it. The official County Clerk remains the authoritative source for a full file search. The public portal link is https://campbellmarriagesearch.smllc.us/.
+
+No request has been sent and no record has been ordered. Do not alter the profile's documented marriage date or age discrepancy. The new evidence strengthens the reason to seek the complete license packet and parental-consent record.
