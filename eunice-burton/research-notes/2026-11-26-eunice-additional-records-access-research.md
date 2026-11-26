@@ -85,3 +85,22 @@ Sources:
 
 ### Profile status
 Eunice's available family-held documents and current public online material have been reviewed and the new research routes recorded. The following are still not obtainable from the sources accessed in this session: her original Ohio death certificate, the original SS-5, the individual nursing registration/application file or state nurse-inventory contents, the underlying county nurse-registration book (if extant), and original funeral/interment files. These are explicit external-access tasks, not facts to infer. No new spouse, child, sibling, parent or grandchild has been added from a same-name hit.
+
+
+## 26 November 2026 — death-investigation and coroner-record lead
+
+The existing Ohio Death Index entry for Eunice (certificate 088337, volume 27087) records that an autopsy was performed and used for certification. This is an important clue, but it does not establish cause or manner of death. It warrants a separate Butler County coroner case-file/index search, not speculation about the circumstances.
+
+Ohio Revised Code §313.09 was already in force by 1975 and required the coroner to maintain a complete indexed record for cases under the coroner's jurisdiction, including the death location, date, cause, other available information, and the coroner's report/autopsy findings. Current §313.10 makes final coroner records, including detailed autopsy observations and conclusions, public records subject to statutory exceptions; preliminary notes, certain medical records, decedent photographs and law-enforcement investigatory material are excluded. Because Eunice died in 1987, the applicable version and the status of any investigation must be checked before assuming the present statute's precise disclosure rules apply.
+
+A 2022 Ohio History Connection draft model retention schedule lists coroner case files, daily records and case indexes as permanent. It is a model schedule, not proof that Butler County adopted it or retained Eunice's file. The Butler County Records Center identifies itself as repository for historical county records, but its public holdings list does not specifically identify coroner files. The actual custodian and record survival need confirmation.
+
+**Targeted request details to use if the file is sought:** Eunice Edna Brewster / Eunice E. Burton; died 16 December 1987; Hamilton, Butler County, Ohio; Ohio death certificate 088337, volume 27087; death index says autopsy performed and used for certification. Ask first for the coroner's case index/docket number, case file, final report, autopsy report/findings, cause/manner determination, and any non-exempt attachments. Do not request or expect restricted photographs or preliminary notes.
+
+Sources:
+- Ohio Revised Code §313.09 (effective 26 August 1975): https://codes.ohio.gov/ohio-revised-code/section-313.09
+- Ohio Revised Code §313.10 (current text; statutory exceptions): https://codes.ohio.gov/ohio-revised-code/section-313.10
+- Ohio History Connection, draft Coroner's Office/Medical Examiner retention schedule: https://www.ohiohistory.org/wp-content/uploads/2022/02/Coroner-Draft.pdf
+- Butler County Records Center contact: https://bcohio.gov/Document_Center/Records%20Center/Records%20Manual%20Final%20-%202025.pdf
+
+No coroner request has been sent and no cause of death has been inferred.
