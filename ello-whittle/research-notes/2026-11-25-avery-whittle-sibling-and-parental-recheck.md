@@ -28,3 +28,16 @@ The next primary-record targets are Stanton's 1900/1910 census household and his
 
 ## Profile-change decision
 No public profile or family-tree JSON was changed in this pass. The profile already contains the sibling names and dates; the new material is corroborating research and a same-name exclusion, so it belongs in this research note rather than as duplicate biographical claims. The profile's existing parentage for Stanton and Louvenia is corroborated by the three obituaries, but their own parents remain unknown in the sources located here.
+
+
+## Grandchild records — new direct family link
+A new search found the full 2008 *Dallas Morning News* obituary for **Rebecca Ann Whittle** (13 May 1986–27 September 2008). It explicitly names her parents as Jeff and Donna Whittle, her paternal grandmother as Charlotte Whittle, and her grandfather Avery Whittle as already deceased. This directly establishes Rebecca as Avery's granddaughter and connects Jeff to Avery's son Jeffery Whittle in the 2016 Theresa obituary (which names Jeff among Theresa's brothers and identifies Donna as his spouse). The obituary also lists Rebecca's siblings, but I have not added living descendants' names to Avery's public profile.
+
+Theresa Whittle's 2016 obituary separately names her deceased nephew **Matthew Mark Whittle**. This establishes him as a grandchild of Avery and Charlotte through one of Theresa's siblings, but the obituary does not identify which sibling was his parent. Rebecca's obituary mentions a deceased brother named Matthew; this may be the same person as Matthew Mark, but the name-only correspondence is not enough to merge them. Charlotte's 2025 obituary refers to a deceased grandson “Matthew” and a granddaughter “Becca”; these may correspond to Matthew Mark and Rebecca Ann, respectively, but only Rebecca Ann is independently linked by name to Avery in her own obituary.
+
+Charlotte's obituary reports 25 grandchildren, 35 great-grandchildren and five great-great-grandchildren. Only Rebecca Ann and Matthew Mark have been individually identified in the records reviewed here. The profile now lists those two with the evidence limits stated; no other descendant names were added.
+
+Sources:
+- *Dallas Morning News*, “Rebecca Whittle,” published 30 September 2008: https://obits.dallasnews.com/us/obituaries/dallasmorningnews/name/rebecca-whittle-obituary?id=25026934
+- Charles W. Smith & Sons Funeral Home, “Theresa Lynn Whittle,” 29 November 2016: https://www.charleswsmithandsonsfuneralhome.com/obituaries/theresa-whittle
+- Charles W. Smith & Sons Funeral Home, “Charlotte Whittle,” 27 May 2025: https://www.charleswsmithandsonsfuneralhome.com/obituaries/charlotte-whittle
