@@ -556,3 +556,25 @@ The earlier research note incorrectly mentioned T627-2263 as the 1940 census rol
 - NARA 1940 census FAQs explain that EDs can be browsed through population schedules and Catalog: https://www.archives.gov/research/census/1940/faqs
 
 The exact FamilySearch index still gives Eunice as ED 65-15, sheet 3B, line 51. The remaining work is to access the image from the correct reel/ED through NARA Catalog, FamilySearch, Ancestry, or the Stephen P. Morse universal viewer. No original image was inspected in this pass.
+
+
+## Nursing-school archive leads refined (26 November 2026)
+
+A fresh search of institutional archives produced four concrete Ohio-area school record collections worth checking against the still-unidentified RN license. These are candidates based on geography and period only; there is no evidence yet that Eunice attended any of them.
+
+1. **University of Cincinnati College of Nursing.** UC Archives' finding-aid index describes College of Nursing and Health records, 1940–2004 (106 linear feet; finding aids UA-13-02 and UA-13-09), and separate alumni files 1891–1940 containing admissions/registration records, transcripts, photographs, correspondence and certificates. The 1891–1940 alumni file is too early for Eunice's likely training period, but the 1940–2004 College records are temporally relevant. A UC library article also identifies a public list of Cincinnati General Hospital nursing-school graduating classes 1891–1945; Eunice would have been only 14 in 1945, so that list cannot be her graduating class.
+   - https://www.libraries.uc.edu/libraries/arb/collections/university-archives/ua-collections.html
+   - https://libapps.libraries.uc.edu/liblog/2016/03/celebrating-the-history-of-the-college-of-nursing-with-the-seventh-annual-cecil-striker-society-lecture/
+2. **Good Samaritan Hospital School of Nursing, Cincinnati.** Ohio Memory holds a digitized two-volume historical book, *Good Samaritan Hospital School of Nursing in Story and Picture, 1947–1970*, including photographs and school history. This is a possible visual/name-search source, but the retrieved item is not a named student register.
+   - https://ohiomemory.org/digital/collection/p16007coll72/id/2976/rec/3
+3. **Mercy Hospital School of Nursing, Hamilton.** A local-history account says the school was founded in 1906 and graduated 1,174 students through 1970; a 1956 golden-jubilee display included photographs. This is geographically relevant to Eunice's later Hamilton residence, but no enrollment or graduate list naming her has been located.
+   - https://nkhistory.org/content/97-memories-of-early-rural-life
+4. **Middletown Hospital School of Nursing.** A 2023 Atrium Medical Center Foundation newsletter says the school affiliated with Miami University in 1945, some classes were taught at Oxford, classes moved to Miami's Middletown campus in 1960, and the largest class was 71 in 1945. This is another regional possibility, not a proven affiliation.
+   - https://atriummedcenterfoundation.org/wp-content/uploads/2023/07/Atrium-Foundation-Winter-2023-Caring-Newsletter-compressed.pdf
+
+The Ohio Archives classification separately lists a “Nurse inventory” series (OY N 77.15/2) under the State Board of Nursing Education and Nurse Registration (1955–1988). The Ohio Board history guide identifies the first nurse inventory in 1973 and computerized licensing database in 1986. Ask the Ohio Board of Nursing and Ohio History Connection/State Archives whether the inventory series survives, what years it covers, and whether it is name-indexed. Do not assume the inventory contains Eunice until checked.
+
+- Ohio Archives classification: https://dam.assets.ohio.gov/image/upload/library.ohio.gov/government-documents/oh-classification/OH_classification_independent_N.pdf
+- Ohio Board of Nursing history guide: https://ohnurses.org/wp-content/uploads/edd/2014/02/Legal-Reg-Book-Formatted-6.pdf
+
+No school attendance, graduation, RN license or employer has been attributed to Eunice from these collections. These are preserved as concrete archival leads only.
