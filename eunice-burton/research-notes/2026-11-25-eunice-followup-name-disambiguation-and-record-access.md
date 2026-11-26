@@ -294,3 +294,23 @@ The main remaining items that cannot be obtained from the public web interfaces 
 8. divorce/marriage records clarifying the Avery-to-Irvin transition.
 
 The public searches have not produced reliable substitutes for these originals. These are therefore preserved as **specific custodian requests**, not treated as proof of nonexistence. No contact, order, payment, or submission was made.
+
+
+## Important correction: Warren County's nurse-record retention schedule is a comparator, not Butler County proof (26 November 2026)
+
+A closer check of the source behind the HR-09 discovery shows that the publicly indexed retention schedule is specifically **Warren County Probate Court's** 2021 RC-2, not Butler County's. It lists “Medical Professionals Records,” including nurses, as permanent paper and/or microfilm. This demonstrates that at least one Ohio probate court formally retained this class of record; it does **not** prove Butler County has the same volume or schedule. The earlier wording that treated the generic county-records archive as confirmation of Butler County nurse records must not be read as confirmation that Eunice's certificate survives there.
+
+Butler County's own 2025 Records Management Manual clarifies that:
+- Each county office has its own RC-2 retention schedule; records series must be identified on the schedule approved for that office.
+- The County Records Center may physically store transferred county-office records, but legal custody remains with the office of origin.
+- The manual's court-record section says Ohio courts follow the Supreme Court's Rules of Superintendence; courts are not simply interchangeable with county executive offices.
+- It gives the Records Center general contact as 513-887-3437 / records@bcohio.gov and records commission contact Denise Goll, 513-887-3195 / denise.goll@bcohio.gov.
+
+Accordingly, the correct question to Butler County Probate Court is not “please retrieve a known surviving nurse volume.” It is: **Did Butler County Probate Court maintain or receive a registered-nurse certificate register under the 1915 law; if so, what is its title, date range, index, current legal custodian and access procedure?** Ask the Court to check its own historic docket/index/record inventories and, if it transferred any county-office materials, ask the Records Center to identify the transfer. If no Butler record exists, then ask Hamilton County Probate Court whether it maintained a corresponding series. The Union County and Warren County examples remain comparative evidence only.
+
+- Warren County official Probate Court RC-2 (2021), HR-09, pp. 14–15: https://www.warrencountyohio.gov/RecordsCenter/doc/RetentionSchedules/Probate.pdf
+- Butler County Records Management Manual (2025), especially sections 4, 8 and 10 and contact details: https://bcohio.gov/Document_Center/Records%20Center/Records%20Manual%20Final%20-%202025.pdf
+- Butler County Probate Court contact directory: https://probatecourt.bcohio.gov/phone.php
+- Butler County Records Center: https://bcohio.gov/
+
+This correction narrows the evidence claim; no Butler County nurse certificate has been found and no negative search result has been received from the Court.
