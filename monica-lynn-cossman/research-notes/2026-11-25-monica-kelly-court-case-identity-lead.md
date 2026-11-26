@@ -42,3 +42,17 @@ This is relevant because the existing Generation IV family data names Sam Cossma
 
 **Do not merge Monica Hackbarth with Monica Lynn Wise/Cossman yet.** The name is recorded only as a lead. It does not establish that Monica was Sam's biological mother, that she married a Hackbarth, or that Anthony and the other named children are her grandchildren. The next useful proof would be an identity-linked marriage/name-change record for Monica, or a birth/parentage record for Sam that names his mother.
 
+
+
+## Further parent-family research — Samuel P. Wise candidate
+The 2006 obituary establishes that Virginia (née Griener) was the wife of the late Samuel P. Wise and mother of Monica Kelly and Sam “Skip” Wise. The derivative Social Security index entry previously located for Samuel P. Wise gives 24 December 1913–7 July 1989 and last residence Cincinnati, Ohio 45243. This is a strong candidate for Monica's father, but the index does not name a spouse or child.
+
+A FamilySearch compiled profile for **Samuel Preston Wise (1913–1989)** places him as a son of **Richard Hood Wise (1882–1960)** and **Millie Ann Tipton (1888–1969)**, and lists siblings **Wallace Ray Wise (1918–1987), Otha Elmer Wise (1921–2003), and Warren Calvin Wise (1925–1955)**, plus two children who died in infancy. It says Richard and Millie married in Estill County, Kentucky, on 15 February 1909 and that the family appears in Estill County census material. This is a compiled tree profile, not an inspected birth record, census image, death certificate, or obituary for Samuel; treat the proposed grandparents and paternal aunts/uncles as research leads, not proven links to Monica.
+
+Sources:
+- FamilySearch compiled profile: https://ancestors.familysearch.org/en/LDJM-QD1
+- Derivative Social Security index transcription: https://www.locateancestors.com/samuel-wise/
+- Virginia G. Wise obituary: https://www.tributearchive.com/obituaries/4113531/virginia-g.-wise
+
+Further exact-name searches for Samuel P. Wise's 1989 Cincinnati obituary and for obituaries of Wallace Ray Wise, Otha Elmer Wise and Warren Calvin Wise did not produce an independently identifying source in this pass. No reliable occupation, military service, property record, or other child of Samuel was established. Do not add the compiled candidate's parents or siblings to Monica's public profile as verified family.
+
