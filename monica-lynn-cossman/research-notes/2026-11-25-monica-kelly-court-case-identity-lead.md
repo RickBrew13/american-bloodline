@@ -56,3 +56,13 @@ Sources:
 
 Further exact-name searches for Samuel P. Wise's 1989 Cincinnati obituary and for obituaries of Wallace Ray Wise, Otha Elmer Wise and Warren Calvin Wise did not produce an independently identifying source in this pass. No reliable occupation, military service, property record, or other child of Samuel was established. Do not add the compiled candidate's parents or siblings to Monica's public profile as verified family.
 
+
+
+## Virginia's Greiner family — sibling lead and false-match exclusion
+Virginia's obituary names a deceased sister **Gladys Adams** and niece **Helen Strickland**. A Cincinnati Enquirer obituary for Gladys M. Adams (died 20 January 2016) surfaced in the search, but it identifies her maiden name as **Zura**, and names her own Zura siblings; it is therefore **not** the Gladys Adams identified as Virginia's sister. Do not attach that 2016 Gladys to this family.
+
+Source for the false-match exclusion: https://www.legacy.com/us/obituaries/cincinnati/name/gladys-adams-obituary?id=19822793
+Virginia's obituary source: https://www.tributearchive.com/obituaries/4113531/virginia-g.-wise
+
+Searches for Virginia Greiner/Griener born 17 February 1920, and for the Samuel Wise–Virginia Greiner couple, did not produce a reliable birth, marriage, census or parent record for Virginia in this pass. Her parents, other siblings, birth place, and the identity of niece Helen Strickland remain unresolved. A separate compiled tree's Virginia Greiner (born 1925 in Nebraska, died 1999) is a different woman and must not be merged with Virginia G. Wise (1920–2006).
+
