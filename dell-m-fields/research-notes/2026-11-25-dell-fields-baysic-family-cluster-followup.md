@@ -45,3 +45,30 @@ The 2012 obituary states Dell died at home in **Lockland, Hamilton County, Ohio*
 5. Cemetery marker or plot record in Reading, Hamilton County, Ohio.
 
 No paid records were ordered and no family member, cemetery, funeral home or government agency was contacted.
+
+
+## Addendum — Dell Michael Fields II identity and Baysic-family relationship grading (25 November 2026)
+
+### Dell Fields Jr. death identity strengthened
+The 2021 Columbus homicide archive is now cross-checked against a family-submitted Project Cold Case memorial:
+- City of Columbus Homicide Cold Case Unit identifies **Dell Fields Jr.**, age 33, killed 20 April 2021 in Columbus.
+- Project Cold Case gives the fuller name **Dell Michael Fields II**, born **21 October 1987**, died **20 April 2021**.
+- Dell Fields I's 2012 obituary lists a son named **Dell**.
+- Nancy Baysic's 2024 obituary lists a predeceased grandson **Dell Michael Fields**.
+- Belinda Baysic Johnson's 2015 obituary lists nephew **Dell Fields**.
+
+The overlap in full/partial names, date of death, and repeated family-obituary cluster makes this a **strong identity match** for Dell Fields I's son Dell. The original birth or death certificate naming his parents has not been obtained, so the relationship is not upgraded to documented. The public profile now uses Dell Michael Fields II (also called Dell Fields Jr. in the official homicide archive), 21 October 1987–20 April 2021, and explains the evidence chain.
+- City of Columbus, Homicide Cold Case Unit, April 2021: https://www.columbus.gov/Services/Public-Safety/Find-a-Police-Report/Homicide-Reports/Homicide-Cold-Case-Unit-Archive-2021/Homicide-Cold-Case-Unit-Archive-Apr-2021
+- Ohio Attorney General cold case file: https://www.ohioattorneygeneral.gov/Files/Law-Enforcement/Investigator/Cold-Case/Homicides/Fields-Jr
+- Project Cold Case, Dell Fields: https://projectcoldcase.org/victim-detail/dell-fields-1354/
+
+### Baysic relationship remains unresolved despite the obituary overlap
+The 2012 Dell Fields I obituary, 2015 Belinda Baysic Johnson obituary, and 2024 Nancy Jean Baysic obituary all contain the same five-name group:
+- Richard and Tara Marcum
+- Toni, Dell and Robert Fields
+
+The 2012 obituary calls them Dell Fields I's children; the 2015 obituary calls them Belinda's nieces/nephews; the 2024 obituary calls them Nancy's grandchildren. These records establish a real family connection among the people named, but they do **not** identify the common connecting parent or prove that every relationship is biological rather than step/in-law.
+
+Tara's 2011 Hamilton County marriage license names Dell M. Fields as her father, but the mother's maiden-name field is redacted. The 1982 marriage license documents Dell's marriage to Beverly Jane Marcum and names Beverly's parents as Harold C. Marcum and Etta F. McFadden. The user's Gen IV profile export reports Beverly as Tara's mother and Richard L. Marcum as stepfather, but that maternal identification is a family account rather than a birth-record proof. This makes the Baysic obituary relationship especially important to resolve; it must not be silently converted into a biological parent/grandparent link.
+
+No Nancy Baysic or Belinda Baysic relationship has been added to Dell's confirmed parent/child tree. Keep the obituary-based connection as a separate supported family-network lead until a birth record, adoption record, or a direct family statement identifies the connecting parent.
