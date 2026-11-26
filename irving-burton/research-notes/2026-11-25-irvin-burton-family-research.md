@@ -58,3 +58,27 @@ Grady E. Burton Jr.'s official obituary at [Brown Dawson Flick](https://www.brow
 - A verified portrait or family photograph of Irvin.
 
 No unverified spouse, grandparent, or child was added. The profile update was made only to Irvin's own page; no Eunice, Avery, sibling, or parent profile was altered.
+
+
+## Further pass — sibling burial, residence, and obituary-index discovery (25 November 2026)
+
+### Norma Justine Burton Williams — cemetery dates
+A second page of the same Whited Cemetery transcription, the T–Z page, lists **Norma J. Burton**, 20 June 1934–20 June 1999, with the memo "Dau/ Grady Sr. & Ora Burton." This directly supports the identification of Irvin's sister Norma as a daughter of Grady Sr. and Ora and provides exact dates not previously displayed on Irvin's profile. Source: [Whited Cemetery, T–Z entries](https://mail.kygenweb.net/casey/cemetery/WhitedTZ.htm).
+
+Together, the cemetery pages list Grady Sr., Ora, Maxine and Norma. The official 2010 obituary of Grady Jr. independently identifies Maxine and Norma as his sisters and Irvin as his brother, and names Danny Ray as his surviving brother. It also says Grady Jr. himself was buried in Whited Cemetery. This is strong family-level corroboration for the Whited Cemetery cluster, but it does not prove that every entry has a photographed marker; retain the distinction between the cemetery transcription and a stone image.
+
+### Irvin's latest documented residence
+The existing profile's source list includes:
+- Social Security Death Index: last residence ZIP 45014, Butler County, Ohio.
+- Public-record index entries for Hamilton, Ohio, in 1986 and 1993.
+
+The profile now says **last documented residence: Hamilton, Butler County, Ohio**, citing those records, rather than "unknown." These records do not establish a street address or prove his exact residence on the date of death. His earlier Social Security NUMIDENT claim lists Fairfield, Butler County, Ohio, on 28 September 1974.
+
+### 1994 marital-status conflict remains unresolved
+The Ohio death-index entry for Irvin D. Burton records him as "married" at death on 4 March 1994. Eunice's death notice and headstone establish that she died in 1987, and her headstone is in Rose Hill Burial Park, Section 11, Lot 191, Grave 3; Irvin's marker is Grave 4 in the same lot. This verifies the adjacent graves but does not tell us who supplied the marital-status information on Irvin's death certificate. A later spouse is possible; a reporting/indexing error is also possible. No spouse name or later marriage record has been found. Do not add another spouse without the certificate, obituary, or marriage record.
+
+### Cincinnati newspaper index located
+The Cincinnati & Hamilton County Public Library's official **Newsdex** index is live at [newsdex.chpl.org](https://newsdex.chpl.org/). Its public landing page explains that it indexes local stories, death notices and obituaries; the death-notice dataset includes publication dates, newspaper titles and citations. The library states that a library card is not required. I located the searchable Newsdex dataset, but this research interface did not allow me to submit its interactive search form or retrieve a filtered record for Irvin. Therefore, I have **not** found or read his obituary yet. The next targeted query should be Irvin D Burton / Irvin Burton for March 1994, then nearby dates and variants "Ervin" and "Irving." Official library description: [Cincinnati & Hamilton County Public Library — Magazine & Newspaper Articles](https://chpl.org/resources/magazine-newspaper-articles/); [Newsdex home](https://newsdex.chpl.org/).
+
+### Changes made to Irvin's profile
+The profile now includes Norma's exact cemetery-transcription dates and parent notation, the latest documented Hamilton residence, and a clearer warning that the 1994 death index says married without identifying a spouse. The Maxine discrepancy remains unresolved and the Generation 5 JSON dates were deliberately left unchanged. No changes were made to Eunice's, Avery's, or other relatives' profiles.
