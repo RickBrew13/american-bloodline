@@ -59,3 +59,11 @@ Preserve both source statements. The exact birth date and year remain unresolved
 7. Seek authenticated family photographs through existing family archives; none was in the reviewed archive.
 
 No paid records were ordered, no family member or institution was contacted, and no Drive original was modified, moved or deleted.
+
+
+## 1945 groom identity and maternal surname qualification — 25 November 2026
+A final profile-to-index comparison found two places where the live profile was stronger than the underlying record:
+- The 1945 FamilySearch marriage index names the groom only as **George Moore**, not George Howard Moore. The family tree and reported son George Howard Moore Jr. make George Howard a working identification, but the original 1945 image has not been inspected. The public profile now labels the groom George Moore and says the middle-name match is unconfirmed.
+- The 1930 census index says **Rosabelle Pugh**, the 1939 original marriage image says **Rosabelle Grant**, and the 1945 marriage index says **Rosa Bell White**. Cornelius Pugh is repeated as Ruby's father in both marriage indexes. The profile now describes the mother as Rosabelle (Grant/White) Pugh with the surname sequence unresolved, rather than asserting that Rosa Bell White is a fully established identity.
+
+The duplicate Ruby Mae Griffin obituary citation was reduced in the source list while preserving the explicit namesake exclusion. The public profile was re-fetched and verified after these corrections. No other person's profile or family-tree data was changed.
