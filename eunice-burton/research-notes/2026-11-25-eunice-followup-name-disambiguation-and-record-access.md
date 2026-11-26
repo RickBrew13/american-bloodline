@@ -807,3 +807,27 @@ Rechecked Morgan County TNGenWeb's surname pages for B, E and H and targeted the
 - E surname page: https://tngenweb.org/morgan/e-obituaries/
 - H surname page: https://tngenweb.org/morgan/h-obituaries/
 - Aileene Gilpin obituary: https://www.clayconews.com/obituaries/aileene-gilpin
+
+
+## 26 November 2026 — Ohio historical nurse-license system checked again
+
+### Ohio eLicense search rules and historical-data limitation
+
+Ohio eLicense's official public lookup currently includes the Nursing Board and is sourced from the state's live licensure database, updated daily. Its support page says the best public search uses only the last name plus first initial and the relevant board; adding more fields can suppress a match. The Ohio Board's 2022 *Momentum* newsletter further says the public search accepts partial/wildcard names (for example, `BR%`) and can be used without signing into a licensee account. Thus the appropriate manual queries are Nursing Board + `BURTON E`, `BREWSTER E`, `WHITTLE E`, and `TAYLOR E`, with wildcard/partial surname variants if needed. The interactive search has not been successfully submitted in this environment, so there is no positive or negative result to report.
+
+The State of Ohio's public licensure dataset is listed on DataOhio and refreshed 3 November 2026, but viewing/downloading that large dataset requires an account and access approval. It is not presently a freely searchable historical archive in this session.
+
+- Official eLicense lookup: https://elicense.ohio.gov/OH_verifylicense
+- eLicense search support instructions: https://elicense.ohio.gov/OH_SupportPage
+- Ohio Board *Momentum*, Winter 2022 (wildcard search instructions): https://dam.assets.ohio.gov/image/upload/nursing.ohio.gov/uploads/2022/02/Winter-2022-Momentum.pdf
+- DataOhio State of Ohio Licensure dataset (login/access approval required): https://data.ohio.gov/wps/portal/gov/data/view/state-of-ohio-licensure
+
+### Old nurse licenses can be absent from Nursys
+
+NCSBN's official Nursys help article says older nurse licenses may be archived and not appear in Nursys; in that situation, a “missing record inquiry” must be submitted to the original state board. This matters because Eunice's death was in 1987 and any Ohio RN license could be a historical/inactive record rather than a current online license. A blank current lookup or Nursys result would not prove she was never licensed. The Ohio Board's own history guide says Ohio established a computerized licensure database in 1986, shortly before Eunice's death, and first published a nurse inventory in 1973. The State Archives classification identifies the corresponding series as OY N 77.15/2, “Nurse inventory,” under the State Board of Nursing Education and Nurse Registration (1955–1988).
+
+- NCSBN/Nursys older-license limitation: https://ncsbn.zendesk.com/hc/en-us/articles/8061463885463-Why-doesn-t-Nursys-have-any-or-all-of-my-license-information
+- Ohio Board history guide: https://ohnurses.org/wp-content/uploads/edd/2014/02/Legal-Reg-Book-Formatted-6.pdf
+- Ohio Archives classification, OY N 77.15/2: https://dam.assets.ohio.gov/image/upload/library.ohio.gov/government-documents/oh-classification/OH_classification_independent_N.pdf
+
+The targeted request to Ohio Board of Nursing should therefore ask for both current/archived electronic and paper records, including original application, license number and initial issue date, examination/endorsement basis, maiden/former names, school and graduation date, renewal history, address/county at filing, and any entry in the 1973 nurse inventory. Search variants: Eunice Edna Brewster, Eunice E. Brewster, Eunice Whittle, Eunice E. Burton, Eunice Taylor. This is a prepared research specification only; no request was sent.
