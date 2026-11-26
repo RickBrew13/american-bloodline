@@ -71,3 +71,8 @@ https://www.strunkfuneralhome.net/obituaries/Joshua-Jones?obId=11817692
 6. Primary records for siblings Harold, Helen, Norman and Opal; especially Harold's death certificate and Opal's marriage/death records.
 
 No paid records were ordered and no relative, funeral home, cemetery, government office or archive was contacted.
+
+
+## Important birth-year conflict: Dora versus Ester
+PeopleLegacy's Sherd Dobbs Cemetery aggregation lists “Dora Ester Dobbs Coffey” as born 1918 and died 2003. However, the later Edward Coffey Project Dobbs-family list distinguishes **Ester, born 4 September 1918**, from **Dora, born about 1920**. Because both women are daughters of Thomas and Julia and the aggregator uses the combined name “Dora Ester,” the 1918 year may be a conflation or indexing error. Kathryn's mother is identified by the obituary only as Dora (Dobbs) Coffey. Until a birth certificate, census image, or death certificate is seen, leave Dora's exact birth year unknown and do not merge her with sister Ester.
+Source for aggregator entry: https://peoplelegacy.com/darkie_catherine_coffey_clark-5y4e2e
