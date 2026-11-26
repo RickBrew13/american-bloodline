@@ -871,3 +871,8 @@ Earl's archived Geni survey note describes Earl as Elmer's twin, son of Homer Sr
 The family group is now supported by multiple separate original family notices already stored in the correct people's folders: Eunice's 1987 death notice (names her parents, spouse, children and siblings); Sarah's 1987 obituary (names Eunice among her children); Homer Sr.'s 1991 obituary (names Eunice among his children); Elmer's 1993 *Palm Beach Post* notice (names Eunice as his sister and Homer/Sarah as parents); and Aileene's 2015 obituary (names Eunice among deceased siblings and Homer/Sarah as parents). These sources agree on the relationship. Their shared statements do not prove the exact birth date, child paternity, or any unrecorded marriage details.
 
 No sibling profile was edited in this pass. All source files remain in their original person folders; Eunice's profile links to the Elmer clipping rather than duplicating it.
+
+
+## 26 November 2026 — family-tree data label corrected and verified
+
+Repository code search found that `family-tree-data/generation-5.json` still labeled Eunice's first spouse only as “Ello Whittle.” This is an incomplete rendering of her documented spouse's name. Updated only Eunice's spouse string to “Avery Ello Whittle (also recorded as Avery E. Whittle; 1927–1977),” retaining Irvin Burton as the later spouse. Re-fetched the JSON, parsed it successfully, and verified the exact Eunice entry. No other person's tree data was changed. The profile and evidence continue to preserve the 1947 certificate's exact form, Avery E. Whittle, alongside Avery Ello Whittle as his full identity.
