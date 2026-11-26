@@ -239,3 +239,21 @@ An online Cochran–Shroyer family compilation lists a **Virginia Greiner**, dau
 - Virginia G. Wise obituary, Cincinnati, 4 October 2006: https://www.gilliganfuneralhomes.com/obituaries/virginia-wise
 
 Exact-name searches for Virginia Greiner / Griener with Cincinnati, 1920, 1930 census, and the sister Gladys Adams did not identify her parents or a matching childhood household. Her parents and siblings remain unknown beyond the obituary's named sister Gladys Adams and niece Helen Strickland. No attempt was made to identify living relatives through people-search sites.
+
+
+### Samuel Tipton parentage and spouse-history caution
+
+The older Estill County KYGenWeb Tipton genealogy gives Samuel Tipton (born 1863, died 1955) a father, William H. Tipton, and traces that William to Reuben S. Tipton and William Hannibal Tipton. However, the same genealogy's own list of William H. Tipton's children names Elizabeth (1844), Reuben (1846), Louisa (1849) and John W. (1850), but does **not** list Samuel (born 1863). This is a substantial internal inconsistency. A separate Hiatt family compilation gives Samuel's birth as January 1865 and death as 18 September 1955, but does not expose his parents in the accessible entry. FamilySearch and both family compilations agree that Samuel married Mary Emma McIntosh on 21 March 1887 and had daughter Millie Ann, but Samuel's own parentage remains unproved. Do not publish William H. Tipton and Malinda Crowe as Samuel's parents.
+
+Samuel's spouse history is also disputed:
+- FamilySearch and the Hiatt family compilation list **Mary Emma McIntosh** as Samuel's wife, married 21 March 1887; she died 25 October 1925.
+- The Hiatt compilation also lists a later marriage to **Martha Ann Brinegar** (born 1890, died 1963), but does not give the marriage date or the name of their child in the accessible excerpt.
+- The Ole.net Tipton genealogy lists Samuel and Martha Ann as parents of **Ora Lee Tipton (1907)** and **Marcella Tipton (1909)**, while also listing Samuel and Mary Emma as parents of Millie and the other children. Those 1907/1909 births occurred while Mary Emma was still living, so the two-wife chronology requires primary marriage and birth records and may reflect two same-name Samuel Tiptons or a conflated tree.
+- The same compiled sources disagree on Samuel's birth year: 1862, 1863 or 1865.
+
+Until the original Estill County marriage registers, census schedules and birth/death records are checked, treat Martha Ann Brinegar and the Ora Lee/Marcella child assignments as unresolved leads; do not add them as proven spouses or half-siblings of Millie.
+Sources:
+- KYGenWeb / Ole.net Tipton genealogy: https://www.ole.net/~maggie/antrim/tipton.htm
+- Hiatt family compilation: https://www.hiattfamily.net/gen/lda-2014-10-03/aqwg10828.htm
+- FamilySearch, Mary Emma McIntosh Tipton: https://ancestors.familysearch.org/en/K8V3-DPJ/mary-emma-mcintosh%2C-tipton-1862-1925
+- KYGenWeb Estill County Tipton family page: https://mail.kygenweb.net/estill/site/family/families/tipton/
