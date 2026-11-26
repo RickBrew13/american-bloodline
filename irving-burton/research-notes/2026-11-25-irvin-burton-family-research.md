@@ -104,3 +104,11 @@ Lane Libraries' Cummins Local History Room in Hamilton holds the Hamilton Journa
 - No obituary, named later spouse, or additional child has been verified in this pass.
 - No new claim has been added to Irvin's public profile because the new findings are research access routes, not biographical facts.
 - No other person's profile or the family-tree JSON was changed.
+
+
+### New cemetery evidence on Ora's burial — conflict narrowed, not resolved
+A further search located the Casey County KYGenWeb **Glenwood Cemetery** transcription, contributed by Rochelle Riordan. It explicitly lists **Burton, Ora, maiden name Allen**, born 25 December 1908 and died 1 June 1991. This matches the exact dates and maiden surname in Ora's obituary, which itself says her burial was at Glenwood Cemetery. That is now two sources supporting Glenwood: the obituary text and a separate cemetery transcription.
+
+The Whited Cemetery B transcription still lists an Ora Burton (25 December 1908–1 June 1991) as wife of Grady Burton Sr. This matches the same dates and relationship, so the online transcriptions conflict over burial location rather than identity. The Glenwood list's explicit maiden name and agreement with the obituary make Glenwood a stronger current working burial location, but neither web transcription substitutes for a marker photograph or cemetery register. **Do not change the profile's burial statement yet**; retain the conflict and seek a marker photo / Glenwood cemetery register or direct confirmation from the cemetery. Sources: [Casey County Glenwood Cemetery list](https://kygenweb.net/casey/cemetery/Burial_ListGlenwood.htm); [Whited Cemetery B list](https://mail.kygenweb.net/casey/cemetery/WhitedB.htm); Ora's obituary clipping already archived in Irvin's folder.
+
+This also means the earlier research note's shorthand that both Find a Grave and Whited place Ora at Whited should be treated cautiously: the Glenwood transcription independently supports the obituary's Glenwood statement. No change was made to Ora's or Irvin's public profile in this pass.
