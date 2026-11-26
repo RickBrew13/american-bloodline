@@ -29,3 +29,22 @@ Searches used Joseph Collins / Joseph Leslie Collins with Mobile birth, 22 Janua
 
 ## Profile status
 The existing profile already contains the original marriage details, occupation (porter in 1939), parents, wife Ruby, daughter Leslie, 1940 residence, and the explicit Ohio namesake exclusion. No additional factual biographical claim was added from this search because no new identity-matched evidence justified it. The existing profile's open questions remain accurate. This note records the expanded search, the verified Ohio exclusion source, and the record-access routes. No profile/tree file was altered, no image was added, no Drive original was changed, and no paid record or outreach request was made.
+
+
+## 1945 Ruby marriage index and pre-1950 divorce/death access route — 25 November 2026
+A follow-up review of Ruby Mae Pugh's own archive located the 1945 Alabama marriage index entry:
+- **Ruby Mae Pugh married George Moore, 5 February 1945.**
+- FamilySearch index: https://www.familysearch.org/ark:/61903/1:1/29NV-B74
+- The index names Ruby's parents as **Cornelius Pugh** and **Rosa Bell White**; the 1939 Joseph–Ruby original marriage image names Cornelius Pugh and **Rosabelle Grant** as her parents. The repeated father name and the wider family identity support this as likely the same Ruby, but the mother-name discrepancy remains unresolved and the 1945 original image has not been inspected.
+
+If this is the same Ruby, her 1939 marriage to Joseph had legally ended by 5 February 1945, but the index does not tell us whether Joseph died, the couple divorced, or another legal event ended the marriage. Do not say Joseph died or that a divorce occurred until a record proves it. The public Joseph profile now includes the 1945 marriage index as a qualified chronology lead and states that the reason/date of the Joseph–Ruby separation remain unknown. The profile was re-fetched and verified.
+
+### Primary-record access for the unresolved 1940–1945 interval
+- Alabama Department of Public Health says statewide divorce certificates began in 1950; divorces before 1950 must be obtained from the Circuit Court in the county where the divorce was granted. Thus a divorce between 1939 and 1945 would need a **Jefferson County Circuit Court** case search, not a statewide divorce certificate.
+  - Official Alabama divorce-record guidance: https://www.alabamapublichealth.gov/vitalrecords/divorce-certificates.html
+- Birmingham Public Library's Southern History Department reports holdings for the Alabama Death Index 1908–1959, Divorce Indexes 1950–1959 and Marriage Indexes 1936–1969. It also provides onsite Ancestry Library Edition and Fold3 access. A name search for Joseph Collins (birth 22 January 1918, parents Joseph Collins and Sarah Johnson; 1939 Birmingham address 1st Street) in the 1940–1945 death index and any local obituary/newspaper index is a high-value next step.
+  - Birmingham Public Library Southern History FAQ: https://www.cobpl.org/locations/central/southern/FAQ.aspx
+- The Library of Congress U.S. Telephone Directory Collection includes a Birmingham, Alabama, 1940–1941 telephone directory; the current web interface returned 403/blocked on the relevant item, and no entry was transcribed. This is a possible supplementary route only, not evidence of a directory listing.
+  - LOC 1940–1941 Birmingham telephone directory record: https://www.loc.gov/item/usteledirec00035/
+
+No 1945 divorce or death record was found in open web searches. The current status remains: Joseph is documented in Birmingham in 1939 and 1940; Ruby's later marriage index suggests the couple's marriage had ended by February 1945, but Joseph's subsequent life, death, occupation, property and later relationships remain unestablished. No paid record was ordered and no institution was contacted.
