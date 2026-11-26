@@ -162,3 +162,32 @@ Specific archive searches to request/perform:
 
 This is not yet proof that the family lived in Perryville. The newspaper wording is direct evidence only that Elmer's obituary reported he came from a place spelled “Perrysville, Missouri.” Until a local record is found, retain that wording verbatim and label Perryville as a candidate, not a fact.
 
+
+
+## Major new historical RN-record lead: county-filed nursing certificates (1916–1956)
+
+A new search found a particularly useful description of Ohio's historical RN registration system. Union County's official probate archive explains that, under the Ohio law passed 27 April 1915, nurses practicing in Ohio after 1 January 1916 had to obtain a certificate from the state nurses' examining committee and file that certificate with the probate judge in the county where they intended to practice. The county-held certificate register (1916–1956) records:
+- nurse's name and county of residence;
+- certificate number and date;
+- name and location of the degree-granting nursing school;
+- date certificate was issued and signatures of the state nurses' board officers;
+- date it was recorded in probate court and the judge.
+
+This is more than a general suggestion to search the current eLicense site: it identifies a contemporaneous record series that could name Eunice's nursing school and certificate date. Eunice's death notice gives her residence as Hamilton, Ohio, and the Ohio death index gives Butler County, so **Butler County Probate Court is the first county to ask**. If she trained or initially practiced in Cincinnati/Hamilton County, request a parallel search there. Her exact 1987 residence does not prove which county she first registered or practiced in, so both counties are sensible searches.
+
+- Union County official record-series description and legal history: https://www.unioncountyohio.gov/departments/Archives/probate-court-records
+- Butler County Probate Court contact: https://probatecourt.bcohio.gov/ — 101 High Street, Hamilton, OH 45011; 513-887-3294; probatecourt@bcohio.gov.
+- Hamilton County Probate Court archive categories: https://www.probatect.org/court-records/archive-categories — online archive currently describes marriage, minister, birth, death, naturalization, physician and probate records, but does not list nurses' certificates as a separate category.
+- Ohio nursing board history: https://www.ncsbn.org/public-files/infocus-spreads.pdf — confirms the 1915 Nurse Practice Act and first RN registrations in 1916.
+- Ohio Board of Nursing official roster / historical agency identity: https://dam.assets.ohio.gov/image/upload/library.ohio.gov/government-documents/oh-classification/OH_classification_independent_N.pdf — State Nurses Board / Nurses Board (1941–1955), then Board of Nursing Education and Nurse Registration (1955–1988).
+
+### Recommended targeted archive request
+Ask Butler County Probate Court to search any “Nurses Records,” “Registered Nurse Certificates,” “Nurse Registration,” or predecessor state nurses-board certificate registers for:
+- Eunice Edna Brewster;
+- Eunice Edna Whittle;
+- Eunice E. Burton;
+- Eunice Taylor (Social Security alias only; not evidence she married a Taylor).
+
+Supply her birth date (22 December 1930) and explain she was known in Hamilton, Butler County. Request a scan of any certificate and the full register entry, including school, issue date, certificate number and county of residence. Ask whether the series exists in Butler County or was transferred to the Ohio History Connection/State Archives. If no Butler record is found, ask Hamilton County Probate Court to search the same series. No request or call has been made.
+
+**This is now one of the highest-value next record requests in Eunice's case** because a single certificate could identify her nursing school and provide an independent biographical anchor. No license number, school or employer has yet been confirmed.
