@@ -578,3 +578,20 @@ The Ohio Archives classification separately lists a “Nurse inventory” series
 - Ohio Board of Nursing history guide: https://ohnurses.org/wp-content/uploads/edd/2014/02/Legal-Reg-Book-Formatted-6.pdf
 
 No school attendance, graduation, RN license or employer has been attributed to Eunice from these collections. These are preserved as concrete archival leads only.
+
+
+## Further refinement of Cincinnati/Hamilton nursing-school records (26 November 2026)
+
+The University of Cincinnati finding-aid listing was opened at the College of Nursing section. It confirms that the 1940–2004 College of Nursing and Health collection has two finding aids (UA-13-02 and UA-13-09), and that the separate College of Nursing Alumni Files (1891–1940) contain admissions and registration records, transcripts, photographs, correspondence, recommendations, enrollment information and certificates. The alumni files stop in 1940, before Eunice's likely training years; the larger 1940–2004 collection is the useful route. The finding-aid catalog links for UA-13-02 and UA-13-09 redirected to a broken/unsafe OhioLINK endpoint in this session, so box-level series descriptions could not be inspected. UC Archives says many collections are off-site and require up to two weeks' retrieval; the public finding-aid page gives archives@ucmail.uc.edu for collection inquiries.
+
+The local Hamilton Mercy source is now verified as specifically **Hamilton Mercy School of Nursing**, not a different Mercy school. The article is an interview with a 1909 graduate and says the school graduated its final 34 students on 14 June 1970; 1,174 students graduated through 1970, with a peak 1946 class of 42. This establishes the school's presence and likely relevance as a regional school, but it still does not name Eunice. It also reports the school had a 1956 Golden Jubilee photo display and a historical collection donated by an early graduate, which suggests a potential archive route for class photographs and alumni materials.
+
+The U.S. Cadet Nurse Corps memorial site contains at least one biographical entry for a nurse trained at Mercy Hospital in Hamilton, Ohio (Lois Ruth Steinhour Rice, reported graduation 1944), confirming that the Hamilton school participated in the wartime Cadet Nurse pipeline. Searches of the site for Eunice/Brewster/Burton did not return an attributable Eunice profile. This is not proof she was not a Cadet Nurse; the site is a memorial/contributed collection, not a complete enrollment register.
+
+Sources:
+- UC finding-aid listing, lines 11–12 and 332–348: https://www.libraries.uc.edu/libraries/arb/collections/university-archives/ua-collections.html
+- Hamilton Mercy School of Nursing history and 1970 closing: https://nkhistory.org/content/97-memories-of-early-rural-life
+- U.S. Cadet Nurse Corps memorial entry for a Hamilton Mercy graduate: https://uscadetnurse.org/node/370
+- U.S. Cadet Nurse Corps site: https://uscadetnurse.org/weremember
+
+No attendance or graduation claim has been made for Eunice. The next actionable research target is a name search in Ohio's 1973 nurse inventory / surviving historical license records, followed by the Mercy Hospital Hamilton school/alumnae records if the Board's record identifies Mercy or if the Board cannot identify the school.
