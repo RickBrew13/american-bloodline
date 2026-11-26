@@ -75,3 +75,19 @@ Source: https://www.mccrearyjournal.com/2016/09/01/obituary-august-2016/
 
 This is a useful descendant-network lead alongside the 2024 Anthony Wills-Cossman obituary. Keep all individual grandchild-to-parent assignments unconfirmed unless a direct obituary, birth record, or family-held record identifies the parent. No new child or grandchild has been added to Monica's profile based on this source alone.
 
+
+
+## Official Hamilton County deed-index sequence — new property finding
+The official Hamilton County Recorder indexes now show a clearer sequence than the earlier shorthand:
+
+1. **22 June 1977 — purchase:** Grantee index lists **Stanley W. and Monica L. Cossman** as buyers from **William R. and Ruth A. Gardner**, Deed Book **4085**, page **1435**. Source: https://recordersoffice.hamilton-co.org/deed_indexes/di1977tetrc.pdf (page 22; index entry).
+2. **26 September 1979 — transfer to Monica:** Grantor/grantee index lists **Stanley W. Cossman → Monica Lynn Cossman**, Deed Book **4170**, page **955**.
+3. **17 October 1979 — affidavit:** Index lists **Monica Lynn Cossman → Affidavit**, Book **4172**, page **756**.
+4. **21 November 1979 — subsequent conveyance:** Index lists **Monica Lynn Cossman → Terrance M. Nagel et al**, Book **4175**, page **53**.
+
+Source for items 2–4: https://recordersoffice.hamilton-co.org/deed_indexes/di1979trtec.pdf (PDF lines around the 26 September, 17 October and 21 November entries).
+
+This establishes a real-estate sequence in the public index: a joint purchase in 1977, a transfer from Stanley to Monica in September 1979, and a later conveyance by Monica in November 1979. It does **not** establish the property's address, legal description, sale price, whether the later conveyance concerns the same parcel, or why Stanley conveyed to Monica. Do not describe this as a divorce settlement or infer relationship status from the transaction alone. The original deeds (4085:1435, 4170:955 and 4175:53) and affidavit (4172:756) must be retrieved and read to determine those facts.
+
+This is the first concrete property trail found for Monica and should be added to her profile as index-based evidence, with the above caveats. The deed-book image search is an interactive Recorder service; no deed image was obtained or paid for in this pass.
+
