@@ -509,3 +509,38 @@ I checked the current GitHub image inventories for Eunice, her parents, and her 
 The Homer Sr. folder contains portraits of Homer Sr., Sarah, a Christmas photograph captioned Homer and Sarah, and photos of Homer with his father William and son Homer Jr. The sibling family-photos/ folders are empty placeholders; the existing Eunice folder has her headstone image, cemetery/location image and the original death-notice clipping, but no standalone portrait. No image in this audit was identified as Eunice. No duplicate was copied and no original image was modified.
 
 **Image status:** no verified personal portrait or nursing-school/yearbook photograph of Eunice has been located in the family's current GitHub archive or in the public image search results checked. The headstone photograph and death-notice clipping remain the only Eunice-specific image assets in her folder. Continue searching external yearbooks, school archives, nursing-school alumni files and funeral-home family files; do not mislabel Sarah's portrait or another Brewster woman as Eunice.
+
+
+## 26 November 2026 — additional source verification and profile cleanup
+
+### Kentucky marriage packet: primary archive guidance confirmed
+
+Reopened KDLA's official *Kentucky Marriage Records* handout, updated 4 June 2026. It explicitly says county marriage files can consist of separately filed bonds, consents/permissions, licenses, certificates, ministers' returns and registers; these can be stored together or separately, and availability varies by county. KDLA states county marriage records range from the 1780s to early 2000s, with microfilm access through its Research Room and remote request routes. This directly supports the search strategy for the missing 1947 Campbell County consent papers. It does not establish that the specific loose papers survive.
+
+Kentucky CHFS independently confirms that records before June 1958 must be sought from the county clerk for a marriage or circuit court clerk for a divorce; the Office of Vital Statistics is not the custodian for the 1947 marriage. Its modern application data fields include both parties' birth dates/ages, parents' names, prior marital status, occupation and date, illustrating the potential information in an application, but do not assume the 1947 file has every modern field.
+
+- KDLA handout: https://kdla.ky.gov/Archives-and-Reference/Documents/Handouts-RR/Handout-MarriageRecords.pdf
+- Kentucky CHFS: https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/marriage-divorce.aspx
+- Kentucky County Clerk Retention Schedule, L1234: https://revenue.ky.gov/clerknetwork/documents/countyclerkrecordsretentionschedule.pdf
+
+### Cincinnati newspaper route: official library confirms more than Newsdex
+
+CHPL's current Newspapers research page confirms that Newsdex is a free local index for Cincinnati stories, death notices and obituaries, giving article citations (date, page, column) and sometimes image notes. It also lists digitized Cincinnati Enquirer backfiles (1841–2009 and 1923-present) and Cincinnati Post backfiles (1882–2007), both library-card resources, plus Newspaper Archive. The Hamilton Journal-News holdings already documented in the earlier note remain a separate Lane Libraries route.
+
+- CHPL official newspaper resources: https://chpl.org/resources-types/newspaper/
+- CHPL Newsdex: https://newsdex.chpl.org/
+- Lane Libraries historical newspapers: https://www.lanepl.org/local-history-genealogy/historical-newspapers
+
+No Newsdex record or full newspaper obituary was retrieved in this pass; no successful or negative search is claimed. The original Hodapp funeral notice remains the only directly inspected death-notice text in the current archive.
+
+### Children's and grandchildren's exact-name search: no safe identity additions
+
+Repeated exact-name searches for Demetria Sexton, Elaine Bishop, Anthony Q. Burton, Michael Sexton, Melissa Sexton, Alicea Bishop and Brandy Bishop did not return a reliable public obituary or vital record tying a same-name individual to Eunice. Search results for common names and people-search/data-broker pages were excluded. One Demetria Lawrence result is positively a false match: her obituary identifies her parents as Jack E. and Delilah Lawrence and her birthplace as Lansing, Michigan, not Eunice and not the Sexton surname. No living-person address or data-broker profile is used as genealogical evidence.
+
+- False Demetria match excluded: https://www.rileyfuneralhome.com/obituaries/demetria-lawrence
+
+### Profile content QA
+
+Fetched the repository copy of `eunice-burton/index.html`, found and removed an accidental duplicate paragraph that repeated the 1947 marriage and 1950 census evidence. Added direct citations to the KDLA marriage-record guide, Kentucky law summary, Ohio nursing-board record statutes and CHPL newspaper guide. Re-fetched the file after commit and verified: duplicate paragraph count is zero; KDLA and Ohio nursing-law citations are present; profile history records the cleanup.
+
+The core profile remains supported by the original 1947 marriage certificate, original 1950 census image, original 1987 death notice, original parental obituaries, and the corroborating sibling obituary. No unverified spouse, child identity, child paternity, nursing school, employer, or portrait was added.
