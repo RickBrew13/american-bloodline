@@ -19,7 +19,7 @@ Birth registration, Barry's Social Security application, and court records may p
 
 - Do not describe Barry's father as unknown or unresolved; family identifies Larry Clark.
 - Do not state that the headstone proves Barry's paternity; it identifies Judy as his mother.
-- Retain the family's recollection that Barry had HIV/AIDS, clearly attributed as family testimony and not presented as a medical-record finding.
-- Family recollection says Barry died before Judy. This conflicts with the currently transcribed headstone and death-index dates (Judy 7 June 2006; Barry 24 July 2008). Keep the conflict visible and recheck the original records; do not override the family's account or present the chronology as settled.
+- Retain the family's confirmation that Barry had HIV/AIDS as family-provided information.
+- Do not state that Barry died before Judy; the family is unsure of that detail. Leave the order of their deaths out of the family account unless clarified by the user or original records.
 
 No other Larry identity, parent, birth, death, or burial claim is established by this correction.
