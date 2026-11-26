@@ -24,7 +24,7 @@ Sources:
 - National Archives, 1940 Census AWS dataset and Kentucky county/ED summary: https://www.archives.gov/developer/1940-census
 - National Archives, 1940 Census starting research guide: https://www.archives.gov/research/census/1940/start-research
 - National Archives, 1940 Census FAQs (no NARA name index; browsing by ED is possible): https://www.archives.gov/research/census/1940/faqs
-- National Archives, 1940 Census roll list (T627): https://www.archives.gov/files/research/microfilm/t626.pdf (note: this linked roll-list PDF is for T626/1930, not the T627 schedule roll; use NARA's 1940 metadata directory and the 1940 census catalog for the actual T627 images)
+- National Archives, Kentucky 1940 Census ED summary (Russell County EDs 104-6 through 104-9): https://nara-1940-census.s3.us-east-2.amazonaws.com/metadata/html/ky-summary.html
 - USGenWeb Census Project, Russell County census inventory (1900 T623-550; 1910 T624-501; 1940 T627-1354): https://www.us-census.org/states/kentucky/r-ky.htm
 
 ## Kentucky birth-index check
