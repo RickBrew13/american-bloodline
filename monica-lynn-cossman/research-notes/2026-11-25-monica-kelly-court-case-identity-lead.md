@@ -125,3 +125,16 @@ The original 1976 Hamilton County marriage license names **Samuel P. Wise** as M
 - Search the original 1976 marriage application/license image for exact parent names and any corrections.
 - Obtain the underlying 2004 Butler County case file if publicly available; the published appellate opinion supplies a case number and party alias but does not name the son.
 - Keep the “Monica Hackbarth” grandmother entry in Anthony Wills-Cossman's obituary unassigned to Monica Lynn Wise/Cossman; it could be maternal or paternal and no surname bridge exists.
+
+
+## Samuel Cossman / Anthony descendant-network cross-check
+
+The 2016 obituary for Kathryn “Kate” Cossman identifies **Samuel Cossman and Matthew Cossman as Stanley's stepsons**. It also lists step-grandchildren Casey, Alex, Samuel, Cody, Michael, Brie, Jordyn, Keira and Cooper. The 2024 Hodapp obituary for Anthony Wayne Wills-Cossman identifies **Samuel Cossman and Dena Thompson as his parents**, and lists siblings Samuel Cossman, Andrew Wills, Bri Grubenhoff, Cody Cossman, Michael Cossman, Keira Cossman and Cooper Cossman. The overlap between the 2016 step-grandchild list and Anthony's 2024 sibling list (Samuel, Cody, Michael, Brie/Bri, Keira and Cooper) places the two obituary family groups in the same extended family network. Stanley's 2017 obituary separately identifies Samuel as Stanley's son.
+
+A third-party Deer Park High School alumni directory lists a **Sam Cossman** in the class of 1995. This is chronologically plausible for the Samuel in Stanley's family, but the directory is user-submitted and provides no birth date or parents; it is not a direct identity record.
+- Kathryn “Kate” Cossman obituary, 14 August 2016: https://www.mccrearyjournal.com/2016/09/01/obituary-august-2016/
+- Anthony Wayne Wills-Cossman obituary, 2 November 2024: https://www.hodappfuneralhome.com/obituaries?page=47
+- Stanley William Cossman obituary: https://www.strunkfuneralhome.net/obituaries/stanley-cossman
+- Deer Park High School alumni directory, Sam Cossman, class of 1995: https://www.alumniclass.com/deer-park-high-school-wildcats-cincinnati-oh/alumni-classmates/
+
+**Interpretation:** Samuel is well supported as Stanley's son and Anthony's father, so Anthony is a documented descendant of Stanley. The 2016/2024 overlap strengthens the family-network connection. It still does not prove that Monica Hackbarth is the same woman as Monica Lynn Wise/Cossman/Kelly/Courtney, nor that Monica Lynn is Samuel's mother. The obituary calls Monica Hackbarth a grandmother but does not specify whether maternal or paternal. Keep the surname Hackbarth and any Monica–Samuel parentage link as unverified until a direct birth, marriage, or name-change record is found.
