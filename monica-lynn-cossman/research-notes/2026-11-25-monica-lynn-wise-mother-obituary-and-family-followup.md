@@ -68,3 +68,23 @@ Exact searches used Monica Lynn Wise/Cossman, Monica Kelly, Virginia G. Wise/Gri
 6. Birth record for Samuel Cossman to identify his mother; keep Monica's motherhood claim unproved until then.
 
 No paid records were ordered, no family member or institution was contacted, and no Drive original was changed.
+
+
+## Marriage-source recheck and Gen IV profile cross-check — 25 November 2026
+
+I reopened the official Hamilton County Probate Court link currently cited on Monica's public page. The PDF is the **1974–1982 marriage-license alphabetical index**, not the underlying certified abstract/license. Its page 33 entry confirms:
+- Bride: **Monica Lynn Wise**
+- Groom: **Stanley William Cossman**
+- Year: **1976**
+- Volume **9**, page **2454**
+
+The index does **not** show Monica's birth date or parents. A prior research transcription of the certified abstract reports her birth as 17 July 1956 in Ohio, father Samuel P. Wise, and mother Virginia Greiner, and reports the marriage solemnized 30 June 1976. The abstract image itself is not present in Monica's GitHub documents folder, and it was not independently rechecked in this pass. The profile has been corrected to distinguish the index-confirmed marriage from the prior-transcribed birth/parent fields. Those detailed fields remain supported by prior transcription, not independently verified here.
+- Official index PDF: https://www.probatect.org/recordsearch/tif2pdf/ConvertBookToPdf.asp?image=xxr.dtl/Books%5Cmarrindx%5C00000093%5CXXmi19741982wimwj.tif
+- Probate Court archive description: https://www.probatect.org/recordsearch/
+- Marriage archive instructions: https://www.probatect.org/ArchiveSearchForms/bukmarriages.aspx
+
+### Gen IV profile consistency
+The user's Gen IV profile export in the Library (profile 35, Sam Cossman) records Stanley William Cossman as Sam's documented father, Monica Lynn Cossman as his mother **unproved / compiled-tree lead**, and Kathryn (Coffey) Cossman as his documented stepmother, not biological parent. It lists Nioka Lorene Grubenhoff as Sam's former partner and Briautumn, Keira and Cooper as his children; it also notes a Geni-listed brother Daniel. This matches the current conservative status in Monica's profile. No child has been added to Monica's public profile, and no relationship from the Anthony Wills-Cossman obituary has been assigned to her.
+
+### Access boundary
+The shared Google Drive folder link is present in the public profile, but the original abstract scan is not in the GitHub person folder and could not be retrieved from the connected sources in this session. No Drive files were changed. The profile now says exactly what the public index proves and clearly labels the additional birth/parent details as a prior transcription awaiting source-image reinspection.
