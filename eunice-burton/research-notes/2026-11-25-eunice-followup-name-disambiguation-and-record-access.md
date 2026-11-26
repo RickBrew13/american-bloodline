@@ -141,3 +141,24 @@ The latest search surfaced several digitized “Mercy Hospital School of Nursing
 The search result for a different Mercy school's yearbook/photograph collection was not used as evidence about Eunice. The distinction matters because “Mercy Hospital School of Nursing” is not a unique institutional name.
 
 **No new photograph, class roster, license record or graduation notice for Eunice was identified.**
+
+
+## Follow-up from Elmer's obituary: the Missouri place-name lead
+
+Elmer's original 1993 *Palm Beach Post* obituary says he had lived in the West Palm Beach area for four years, “coming from Perrysville, Missouri.” I searched that exact spelling and the likely Perryville variant. No indexed record was found that places Homer, Sarah, Eunice or Elmer in a Missouri household. I will not silently change the obituary's spelling or assume the entire family moved there.
+
+The likely place-name lead is **Perryville, Perry County, Missouri**, but it remains a hypothesis. Perryville has substantial relevant records: federal census and church registers; newspapers including the Perry County Republican (1889–1975), Perry County Republic (1975–1993), Monitor (1956–1993), and Community Press of Perryville (1979–1989); and local cemetery/funeral materials. The Perry County Historical Society's Genealogical Research Library & Archives Center says it holds courthouse records, local newspaper microfilm from 1862 to present, census, marriage, birth/death, church, cemetery and family surname materials. This is a promising archive for checking Elmer's stated prior residence and whether other family members lived there.
+
+- Perry County Historical Society archives and research library: https://perrycountyhistoricalsociety.com/index/archives-2/ (108 Vincentian Way, Room 204, Perryville, MO 63775; 573-768-2470; percohistsoc@yahoo.com)
+- Perry County Historical Society overview: https://perrycountyhistoricalsociety.com/
+- Perry County newspapers and obituary holdings: https://ldsgenealogy.com/MO/Perry-County-Newspapers-and-Obituaries.htm
+- Perryville local records overview: https://ldsgenealogy.com/MO/Perryville.htm
+
+Specific archive searches to request/perform:
+1. Directories, tax lists, voter registrations, city directories and newspaper items for **Elmer Brewster** in Perryville/Perry County, c.1985–1989.
+2. Same records for **Homer W. Brewster**, **Sarah Hazel (Kelley) Brewster**, **Eunice (Brewster) Whittle/Burton**, **Earl Brewster**, **Eugene Brewster**, **Homer Jr. Brewster** and **Aileene/Aileen Brewster Gilpin**.
+3. Local newspaper items for the Brewster family, including notices of relocation, employment, church membership, obituaries and family visits.
+4. Any city-directory or property record that identifies Elmer's address in Perryville and clarifies whether the obituary's “Perrysville” is a typographical error.
+
+This is not yet proof that the family lived in Perryville. The newspaper wording is direct evidence only that Elmer's obituary reported he came from a place spelled “Perrysville, Missouri.” Until a local record is found, retain that wording verbatim and label Perryville as a candidate, not a fact.
+
