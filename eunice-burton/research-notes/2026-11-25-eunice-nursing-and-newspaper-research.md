@@ -1,0 +1,35 @@
+# Eunice Edna Burton — additional nursing and newspaper research
+**Reviewed:** 25 November 2026
+
+## Ohio nursing-record series located
+A further search of official Ohio archival descriptions identified a specific state-level source series that had not been named in the earlier notes:
+
+- Ohio's State Board of Nursing became autonomous in 1941; the Board's name changed to the Nursing Education and Nurse Registration Board in 1955 and to the Ohio Board of Nursing in 1988.
+- Ohio's first statewide nurse inventory was published in 1973.
+- The Ohio state government records classification identifies the series **OY N 77.15/2, Nurse inventory**, under the Nursing Education and Nurse Registration (State) Board (1955–1988).
+- The Board's licensure database became computerized in 1986, according to the Ohio Nurses Association's published history.
+- Nursys states that licenses that expired before 1985 may not appear in its database and directs users to contact the state board for missing records.
+
+These findings make two distinct record requests appropriate: (1) a search of the archived 1973 nurse inventory and later inventories for Eunice E. Brewster / Whittle / Burton / Taylor; and (2) a request to the Ohio Board of Nursing for the historical licensure registry/application file, including any original education-program, license-issue, renewal and name-change entries. The current eLicense lookup is not a reliable negative test for a deceased nurse whose license may have expired before 1985. No individual inventory entry or license record for Eunice has yet been located; the profession remains supported by the 1987 Ohio death-index occupation field, not by an inspected license record.
+
+Sources:
+- Ohio government records classification, “Nursing Education and Nurse Registration, (State) Board of (1955–1988),” series OY N 77.15/2, Nurse inventory: https://dam.assets.ohio.gov/image/upload/library.ohio.gov/government-documents/oh-classification/OH_classification_independent_N.pdf
+- Ohio Nurses Association, *Legal Regulations & Professional Standards*, “History of the Ohio Board of Nursing” (first nurse inventory in 1973; computerized database in 1986): https://ohnurses.org/wp-content/uploads/edd/2014/02/Legal-Reg-Book-Formatted-6.pdf
+- Nursys QuickConfirm terms, “Why is a license not listed?” (licenses expired before 1985 may not appear): https://www.nursys.com/LQC/LQCTerms.aspx
+- Ohio Attorney General, regulatory-board license verification guidance: https://www.ohioattorneygeneral.gov/FAQ
+
+## Additional newspaper index check
+Checked the public Hamilton County OHGenWeb obituary index, including its E, B and W portions and an exact “Eunice” text search. It did not surface Eunice's 1987 notice. This is not evidence that no newspaper notice exists: the index is a volunteer-contributed subset and explicitly points users to the Cincinnati & Hamilton County Public Library Newsdex for broader 20th-century coverage. Eunice's original family clipping remains the directly inspected source, but its masthead, issue date, page and column are still not visible.
+
+Sources:
+- Hamilton County OHGenWeb, Obituaries & Death Notices index: https://www.hamilton.ohgenweb.org/vitalsobit1.html
+- Cincinnati & Hamilton County Public Library Newsdex information: https://chpl.org/resources/magazine-newspaper-articles/
+
+## Further marriage/name-variant searches
+Ran additional exact-name searches pairing Eunice Brewster / Eunice Whittle / Eunice Taylor with Irvin Burton, and Avery Ello Whittle with Eunice and Charlotte Ann Mulvey. No independent marriage or divorce instrument was returned. The 1947 Campbell County certificate remains the only located original marriage record for Eunice; the 1987 death notice remains the evidence naming Irvin as her husband at death. The Avery/Charlotte obituaries corroborate Avery's later family with Charlotte but do not give a marriage date or establish the legal end date of Avery and Eunice's marriage.
+
+## Evidence guardrails
+- Do not add an employer, nursing school, RN license number or license date until an individual record is located.
+- Do not infer a divorce date or remarriage date from the spouse sequence.
+- Do not assign any of Eunice's three named children to Avery or Irvin without a direct source. The family-tree note that Irvin was Demetria's father remains explicitly a family account.
+- No profile or family-tree JSON was changed in this pass; this note records access research and negative-search boundaries only.
