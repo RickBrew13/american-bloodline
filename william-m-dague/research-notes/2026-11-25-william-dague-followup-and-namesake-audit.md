@@ -24,3 +24,15 @@ Searched exact and variant names for William M. Dague, William Dague, Dorothy An
 
 ## Profile status
 No profile text was changed because the new searches produced no additional attributable biographical fact. Existing portrait provenance and obituary transcription remain intact. No other profile, family-tree JSON, or Drive original was modified, moved or deleted.
+
+
+## Continued pass — 25 November 2026
+
+Rechecked the full William obituary transcription, his photo-provenance note, the complete Dorothy family obituary transcription, both Hillsboro Cemetery reference PDFs, the shared Drive-to-GitHub inventory, and the existing Woodrow and Ruth profiles. The source transcription again confirms William's 2011 death, employer, church attendance, parents, predeceased son Dwayne, brother Robert, grandchildren Brian and Amber, funeral and St. Joseph Cemetery interment. Dorothy's 2020 obituary independently identifies Brian and Amber as her grandchildren and identifies Dewayne as her predeceased son. Together these records are consistent with Brian and Amber being descendants through Dewayne, but no birth records were found in the inspected archive to assign them formally to a specific parent.
+
+A new exact-name search for **Robert A. Dague**, William's twin, returned a derivative LocateFamily listing that gives 21 August 1937 and 14 October 2000, matching the dates already carried by Robert's Find a Grave memorial and William's obituary's statement that Robert predeceased him. The LocateFamily listing does not name parents, and no new obituary or original death/birth record surfaced. It is corroborative index-level repetition only, not a new parentage source:
+https://www.locatefamily.com/D/DAG/DAGUE-69.html
+
+Additional exact-name searches for William, Robert, Dorothy McCartt, National Electric Coil, Columbus, and the 1937/1964/2000/2011 dates did not locate a new attributable marriage record, spouse, child, property record, probate file, military record, birth certificate, cemetery plot card, or family photograph. Search results for other Dague families and same-name individuals were excluded. The profile was not changed because no new fact met the evidence threshold.
+
+The existing open records remain access-dependent: historical Franklin County marriage files for William and Dorothy (if they married there), original 1937 birth records for William and Robert, Robert's original death record/obituary, and St. Joseph Cemetery's interment card/plot. No paid request, account creation or outreach was made.
