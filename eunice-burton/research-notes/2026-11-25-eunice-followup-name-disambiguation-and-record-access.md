@@ -374,3 +374,47 @@ Official/reliable sources:
 A secondary marriage-record search page links a Campbell County marriage portal that accepts book/page lookup, party names and dates, but the portal itself returned 403 in this browser session. No result/no-result is claimed from it. The official County Clerk remains the authoritative source for a full file search. The public portal link is https://campbellmarriagesearch.smllc.us/.
 
 No request has been sent and no record has been ordered. Do not alter the profile's documented marriage date or age discrepancy. The new evidence strengthens the reason to seek the complete license packet and parental-consent record.
+
+
+## Kentucky archives: exact 1947 parental-permission and loose-paper search route established (26 November 2026)
+
+The age conflict on the 23 July 1947 Avery E. Whittle–Eunice Brewster certificate is now linked to an explicit contemporaneous legal requirement and an identifiable record type.
+
+The U.S. Department of Labor Women's Bureau's Kentucky law report, based on Kentucky Revised Statutes 1946, says that if either party was under 21 and had not been married before, the clerk could not issue a marriage license without consent of the minor's father or guardian; if there was no father/guardian or he was absent from the state, the mother's consent was required. Written consent had to be signed, attested by two witnesses and proved by one witness's oath. The same report says a female under 14 could not marry, but Eunice was 16 years, 7 months at the date of this marriage. The law summary is contemporary to the marriage; do not substitute current minor-marriage rules for the 1947 law.
+
+More importantly, the Kentucky Department for Libraries and Archives (KDLA) published a 2024 article stating that Kentucky marriages of people under 21 required written parental permission and that these permissions and bonds were often kept among **loose papers separate from the license and certificate**. KDLA's current marriage-record handout likewise explains that county marriage files may include bonds, consents/permissions, licenses, certificates, ministers' returns and registers, which may be stored together or separately. The original certificate already in Eunice's archive may therefore be only one part of the record packet.
+
+The Kentucky county-clerk retention schedule (Record Group 15, schedule L1234) states that pre-August 1984 county marriage books varied by county and date; the marriage book series may also exist as a distinct loose-paper record series or separate volume, and parental permissions are frequently included. This makes the loose-paper inquiry especially important for the 1947 file.
+
+### Exact record request now defined
+
+Request from **Campbell County Clerk** (Newport Office, 1098 Monmouth Street, Newport, KY 41071; marriage license line 859-292-3885) a complete search for all surviving original and associated records for:
+- Bride: Eunice Brewster (also Eunice Edna Brewster; later Burton);
+- Groom: Avery E. Whittle;
+- Marriage date: 23 July 1947;
+- Citation: marriage book 196, page 83;
+- FamilySearch DGS 007734735, image 99 (certificate image already in the archive).
+
+Ask the clerk to search the bound marriage book **and separately filed loose papers**, including the marriage application, proof of age, parental consent/permission, guardian consent, bond, clerk's affidavit, witness oath, and any court order or associated index. Ask whether the loose file survives and, if not held locally, whether it was transferred to KDLA. The official clerk's current web page links to a marriage-license lookup and certified-copy service; the separate search portal can also take book/page or party/date queries, but it returned 403 in this browser session. No query result or no-result is claimed.
+
+### KDLA inventory / remote request route
+
+KDLA's official Microfilm Guide says its searchable inventory covers microfilm held in the Kentucky State Archives Research Room, can be filtered by location, court/agency, record type and years, and is a finding aid rather than online record access. Its current web form opened but did not populate results in this session. KDLA Research Room staff invite inventory questions at:
+- Phone: 502-564-1770
+- Email: KDLA.Archives@ky.gov
+- General Archives: 502-564-8300
+- Microfilm inventory: https://microfilm.ky.gov/films
+- Marriage record request form: https://kdla.ky.gov/Archives-and-Reference/Documents/Marriage.pdf
+
+The KDLA request form permits a specific couple, county and year; for this case include the exact marriage date and book/page and explicitly ask about separate parental-consent/bond papers. KDLA's FAQ says staff can answer specific information requests by mail, phone or internet for a fee. No request has been submitted and no fee paid.
+
+### Sources and what they prove
+- U.S. Department of Labor, Women's Bureau Bulletin 157-16 (Revised), Kentucky, 1 January 1948, section II, item 18, pp. 8–9: https://fraser.stlouisfed.org/files/docs/publications/women/b0157-16-rev_dolwb_1949.pdf
+- KDLA, *Devoted to Kentucky's State Archives and the Historical Record*, Spring–Summer 2024, p. 4: https://kdla.ky.gov/Archives-and-Reference/Documents/SpringtoSummer2024.pdf
+- KDLA, *Kentucky Marriage Records*, updated 4 June 2026: https://kdla.ky.gov/Archives-and-Reference/Documents/Handouts-RR/Handout-MarriageRecords.pdf
+- Kentucky County Clerk Records Retention Schedule, Record Group 15, L1234 Marriage Book: https://revenue.ky.gov/clerknetwork/documents/countyclerkrecordsretentionschedule.pdf
+- Campbell County Clerk official marriage-license page: https://campbellcountyclerk.ky.gov/services/marriage-licenses/
+- KDLA Microfilm Guide: https://microfilm.ky.gov/films
+- KDLA marriage record request form: https://kdla.ky.gov/Archives-and-Reference/Documents/Marriage.pdf
+
+**Research conclusion:** The age 21 statement on the certificate conflicts with Eunice's established 1930 birth date. Under the contemporaneous Kentucky law, a 16-year-old bride required parental/guardian consent. KDLA specifically says those permissions were often filed separately. The original consent/bond packet is now a high-priority, concrete record target. This is not proof of what the packet contains, and it does not justify any conclusion about the marriage's validity or circumstances without the original records.
