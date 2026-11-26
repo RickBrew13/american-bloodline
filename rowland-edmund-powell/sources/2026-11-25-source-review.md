@@ -1,6 +1,6 @@
 # Source review — rowland-edmund-powell
 
-The 1911 birth register is direct evidence for Rowland’s recorded parent initials/name fields. A separate 1903 marriage license identifies Dexter G. Powell and Minnie M. Lyon, strongly matching those initials and the mother’s recorded name; the full-name link remains a working identification. Public memorials and the SS-5 transcription remain derivative.
+The 1911 birth register is direct evidence for Rowland’s recorded parent name fields; the father’s handwritten middle initial remains ambiguous (earlier read D. L.; later read possibly D. G.). The 1903 marriage index says Dexter G. Powell, but OCR/transcription of its original license appears to read J (possibly S). The proposed Rowland–Dexter link remains a working identification, not proven. Public memorials and the SS-5 transcription remain derivative.
 
 ## Sources
 
@@ -17,3 +17,6 @@ The 1911 birth register is direct evidence for Rowland’s recorded parent initi
 
 - [West Virginia marriage index, WVID 5021](https://wvculture.org/wp-json/wvculture/vital/marriage?gr_name_first=Dexter&gr_name_surn=Powell&br_name_first=Minnie&br_name_surn=Lyon&county=Harrison&mar_event_date=1903&plus_minus=0&search_type=exact&results=100) — Dexter G. Powell and Minnie M. Lyon, 1 July 1903, Harrison County.
 - [Original Harrison County marriage-license page, film 847280, frame 326](https://dach-image-proxy.digital-relativity.workers.dev/?film=847280&frame=00326) — identifies the couple and Dexter’s parents; copy archived in Dexter’s Gen VII documents.
+
+- [West Virginia marriage index, WVID 5021](https://wvculture.org/wp-json/wvculture/vital/marriage?gr_name_first=Dexter&gr_name_surn=Powell&br_name_first=Minnie&br_name_surn=Lyon&county=Harrison&mar_event_date=1903&plus_minus=0&search_type=exact&results=100) — index lists Dexter G. Powell and Minnie M. Lyon, 1 July 1903; original license scan transcription differs on Dexter’s middle initial.
+- [Original Harrison County marriage-license image, film 847280, frame 326](https://dach-image-proxy.digital-relativity.workers.dev/?film=847280&frame=00326) — scan/OCR appears to read Dexter J. (possibly S.) Powell and Minnie M. Lyon; initial unresolved.
