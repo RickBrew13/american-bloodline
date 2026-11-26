@@ -50,3 +50,11 @@ Additional source:
 - Current KRS 402.080 history showing 1948 Ky. Acts ch. 42 as its first amendment after 1942 recodification: https://apps.legislature.ky.gov/Law/statutes/statute.aspx?id=47593
 
 This remains a research lead; no legal conclusion about the marriage is made. The residence was re-read as Covington, Kentucky, and the county jurisdiction is kept separate from the Campbell County issuing court.
+
+
+### Campbell County's online book/page search
+The Campbell County marriage search portal exposes both party/date fields and a direct book/page lookup. The known citation—**book 196, page 83**—can be entered directly, which is the best way to check whether the indexed certificate has associated application, license, return or consent images. The browser-readable page exposes the form but does not return results without submitting its interactive fields, so no portal result is claimed here. The county clerk's official site is the custodian for pre-1958 Campbell County marriage records; Kentucky OVS directs researchers to the county clerk for records before June 1958.
+
+Portal: https://campbellmarriagesearch.smllc.us/  
+Official Campbell County Clerk: https://campbellcountyclerk.ky.gov/services/marriage-licenses/  
+Kentucky OVS record-custodian guidance: https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/marriage-divorce.aspx
