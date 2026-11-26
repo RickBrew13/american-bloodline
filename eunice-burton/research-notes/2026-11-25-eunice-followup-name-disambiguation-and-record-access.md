@@ -1001,3 +1001,13 @@ The original death certificate is likely the highest-value single outstanding re
 ### Updated prepared death-certificate inquiry
 
 Request one certified copy of Ohio death certificate 088337, volume 27087, for Eunice E. Burton, died 16 December 1987 in Butler County, Ohio. Also ask whether the local office can provide a non-certified genealogical copy or abstract at lower cost; if not, ask for the full $25 cost and accepted proof/payment requirements before ordering. Compare informant, spouse, parent names, birthplaces, residence, occupation, cause, funeral director and burial fields. This is a prepared specification only; it has not been submitted.
+
+
+## 26 November 2026 — exact FamilySearch locator for the 1940 Brewster household recovered
+
+The existing Homer Jr. census audit provides the missing digital locator for the 1940 Morgan County household: **FamilySearch digital folder (DGS) 005461366, image 552**. Its Homer Jr. entry is indexed in the same 1940 ED 65-15, sheet 3B household and lists Homer W. Brewster, Sarah H., Eunice E., Elmer, Earl, Eugene T. and Aleene W. This ties the FamilySearch image number to the exact sheet containing Eunice's line 51, rather than leaving only the ED and sheet citation. Eunice's profile's original-image citation was updated to include DGS 005461366 / image 552, with an explicit statement that the handwriting remains not reliably transcribed. This locator does **not** mean the image has now been read; FamilySearch's image URL remains inaccessible in this browsing session.
+
+- Homer Jr. 1940 census audit: `homer-william-brewster-jr/research-notes/2026-11-06-homer-jr-1940-1950-census-check.md`
+- Eunice 1940 census index: https://www.familysearch.org/ark:/61903/1:1:K4ZX-8VY
+- Eunice 1940 census image link: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-D46S
+- DGS: 005461366; indexed image: 552; ED 65-15, sheet 3B, line 51.
