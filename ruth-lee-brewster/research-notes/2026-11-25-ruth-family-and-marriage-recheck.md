@@ -40,3 +40,22 @@ The Ruth profile was updated only with source-status corrections: it now reports
 4. Inspect the 1950 census image and locate her 1940 household with Ray and Elizabeth.
 5. Find the 2000 Dayton Daily News/Fairborn Daily Herald obituary and Byron Cemetery original interment record.
 6. Locate original birth/SSA records for the five children before treating all five parentage links as documented.
+
+
+## Additional Cincinnati directory trail for Ruth's father, Ray Henry Wainscott
+
+The Cincinnati city-directory archive contains a matching **Ray H. Wainscott**, occupation truck driver, during the period before Ruth's birth:
+- 1930–31 directory: Ray H. Wainscott, truck driver, residence **1137 E. 3rd Street**.
+- 1931–32 directory: Ray H. Wainscott, truck driver, residence **1107 E. 3rd Street**.
+These are plausible records for Ruth's father, whose later identity is supported by the 1950 census and her death-index surname. The directories do not identify his wife or child, so they are retained as a father-residence lead, not as proof of the family household. The one-year address change may reflect a move or directory variation.
+- 1930–31 Cincinnati directory, alphabetical Wainscott entry: https://cdm16998.contentdm.oclc.org/digital/api/collection/p16998coll5/id/222328/download
+- 1931–32 Cincinnati directory, alphabetical Wainscott entry: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1931-32_Pt03.pdf
+
+## Additional targeted record searches
+
+- Exact-name searches for **Ruth Lee Wainscott**, **Ruth Lee Brewster**, **Elmer Ellis Brewster**, and their marriage/divorce in Hamilton County, Kenton County and Campbell County did not surface a new original certificate or decree.
+- Exact-name searches for **Gobelle Moore** and **Ruth Lee Wainscott** did not identify an original marriage date or county. Michael Moore's Newcomer obituary remains direct evidence that Ruth Moore was his stepmother, while Gobelle's own obituary identifies her as his second wife.
+- No new independent obituary, occupation, property deed, probate file, military record or additional family photograph was located for Ruth.
+- No new child-parent link was established beyond the family account attributing Elmer's five obituary-named children to Ruth.
+
+The outstanding marriage/divorce, original certificate and obituary leads in this note remain open; no negative search is treated as proof that a record does not exist.
