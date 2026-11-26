@@ -744,3 +744,34 @@ Fresh exact-name searches for Eunice Edna Brewster, Eunice E. Burton, Eunice + I
 
 - Aileene Gilpin obituary: https://www.clayconews.com/obituaries/aileene-gilpin
 - Morgan County obituary archive: https://tngenweb.org/morgan/obituaries-of-morgan-county/
+
+
+## 26 November 2026 — further nursing-school and state-record source checks
+
+### Hamilton Mercy School of Nursing: age/timeline makes this a plausible local candidate
+
+A local-history article reproduces a contemporary account of Hamilton Mercy School of Nursing. It says the diploma school was founded in 1906, had a large wartime graduating class of 42 in 1946, and graduated its final class of 34 on 14 June 1970; 1,174 nurses graduated through 1970. This makes Hamilton Mercy a plausible school to investigate for Eunice (born 1930 and indexed as an RN by 1987), but it is only a geographic/timeline lead, not evidence of attendance. The article also says a 1956 Golden Jubilee display included photographs of the school's first graduates and other historical pictures; this may provide an image/archive trail, but does not identify Eunice.
+
+A separate 2012 Hamilton obituary confirms that a woman who graduated Mercy Hospital School of Nursing in 1947 later worked at Fort Hamilton Hospital and Mercy Hospital for 41 years. This illustrates that the school fed into local hospital employment, but the woman is not Eunice and is not attached to her profile.
+
+- Hamilton Mercy school history: https://nkhistory.org/content/97-memories-of-early-rural-life
+- Example 1947 Mercy graduate and long Hamilton nursing career (not Eunice): https://www.legacy.com/us/obituaries/hamilton/name/marcella-geisler-obituary?id=23963514
+- Ohio Hospice Honor Guard profile of a 1957 Mercy graduate (not Eunice): https://www.ohioshospice.org/nursing-honor-guard-ohios-hospice-of-butler-warren-counties/
+
+### Good Samaritan School of Nursing: digitized 1947–1970 scrapbook identified precisely
+
+Ohio Memory's catalog record for *Good Samaritan Hospital School of Nursing in Story and Picture, 1947–1970*, volume 2, confirms the book is a 77-page scrapbook-style history with numerous photographs and school milestones. Its source is the Sisters of Charity of Cincinnati collection, School of Nursing Series, Box 5, Piece 2 (SC-MIS-002-2017). The item is available online through Ohio Memory, though the interactive image viewer requires JavaScript in this interface. This is a potentially useful way to inspect group photographs and identify names, but the collection is not a student roster and no Eunice name was retrieved. The 1947–1970 title begins after Eunice's 1947 marriage; she could have attended later, but that remains unknown.
+
+- Ohio Memory item and full object description: https://ohiomemory.org/digital/collection/p16007coll72/id/2976/rec/3
+- Finding aid named in catalog: http://rave.ohiolink.edu/archives/ead/OhMsjSC0097
+
+### Butler County's nurse-registration records: local custodian identified, register not yet found
+
+The Butler County Probate Court confirms that it maintains court records and gives its official contact details (101 High Street, Hamilton, OH 45011; 513-887-3294; probatecourt@bcohio.gov). The Butler County Record Center is described by local archival guidance as the central repository for historical Probate Court records, at 123 North Third Street, Hamilton, OH 45011-2759, 513-887-3437. The published holdings list does not explicitly list a nurse-register volume. Ask both the Probate Court and Record Center whether a registered-nurse certificate book/index or “medical professionals” record series survives, and if transferred, request the accession/transfer reference and retention schedule. No request has been sent.
+
+- Butler County Probate Court official contact: https://probatecourt.bcohio.gov/
+- Butler County Record Center holdings/contact guide: https://www.butler.ohgenweb.org/addresses.html
+- Comparative Union County nurse register (1916–1956) describes fields including nurse name and school: https://www.unioncountyohio.gov/departments/Archives/probate-court-records
+- Ohio State Archives classification lists OY N 77.15/2 “Nurse inventory” for the 1955–1988 State Board of Nursing Education and Nurse Registration: https://dam.assets.ohio.gov/image/upload/library.ohio.gov/government-documents/oh-classification/OH_classification_independent_N.pdf
+
+No new school, graduation date, RN license number, employer, or portrait has been attributed to Eunice. These are named, source-backed archive targets for the next research pass.
