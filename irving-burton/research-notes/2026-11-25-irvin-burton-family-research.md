@@ -145,3 +145,11 @@ The Hamilton County Recorder's official Acclaim Book/Page search page is now ide
 
 ### What is still not independently retrievable online
 No original 1994 death certificate, March 1994 obituary text, Irvin–Eunice marriage record, later marriage record, or verified Irvin portrait has been located in this pass. No independent parentage record for Demetria, Elaine or Anthony was found through exact-name web searches. These are not assumed facts. The remaining documentary tasks require either the death certificate/order, the 1994 Journal-News microfilm or indexed volume, and the original 1966 deed image, which are not exposed through searchable text in the sources checked here.
+
+
+### First-person family account identifies members of the Cincinnati gospel group
+A 2011 post about the Cincinnati gospel LP **_The Burtons — Comin' On Strong_** contains a first-person comment from Dennis Burton, who identifies himself as the youngest child of Grady Burton Jr. Dennis says the group in the pictured lineup consisted of his father Grady Jr., Grady Jr.'s brother Danny, and their father Grady Burton Sr.; he also says his mother Betty sang with the group before that album. Dennis adds that the family recorded about a dozen albums during the 1960s and 1970s. A second comment from Grady Jr.'s son Mark identifies the other pictured musicians and recalls the picture as possibly from 1973 or 1974.
+
+This is useful first-person family testimony for **Grady Sr., Grady Jr. and Danny Ray's** participation, and it adds context to the family music history. Crucially, **Irvin is not named as a performer or shown as identified in this lineup**. Do not imply he was a member of the gospel group. The blog post is not an obituary or formal biographical source, and the commenters' identities are self-reported in the comments. Source: [The Good, Bad & Ugly Gospel Record Barn, “The Burtons — Comin' On Strong,” 22 March 2011](https://gbugrb.blogspot.com/2011/03/burtons-comin-on-strong.html), especially the comments by Dennis Burton (1 June 2011) and Mark Burton (16 February 2014).
+
+No new public-profile claim was added: the source helps clarify the extended family's music history but does not establish anything new about Irvin's own participation.
