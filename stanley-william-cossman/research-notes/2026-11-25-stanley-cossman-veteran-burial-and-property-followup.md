@@ -82,3 +82,35 @@ This is a potentially important service lead because the VA-derived burial index
 - If confirmed, the class would point to training at Harmony Church in April 1969; the Army personnel file would still be needed for the actual service dates, units and Vietnam deployment.
 
 The public profile was also cleaned in this pass: removed a duplicate Military quick-fact row and corrected two malformed evidence-status phrases (“remains ;” / “remains ”) to “unproved” and “documented.” The page was re-fetched and verified. No family-tree JSON or other profile was changed.
+
+
+## Further deed-chain check and documented grandson — 25 November 2026
+
+### The 1979 property sequence now has a third index entry
+
+The official Hamilton County Recorder's **1979 grantor index** gives the following sequence:
+1. **26 September 1979:** Stanley W. Cossman → Monica Lynn Cossman, deed book 4170, page 955 (already noted).
+2. **17 October 1979:** Monica Lynn Cossman → “Affidavit,” deed book 4172, page 756.
+3. **21 November 1979:** Monica Lynn Cossman → Terrance M. Nagel et al., deed book 4175, page 53.
+
+The 1977 grantee index had earlier listed William R. and Ruth A. Gardner conveying to Stanley W. and Monica L. Cossman, book 4085, page 1435, on 22 June 1977. The later Monica-to-Nagel transaction is a new lead that the couple's property interest may have been conveyed onward within the same year that Stanley transferred his interest to Monica. Because all the underlying deed books (1971–1988) are available only on Recorder's Office computers, I cannot compare legal descriptions remotely. **Do not claim the Nagel deed concerns the Gardner parcel, or infer a divorce, separation, gift, or sale price.** It is a plausible sequence, not a proven single-parcel chain.
+- 1979 grantor index, lines 1680, 1785, 1959: https://recordersoffice.hamilton-co.org/deed_indexes/di1979trtec.pdf
+- 1977 grantee index: https://recordersoffice.hamilton-co.org/deed_indexes/di1977tetrc.pdf
+- Recorder's access limits for historic deeds: https://recordersoffice.hamilton-co.org/helpful_information/help_deeds_21-4414.html
+
+### Anthony Wayne Wills-Cossman is a documented grandson through Samuel
+
+A Hodapp Funeral Homes obituary listing for **Anthony Wayne Wills-Cossman** says he died 2 November 2024, age 27, and identifies him as the son of **Samuel Cossman and Dena Thompson**. Stanley's own 2017 obituary identifies Samuel Cossman as Stanley's son. The matching father name and local family context make the relationship chain **Stanley William Cossman → son Samuel Cossman → grandson Anthony Wayne Wills-Cossman** well supported by two independent obituary records. This is the first specifically named grandchild I can now add to Stanley's public profile.
+
+Anthony's obituary also names these people as his siblings: Samuel Cossman, Andrew Wills, Bri Grubenhoff, Cody Cossman, Michael Cossman, Keira Cossman and Cooper Cossman. It does not say that every one of these siblings shares both parents, and it does not establish all of them as Stanley's biological great-grandchildren. Keep them as Anthony's named siblings only; do not copy them into Stanley's descendant list without direct parentage records.
+
+The same obituary calls **Monica Hackbarth** Anthony's grandmother but does not say whether she is maternal or paternal. Do not identify her as Stanley's former wife Monica Lynn Wise/Cossman unless a marriage, birth, or other direct identity record connects the names. The 1976 marriage license and 2006 Virginia Wise obituary establish Monica Lynn Wise's parents and a later surname Monica Kelly, but the Hackbarth surname remains an unproven identity lead in Monica's own folder.
+- Hodapp Funeral Homes, Anthony Wayne Wills-Cossman obituary listing, 2 November 2024: https://www.hodappfuneralhome.com/obituaries?page=47
+- Stanley William Cossman, Hickman-Strunk obituary: https://www.strunkfuneralhome.net/obituaries/stanley-cossman
+- Anthony's family fundraiser, identifying Sam Cossman as beneficiary: https://www.gofundme.com/f/h6bg6p-help-anthonys-family-through-this-tragedy
+
+### Current research boundaries
+- Add Anthony as a grandson through Samuel; do not yet assign Monica Hackbarth as his paternal grandmother.
+- Keep Stanley's four children and the stepchild distinctions already documented; the 2016 Kathryn obituary still says Samuel and Matthew were her stepsons.
+- No further independent obituary for Stanley's siblings Greg, Brett or Linda was found in this search. Current-person profiles and unrelated same-name legal/news records were not used to expand their identities.
+- The NCOC Class 28-69 B page remains only a possible service lead: class-wide MOS 11B40 and Harmony Church details do not establish Stanley's personal MOS, and its 27 April 2017 death date conflicts with the 26 August 2017 obituary/VA date. Keep it out of the public service facts until an official military record or identity bridge is obtained.
