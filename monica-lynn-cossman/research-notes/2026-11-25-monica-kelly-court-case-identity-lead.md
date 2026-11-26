@@ -173,3 +173,60 @@ Hamilton County Probate Court's official public inquiry page states that its alp
 Hamilton County Clerk of Courts provides separate search options for Common Pleas civil cases and municipal civil cases, and notes that remote document access is not guaranteed. The Butler County Area III case number in the appellate opinion is **CVF001022** (appeal CA2003-09-229). No accessible underlying docket or marriage/name-change document was found through open web search. The underlying court file and official marriage index remain the best next records; no contact or paid copy request was made.
 - Hamilton County Clerk of Courts records search: https://www.courtclerk.org/records-search/
 - Published appellate opinion: https://law.justia.com/cases/ohio/twelfth-district-court-of-appeals/2004/2004-ohio-3913.html
+
+
+## New maternal-ancestry expansion: Samuel Preston Wise's family
+
+The 1976 Hamilton County marriage license names **Samuel P. Wise** as Monica Lynn Wise's father and **Virginia Greiner** as her mother. Virginia's 2006 obituary names daughter Monica Kelly and identifies her late husband as Samuel P. Wise. A matching Social Security Death Index transcription lists **Samuel P. Wise**, born **24 December 1913**, died **7 July 1989**, last residence Cincinnati, Ohio. This aligns with the FamilySearch compiled profile for **Samuel Preston Wise (1913–1989)**, born in Irvine, Estill County, Kentucky, and with the cemetery aggregation that places Samuel Preston Wise in Wise Cemetery #2, Irvine. This is a strong identity match for Monica's father, though the original death certificate and cemetery register have not been inspected.
+- FamilySearch, Millie Ann Tipton Wise (mother of Samuel Preston): https://ancestors.familysearch.org/en/LDJM-QD1
+- LocateAncestors, Samuel P. Wise SSDI transcription: https://www.locateancestors.com/samuel-wise/
+- PeopleLegacy, Wise Cemetery #2 and Samuel Preston Wise burial listing: https://peoplelegacy.com/hazel_embs_taylor_merrill-5q1b5C
+- Wise Cemetery location, Estill County, approximately four miles northeast of Irvine: https://roadsidethoughts.com/ky/cemeteries/wise-cemetery-xx-estill-profile.htm
+
+### Samuel Preston Wise's parents and siblings
+
+The FamilySearch profile identifies Samuel Preston's parents as:
+- **Richard Hood Wise** (1882–1960)
+- **Millie Ann Tipton Wise** (28 January 1888–15 June 1969)
+
+It lists six children for Richard and Millie:
+1. Elijah Wise (1910–1910)
+2. Marjorie Wise (1911–1911)
+3. Samuel Preston Wise (1913–1989)
+4. Wallace Ray Wise (1918–1987)
+5. Otha Elmer Wise (1921–2003)
+6. Warren Calvin Wise (1925–1955)
+
+These are Monica's paternal aunts/uncles through her father. The family grouping is supported by the compiled FamilySearch profile, the older Tipton genealogy, and the Wise Cemetery #2 aggregation, which separately lists Samuel Preston, Marjorie and Warren Calvin Wise. The precise 1909 marriage date is inconsistent: FamilySearch gives **15 February 1909**, while the Ole.net Tipton genealogy gives **1 February 1909**. Keep the year 1909; do not choose the day until the original county marriage register is examined.
+- Ole.net Tipton genealogy, Milly Ann and Hood Wise family: https://www.ole.net/~maggie/antrim/tipton.htm
+
+### Monica's great-grandparents through Richard Hood Wise
+
+FamilySearch's compiled profile for **Sarah Elizabeth Chaney (15 January 1857–27 October 1894)** identifies her as wife of **William Preston Wise (2 August 1859–9 May 1935)** and mother of Richard Hood Wise and Henderson M. Wise (1889–1911). It identifies Sarah's parents as **Joseph Chaney** and **Nancy Tipton**. A public Ancestry tree suggests Joseph was the son of John C. Chaney and Jemima Brinkley, but this deeper generation is tree-derived and not adopted as proven.
+- FamilySearch, Sarah Elizabeth Chaney: https://ancestors.familysearch.org/en/KG12-L39/sarah-elizabeth-chaney-1857-1894
+- Ancestry public profile, Joseph Chaney: https://www.ancestry.com/genealogy/records/joseph-chaney-24-17q0pvt
+
+A WikiTree profile for William Preston Wise identifies his father as **David T. Wise** (5 November 1834–3 September 1895) and his mother as **Mary Ann Spry** (4 April 1833–1 February 1899). It lists William's half-siblings as James P. Wise, Eliza Ellen Wise Hall, Joseph H. Wise, John Thomas Wise, Martha Emerine Wise Joseph and Mary Elizabeth Wise McIntosh. The Estill County marriage transcription for William and Sarah (24 December 1880) names David T. Wise as the officiating minister and his father; the WikiTree entry also cites the original Estill County marriage book. The parentage to David T. is therefore a stronger compiled/documentary lead; Mary Ann Spry as William's mother is still based on compiled family profiles, and the original birth record has not been checked.
+- WikiTree, William Preston Wise: https://www.wikitree.com/wiki/Wise-1144
+- Estill County marriage record transcription, William Preston Wise and Sarah E. Chaney: https://www.wikitree.com/wiki/Wise-1144 (see marriage-book reference in biography)
+- WikiTree, Eliza Ellen Wise Hall (sibling group): https://www.wikitree.com/wiki/Wise-1181
+
+### Monica's great-grandparents through Millie Ann Tipton
+
+FamilySearch's compiled profile identifies Millie Ann Tipton's parents as **Samuel Tipton** (1862/1863–1955; exact birth year differs among compiled sources) and **Mary Emma McIntosh** (19 May 1862–25 October 1925). It lists 11 children for Samuel and Mary Emma, including Millie, John Sherman, Clay, Bettie Jane, Curtis Vernon, Emmaline, Laura May, infant William Herbert, Clyde Morgan, Ora Lee and Nettie. The older Tipton genealogy independently lists most of the same child group, though dates and marriage dates differ.
+- FamilySearch, Mary Emma McIntosh Tipton: https://ancestors.familysearch.org/en/K8V3-DPJ/mary-emma-mcintosh%2C-tipton-1862-1925
+- KYGenWeb / Ole.net, descendants of Samuel Tipton: https://www.ole.net/~maggie/antrim/tipton.htm
+- Hiatt family genealogy, Samuel and Mary Emma Tipton: https://www.hiattfamily.net/gen/lda-2014-10-03/aqwg10828.htm
+
+FamilySearch identifies Mary Emma's parents as **William Stewart Irving McIntosh** and **Mary Jane Johnson**. A compiled KYGenWeb Tipton genealogy traces Samuel Tipton to William H. Tipton and Malinda Crowe and then to earlier Tipton generations, but that extended line is not independently verified and contains date/name variations. Keep those generations as research leads only.
+
+### Family structure implications
+
+- Monica's father is **Samuel P. / Samuel Preston Wise**, supported by her 1976 marriage license and Virginia's 2006 obituary; the 1913–1989 SSDI/cemetery match is strong.
+- Monica's paternal grandparents are **Richard Hood Wise and Millie Ann Tipton Wise** (compiled profile, cemetery cluster).
+- Monica's paternal great-grandparents are **William Preston Wise and Sarah Elizabeth Chaney** on Richard's line, and **Samuel Tipton and Mary Emma McIntosh** on Millie's line.
+- Further ancestors: David T. Wise and Mary Ann Spry; Joseph Chaney and Nancy Tipton; William Stewart Irving McIntosh and Mary Jane Johnson; Samuel Tipton's parents are a compiled lead only.
+- Samuel Preston Wise's siblings listed above are Monica's aunts/uncles.
+- Virginia Greiner's parents and siblings remain unresolved beyond the obituary's mention of sister Gladys Adams and niece Helen Strickland.
+
+These are ancestor leads and family-group reconstructions, not all primary-record proven. No original 1909 Wise marriage image, 1880 Wise–Chaney marriage image, death certificates, cemetery register, or original census images were obtained in this pass.
