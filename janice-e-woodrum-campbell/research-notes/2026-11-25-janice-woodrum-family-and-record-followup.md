@@ -18,7 +18,7 @@ Source: https://www.genlookups.com/ky/webbbs_config.pl/noframes/read/1196
 FamilySearch's compiled profile for Anna Edith and the Virts family genealogy identify her husband as **Clement Herman Woodrum**. The 1950 census index records the mother as Edith and father as Herman. Together these sources strongly support Janice's parents as Clement Herman Woodrum and Anna Edith Wethington Woodrum, though the full-name link rests partly on compiled genealogy rather than an original birth certificate.
 
 ### Siblings
-The Anna Edith obituary provides a seven-sibling family group, excluding Janice:
+The Anna Edith obituary names six surviving siblings of Janice (Milburn, Bobby, Clement, Alta, Velma and Charlene). The 1950 census index adds Wilda J. Woodrum, who is not named among Anna's survivors in 2002; she may have predeceased her mother, but that link is not proven. Together these give a seven-person candidate sibling group, excluding Janice:
 1. **Milburn Woodrum** — son, living in Louisville in 2002. A derivative veterans' burial index has a Milburn Jr Woodrum (30 Aug 1928–13 Apr 2003), U.S. Army SFC, Korea, buried Noel Cemetery, Liberty. This is a plausible identity match by name, age, locality and timing, but no source directly connects that Milburn Jr to Anna; retain as provisional.
 2. **Wilda Jean Woodrum Hogue** — the FamilySearch 1950 census index lists Wilda J. in the household; PeopleLegacy's burial aggregation gives Wilda Jean Woodrum Hogue, 1931–1996, buried St. Bernard Cemetery, Clementsville. No original obituary or cemetery register has been inspected; married surname and dates remain secondary-index evidence.
 3. **Bobby Woodrum** — Anna's obituary names a son Bobby. A tempting same-area candidate, Bobby Joe Woodrum (1941–2017), is **not** this son: his 2017 obituary names parents Everett and Rena Grant Woodrum. Excluded.
@@ -59,3 +59,9 @@ The 1950 census index lists six children besides Janice: Clement, Wilda J., Bobb
 6. Any authenticated family photo with caption/provenance.
 
 No paid records were ordered and no family member, funeral home, cemetery or government agency was contacted.
+
+
+## Additional exact-name search and profile consistency correction — 25 November 2026
+Additional exact-name searches for Janice Elaine/E. Woodrum Campbell, the reported 26 November 1937 birth date, Cincinnati, Casey County and the 2002 Anna Edith obituary did not locate a new identity-matched birth certificate, death record or Janice obituary. Search results for unrelated Janice Campbells and unrelated Janice Woodrums were excluded. The open web does not establish whether Janice is deceased or living; continue to show death date, last residence, burial and living status as unknown, and do not add current personal details.
+
+A recheck of the live profile found an outdated sentence in its “Additional Quick-Fact Details” that still described the 1956 marriage as a lead and said its date/place had not been found, despite the original county marriage record already being reviewed. That stale text has now been corrected to state the documented 1 December 1956 marriage to Samuel Eugene Campbell at Clementsville, Casey County. The “proof needed” list was also corrected: the 1956 marriage record is no longer listed as missing; the remaining targets are Janice's original birth certificate and the 1950 census image. The profile was re-fetched and verified after the update.
