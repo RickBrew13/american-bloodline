@@ -124,3 +124,16 @@ A further search pass checked Cincinnati directory digitizations, the 1950 censu
 ### Updated result
 
 This pass adds no verified parent, sibling, spouse, child, birth, death, or property fact for Judy's Ralph. It does, however, eliminate several tempting same-name records and confirms that the next productive step is not to import online family trees, but to obtain a reliable identifying anchor (middle name/initial, birthplace, exact birth date, occupation, or a known relative) and then inspect original census, directory, vital, and deed records.
+
+## 10. Record repositories and next archival targets — 25 November 2026
+
+The next record-level avenues have now been identified more precisely. These are repository leads, not completed searches of every image or index:
+
+- **Cincinnati directories:** Cincinnati & Hamilton County Public Library / Hamilton County Genealogical Society report directory coverage through 1960, with Ancestry holding selected Cincinnati directories from 1942–1960. These directories can include residents, occupation, employer, spouse, and address. The accessible online guide does not itself identify an entry for this Ralph. Sources: https://hcgsohio.org/cpage.php?pt=65 and https://chpl.org/genealogy-history/house-history/
+- **Oklahoma City directories:** a directory inventory identifies year-by-year Oklahoma City volumes including 1956–1960, but the directory images have not yet been examined for this Ralph. Source: https://ldsgenealogy.com/OK/Oklahoma-City-City-Directories.htm
+- **Missouri county marriage records:** FamilySearch describes a collection containing Missouri county marriage indexes and images, including applications, licenses, and certificates. The collection is not proof that a Ralph Hall record exists; a targeted Taney County search/image review remains to be done. Source: https://www.familysearch.org/en/search/collection/2060668
+- **Taney County microfilm inventory:** the Missouri State Archives inventory lists historic Taney County marriage-license volumes, but the indexed marriage coverage shown in the inventory is largely early-period and does not establish a modern Ralph/Judy marriage. Source: https://www.sos.mo.gov/CMSImages/Archives/resources/county/taney.pdf
+
+### Work still outstanding
+
+The Cincinnati and Oklahoma City directories must be searched in the actual images or searchable collection interface, and the Missouri marriage collection must be queried by name and jurisdiction. Taney County's online Recorder systems also need an actual party-name search for deed evidence. None of those searches has been represented as completed in this note. No family relationships are added from repository descriptions alone.
