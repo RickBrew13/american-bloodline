@@ -92,3 +92,54 @@ The profile was re-fetched after this correction and verified. No new spouse, ch
 
 ### Current stop point
 No identity-matched death or burial record for Ruby has emerged. The 1927–2006 Six Mile Cemetery Ruby Mae Moore and the 1923–2016 Ruby Mae Griffin remain excluded namesakes. The highest-value unresolved records are the original 1930 Birmingham census schedule, the original 1945 George Moore marriage page, Ruby's birth record (to resolve the 1930 age 7 versus 1939 age 19 conflict), and an original birth/death/parentage record for the reported George Howard Moore Jr. No paid record was ordered and no outside party or institution was contacted.
+
+
+## Correction: Ruby's 1930 census household was misattributed in an earlier profile pass
+
+The Cornelius Pugh signed-in FamilySearch audit and the corresponding 1930 census household transcription establish that the correct household is **household 208, ED 198, sheet 13B, Birmingham**:
+- Cornelius Pugh, head, age 26, married, born Alabama, machinist / car-wheel industry
+- Rosabelle Pugh, wife, age 22, married, born Alabama
+- Ruby M. Pugh, daughter, age 7, born Alabama
+- Boarders Adam Sheppard and Gercy Sali
+
+The head of household 208 is Cornelius, not Shelton Willis. Shelton and Mattie Willis were the preceding household 207. The earlier Ruby citation **32XF-JPZ** pointed to that adjacent Willis household and is withdrawn as Ruby's census record. Use the census household records **32XF-6PZ** (Cornelius) and **32XF-FPZ** (Rosabelle); Ruby is explicitly listed on the same schedule as their daughter. The live Ruby profile's source text has been corrected to remove the Willis-household attribution and use the correct household reference.
+
+This is a meaningful correction: it independently places Ruby with both named parents in 1930, not merely with Rosabelle in an unrelated boarder household. The original schedule transcription in the FamilySearch pass was read, but the web interface did not permit reopening the image in this session.
+
+## 1945 George Moore marriage — exact index fields
+
+The 5 February 1945 Alabama County Marriages index entry reports:
+- Groom: **George Moore**, age 24
+- Bride: **Ruby Mae Pugh**, age 22
+- Indexed event place: **Prattville, Autauga County, Alabama**
+- Bride's parents: **Cornelius Pugh** and **Rosa Bell White**
+- Groom's parents: **Emmett Moore** and **Sadie Mae Woods**
+- FamilySearch record: https://www.familysearch.org/ark:/61903/1:1/29NV-B74
+
+This confirms the indexed age 22 and county/locality; the original image remains inaccessible. Do not call the groom George Howard Moore as a fact until the original record or another identity bridge supplies the middle name. The reported son George Howard Moore Jr. is not yet independently linked to this groom.
+
+## Birth-year evidence recalibrated
+
+The age statements now compare as follows:
+- 1930 census: age 7 → approximately 1922–1923
+- 1945 marriage index: age 22 → approximately 1922–1923
+- 1939 marriage record: age 19 → approximately 1920
+- 1940 census: age 19 → approximately 1920–1921
+
+Two records point to 1922–1923 and two point to 1920–1921. The 1930 household now securely identifies the subject as Cornelius and Rosabelle's daughter, but it does not resolve the conflict between ages. Retain an approximate 1922–1923 estimate as a working estimate, with the conflicting 1939/1940 ages prominently stated; do not invent a precise birth date.
+
+## Later Alabama marriage-index hints on the FamilySearch tree — unresolved, not yet spouses
+
+The FamilySearch profile source list for Ruby GXPZ-RD2 reportedly includes two additional Alabama marriage-record suggestions dated 1959 and 1971, with name forms “Ruby Mae Pugh” and “Ruby Mae Purgh.” Exact searches of the open web for Ruby Mae Pugh/Purgh plus 1959 and 1971 did not surface an identifiable groom, county, or matching index entry. These tree source hints may be misattached same-name records, spelling errors, or genuine later marriages. Until the source cards and original index entries can be opened and checked for birth date, parents, residence, and previous surnames, do not add either as a spouse or assume she remained in Alabama. This is an open research lead because the user requires every spouse relationship to be investigated.
+
+## 1940 household relationship anomaly to retain
+
+The 1940 census audit places Joseph and Ruby Collins in the household of **Roger Pugh**, who is listed as head, with **Rosa Pugh** as wife; Joseph is identified as nephew and Ruby as niece. The same audit places Cornelius at 615 13th Street in 1950 with wife Rosa. Roger may be Cornelius's brother or another Pugh relative, but no parent record for Roger has been found. It is also not proven that Rosa in Roger's 1940 household is the same woman as Rosabelle, Cornelius's wife in 1930 and 1950. Do not infer a remarriage, household transfer, or sibling relationship from these census entries alone.
+
+Sources for the household and identity comparison:
+- 1930 Cornelius household, FamilySearch 32XF-6PZ: https://www.familysearch.org/ark:/61903/1:1/32XF-6PZ
+- 1930 Rosabelle household, FamilySearch 32XF-FPZ: https://www.familysearch.org/ark:/61903/1:1/32XF-FPZ
+- 1940 Roger Pugh household, FamilySearch V15L-K4R: https://www.familysearch.org/ark:/61903/1:1/V15L-K4R
+- 1945 Ruby–George Moore marriage index, FamilySearch 29NV-B74: https://www.familysearch.org/ark:/61903/1:1/29NV-B74
+
+No new child, additional spouse, death, burial, occupation, property, probate, or photograph was proved in this continuation. Ruby's profile remains open for original 1945 marriage image, 1959/1971 tree-source verification, birth record, later-life census/death/burial, and authenticated photographs.
