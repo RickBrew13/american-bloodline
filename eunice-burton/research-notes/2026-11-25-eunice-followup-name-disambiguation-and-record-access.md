@@ -1052,3 +1052,41 @@ A third-party PeopleLegacy cemetery page claims a 22,039-record Rose Hill burial
 A catalog search surfaced Hodapp Funeral Home records on microform for 1946–1954. That date range does not cover Eunice's 1987 funeral and must not be presented as her file. The relevant inquiry remains directly to Hodapp for a 1987 arrangement book, register, family file, or retained obituary-submission copy; survival has not been established.
 
 - Catalog result describing Hodapp Funeral Home records, 1946–1954: https://ldsgenealogy.com/OH/Hamilton-County-Death-Records.htm
+
+
+
+## Final research pass — 25 November 2026
+
+### Additional child and name-variant searches
+A further exact-name search was run for Demetria Sexton, Elaine Bishop, Anthony Q. Burton, Michael Sexton, Melissa Sexton, Alicea Bishop and Brandy Bishop, alongside Eunice Edna Brewster, Eunice E. Burton, Eunice Whittle and Eunice Taylor. The results returned no reliable primary or independently attributable record connecting a same-name candidate to Eunice. Results for unrelated people and commercial people-search pages were excluded. This does not establish that the children or grandchildren lack records; it means the open identities cannot responsibly be expanded from the accessible indexed web results alone.
+
+### Avery Whittle's later family — cross-check only, not Eunice's children
+Charlotte Ann (Mulvey) Whittle's 2025 obituary independently names Avery Ello Whittle as her husband and describes their eight children, including Theresa and infant daughter Becky. Theresa Whittle's 2016 obituary independently names Avery Ello Whittle as her father and Charlotte as her mother, and names her six surviving siblings plus deceased sister Rebecca Jo. These sources corroborate Avery's later family with Charlotte and the previously identified 1977 death. They do **not** establish when Avery and Eunice's marriage ended, whether a divorce occurred, or whether any of the three children in Eunice's 1987 notice were Avery's children. No such relationship has been added.
+Sources:
+- Charlotte Ann Whittle obituary, 27 May 2025: https://www.charleswsmithandsonsfuneralhome.com/obituaries/charlotte-whittle
+- Theresa Lynn Whittle obituary, 29 November 2016: https://www.charleswsmithandsonsfuneralhome.com/obituaries/theresa-whittle
+
+### Ohio county nurse-register comparison — limits of the Union County index
+The Union County, Ohio official archive confirms that a registered-nurse certificate book survives for 1916–1956 and explains that the entries can identify the nurse, county of residence, date, nursing school and location, certificate number and filing date. This validates the historical 1915-act record mechanism and shows the type of detail such a local register can contain. However, the book covers nurses intending to practice **within Union County**; Eunice's documented adult residence and death are in Hamilton/Butler County. The Union County index is therefore not a likely place to find her, and it has not been treated as a negative search of her name. Butler County remains the relevant county-level custodian to ask about a surviving register or transfer.
+Sources:
+- Union County Probate Court records inventory: https://www.unioncountyohio.gov/Probate-Court-Records/
+- Union County Medical Certificates / nurse-license index: https://www.unioncountyrecordindexes.org/certificates/certificates.php
+
+### Additional Cincinnati and Perry County checks
+Searches for Homer Brewster, Sarah Brewster, Eunice Burton and Elmer Brewster with Perryville/Perrysville, Missouri did not surface a reliable record placing this household in Perry County. Elmer's 1993 obituary remains the only evidence for his prior residence, and its printed spelling is “Perrysville.” Perryville is a plausible spelling correction, not a proven identification. Likewise, another search of Cincinnati directory and nursing-related indexed pages did not identify Eunice by name. These are search limitations, not proof that no such records exist.
+
+### Final status and outstanding source access
+The documentary core of Eunice's profile is strong: her birth/death identity, parents, five siblings, two documented spouse relationships (Avery E. Whittle in the 1947 certificate and Irvin Burton named as husband in her 1987 notice), 1950 household with Avery, registered-nurse occupation as an Ohio death-index entry, children and grandchildren as named in her own notice, and Rose Hill burial location are preserved with source distinctions and caveats. The following cannot be honestly marked resolved without obtaining records from custodians or restricted/interactive collections:
+- original 1987 death certificate (certificate 088337, volume 27087);
+- original SSA application/SS-5 image to resolve the “Willie H” versus “Homer W.” father-field discrepancy;
+- original 1940 census image transcription (DGS 005461366, image 552);
+- 1947 Campbell County marriage application and any separately filed age/consent papers;
+- Eunice's Ohio RN license/application and school/training record (UC Archives class rosters and Ohio Board of Nursing archives);
+- any Butler County probate nurse-registration record;
+- divorce/end-of-marriage record for Avery and Eunice, and marriage record for Eunice and Irvin;
+- Hodapp's 1987 funeral file and Rose Hill's original interment/lot card;
+- newspaper masthead, issue date, page and column for the surviving family death-notice clipping;
+- direct civil/family records for the three named children and four grandchildren;
+- an independently identified portrait or nursing-school photograph.
+
+No archive, cemetery, funeral home, court, government office or library was contacted; no paid record was ordered; and no unsupported person was added. These are not omissions to hide: they are access-dependent items explicitly retained as open work rather than falsely reported as completed.
