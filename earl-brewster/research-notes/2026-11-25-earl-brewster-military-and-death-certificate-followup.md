@@ -42,3 +42,23 @@ The current archive includes Earl's 1953 newspaper portrait, Korea-wounding arti
 5. Cincinnati newspaper death notice around 23–26 March 1959, if a free archive copy can be located.
 
 No paid record access, request, or outreach was used.
+
+
+## Additional H/3/1 monthly roster and departure chronology — 25 November 2026
+A page-by-page recheck of Paul I. Gulick's full H/3/1 history found a clearer chronology than the August-only summary:
+
+- The July 1953 roster lists **PFC Earl Brewster, 1291045/0311**, in H/3/1 (rifleman).
+- The August 1953 roster again lists **PFC Earl Brewster, 1291045/0311**.
+- The October 1953 roster lists him again under the same service number and MOS.
+- The January 1954 roster lists **PFC Earl Brewster, 1291045/0331**. This is a documented MOS change from 0311 (rifleman) to 0331 (machine gunner), consistent with the family newspaper's report that he was a machine-gunner in Korea. The history's general January roster list includes him without a departure notation.
+- The narrative chronology explicitly states that on **Wednesday, 10 March 1954**, PFC Earl Brewster was dropped from H/3/1, alongside 2nd Lt. Paul E. McHale. This is a direct date in the unit history and supersedes the earlier shorthand that merely said the date was in a roster note.
+
+The February 1954 roster list is not a complete company roll and does not include Earl; this absence alone is not used as proof of when he left. The March 10 narrative entry is the affirmative source.
+
+Source: Paul I. Gulick, *H/3/1 Marines in Korea*, revised 2008:
+- Part 1, June 1953 replacement-draft entry: https://thekwe.org/topics/branch_accounts/marine/h31_marines_in_korea_part_1.pdf (lines 11503–11516)
+- Part 1, 10 March 1954 departure entry: same PDF (lines 13146–13158)
+- Part 3, July/August/October 1953 and January 1954 rosters: https://thekwe.org/topics/branch_accounts/marine/h31_marines_in_korea_part_3.pdf (lines 11115–11120, 11454–11458, 11734–11743, 12204–12209)
+- Part 3, January 1954 roster also shows his MOS as 0331: lines 12204–12209.
+
+The Earl public profile has been updated to show the 0311 → 0331 MOS transition and the 10 March 1954 H/3/1 departure date. The profile was re-fetched and verified. This does not establish his full Marine Corps discharge date or the exact date he returned to the United States; the service file and discharge papers remain needed for that.
