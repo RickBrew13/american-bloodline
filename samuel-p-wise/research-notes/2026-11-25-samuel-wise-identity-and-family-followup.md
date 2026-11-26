@@ -48,3 +48,45 @@ Deer Park and Norwood are in the Cincinnati region, geographically consistent wi
 6. Birth record for Sam “Skip” Wise naming his father.
 
 No paid records were ordered, no family member or institution was contacted, and no source file was moved or duplicated.
+
+
+## New compiled Wise / Tipton family-group expansion — 25 November 2026
+
+A FamilySearch compiled profile for **Samuel Preston Wise (1913–1989)** aligns with the probable 1913–1989 Samuel P. Wise identity match already in this folder. It names his parents as **Richard Hood Wise (1882–1960)** and **Millie Ann Tipton Wise (1888–1969)**, married in Estill County, Kentucky, in 1909. The marriage date conflicts: FamilySearch gives 15 February 1909; the older Ole.net Tipton genealogy gives 1 February 1909. The original marriage register has not been inspected, so only the year is treated as settled.
+- FamilySearch, Millie Ann Tipton Wise: https://ancestors.familysearch.org/en/LDJM-QD1
+- Ole.net Tipton genealogy: https://www.ole.net/~maggie/antrim/tipton.htm
+
+### Reported siblings of Samuel Preston Wise
+The FamilySearch profile lists six children of Richard and Millie:
+- Elijah Wise (1910–1910)
+- Marjorie Wise (1911–1911)
+- Samuel Preston Wise (1913–1989)
+- Wallace Ray Wise (1918–1987)
+- Otha Elmer Wise (1921–2003)
+- Warren Calvin Wise (1925–1955)
+
+These are reported siblings of the probable Samuel P. Wise in this profile, and therefore Monica's reported aunts/uncles. The Wise Cemetery #2 aggregation separately lists Samuel Preston, Marjorie and Warren Calvin Wise, supporting the family cluster. The identity match and sibling group remain compiled/derivative rather than proven by the original birth, census or death records.
+- PeopleLegacy, Wise Cemetery #2: https://peoplelegacy.com/hazel_embs_taylor_merrill-5q1b5C
+
+### Reported grandparents and earlier ancestry
+FamilySearch's compiled profile for Richard Hood Wise identifies his parents as **William Preston Wise (1859–1935)** and **Sarah Elizabeth Chaney (1857–1894)**. FamilySearch's profile for Millie Ann identifies her parents as **Samuel Tipton** (birth year varies 1862/1863/1865; died 1955) and **Mary Emma McIntosh** (1862–1925).
+- Sarah Elizabeth Chaney: https://ancestors.familysearch.org/en/KG12-L39/sarah-elizabeth-chaney-1857-1894
+- Mary Emma McIntosh Tipton: https://ancestors.familysearch.org/en/K8V3-DPJ/mary-emma-mcintosh%2C-tipton-1862-1925
+
+A WikiTree profile leaves William Preston Wise's mother unknown and identifies his father as **David T. Wise**. The 1880 Estill County marriage transcription for William Preston Wise and Sarah Chaney says William's father was born in Clark County and his mother in Estill County, but does not name his mother; David T. Wise performed the ceremony and is identified by the compiler as William's father. Do not assign Mary Ann Spry as William's mother: she is listed as the mother of his half-siblings, not William.
+- WikiTree, William Preston Wise: https://www.wikitree.com/wiki/Wise-1144
+
+The WikiTree profile for David T. Wise reports his parents as **John Alexander Wise** (1818–1892) and **Drucilla King** (1823–1895), but this is compiled-only and has not been independently verified. Sarah Elizabeth Chaney's parents are reported as **Joseph Chaney** and **Nancy Tipton**. Mary Emma McIntosh's parents are reported as **William Stewart Irving McIntosh** and **Mary Jane Johnson**.
+
+### Samuel Tipton parentage and spouse-history warning
+The KYGenWeb / Ole.net Tipton genealogy claims Samuel Tipton (born 1863, died 1955) was a son of William H. Tipton, but the same tree's own child list for William H. and Malinda omits Samuel and lists only children born 1844–1850. A separate Hiatt compilation gives Samuel's birth as January 1865 and death as 18 September 1955, but does not expose his parents in the accessible entry. Samuel's parentage is therefore **unknown**; do not attach William H. Tipton and Malinda Crowe as his parents.
+
+The same sources disagree about Samuel's spouses:
+- Mary Emma McIntosh, married 21 March 1887, is consistently named as wife and mother of Millie Ann.
+- Hiatt also lists a later marriage to Martha Ann Brinegar (1890–1963), but no date is provided in the accessible excerpt.
+- Ole.net lists Samuel and Martha as parents of Ora Lee (1907) and Marcella (1909), while Mary Emma was still living (died 1925). This may reflect two same-name Samuel Tiptons or a conflated tree; no second marriage or parentage assignment is adopted.
+- Hiatt family compilation: https://www.hiattfamily.net/gen/lda-2014-10-03/aqwg10828.htm
+- KYGenWeb Estill County Tipton family page: https://mail.kygenweb.net/estill/site/family/families/tipton/
+
+### Profile treatment
+The public Samuel P. Wise profile now lists Richard Hood Wise and Millie Ann Tipton Wise as **reported parents**, and the five other children in the compiled family group as **reported siblings**, conditional on the Samuel Preston Wise identity match. The family is not upgraded to primary-record proof. No occupation has been assigned from the two possible patent matches. The original birth/death certificates, 1909 marriage image, 1950 census schedule, cemetery register and Samuel's own obituary remain outstanding.
