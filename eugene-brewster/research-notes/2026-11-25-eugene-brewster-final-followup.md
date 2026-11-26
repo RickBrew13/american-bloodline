@@ -64,3 +64,18 @@ Additional exact-name searches did not locate an attributable public obituary fo
 
 ### No profile change
 No new person-level fact met the threshold for changing Eugene's public profile. His existing profile's statements about birth year, death, parentage, siblings, spouse leads, children, and burial remain as qualified in the earlier research note. The open primary-record list remains: death certificate 071732/vol. 25392; Greenlawn interment card; original 1940/1950 census images; Yvonne/Eugene marriage/divorce records; original 1977/1979 Carol certificates; and children's birth records. No paid record was ordered and no outside party was contacted.
+
+
+## Additional newspaper and local-record repository audit — 25 November 2026
+
+A direct inspection of the Cincinnati & Hamilton County Public Library's current Newsdex portal confirms that it is a searchable Datasette index of 1,886,384 records, including newspaper death notices and obituaries. Its indexed records provide title, publication date, newspaper name, citation/page and subject terms. The portal's general search is publicly accessible without a library card; the full-text newspaper-image databases (Cincinnati Enquirer/ProQuest and Cincinnati Post/NewsBank) require library-card access. The public web-search index did not return an indexed Eugene Brewster hit, and the portal's search interface could not be executed through this research session. This is an access boundary, not a negative result from a completed Newsdex database query.
+- Newsdex portal: https://newsdex.chpl.org/
+- CHPL resource descriptions: https://chpl.org/resources/magazine-newspaper-articles/
+
+The 1983 death date and county in the Ohio death index place the highest-priority record at Ohio Department of Health: certificate 071732, volume 25392. The 1940/1950 census images are linked in the existing family notes, but the original 1950 handwriting/occupation line remains to be read directly. No new occupation, employer, military service, property deed, probate record, court record, exact birth date, or portrait was established in this pass.
+
+## Current Eugene-specific completion boundary
+
+Eugene's parentage and sibling group are strongly established by the original family obituaries in the archive. His death date and burial section/lot are supported by the Ohio death index and cemetery memorial/stone. His marriages and children remain less secure: Yvonne's 1959 marriage to Eugene and the attribution of Robert, Melanie and Martin are presently based on a compiled family tree plus separate index evidence; Carol's 1977/1979 Kentucky marriage entries are indexes pending the original certificates. The live profile must continue to label these accordingly and not promote them as fully proven.
+
+No changes to Eugene's public profile or family-tree JSON were justified by this pass. No records were ordered, no paid database was accessed, and no outside institution or relative was contacted.
