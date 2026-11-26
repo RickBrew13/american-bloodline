@@ -43,3 +43,21 @@ An obituary for Bentley Haze Clark (born 6 June 1948 in Rockcastle County, Kentu
 ### Case identifier recovered from Judy's prior research
 
 The previously recorded Hamilton County divorce reference is **case certificate 035410 / volume 05370 (1984)**, associated in the earlier index research with Larry Clark and Judith M. This remains a possible match pending the full file. The case should be requested by both the certificate and volume identifiers, and the names/date in the original petition and decree must be checked before using it to establish marriage dates, separation, children, or property details.
+
+## 2. New Clark-family cluster from a second sibling obituary — 25 November 2026
+
+A newly located obituary for Vicki Lynn (Clark) McNew (born 23 July 1953 in Hamilton, Ohio; died 25 October 2026) independently names the same sibling cluster as Bentley Haze Clark's 2007 obituary. Vicki's obituary identifies her parents as **Albert Haze Clark** and **Ruth Greenfield** and lists as deceased siblings **Peggy Meadows, Judy Clark, Bentley Haze Clark, Larry Clark, and Gary Clark**; it also names sister Mary Greenfield as surviving. This corroborates that a Larry Clark was a son of Albert Haze Clark and Ruth Greenfield and sibling of Bentley, Vicki, Judy, Peggy, Gary, and Mary in that Clark family. Sources: https://www.chismfamilyfunerals.com/obituary/Vicki-McNew and https://www.browndawsonflick.com/obituaries/bentley-clark
+
+### Critical identity caution
+
+This is a **documented Clark-family candidate**, not yet a proven match for Judy Palmer's husband and Barry's father. The Judy Clark in this sibling group may or may not be the user's Judy; the obituary provides no maiden name or birth/death dates for that sister. It would be especially unsafe to assume that the sibling Larry is the same Larry who fathered Barry. No source located so far connects this sibling Larry to Barry, to Judy Palmer, or to the 1984 Hamilton County divorce index. The cluster should be investigated as a separate candidate family until those links are established.
+
+### New research targets from this clue
+
+- Search for the original birth/census records of Albert Haze Clark and Ruth Greenfield and their children, especially Larry and Judy.
+- Determine Larry's full name, birth date, spouse(s), children, residences, and death date from independent records.
+- Determine whether the sister Judy Clark's age and life history could match Judith Mae Palmer (born 9 February 1939, died 7 June 2006). The dates are not yet confirmed for the sibling Judy.
+- Search for the 2007 Bentley and 2026 Vicki obituaries' named nieces/nephews (including Summer Fry and Billy Ray Canull) only as family-cluster clues, not as proof of the target identity.
+- Compare this cluster against the 1984 Hamilton County case (certificate 035410 / volume 05370) and the city-directory entries transcribed as “Larry Clark & Judith Palmer” / “Judy M Clark.”
+
+This is the first meaningful potential parent/sibling lead for a Larry Clark in the same broader Hamilton County region, but it is not yet a safe addition to Larry's public family tree.
