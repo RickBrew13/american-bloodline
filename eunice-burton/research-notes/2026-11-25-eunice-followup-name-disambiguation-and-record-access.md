@@ -595,3 +595,32 @@ Sources:
 - U.S. Cadet Nurse Corps site: https://uscadetnurse.org/weremember
 
 No attendance or graduation claim has been made for Eunice. The next actionable research target is a name search in Ohio's 1973 nurse inventory / surviving historical license records, followed by the Mercy Hospital Hamilton school/alumnae records if the Board's record identifies Mercy or if the Board cannot identify the school.
+
+
+## Important refinement: UC's class records include student rosters (not merely administrative papers) (26 November 2026)
+
+A second University of Cincinnati Archives article, “College of Nursing Records Now Available in ARB,” gives the decisive description missing from the short finding-aid summary: the College of Nursing and Health collection (1940–2004) includes **class records from 1946–1987 with student rosters, schedules, correspondence and ephemera**. This is a direct name-search candidate for Eunice if she trained at Cincinnati General Hospital/UC, not merely a broad institutional archive. The collection is 106 linear feet; the article gives the actual UA-13-02 finding-aid PDF URL. The older College of Nursing Alumni Files (1891–1940) are less relevant to Eunice's likely training period.
+
+- UC Archives, “College of Nursing Records Now Available in ARB” (2013): https://libapps.libraries.uc.edu/liblog/2013/02/college-of-nursing-records-now-available-in-arb/
+- UA-13-02 College of Nursing finding aid: https://libraries.uc.edu/documents/UA-13-02_College_of_Nursing.pdf
+- UC Archives contact / finding-aid overview: https://www.libraries.uc.edu/libraries/arb/collections/university-archives/ua-collections.html (archives@ucmail.uc.edu; many boxes off-site, allow up to two weeks)
+
+This collection should be searched for Eunice Edna Brewster, Eunice E. Brewster, Eunice Whittle, Eunice Burton and Eunice Taylor. The student rosters may also distinguish whether she attended the UC/Cincinnati General program or a different area nursing school. No roster has been searched for her name yet.
+
+## Ohio probate nurse-registration volumes: corroborated statewide practice, but local series still unconfirmed
+
+The Ohio 1915 Nurse Practice Act created a statewide registration process requiring nurses practicing after 1 January 1916 to receive a state certificate and file it with the probate judge in the county where they practiced. Official county archive pages provide concrete examples of how those records survive:
+- Union County Probate Court has one chronological registered-nurse record volume, 1916–1956. Its register contains certificate number, nurse's name, county of residence, date, degree-granting nursing school and location, state board signatories, filing date and probate judge.
+- Shelby County Probate Court says medical registrations, including nurses, survive from 1928–1977 on microfilm/microfiche.
+- Warren County's 2021 probate retention schedule lists medical-professional registration records, including nurses, as permanent paper/microfilm.
+
+These independent examples confirm that historical Ohio nurse certificates could be filed locally and may preserve the school name. They do **not** prove that Butler or Hamilton County has a surviving register. The next local inquiry should ask both Probate Courts specifically for a “registered nurse certificate / nurses' records” volume created under the 1915 act, and if not held, ask for the record series transfer/disposition schedule. Do not treat a general medical-professionals register from another county as proof for Butler/Hamilton.
+
+- Union County Probate Court, Nurses Records 1916–1956: https://www.unioncountyohio.gov/departments/Archives/probate-court-records
+- Shelby County Probate Court, Medical Registrations 1928–1977: https://shelbycoprobate.org/probate-records-maintained/
+- Warren County Probate Court RC-2, HR-09: https://www.warrencountyohio.gov/RecordsCenter/doc/RetentionSchedules/Probate.pdf
+- Ohio Board history and 1915/1941/1973/1986 timeline: https://ohnurses.org/wp-content/uploads/edd/2014/02/Legal-Reg-Book-Formatted-6.pdf
+
+The 1941 State Nurses Board / 1955–1988 State Board of Nursing Education and Nurse Registration archive classification also lists OY N 77.15/2, “Nurse inventory.” This is a separate state-level route from county probate certificate books. No surviving inventory or individual Eunice entry has yet been obtained.
+
+- Ohio Archives classification: https://dam.assets.ohio.gov/image/upload/library.ohio.gov/government-documents/oh-classification/OH_classification_independent_N.pdf
