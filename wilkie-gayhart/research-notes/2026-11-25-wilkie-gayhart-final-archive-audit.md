@@ -49,3 +49,26 @@ This is a concrete public property-transfer index entry and should be followed t
 ## Profile changes
 - Added the 1983 deed-index entry as a qualified property lead and added the exact Book/Page retrieval target.
 - No other person's profile, family-tree JSON, homepage, site design or source file was changed. No outside party or institution was contacted and no paid record was ordered.
+
+
+## New federal bankruptcy docket index and archival status — 25 November 2026
+A further court-record search located Wilkie in the official Eastern District of Kentucky bankruptcy court's 1991 closed-case index:
+- Case number: **91-10397**
+- Debtor: **Wilkie Gayhart**
+- Transfer number: **021-94-0511**
+- Location number: **H0115311**
+- Box: **8 of 163**
+
+This is an official court index confirming a bankruptcy case filed under Wilkie's name in 1991. The index does not state the chapter, filing date, debts, assets, property, employer, spouse, case outcome or discharge. Do not infer any of those details.
+
+The court's “Cases at Federal Records Center” page explains that Eastern District of Kentucky bankruptcy cases filed before 1 August 2002 were paper files, transferred to the Federal Records Center/NARA after closure. General bankruptcy files are retained for 15 years and then may be destroyed; files closed more than 15 years ago have likely been destroyed or slated for destruction. Since Wilkie's 1991 case is now far beyond that retention period, the underlying file is likely unavailable. The court's published FRC instructions say an extant file would require the transfer number, location number, box number, case-file name and case number; all except the actual file name are supplied by the 1991 index.
+- Official 1991 closed-case index: https://www.kyeb.uscourts.gov/1991-closed-cases
+- Official court guidance on archived cases: https://www.kyeb.uscourts.gov/node/71
+
+The public Wilkie profile was updated with this court-index fact and the archival limitation, without inventing financial details. It was re-fetched and verified after the update.
+
+## Property record access clarification
+The Hamilton County Recorder's current Acclaim Book/Page page is an interactive form. The Recorder's help pages say book/page lookups are used to retrieve historic documents, but the 1983 index entry's book 14256/page 1075 was not successfully retrieved as an underlying deed image in this pass. The Recorder's published guidance recommends starting with the County Auditor's property search to identify parcel history, then using the Recorder's index/book-page lookup. The 1983 grantor/grantee index alone does not prove Wilkie purchased the property or reveal an address.
+- Recorder's Book/Page inquiry: https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive/Search/SearchTypeBookPage
+- Recorder's search instructions: https://recordersoffice.hamilton-co.org/helpful_information/how_to_search_pdi.pdf
+- 1983 indirect index: https://recordersoffice.hamilton-co.org/deed_indexes/di1983tetrg.pdf
