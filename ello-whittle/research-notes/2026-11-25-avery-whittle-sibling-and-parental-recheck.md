@@ -141,3 +141,19 @@ A targeted review of official Indiana archival guidance and Henry County local-h
 - No specific occupation after the 1950 gardener/distillery entry, real-estate ownership, probate, court case, diagnosis, or additional portrait has been documented. The existing Army portrait, headstone and 1977 obituary clipping remain the only attributable images in the folder.
 
 No paid access was purchased, no record was ordered, and no institution or relative was contacted.
+
+
+## 26 November 2026 — 1940 household name discrepancy
+The current Avery profile's 1940 census index citation (FamilySearch ID **K7YT-RJT**) identifies Avery as “Ello Whittle,” age 13, son of widowed Stanton B. Whittle, and lists the other household members as **Gracy, Shirley, Imogene, Calvin, Norma G. and Veldene Whittle**. The profile's sibling roster instead includes **Marie (Whittle) Stacey** (about 1930–2001) and does not list an Imogene. The 1977 Avery obituary names **Mrs. Marie Stacey** among his five surviving sisters, which independently confirms Marie as a sister, but does not explain the “Imogene” in the 1940 index.
+
+Possible explanations include a FamilySearch indexing/transcription error, a full/middle name variant (e.g. Marie Imogene), or an additional child not yet represented in the sibling roster. Do not create a separate Imogene sibling or merge her with Marie until the original 1940 schedule image is inspected. The NARA enumeration-district descriptions narrow the Russell County Magisterial District 3 household to EDs 104-6 through 104-9, but the household's exact ED/page has not yet been identified.
+
+The 1977 obituary clipping was re-read directly: it names five surviving sisters—Marie Stacey, Pearl Coffey, Veldean Beckner, Grace Eastham and Norma Jean Wilson—and two surviving brothers—Calvin Whittle and Shirley Whittle. This matches seven living siblings in the current family tree; the other four named siblings (Anna, Heasby Earl, Ulissus and Gearlind) died before Avery's 1977 obituary and are not expected among the survivors.
+
+Sources:
+- FamilySearch, 1940 census index for Ello Whittle, ID K7YT-RJT: https://www.familysearch.org/ark:/61903/1:1:K7YT-RJT
+- National Archives, 1940 census ED description resources: https://www.archives.gov/research/census/1940/start-research
+- Original 1977 obituary clipping, already preserved in `documents/Avery-Ello-Whittle-1977-obituary-clipping-Drive-original.png`.
+
+## 26 November 2026 — birth-date conflict cross-check
+The profile's three date sources remain distinct: the headstone/family record and Kentucky birth index say **4 January 1927**; the original 1944 draft card says **2 July 1926**; the BIRLS index says **26 July 1926**. The 1947 marriage certificate reports Avery as 22 on 23 July 1947, which fits none of those dates (he would have been 21 on 2 July 1926, 20 on 26 July 1926, or 20 on 4 January 1927). The 1977 obituary says age 50, which is consistent with either the 1926 or 1927 date. No birth date is changed; the original Kentucky birth certificate or SSA application is needed.
