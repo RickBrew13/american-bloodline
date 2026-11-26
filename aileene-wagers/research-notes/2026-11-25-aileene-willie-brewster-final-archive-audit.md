@@ -50,3 +50,32 @@
 4. Full Corbin Times-Tribune obituary, 6 January 2009, for Charlene.
 5. Brewstertown Cemetery burial/interment register.
 6. Aileene's 2015 Kentucky death certificate and any surviving funeral-home file.
+
+
+## New 1988 employment record and 2006–2011 property lead — 25 November 2026
+
+### Alaska Railroad Corporation employee roster
+A targeted search for the name variants Aileene/Aileen Gilpin found her in the official **Alaska Railroad Corporation 1988 Annual Report**, page 21, in the alphabetized employee list headed “These are the employees who helped make 1988 a successful year.” The printed name is **AILEENE W. GILPIN**. This is a direct contemporary corporate record and establishes that a person by that exact name was an Alaska Railroad employee in 1988. It does not state her job title, department, dates of employment, city of residence, or whether she was physically based in Alaska during the year. Given the matching middle initial and surname, and the later West Palm Beach obituary, this is a strong candidate identification, but retain the exact scope of what the annual report proves.
+- Alaska Railroad Corporation, *1988 Annual Report*, page 21, employee roster: https://www.alaskarailroad.com/sites/default/files/Communications/1988_ARRC_Annual_Rpt.pdf
+
+The live Aileene profile now lists “Alaska Railroad Corporation employee (1988; job title unknown)” and adds a 1988 timeline entry. It does not infer a specific occupation or residence. The page was re-fetched and verified after the update.
+
+### Candidate Laurel County real-estate transactions
+A Homes.com public-record property history for a Corbin, Kentucky parcel reports a buyer/seller named **Gilpin Aileene**:
+- 19 October 2006: “Gilpin Aileene” shown as buyer.
+- 9 February 2011: “Gilpin Aileene” shown as seller to Coscia Properties LLC.
+
+The dates overlap the prior FamilySearch public-record index's Corbin residence entry for Aileene W. Gilpin in 2006, and the exact surname/given-name match makes this a useful property lead. It is not yet proven to be the same Aileene: the Homes.com page is a secondary aggregator and no original deed, parcel card, middle name, spouse, or legal description was inspected. No address or sale amount has been copied into the public profile.
+
+Laurel County Clerk confirms that deeds and land records are held by the Clerk and can be searched through eCCLIX; registered online access is subscription-based, while non-subscribers can inspect records in person. The Kentucky Department for Libraries and Archives explains that deed indexes identify grantor/grantee, instrument type, recording date, book/page and description/location. The correct next step is to check the official grantor/grantee index for Gilpin Aileene in 2006 and 2011, retrieve the original deed instruments, and compare parcel ownership/identity before attributing the property.
+- Homes.com candidate history: https://www.homes.com/property/1506-7th-street-rd-corbin-ky/r658nd63jj0g8/
+- Laurel County Clerk official records page: https://laurelcountyclerk.ky.gov/records/
+- KDLA, Kentucky land records research guide: https://kdla.ky.gov/Archives-and-Reference/Documents/ResearchGuide-Kentucky_Land_Records.pdf
+
+The profile's property statement is now carefully qualified as an unverified same-name lead. No private address or financial details were added. The profile was re-fetched and verified after the change.
+
+## Revised open-record priorities
+1. Retrieve the original 2006 and 2011 Laurel County deeds for Gilpin Aileene through eCCLIX or in-person inspection; establish whether the grantee/grantor is Aileene Willie Brewster Gilpin and whether both entries concern the same parcel.
+2. Search Alaska Railroad personnel/payroll or employee directories for the 1988 employee to identify department, job title, start/end dates and location. The annual report alone does not provide those details.
+3. Continue with the already identified death certificate, Charlene obituary, and Brewstertown cemetery interment-register targets.
+No paid subscription, deed copy, or outside request was made. The only profile change was adding the sourced 1988 employee roster and qualifying the same-name property lead.
