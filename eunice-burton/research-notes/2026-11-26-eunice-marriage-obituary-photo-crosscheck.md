@@ -31,3 +31,21 @@ Rechecked all existing files in `eunice-burton/img/`, `documents/`, and `img/fam
 7. A verified portrait or family photograph of Eunice.
 
 No record was ordered, no fee paid, and no institution, relative, funeral home, cemetery or government office contacted. No new spouse, child, parent, grandchild, or image was added from an unlinked name match.
+
+
+## Additional vital-record and descendant search — 26 November 2026
+
+### Birth certificate retrieval
+The Hamilton County Genealogical Society's official birth-record guide confirms that Ohio statewide birth registration began on 20 December 1908 and that the Ohio Department of Health holds certificates from that date onward. For a Cincinnati birth, the City of Cincinnati Health Department is also a named local issuing office. This confirms that Eunice's 22 December 1930 birth certificate is a real, targeted record to obtain; no online image or index entry was located in this pass.
+
+The Hamilton County Probate Court Archive Search landing page says its historical archive includes birth records, birth registrations and corrections, with varying date ranges. Its linked archive endpoint returned a 404 through the available browser, and the guide identifies the probate court's historic general holdings but does not prove the 1930 certificate is in that archive. The state/local health department remains the direct custodian for the 1930 certificate.
+
+Sources:
+- Hamilton County Genealogical Society, Births & Baptisms / post-1908 birth records: https://www.hcgsohio.org/cpage.php?pt=262
+- Hamilton County Probate Court, Public Inquiry and Archive Search description: https://www.probatect.org/recordsearch/
+
+### Named children and descendant checks
+Ran separate exact-name searches for Demetria Sexton, Elaine Bishop and Anthony Q. Burton with Hamilton/Butler County, Ohio, and with Eunice/Irvin/Brewster. The results did not provide a source that safely links a same-name person to Eunice's named children or identifies spouses/descendants. One Demetria Lawrence obituary from Lansing, Michigan was unrelated on its face (different named parents) and was excluded. An Anthony Q. Burton people-directory hit was not used: a people-search directory is not a genealogical source and does not establish identity or family relationships. The four grandchildren remain only as named in Eunice's 1987 death notice; the notice does not map each grandchild to a specific child. No descendant was added from a name-only match.
+
+### Status after this pass
+The birth certificate, death certificate, SS-5, county marriage/divorce instruments, nursing-license file, funeral/interment files and newspaper source citation still require access from custodians or restricted databases. These are not silently treated as completed. No paid order, email, call or archive request was submitted.
