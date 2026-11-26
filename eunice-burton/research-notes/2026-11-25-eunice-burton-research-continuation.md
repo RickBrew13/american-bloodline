@@ -265,3 +265,11 @@ New research implications:
 - The image itself still needs a high-resolution handwriting read. The 1940 indexed birth state “Ohio” does not itself prove Cincinnati as the city; the Cincinnati city birthplace comes from the Social Security record compilation. Keep those source distinctions visible.
 
 **Eunice's live profile now links to her own 1940 census index and image, explicitly noting that the image handwriting has not yet been reliably transcribed.**
+
+
+### Elmer's original 1993 obituary image inspected — fourth independent family notice
+- Retrieved and visually inspected the original *Palm Beach Post* obituary image already preserved in `elmer-brewster/documents/Elmer-Brewster-1993-Palm-Beach-Post-obituary-Drive-original.jpg` (blob SHA `935c4df24a274455e473d4ff6cf9a98da177bdf4`). The article is “ELMER BREWSTER,” 22 August 1993, page 28 (printed page 7B). It states that Elmer, 58, died Saturday, 21 August 1993, in the West Palm Beach area. His survivors included his wife Mary Jane, five children, brother Homer Brewster Jr., sister Aileene Gilpin, and ten grandchildren; it then says he was predeceased by twin brother Earl, brother Eugene, sister **Eunice Burton**, and parents **Homer and Sarah Brewster**.
+- This is another contemporary family notice, independent of Eunice's 1987 notice, Sarah's 1987 obituary, and Homer Sr.'s 1991 obituary. It explicitly calls Eunice Elmer's sister and identifies their parents as Homer and Sarah. The four family notices now agree on Eunice's parentage and the sibling group; Aileene's 2015 obituary independently repeats the same deceased siblings.
+- Elmer's original clipping remains in Elmer's archive and was not copied. Eunice's profile now links to that canonical image as a cross-person source; Elmer's profile and folder were not edited.
+
+**This is source-level corroboration from an original newspaper image, not a newly obtained newspaper order.**
