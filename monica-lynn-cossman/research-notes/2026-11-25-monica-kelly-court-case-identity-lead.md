@@ -147,3 +147,18 @@ A 2020 obituary for **Rosemary Simpson Breeden** names a daughter **Monica Court
 - Legacy transcription: https://www.legacy.com/us/obituaries/grantky/name/rosemary-breeden-obituary?id=9125669
 
 This reinforces that the Madeira High School class-of-1975 entries for Monica Wise and Monica Courtney should not be assumed to describe the same woman. The class directory could list two different Monicas. The Monica Wise entry is the more relevant one to this subject, but it is still only an unverified alumni-directory lead; the Monica Courtney entry may be a separate classmate.
+
+
+## Likely Monica Kelly / Courtney identity chain — stronger cross-source assessment
+
+The 2004 Ohio appellate opinion identifies its defendant as **Monica Kelly (Courtney)**. Virginia G. Wise's 2006 obituary identifies daughter **Monica Kelly**. Monica's 1976 marriage license in this folder identifies **Monica Lynn Wise**, daughter of Samuel P. Wise and Virginia Greiner. The 1975 AllHighSchools Madeira class list also contains **Monica Wise**. These sources share the same uncommon first-name/surname sequence, Cincinnati-area geography, and plausible age chronology. Together they make it **likely** that the 2004 Monica Kelly (Courtney) is the same woman as the 1976 Monica Lynn Wise and the 2006 Monica Kelly, but the connection is not yet documentary proof because the court opinion supplies no birth date, parents or former surname.
+
+The 2004 court opinion says this Monica had a **17-year-old son in 1996**. That is a potentially useful clue for identifying her children, but the opinion does not name the son. It could be one of the Cossman sons already linked to Stanley's family, or another child; do not assign it to Samuel or Matthew without a birth record, school record, or family obituary that explicitly bridges the identity. The 2016 Kathryn Cossman obituary and 2024 Anthony Wills-Cossman obituary establish a shared family network around Samuel, but they do not name Monica Lynn as Samuel's mother or say which side Monica Hackbarth belongs to.
+
+Working surname sequence to test, not to publish as fact: **Wise (1976 marriage license) → Cossman (Stanley marriage) → Kelly (Virginia's 2006 obituary) → Courtney (2004 court caption, n.k.a.) → possible Hackbarth (2024 grandparent reference)**. The sequence may be incomplete or may combine namesakes. No marriage certificate or court name-change order has yet been found for the transitions after Cossman.
+
+This raises the priority of the following record searches:
+1. Hamilton County/Butler County marriage indexes for Monica Lynn Cossman, Monica Kelly, Monica Courtney, and any later Hackbarth marriage.
+2. Divorce and dissolution indexes for Monica and Stanley Cossman, and any Monica Kelly/Courtney marriage.
+3. Birth records for the children named in Stanley's obituary and the son implied by the 1996 court opinion.
+4. The underlying Butler County Area III case file CVF001022, which may contain additional name, family, or residence evidence beyond the published appellate opinion.
