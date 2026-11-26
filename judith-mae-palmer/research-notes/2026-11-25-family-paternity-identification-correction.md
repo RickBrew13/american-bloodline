@@ -22,3 +22,10 @@ The shared Spring Grove headstone identifies Judy as Barry's mother and records 
 - The shared headstone alone does not name Barry's father.
 
 This is a correction to research wording, not a claim that a new birth or court record has been obtained.
+
+
+## Further family clarification — 25 November 2026
+
+The family confirms that Barry had **HIV/AIDS**. Preserve this as family-provided information in Judy's and Barry's family histories. Do not remove it merely because a medical record has not been located, and do not state or imply that it was the cause of death.
+
+The family is **not certain whether Barry died before or after Judy**. An earlier family recollection said Barry died first, but the user has now withdrawn certainty about that detail. Do not repeat either order as a family conclusion. The dates transcribed from the shared headstone and death indexes may be listed as source transcriptions, but do not use them to make a separate narrative claim about the order of deaths until the underlying records are rechecked.
