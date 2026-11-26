@@ -31,3 +31,14 @@ Supported by her mother's obituary: a daughter Monica Kelly and brother Sam “S
 Unresolved: Monica's death/current status, any later spouse or marriage, any children, and whether she is the Monica Kelly in the 2004 Butler County appellate case. The compiled Ancestry claim that she was Sam Cossman's mother remains unproved.
 
 No profile, family-tree JSON, other person's profile, Drive original, or source file was changed. No paid record was ordered and no one was contacted.
+
+
+## New possible later surname: Hackbarth — another identity lead
+A separate 2024 Hodapp Funeral Homes obituary listing for **Anthony Wayne Wills-Cossman** identifies him as the son of **Samuel Cossman and Dena Thompson**, names siblings Samuel Cossman, Andrew Wills, Bri Grubenhoff, Cody Cossman, Michael Cossman, Keira Cossman and Cooper Cossman, and calls **Monica Hackbarth** his grandmother. Anthony died 2 November 2024 at age 27.
+
+Source: https://www.hodappfuneralhome.com/obituaries?page=47
+
+This is relevant because the existing Generation IV family data names Sam Cossman's mother as Monica Lynn Cossman (but correctly grades that link as unproved), and several of the siblings in the obituary overlap names already recorded in Sam's family notes. If Monica Hackbarth is Anthony's paternal grandmother, she may be a later identity/surname lead for Monica Lynn Wise/Cossman. The obituary does not say whether Monica is the paternal or maternal grandmother, however, and it supplies no birth date, maiden name, or former surname for Monica Hackbarth. A public-record aggregator's apparent Tennessee results are not reliable enough to bridge the identity.
+
+**Do not merge Monica Hackbarth with Monica Lynn Wise/Cossman yet.** The name is recorded only as a lead. It does not establish that Monica was Sam's biological mother, that she married a Hackbarth, or that Anthony and the other named children are her grandchildren. The next useful proof would be an identity-linked marriage/name-change record for Monica, or a birth/parentage record for Sam that names his mother.
+
