@@ -1,48 +1,38 @@
-# Rosabelle Pugh / Grant / White — family-structure research
+# Rosabelle Pugh / Grant / White — family structure and Gen VII parent update
 
 **Research date:** 25 November 2026 (America/New_York)  
-**Profile:** [Rosabelle Pugh (Grant / White forms unresolved), Generation VI](https://rickbrew13.github.io/american-bloodline/rosabelle-pugh/)  
-**Scope:** Parents, siblings, children, spouses; identify any Gen VII candidates only when evidence supports the relationship.
+**Profile:** [Rosabelle Pugh](https://rickbrew13.github.io/american-bloodline/rosabelle-pugh/)  
+**Generation:** VI; parents are carried as working assignments in Generation VII.
 
-## Results
+## Parents — names retained and linked
 
-### Child(ren)
+Rosabelle’s existing profile named **William Grant** and **Mattie Lee** as her parents, attributing the names to compiled family trees. These exact names are carried forward into linked Gen VII profiles and individual GitHub folders. The earlier profile did not preserve the underlying tree citations, and this pass did not recover the tree identities or find an original parent-child record. This is a working family-tree assignment, not independently documented parentage. Their marriage to one another is not established.
 
-Ruby Mae Pugh is the only child presently supported on Rosabelle’s profile. The existing profile cites:
+- [William Grant — Generation VII working parent profile](https://rickbrew13.github.io/american-bloodline/generation-7/william-grant-rosabelle-pugh/)
+- [Mattie Lee — Generation VII working parent profile](https://rickbrew13.github.io/american-bloodline/generation-7/mattie-lee-rosabelle-pugh/)
 
-- Ruby’s 1930 census index as placing Ruby M. Pugh, age 7, with Rosabelle Pugh in the Shelton and Mattie Willis household in Birmingham ([FamilySearch 32XF-JPZ](https://www.familysearch.org/ark:/61903/1:1/32XF-JPZ)); the original census image was not inspected in this pass.
-- Ruby’s 15 November 1939 marriage index as naming Rosabelle Grant as her mother ([FamilySearch VZVK-B1Q]); original image not inspected.
-- Ruby’s 5 February 1945 marriage index as naming Rosa Bell White as her mother ([FamilySearch 29NV-B74]); original image not accessible in this pass.
+## Child(ren)
 
-Together these are meaningful evidence for investigating one mother under the Pugh, Grant, and White forms, but do not yet resolve whether all forms refer to the same woman. They also do not give a complete list of Rosabelle’s children. No other child is identified in an identity-linked record.
+Ruby Mae Pugh is the only child currently supported by reviewed, identity-linked records. The 1930 census index identifies Rosabelle Pugh, age 22, and Ruby M. Pugh, age 7, in the same Birmingham household (Rosabelle [32XF-FPZ](https://www.familysearch.org/ark:/61903/1:1/32XF-FPZ); Ruby [32XF-JPZ](https://www.familysearch.org/ark:/61903/1:1/32XF-JPZ)). The prior research transcription gives household 208, sheet 13B, line 55. It also records the index’s Willis-parent inference for Ruby, which conflicts with the ages and is not accepted as her parentage. The original schedule has not been inspected.
 
-### Parents and siblings
+Ruby’s 1939 marriage index reports her mother as Rosabelle Grant ([VZVK-B1Q](https://www.familysearch.org/ark:/61903/1:1/VZVK-B1Q)); the 1945 index uses Rosa Bell White ([29NV-B74](https://www.familysearch.org/ark:/61903/1:1/29NV-B74)). The original marriage images were not inspected in this review. These records support pursuing a shared maternal identity but leave the Pugh/Grant/White sequence unresolved. No additional child was established; absence of another child from these records is not proof Ruby was her only child.
 
-No parent or sibling is established for Rosabelle. Compiled family trees have named William Grant and Mattie Lee as parents, but no original parent-child record was reviewed. Do not list them as Gen VII parents or create their profile folders without a record bridge.
+## Siblings
 
-The FamilyTreeNow result snippet gave a Rosabelle Pugh approximate birth year of 1908 and Birmingham, Jefferson County, Alabama, with a “Family” display including names such as Adam Sheppard, Daniel Townsley, Cornelius Pugh, Ruby M. Pugh, and Savannah Wells. The actual page redirected to a human-verification check, so its source, household, and relationship labels could not be examined. This is a weak lead only: it does not establish Rosabelle’s parents, siblings, other children, or spouse. It conflicts with the previously reported compiled 11 July 1922 birth claim, which is itself not supported and is incompatible with Ruby being age 7 in 1930 if that index relationship is correct.
+No sibling of Rosabelle was identified in reviewed records. A FamilyTreeNow search-result snippet associates a Rosabelle Pugh born about 1908 with names including Adam Sheppard, Daniel Townsley, Cornelius Pugh, Ruby M. Pugh, Savannah Wells, and Hannah Roan. The underlying page is blocked by human verification and gives no inspectable household labels. These are unverified search-result associates, not established siblings or children; no profiles were created for them.
 
-### Spouse(s)
+## Spouse(s)
 
-No marriage of Rosabelle is established. The 1939 and 1945 indexes cited above are Ruby’s marriages, not Rosabelle’s. They do not show that Rosabelle married Cornelius Pugh, Lawrence “Larry” Pugh, or James White. A reported 1950 Rosabelle White–James White household remains unverified; the existing bounded NARA Jefferson County name/OCR search did not corroborate it, and that imperfect index cannot establish absence.
+No marriage or spouse of Rosabelle is established. Ruby’s 1939 and 1945 indexes are Ruby’s marriages, not Rosabelle’s. They do not establish that Rosabelle married Cornelius Pugh, Lawrence “Larry” Pugh, or James White. A reported 1950 Rosabelle White–James White household remains unverified. Nor does the working Gen VII assignment prove that William Grant and Mattie Lee married one another.
 
-## Searches and limits
+## Dates and identity
 
-- Reviewed the evidence and unresolved questions carried on Rosabelle’s and Ruby Mae Pugh’s live profiles.
-- The reported 1930 census index places Ruby and Rosabelle in a Willis household, but the original page and Rosabelle’s age/relationship entry were not inspected.
-- The existing bounded NARA 1950 Jefferson County name/OCR search returned other same-name Rosabelle/Rosabell entries, not a securely identified adult mother of Ruby. Those unrelated people remain excluded.
-- The FamilyTreeNow page was blocked by a human-verification challenge. Its snippet is not treated as a census record or evidence of family relationships.
-- The FamilySearch marriage and tree pages could not be reviewed directly in this pass; no marriage-image parent fields were independently transcribed.
-- No paid record, subscription, or certificate was ordered.
+The 1930 census index reports Rosabelle as 22, pointing to about 1908; it is not a full birth date and the image has not been inspected. A compiled 11 July 1922 birth claim conflicts with this age if the identities align and remains an unverified claim. A FamilySearch Memories photo tagged Rosabelle Grant is a candidate image only; it does not prove identity or birth year.
 
-## Gen VII decision
+## Searches and next records
 
-**No parent is currently identified well enough to list as Rosabelle’s Gen VII parent, link as her parent, or create a Gen VII profile/folder.** William Grant and Mattie Lee remain unverified tree claims; the 1908 snippet is not a parentage record. Do not create profiles for them based on this evidence alone.
-
-## Next record targets
-
-1. Inspect the 1930 census original and record every household member, ages, relationships, and birthplaces.
-2. Inspect Ruby’s original 1939 and 1945 marriage records and compare the bride’s identifying details and exact mother-name fields.
-3. Locate Rosabelle’s own marriage applications/returns, birth/death records, obituaries, and Birmingham directories; use them to bridge the Pugh, Grant, and White names.
-4. Revisit the FamilyTreeNow snippet only if a lawful public underlying census citation can be obtained; do not infer relationships from its mixed name list.
-5. Test William Grant and Mattie Lee only against original or near-contemporary records before creating Gen VII profiles or folders.
+- Bounded NARA 1950 Jefferson County name/OCR searches found no matching adult Rosabelle Pugh/White household; OCR is imperfect and the non-result is not proof of absence.
+- Inspect the original 1930 schedule and transcribe all household members, ages, and relationships; resolve the Willis-parent inference.
+- Inspect Ruby’s original 1939 and 1945 marriage records and compare exact parent fields and bride details.
+- Recover the original compiled-tree citations for William Grant and Mattie Lee; test them against contemporary records.
+- Search Rosabelle’s own birth, marriage, death/burial, obituary, census records for siblings, other children, and spouses.
