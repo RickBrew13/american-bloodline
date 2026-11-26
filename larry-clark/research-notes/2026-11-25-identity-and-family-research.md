@@ -117,3 +117,23 @@ The existing public profile places Larry and Judy together by about late 1968 be
 - A 2008 guestbook entry signed “Judy & Larry Clark” in an Ohio obituary is not connected to this family and supplies no usable identity evidence.
 - Commercial people-search pages return many Larry Clarks and sometimes expose private contact details; they are not reliable genealogical evidence and should not be used to assign this man's relatives or addresses.
 - The Albert Haze Clark / Ruth Greenfield sibling group remains excluded as a match: its sister Judy Clark was alive in the 2007 obituary, whereas Judith Mae Palmer died in 2006. No independent evidence connects its brother Larry to Barry.
+
+
+## 5. Earlier 1968 divorce entry and possible middle initial — 25 November 2026
+
+A rereading of the archived Ohio divorce-index extract surfaced a second Hamilton County entry that may help identify the Larry named in the 1984 case:
+
+- 9 May 1968, Hamilton County, certificate 010730, volume 01873: **Larry C. Clark**, reported birth year 1940, Hamilton residence, one prior/total marriage as indexed; wife listed only as **Judith**, reported birth year 1942, Hamilton residence; divorce granted to wife, five-year marriage, two minor children.
+- This 1968 wife is **not** Judith Mae Palmer: Judy's established birth year is 1939, not 1942. Do not merge the 1968 wife with Judy.
+- The 1968 groom and the 1984 groom share the name Larry Clark, reported birth year 1940, and Hamilton County residence. The 1984 entry reports Larry had been married twice. This makes the 1968 Larry C. a **plausible same-man lead**: he may have been the first marriage, with the 1984 Judith M. being a later marriage. But the shared name, birth year and county are not enough to prove identity. The 1984 index does not give a middle initial.
+- If this is the same man, his middle initial may be C. This remains a hypothesis only; no full case file or birth record has been examined to confirm it.
+
+The already-inspected Hamilton County Probate Court marriage-license index blocks for 1963–1982 did not show a Larry/Lawrence Clark marriage to Judith/Judy Palmer, Brewster or Clark. The 1974–1982 typed Clark section also did not show a Larry Clark entry. This negative result does not rule out a marriage elsewhere. The earlier research note reasonably flags Northern Kentucky (especially Kenton or Campbell County) as a place to check, given proximity to Cincinnati, but no Kentucky marriage record for Larry and Judy has yet been found. Kentucky's official genealogy guidance points researchers to the 1973–1999 marriage index, and FamilySearch describes its 1911–1999 Kentucky Vital Record Indexes as including bride/groom names, marriage date and county, ages, residences, marital status and, where available, parents' names. Sources: https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/genealogy.aspx ; https://www.familysearch.org/en/search/collection/2531527 ; https://www.familysearch.org/en/search/collection/1674849 .
+
+### Next targeted tests
+
+1. Request the complete 1968 divorce file for certificate 010730 / volume 01873, as well as the 1984 file for certificate 035410 / volume 05370. Compare the 1968 husband's full name, birth date, address and case history with the 1984 husband's details. The 1968 file may identify his first wife and possibly children; do not assign them to the target Larry until the match is made.
+2. Search Kentucky marriage index entries for Larry/Lawrence Clark and Judith/Judy Palmer, including the likely 1973–1982 window and the adjacent Northern Kentucky counties. Check bride and groom indexes, and obtain the original license/certificate if a match appears.
+3. Keep the DJ and Albert Haze Clark/Ruth Greenfield leads separate and unconfirmed, in accordance with family feedback.
+
+No parents, siblings, spouses beyond the family-identified Judy, or additional children have been added to Larry's public profile. The 1968 case is recorded here as a lead, not a family-tree relationship.
