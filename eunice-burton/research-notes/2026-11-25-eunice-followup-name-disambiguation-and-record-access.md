@@ -333,7 +333,7 @@ Sources:
 
 ### 1940 census: NARA direct-access path identified, image not yet inspected
 
-The existing index locates the Brewster household in Morgan County, Tennessee, ED 65-15, sheet 3B, line 51. The National Archives confirms that its 1940 population-schedule images are public and that they can be browsed by enumeration district; it also publishes the full digitized dataset, including the population schedule JPGs, in its AWS Open Data collection. The NARA microfilm roll list identifies Morgan County EDs 65-1 through 65-15 on roll T627-2263. This narrows the image hunt to the final ED on that roll, but it does not itself identify the exact image filename or prove the handwriting.
+The existing index locates the Brewster household in Morgan County, Tennessee, ED 65-15, sheet 3B, line 51. The National Archives confirms that its 1940 population-schedule images are public and that they can be browsed by enumeration district; it also publishes the full digitized dataset, including the population schedule JPGs, in its AWS Open Data collection. The Tennessee census roll table identifies Morgan County's 1940 schedules as T627-3924 (corrected below); ED 65-15 is the relevant district. This narrows the image hunt but does not itself identify the exact image filename or prove the handwriting.
 
 - NARA 1940 Census AWS collection and image access instructions: https://www.archives.gov/developer/1940-census
 - NARA 1940 Census FAQs / browse-by-ED procedure: https://www.archives.gov/research/census/1940/faqs
