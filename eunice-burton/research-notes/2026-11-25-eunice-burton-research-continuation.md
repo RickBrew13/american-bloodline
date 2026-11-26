@@ -50,3 +50,28 @@ The individual-folder audit says the standalone Eunice Drive folder's ten ordina
 7. Continue photo search through the family archive, school/yearbook sources and newspaper image archives. No new personal portrait was verified in this pass.
 
 **No external order, fee payment, or court/library request was submitted. No source image was overwritten or duplicated.**
+
+
+## Additional research pass — 25 November 2026 (continued)
+
+### New findings about where the missing records can actually be pursued
+- **Nursing license trail is more specific now.** Ohio's archival classification guide identifies the *Board of Nursing Education and Nurse Registration* as the state agency from 1955–1988, renamed the Ohio Board of Nursing in 1988. Its listed records include a **1973 nurse inventory** (record series OY N 77.15/2). A professional nursing regulation history says Ohio established a computerized licensure database in 1986. These sources do not identify Eunice by name, but they establish a concrete state-archive route for checking whether the 1987 registered-nurse occupation index corresponds to an Ohio RN license. The 1973 inventory may predate her likely nursing career, so request later licensure/renewal records as well; do not treat the inventory as proof she was licensed.
+- **Butler County newspaper and directory holdings are actionable.** Lane Libraries' Local History & Genealogy page confirms the Cummins Local History Room in Hamilton maintains digital directories, yearbooks, historical newspapers and photograph collections, and accepts a History/Genealogy Reference Request. Its history team says it will research and provide located information and source materials when available. This is a strong route for asking staff to check the 1987 *Journal-News* obituary/death-notice run, Hamilton directories around 1950–1987, and any local photographs. No request was submitted in this pass.
+- **The Cincinnati Newsdex route remains useful but separate.** CHPL describes Newsdex as an index of local stories, death notices and obituaries with citation details; no card is needed. Its public site was not queryable from this session, so no Eunice hit is claimed.
+- **The 1987 identity cross-check:** two derivative genealogy/person-index pages surfaced the same Eunice E. Burton, born 22 December 1930 and died 16 December 1987 in Hamilton, Butler County, Ohio. These are derivative indexes, not primary evidence and not independent proof of her family relationships. They add no new biographical facts and are not being promoted into the profile as sources.
+
+### Exact source routes discovered
+- Ohio archival classification guide, State Board of Nursing Education and Nurse Registration (1955–1988), including nurse inventory series OY N 77.15/2: https://dam.assets.ohio.gov/image/upload/library.ohio.gov/government-documents/oh-classification/OH_classification_independent_N.pdf
+- Ohio nursing regulation history noting the 1986 computerized licensure database: https://ohnurses.org/wp-content/uploads/edd/2014/02/Legal-Reg-Book-Formatted-6.pdf
+- Lane Libraries Local History & Genealogy, Cummins Local History Room, directories, yearbooks, historical newspapers, photograph collections and research request: https://www.lanepl.org/local-history-genealogy
+- CHPL genealogy / Newsdex information: https://chpl.org/resources/genealogy/
+- Ohio History Connection obituary research guide: https://ohiohistory.libguides.com/newspapers/obituaries
+- Rose Hill Burial Park / Funeral Home current contact page (513-894-9206; 2565 Princeton Road, Hamilton, OH 45011), for requesting Eunice's original interment card and funeral-home file: https://www.dignitymemorial.com/funeral-homes/ohio/hamilton/rose-hill-funeral-home/8370
+
+### Revised priority order
+1. Ask Lane Libraries' Cummins Room to search the *Journal-News* around 16–22 December 1987 for Eunice E. Burton, plus Eunice Brewster / Whittle / Taylor variants; ask for full citation and copy if located. Also ask for 1980s Hamilton directory entries for Eunice and Irvin Burton, and whether the photo collections contain either person.
+2. Ask Rose Hill for the interment card, exact interment date, purchaser/owner of the plot, funeral director and any funeral-home file for Eunice. Do not infer a funeral date from death date.
+3. Request the 1987 death certificate using the indexed certificate number and volume, and request the Ohio nursing board's historical license/registration record search using her full name, aliases and date of birth.
+4. Continue searching the marriage/divorce records and children's original birth records for direct evidence of Eunice's marital chronology and the children's father.
+
+**No new original record was located in this additional pass. The archival and library leads above are research routes, not findings about Eunice herself. No external request or paid order was submitted.**
