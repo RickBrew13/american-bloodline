@@ -48,3 +48,9 @@ The 20 January 1920 census index for Aragon, Polk County, Georgia, places James 
 4. Search original records for Margaret Kelly before treating her as Sarah's sibling.
 5. Locate the original William Brewster × Julia Kelly marriage record and birth/death records for the children; confirm the full roster and whether “William Junebug,” William Jr., “Marylee,” Mary Lee Evans and any “Lucy” are the same individuals as in the existing tree.
 6. Find full obituaries/cemetery records for Edward, James, William, Marylee, Frankie and Laura Belle. No further identity or descendant assignments are made without these.
+
+
+## Name-collision exclusion: Lola Brewster Crabtree
+A 2022 family-history article by Donna Rowland Gough, based on an email from Brewster descendant Wilma Crabtree Gibson, mentions **Lola Brewster Crabtree** and her twin sister Nola. The same article identifies Wilma's great-uncle Jesse Brewster as a son of James Thomas Brewster. This Lola belongs to the Jesse Brewster branch and is not evidence for Homer Sr.'s sister **Lola Edna Brewster Sears**, who belongs to the William Alexander Brewster × Mary Ellen McKinney branch in the existing archive. Do not merge these two women or treat the Crabtree account as proof about Eunice's aunt. The article may help trace collateral Brewster cousins later, but it does not change Eunice's direct pedigree.
+
+Source: Donna Rowland Gough, “Tidbits about Brewstertown and the Brewsters,” 14 October 2022, including attribution to Wilma Crabtree Gibson's personal email: https://www.thegoughfamily.com/tidbits-about-brewstertown-and-the-brewsters/
