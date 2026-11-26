@@ -12,7 +12,7 @@
 
 ## Rosabelle identity and chronology conflict
 
-The profile’s prior compiled birth claim, 11 July 1922 in Birmingham, is incompatible with the reported 1930 census entry if Ruby age 7 is her daughter. A woman born in 1922 would herself have been about 7–8 in 1930. Treat the 1922 date as erroneous or misattributed until an original record resolves it; do not retain it as a fact. The reported 10 May 2001 death comes from a Geni profile and lacks an inspected original death record.
+The profile’s prior compiled birth claim, 11 July 1922 in Birmingham, is incompatible with the reported 1930 census entry if Ruby age 7 is her daughter. A woman born in 1922 would herself have been about 7–8 in 1930. Treat the 1922 date as erroneous or misattributed until an original record resolves it; do not retain it as a fact. The reported 10 May 2001 death comes from a Geni profile and lacks an inspected original death record. A public FamilySearch Memories page tagged “Rosabelle Grant” is dated 5 October 1985; a search-index snippet describes it as a “75th Birthday with Fred (dog)” memory. The page itself is a contributed family memory, not a vital record; its displayed date may be the memory/photo date, and the 75th-birthday description has not been verified from an original caption. It is a useful lead toward a birth around 1910, which would fit the reported 1930 daughter relationship much better than 1922, but it does not establish Rosabelle’s birth year or prove the tagged woman is Ruby’s mother.
 
 The surname variants—Rosabelle Pugh (reported in the 1930 index), Rosabelle Grant (Ruby’s 1939 marriage index), and Rosa Bell White (Ruby’s 1945 marriage index)—may describe one woman, but an explicit identity bridge is still needed. Family trees naming William Grant and Mattie Lee as her parents have not been supported by an original record review.
 
@@ -50,5 +50,11 @@ A FamilyTreeNow search-result snippet describes a Rosabelle Pugh born about 1908
 - [1945 Alabama County Marriages index, FamilySearch 29NV-B74](https://www.familysearch.org/ark:/61903/1:1/29NV-B74)
 - [1930 census index, FamilySearch 32XF-JPZ](https://www.familysearch.org/ark:/61903/1:1/32XF-JPZ)
 - [National Archives 1950 Census site](https://1950census.archives.gov/)
+- [FamilySearch Memories item 220372990, tagged Rosabelle Grant](https://www.familysearch.org/en/memories/memory/220372990/) — page dated 5 October 1985; search result labels it a 75th-birthday memory with dog Fred. Contributed-photo lead only; not an original birth record and not yet linked to Ruby by independent evidence.
 - [Ancestry Cornelius Pugh search results](https://www.ancestry.com/genealogy/records/results?firstName=cornelius&lastName=pugh) — unverified same-name leads only.
 - [FamilyTreeNow Pugh/Rose search result](https://www.familytreenow.com/records/census/pugh/rose) — page challenge prevented review; search snippet only.
+
+
+## FamilySearch photo lead archived
+
+The public [FamilySearch Memories item 220372990](https://www.familysearch.org/en/memories/memory/220372990/) is tagged “Rosabelle Grant,” dated 5 October 1985. The associated listing describes a 75th-birthday photo with dog Fred. The image shows an elderly woman holding a dog; I saved a copy at [`rosabelle-pugh/img/family-photos/familysearch-memory-220372990-candidate-rosabelle-grant.jpg`](https://github.com/RickBrew13/american-bloodline/blob/main/rosabelle-pugh/img/family-photos/familysearch-memory-220372990-candidate-rosabelle-grant.jpg) and added it to Rosabelle’s gallery as a candidate, not a verified portrait. The source tag and date may support an approximate birth around 1910 if accurate, but neither proves that the pictured woman is Ruby’s mother or establishes her birth date. Keep the image attribution and uncertainty visible; do not promote it to the hero portrait until an identity bridge is found.
