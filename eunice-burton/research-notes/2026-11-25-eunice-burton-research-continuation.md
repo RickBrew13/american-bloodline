@@ -273,3 +273,12 @@ New research implications:
 - Elmer's original clipping remains in Elmer's archive and was not copied. Eunice's profile now links to that canonical image as a cross-person source; Elmer's profile and folder were not edited.
 
 **This is source-level corroboration from an original newspaper image, not a newly obtained newspaper order.**
+
+
+### Descendant-name searches following Eunice's four named grandchildren
+- Ran exact-name web searches for “Alicea Bishop,” “Brandy Bishop,” “Michael Sexton,” “Melissa Sexton,” “Demetria Sexton,” and “Elaine Bishop” in the Hamilton/Butler County context. The results were dominated by unrelated people and modern records; none securely matched one of Eunice's four grandchildren or her named children. No person was attached to the tree from a name-only match.
+- A Demetria Kim Lawrence obituary in Lansing, Michigan, was checked because it appeared in related search results. It identifies her parents as Jack E. and Delilah Lawrence and her 1983 J.W. Sexton High School graduation, so she is not the Demetria Sexton named in Eunice's notice. This false match remains explicitly excluded. Source: https://www.rileyfuneralhome.com/obituaries/demetria-lawrence
+- The four names remain a documented group from Eunice's 1987 family notice only: Michael and Melissa Sexton, Alicea and Brandy Bishop. The likely mother-child grouping is inferable from the surnames (Sexton grandchildren connected with Demetria Sexton; Bishop grandchildren connected with Elaine Bishop), but that is a clue, **not** proof of exact parentage. The notice's syntax does not specify whether the grandchildren are all biological, step-, or adopted grandchildren.
+- Further targeted work should begin with the original records/obituaries for Demetria Sexton and Elaine Bishop, searching their full married and maiden names and the four grandchild names, rather than attaching unrelated same-name search hits.
+
+**No new descendant identity was verified in this pass.**
