@@ -1,6 +1,6 @@
 # Source review — rowland-edmund-powell
 
-The original-register scan and cited record are listed in the source-review file; public memorials and the SS-5 transcription remain derivative.
+The 1911 birth register is direct evidence for Rowland’s recorded parent initials/name fields. A separate 1903 marriage license identifies Dexter G. Powell and Minnie M. Lyon, strongly matching those initials and the mother’s recorded name; the full-name link remains a working identification. Public memorials and the SS-5 transcription remain derivative.
 
 ## Sources
 
@@ -14,3 +14,6 @@ The original-register scan and cited record are listed in the source-review file
 - [SortedByName transcription of Helen Powell/Shamblen’s SS-5](https://sortedbyname.com/letter_s/shamblen/index_4.html)
 - [MyHeritage Rowland Powell snippet, inaccessible underlying page](https://www.myheritage.com/names/rowland_powell)
 - [West Virginia Culture Vital Records search portal](https://wvculture.org/vital-records-interactive/)
+
+- [West Virginia marriage index, WVID 5021](https://wvculture.org/wp-json/wvculture/vital/marriage?gr_name_first=Dexter&gr_name_surn=Powell&br_name_first=Minnie&br_name_surn=Lyon&county=Harrison&mar_event_date=1903&plus_minus=0&search_type=exact&results=100) — Dexter G. Powell and Minnie M. Lyon, 1 July 1903, Harrison County.
+- [Original Harrison County marriage-license page, film 847280, frame 326](https://dach-image-proxy.digital-relativity.workers.dev/?film=847280&frame=00326) — identifies the couple and Dexter’s parents; copy archived in Dexter’s Gen VII documents.
