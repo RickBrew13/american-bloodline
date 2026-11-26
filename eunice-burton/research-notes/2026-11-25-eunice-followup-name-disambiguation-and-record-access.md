@@ -901,3 +901,75 @@ A FamilySearch/Northern Kentucky genealogical presentation reports that Campbell
 ### Current conclusion
 
 The 1947 marriage certificate itself remains proven and already archived. The missing parental-consent/application/loose-paper packet is not yet located. The most promising online next step is not another broad name search; it is the FamilySearch Catalog/DGS inventory for Campbell County 1917–1989 marriage records, then targeted browsing of the 1947 volume/loose-paper series. No DGS, film number, or image is claimed until the inventory identifies it.
+
+
+## Prepared archival inquiry specifications (26 November 2026 — not sent)
+
+These are ready-to-use search specifications so that each custodian receives the exact target and does not return only a generic certificate copy. No message, phone call, paid request, or order has been made.
+
+### A. Campbell County Clerk — complete 23 July 1947 marriage packet
+
+Subject: Historical marriage file search — Eunice Brewster and Avery E. Whittle, 23 July 1947, Book 196/Page 83.
+
+Please search the complete original marriage file and any separately filed loose papers for the marriage of Eunice Brewster (also Eunice Edna Brewster; later Burton) and Avery E. Whittle, 23 July 1947, Campbell County Marriage Book 196, page 83. In addition to the recorded certificate, please check the application, proof-of-age document, parental or guardian consent/permission, bond, surety, clerk affidavit, witness oath, court order, minister's return, register, index cards, and any associated loose-paper packet or separately maintained volume. Eunice's indexed birth date is 22 December 1930, making her 16 at the time, while the certificate states age 21. If the file is held by KDLA or FamilySearch, please provide the transfer reference, microfilm/DGS number, volume label and date coverage. Please advise any research or copy fee before work begins.
+
+Custodian: Campbell County Clerk, Newport Office, 1098 Monmouth Street, Newport, KY 41071; marriage license line 859-292-3885. Online portal: https://campbellmarriagesearch.smllc.us/ .
+
+### B. Ohio Board of Nursing — historical RN registration file
+
+Subject: Historical registered nurse license search — Eunice Edna Brewster / Whittle / Burton / Taylor (died 16 December 1987).
+
+Please search historical, inactive, lapsed, paper and electronic nurse-registration records for Eunice Edna Brewster, born 22 December 1930 in Cincinnati, Ohio; name variants Eunice E. Brewster, Eunice Whittle, Eunice E. Burton, and Eunice Taylor. Ohio death-index entry VKTL-N6K lists her occupation as registered nurse in nursing/personal-care facilities; death certificate 088337, volume 27087, Butler County, 1987. Please check the 1973 nurse inventory (State Archives series OY N 77.15/2, if held or transferred), the 1986 computerized database, archived applications and inactive license records. If a match is found, please provide the license number, initial issue date, school and graduation date, examination/endorsement basis, renewals, former names and any recorded county/address. If no match is found, please state which historical systems and year ranges were searched and where earlier paper files were transferred. Please advise any fee before work begins.
+
+Current Board contact: https://nursing.ohio.gov/help-center/contact-us ; phone 614-466-3947.
+
+### C. Butler County Probate Court / Record Center — nurse certificate register
+
+Subject: Historical nurse registration/certificate register search, circa 1950–1987.
+
+Please determine whether Butler County Probate Court or the Butler County Record Center holds a registered-nurse certificate/register created under Ohio's 1915 Nurse Practice Act, including any “medical professionals” registration index, nurse certificate book, nurse inventory, microfilm, or transferred Probate Court series. Search for Eunice Edna Brewster, Eunice Whittle, Eunice E. Burton and Eunice Taylor. Ohio's 1987 death index lists her occupation as registered nurse. If no such record series is held, please identify any transfer, accession, retention schedule or disposition record that identifies the former custodian. Please advise any fee before work begins.
+
+Butler County Probate Court: https://probatecourt.bcohio.gov/ ; 513-887-3294.
+Butler County Record Center historical-records guidance: https://butlercountyclerk.org/locating-court-records/ .
+
+### D. University of Cincinnati Archives — College of Nursing class rosters
+
+Subject: Name search in College of Nursing and Health class records, 1946–1987.
+
+Please check the College of Nursing and Health collection (1940–2004), especially the class records described as containing student rosters, schedules, correspondence and ephemera (finding aid UA-13-02), for Eunice Edna Brewster, Eunice E. Brewster, Eunice Whittle, Eunice Burton and Eunice Taylor. She was born in Cincinnati on 22 December 1930 and is indexed as a registered nurse by 1987. If a match is found, please provide the class year, program, school name as recorded, graduation date and any available photograph/yearbook reference. If the records are off-site, please advise retrieval time, access requirements and copying fees.
+
+Contact: archives@ucmail.uc.edu ; finding aid: https://libraries.uc.edu/documents/UA-13-02_College_of_Nursing.pdf .
+
+### E. Hodapp Funeral Home — 1987 funeral file
+
+Subject: Historical funeral file search — Eunice E. Burton (née Brewster), died 16 December 1987.
+
+The original family death notice states that Eunice E. Burton, age 56, of Hamilton, Ohio, died suddenly 16 December 1987; friends were received at Hodapp Funeral Home, 7401 Vine Street, Carthage, and services were held at Rose Hill Burial Chapel in Hamilton. Please check any surviving 1987 arrangement book, register, family file, obituary-submission copy, account ledger or transfer record under Eunice E. Burton, Eunice Brewster or Eunice Edna Brewster. Please advise whether records from that year survive and any research/copy fee before work begins.
+
+Current location/contact: https://www.hodappfuneralhome.com/about/locations ; phone 513-821-0805.
+
+### F. Rose Hill Burial Park — interment and lot file
+
+Subject: Interment card / lot file — Eunice Edna Burton, Section 11, Lot 191, Grave 3.
+
+Please check the cemetery register/interment card, exact interment date, lot purchaser/owner, funeral home, and any lot correspondence for Eunice Edna Burton (died 16 December 1987), Section 11, Lot 191, Grave 3. Her husband Irvin David Burton is recorded in adjacent Grave 4. Please distinguish the original cemetery record from memorial-site entries and advise any copy/research fee before work begins.
+
+The cemetery's current contact details should be confirmed through the official cemetery operator before sending.
+
+### G. Lane Libraries / CHPL — newspaper issue and index search
+
+Subject: Death notice/obituary search, Eunice E. Burton, Hamilton, Ohio, 16–22 December 1987.
+
+Please search the Hamilton Journal-News issues for 16–22 December 1987 and Cincinnati Enquirer/Cincinnati Post issues for 17–22 December 1987 for Eunice E. Burton, Eunice Edna Brewster and Eunice Brewster. The family clipping currently in the archive has no visible newspaper masthead or publication date. Please provide issue date, page and column for any death notice or obituary, and advise whether a scan/copy is available. Lane Libraries' digitized/microfilm transition overlaps 1987, so ask staff to identify the exact holdings for the requested date before assuming which medium applies.
+
+Lane Libraries historical newspapers: https://www.lanepl.org/local-history-genealogy/historical-newspapers .
+CHPL Newsdex/newspaper resources: https://chpl.org/resources-types/newspaper/ .
+
+### H. Records that require explicit paid-order approval
+
+- Butler County death certificate 088337, volume 27087 (Eunice, 1987).
+- Ohio Board of Nursing or archive copies if a fee is required.
+- Certified Campbell County marriage copy if the original certificate image is insufficient.
+- Any paid cemetery, funeral-home, newspaper or library reproduction fee.
+
+These specifications are preserved for execution when authorized; none has been submitted and no fee has been incurred.
