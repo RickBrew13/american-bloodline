@@ -121,7 +121,7 @@ The original 1976 Hamilton County marriage license names **Samuel P. Wise** as M
 
 ### New follow-up targets
 - Locate the 1975 Madeira yearbook image and check the class portraits/name index.
-- Search Cincinnati marriage and divorce records for Virginia Greiner with David W. Wise and/or Samuel P. Wise.
+- Search Cincinnati marriage records for Virginia Greiner and Samuel P. Wise, and for Monica's later Kelly/Courtney/Hackbarth surname transitions.
 - Search the original 1976 marriage application/license image for exact parent names and any corrections.
 - Obtain the underlying 2004 Butler County case file if publicly available; the published appellate opinion supplies a case number and party alias but does not name the son.
 - Keep the “Monica Hackbarth” grandmother entry in Anthony Wills-Cossman's obituary unassigned to Monica Lynn Wise/Cossman; it could be maternal or paternal and no surname bridge exists.
