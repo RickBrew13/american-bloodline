@@ -20,3 +20,7 @@ Re-searched exact-name variations with Bronx/NYC, January 1969, death, obituary,
 Added the possible FamilySearch profile and conflict note to the live page; no other facts promoted. Saved this dated audit in the couple Notes folder. No Google Docs or existing Drive files were changed, moved or deleted.
 
 Priority next sources: original 1950 census page to resolve Gerald/Libby/Madeline household; full SS-5/NUMIDENT sources for Madeline and Gerald to test James/Gerald father-name conflict; January 1969 Bronx/NYC death index and newspaper notices; cemetery burial record; family-owned albums or authorized portrait.
+
+
+## Correction added 25 November 2026
+The prior note's reference to FamilySearch ID G719-6GS as a possible duplicate of Gerald Guglielmo was incorrect. G719-6GS is Eugene E. Brewster (1933–1983), an unrelated person. That cross-reference has been removed from Gerald's live profile and must not be used. Gerald's own FamilySearch public-tree ID is G29C-SM1; it remains a compiled tree, not independent proof. See the 25 November correction note in this folder.
