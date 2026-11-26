@@ -257,3 +257,11 @@ New research implications:
 - The two obituary images remain in their original respective person folders; they were not copied into Eunice's folder. Eunice's profile now links to the existing source images in those folders, preserving the single canonical image copies.
 
 **No parent profile was edited. Only Eunice's profile source list was updated to cite these existing clippings.**
+
+
+### 1940 census index citation reconciled to Eunice's own person entry
+- Located the exact FamilySearch index record cited in the pre-existing compiled Eunice document: **Eunice E. Brewster**, daughter, age 8, born Ohio, in Homer W. Brewster's household, Civil District 12, Morgan County, Tennessee, ED 65-15, sheet 3B, line 51. FamilySearch index: https://www.familysearch.org/ark:/61903/1:1:K4ZX-8VY ; associated image: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-D46S
+- The indexed household names Sarah H., Elmer, Aleene W., Homer W., Eugene T. and Earl alongside Eunice. This supports four brothers and one sister. The image is the same Morgan County ED 65-15 sheet 3B already referenced in Homer Jr.'s audit; his audit says it was opened but not legibly transcribed. The correct Eunice-specific index record is **K4ZX-8VY**, not the adjacent Homer Jr. index record K4ZX-8KS. Do not cite Homer Jr.'s person-index ID as Eunice's own census record.
+- The image itself still needs a high-resolution handwriting read. The 1940 indexed birth state “Ohio” does not itself prove Cincinnati as the city; the Cincinnati city birthplace comes from the Social Security record compilation. Keep those source distinctions visible.
+
+**Eunice's live profile now links to her own 1940 census index and image, explicitly noting that the image handwriting has not yet been reliably transcribed.**
