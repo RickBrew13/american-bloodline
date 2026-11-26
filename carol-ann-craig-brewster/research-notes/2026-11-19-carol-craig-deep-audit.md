@@ -75,3 +75,19 @@ Sources:
 5. Search 1930s marriage records for H. Clyde Craig and a possible wife, but do not attach any woman or child solely from matching address or surname.
 
 No new claim about Carol's parents was added to the public profile in this pass.
+
+
+## Paul Leroy Hillman obituary — direct child/stepchild distinction
+
+A newly located Cincinnati Enquirer obituary for **Paul L. Hillman**, published 23 December 2000, names his five children as **Vicki Cunningham, Christopher Hillman, Mary Beth Greco, Patrick Hillman and Paula Wallace**. It separately calls **Jill Large** his stepdaughter. It also names the children's spouses/partners in 2000 and lists 12 grandchildren plus one great-grandchild. This is the strongest independent evidence yet for which five of Carol's children Paul identified as his own children and which child was his stepdaughter.
+
+Carol's own 2019 Gilligan obituary independently counts six children, says Vicki and Chris had predeceased her, and names Mary, Pat, Paula and Jill as survivors. The Paul obituary therefore corroborates the six-child family structure and the distinction between Paul's five children and Jill as his stepdaughter. It does **not** prove Jill's biological father. The family note attributed to daughter Mary Beth says Carol had five children with Paul Hillman and one with Danny Henderson; that account fits the Paul obituary's five children plus one stepdaughter, but Jill should not be assigned to Danny as biological father until a birth or other direct record establishes it.
+
+The Paul obituary's named grandchildren are useful for descendant research but most are likely living; their names and family connections are retained in this private research note only and are not being expanded into public profile details without a specific genealogical need.
+- Cincinnati Enquirer / Legacy, “Paul HILLMAN Obituary,” published 23 December 2000: https://www.legacy.com/us/obituaries/cincinnati/name/paul-hillman-obituary?id=47996274
+
+## Updated source and identity findings
+- Carol's official Gilligan obituary listing states she died 21 September 2019, was survived by husband Norman of 25 years, and had six children: Vicki and Chris (deceased) plus Mary, Pat, Paula and Jill (surviving).
+- Paul Hillman's 2000 obituary separately identifies Vicki, Christopher, Mary Beth, Patrick and Paula as his children and Jill as his stepdaughter.
+- This provides independent corroboration of the family-account statement that Carol had five children with Paul and one child from a different relationship, but does not identify that child's biological father.
+- H. Clyde Craig remains a possible father lead only. The Cincinnati directories document his employment and addresses in the 1930s; no birth certificate, census household, death certificate or other record yet connects him to Carol.
