@@ -97,3 +97,40 @@ The CHPL Newsdex site itself is now reachable through its public landing page. I
 
 ### Newsdex table count correction
 The live Newsdex landing page links to its actual Datasette `record` table, which now displays **1,886,384 rows** (not 427,002 as stated in the earlier additional-pass paragraph). The earlier count is superseded and should not be repeated. The table exposes publication date, publication name, citation and indexed subjects, but the available page interface did not let me submit a name search or run SQL through this session. I used the page's visible record listing and find-in-page; no Eunice hit was returned by that limited page view, which is **not** a full database search and must not be reported as a negative result. Direct dataset: https://newsdex.chpl.org/Newsdex%2BRecord%2BData/record
+
+
+### Additional records research — 25 November 2026 (continued)
+
+#### Social Security source: exact retrieval rules and the Willie/Homer discrepancy
+- The Social Security Administration's current FOIA page confirms that a deceased person's original SS-5 application can be requested online through FOIAXpress or by mailing Form SSA-711. Current listed fees are **$23 for an SS-5 copy** and **$22 for a Numident extract**; certification adds $10. SSA requires acceptable proof of death. It also states that parents' names are not released unless the parents consent or proof of their deaths is supplied. Both of Eunice's parents are deceased (Sarah in 1987; Homer in 1991), so include their death proofs with the request if the objective is to inspect the parent fields. This is a request route, not an order submitted; no fee has been paid.
+- The National Archives' NUMIDENT FAQ explains that application and death files may contain separate records and that searching by SSN is the most reliable way to retrieve all records for one person because names can vary or contain typos. Keep any SSN out of the public profile and public research note; use identifying details only in a private request.
+- The discrepancy is now better contextualized, though still unresolved: the SS Claims Index transcription says “Willie H Brewster”; the compiled NUMIDENT transcription says “Homer Brewster”; the original 1947 marriage certificate says “Homer”; the 1940 household is headed by “Homer W. Brewster.” Homer Sr.'s own profile cites the 1920 Morgan County census placing him as a child of **Willie A. Brewster** and Mary E. Brewster. This makes a transposition, indexing, or parent-field issue plausible, but does not prove how “Willie H” entered the claims index. The original application image is still the needed discriminator. On the evidence currently available, Homer remains the strongly supported father; do not replace him with Willie.
+
+#### Death certificate: correct local office depends on place of death
+- The City of Hamilton Health Department says it issues death certificates for deaths occurring within Hamilton city limits (1913–present), and gives Vital Statistics contact **513-785-7094**, 345 High Street, Suite 350, Hamilton, OH 45011.
+- The Ohio Department of Health's local-office directory identifies the Butler County Health Department for the rest of its jurisdiction (**513-863-1770**, 301 S. Third Street, Hamilton, OH 45011) and separately identifies Hamilton City. Eunice's index gives Butler County and her family notice gives Hamilton as her residence, but neither alone proves the exact place of death. The request should therefore first confirm whether the event location was inside Hamilton city limits; do not send it to the wrong district based only on residence.
+- No death certificate has been requested or paid for.
+
+#### Nursing occupation: direct public-record route found
+- The Ohio Board of Nursing has a public license lookup at https://elicense.ohio.gov/oh_verifylicense. The lookup page is JavaScript-driven and did not expose a readable result through this browser session, so no Eunice license hit or no-hit is claimed.
+- The Board's public-records request form is available at https://dam.assets.ohio.gov/image/upload/nursing.ohio.gov/uploads/2019/12/PUBLIC-RECORDS-REQUEST-FORM.pdf. It lists the Board at 17 S. High Street, Suite 660, Columbus, OH 43215-3466, phone 614-466-3947. Request a search of historical license/registration records for Eunice Edna Brewster, Eunice Whittle, Eunice Taylor, and Eunice Burton, with the 22 December 1930 birth date; ask whether a license number, original application, school of nursing, issue date, renewal history, or employer/address is retained. No request has been submitted.
+
+#### Newspaper and marriage record access clarified
+- Lane Libraries' live holdings page confirms the Hamilton Journal-News coverage split: **1978–1987 digitized** and **1987–2013 microfilm**. Because both ranges include 1987, the library must identify which format holds the 16–22 December 1987 issues; the exact issue range remains unresolved. The same holdings page lists the Cincinnati Enquirer as 1987–2009 in ProQuest, with the local library access route. No full obituary has yet been located.
+- Ohio History Connection's marriage guide states that county probate courts hold marriage records and that the state assumed responsibility for recording marriages in 1949. It also warns there is no statewide index to marriages in its archive holdings and specifically lists Butler and Hamilton counties among those without indexed records in that collection. The FamilySearch Ohio Marriage Records collection covers 1789–2016 and includes Butler County, but its search interface was not accessible here. This makes the post-1949 Burton marriage search a separate state/county index task, while the 1947 Whittle marriage is already documented by the original Campbell County certificate.
+- Butler County Probate Court's live Record Search portal is publicly linked from the court website, but its searchable results were not exposed by the available browser; no case or marriage result is claimed.
+
+#### 1940 census image status clarified
+- The existing Homer Jr. census audit identifies the shared 1940 Brewster household as Civil District 12, Morgan County, ED 65-15, sheet 3B, digital folder 005461366, image 552. It records Eunice and the five siblings in the index. The audit says the image was opened but handwriting was not legibly transcribed. This remains a specific original-image reinspection target; the household transcription should not be described as image-verified for Eunice.
+
+#### Current unresolved questions after this pass
+1. Obtain and inspect Eunice's original SS-5 / Numident to settle the “Willie H” vs “Homer” parent-field discrepancy and review all aliases.
+2. Run an actual name search in Newsdex and obtain the exact Hamilton Journal-News / Cincinnati Enquirer issue citations for 16–22 December 1987.
+3. Inspect the original 1940 census sheet 3B at high enough resolution to transcribe Eunice and all siblings, relationships, ages, and birthplace accurately.
+4. Confirm the exact place of death, then request the correct local 1987 death certificate.
+5. Search the Ohio eLicense database and, if needed, submit a Board of Nursing public-records request for the historical nurse license.
+6. Search the post-1949 marriage record systems for Eunice/Irvin and the earlier Whittle divorce; do not infer a date from surnames.
+7. Obtain Rose Hill's interment card and Hodapp's funeral-home file, and seek direct birth records for the three children to establish parentage.
+8. Continue portrait search through school/yearbook, nursing-school, family-photo and newspaper sources.
+
+**This pass produced better retrieval routes and a stronger reconciliation of the father's name, but no new original Eunice record. No requests, phone calls, purchases, or external orders were made.**
