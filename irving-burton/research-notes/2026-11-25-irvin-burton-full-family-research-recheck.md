@@ -83,3 +83,39 @@ These directory entries strengthen the family's Cincinnati/Elmwood Place residen
 
 ### Earlier Cincinnati residence lead (1930–31 directory)
 A digitized 1930–31 Cincinnati street directory lists **Grady E. Burton at 7211 Vine Street**. The directory's street-address listing does not identify a spouse, so this is a residence lead rather than proof by itself that this was the same Grady E. later listed with Ora. It gives an earlier address to compare against the 1938 listing at 226 E. 71st Street and the 1944 Elmwood Place residence. Source: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1930-31_Pt04.pdf (search result text under the Seventy-second street block).
+
+
+## Further Hamilton County property-index trail for Grady and Ora (25 November 2026)
+
+A broader search of the Recorder's official grantor/grantee indexes found a multi-year sequence of transactions under **Grady & Ora Burton**. These concern Irvin's parents, not proof that Irvin personally owned property. The indexes establish named parties and deed-book/page references; they do not reveal parcel addresses, consideration, or whether every transaction concerns the same parcel.
+
+| Index date | Indexed transaction | Deed reference |
+|---|---|---|
+| 8 April 1945 (date and layout require image check) | Grady & Ora Burton listed as grantors; adjoining grantee appears as Charles William & Edna L. Karrer | Book 2093, page 135 |
+| 1 February 1946 | Grady & Ora Burton → Arlington D. & Verna A. Fleenor | Book 2142, page 292 |
+| January 1949 (exact date not legible in OCR extract) | Harry & Myrtle Vickers → Grady & Ora Burton | Book 2355, page 3 |
+| 31 December 1953 | Grady & Ora Burton → Ralph Hines et al. | Book 2658, page 532 |
+| 1960 (index date 27; month/day context needs image check) | Grady & Ora Burton → Owen & Juanita Towne | Book 3133, page 368 |
+| 1960 (index date 15) | Grady & Ora Burton → Payton E. & Bobbie J. Hayes | Book 3131, page 674 |
+| 14 April 1961 | Grady E. & Ora Burton → Earl L. & Helen M. McDonald | Book 3149, page 438 |
+| 16 May 1966 | Allen C. & B. J. Berbar → Grady & Ora Burton | Book 3480, page 120 |
+
+Sources (official Hamilton County Recorder indexes):
+- 1945: https://recordersoffice.hamilton-co.org/deed_indexes/di1945tetrb.pdf (OCR lines around 2327–2329; check image for exact date/party alignment).
+- 1946: https://recordersoffice.hamilton-co.org/deed_indexes/di1946trteb.pdf
+- 1949: https://recordersoffice.hamilton-co.org/deed_indexes/di1949tetrb.pdf
+- 1953: https://recordersoffice.hamilton-co.org/deed_indexes/di1953trteb.pdf
+- 1960 grantor index: https://recordersoffice.hamilton-co.org/deed_indexes/di1960trteb.pdf
+- 1960 reverse index: https://recordersoffice.hamilton-co.org/deed_indexes/di1960tetrb.pdf
+- 1961 grantor index: https://recordersoffice.hamilton-co.org/deed_indexes/di1961trteb.pdf
+- 1961 reverse index: https://recordersoffice.hamilton-co.org/deed_indexes/di1961tetrmc.pdf (independently lists McDonald → Grady E. Burton et al. at the same book/page).
+- 1966: https://recordersoffice.hamilton-co.org/deed_indexes/di1966tetrb.pdf
+
+The 1961 grantor and reverse indexes independently show the McDonald/Grady E. Burton transaction at book 3149, page 438, confirming the same instrument from opposite sides. The 1949 entry identifies Grady and Ora as buyers from Harry and Myrtle Vickers. The 1953, 1960 and 1961 entries identify transfers from Grady and Ora to later grantees. These are separate indexed instruments; do not assume they all concern one parcel.
+
+The Recorder's instructions confirm that historic deed books can be retrieved by book/page through its Acclaim Book/Page search; deed books 3225–4061 are available online, and the 1930–1961 books were released as digitized images. The interactive form was not successfully submitted in this research session, so **none of the underlying deed instruments has yet been read**. Next property step: retrieve books 2093/135, 2142/292, 2355/3, 2658/532, 3131/674, 3133/368, 3149/438 and 3480/120, compare legal descriptions, and trace parcels through Auditor ownership cards.
+- Retrieval instructions: https://recordersoffice.hamilton-co.org/helpful_information/help_deeds_21-4414.html
+- 1930–1961 digitization announcement: https://recordersoffice.hamilton-co.org/more-deed-books-2021-01-15.html
+- Book/Page search: https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive/Search/SearchTypeBookPage
+
+This adds a useful property and residence-reconstruction lead for Grady and Ora's household. It does not establish that Irvin held title or that any deed corresponds to the addresses in his census/directories. No claim about Irvin's own property has been added to the public profile.
