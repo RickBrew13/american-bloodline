@@ -66,3 +66,12 @@ Virginia's obituary source: https://www.tributearchive.com/obituaries/4113531/vi
 
 Searches for Virginia Greiner/Griener born 17 February 1920, and for the Samuel Wise–Virginia Greiner couple, did not produce a reliable birth, marriage, census or parent record for Virginia in this pass. Her parents, other siblings, birth place, and the identity of niece Helen Strickland remain unresolved. A separate compiled tree's Virginia Greiner (born 1925 in Nebraska, died 1999) is a different woman and must not be merged with Virginia G. Wise (1920–2006).
 
+
+
+## Kathryn “Kate” Coffey Cossman obituary — extended descendant network
+A local McCreary Journal obituary page for August 2016 includes the obituary of **Kathryn “Kate” Coffey Cossman**, who died in Cincinnati. It identifies her as Stanley Cossman's wife and lists **Samuel and Matthew Cossman as his sons/ her stepsons**. It names her own children Daniel and Ashley and lists step-grandchildren **Casey, Alex, Samuel, Cody, Michael, Brie, Jordyn, Keira and Cooper**. The obituary therefore independently supports the Samuel/Matthew step-son relationships and confirms a larger set of grandchildren in Stanley's blended family. It does not assign each step-grandchild to Samuel or Matthew and does not identify Monica as their mother or grandmother.
+
+Source: https://www.mccrearyjournal.com/2016/09/01/obituary-august-2016/
+
+This is a useful descendant-network lead alongside the 2024 Anthony Wills-Cossman obituary. Keep all individual grandchild-to-parent assignments unconfirmed unless a direct obituary, birth record, or family-held record identifies the parent. No new child or grandchild has been added to Monica's profile based on this source alone.
+
