@@ -663,3 +663,48 @@ Official Campbell County Clerk page confirms that pre-June 1958 marriage records
 - Campbell County Clerk marriage licenses: https://campbellcountyclerk.ky.gov/services/marriage-licenses/
 - Kentucky CHFS confirms pre-1958 records are county-clerk records: https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/marriage-divorce.aspx
 - KDLA confirms consents and bonds can be separately filed: https://kdla.ky.gov/Archives-and-Reference/Documents/Handouts-RR/Handout-MarriageRecords.pdf
+
+
+## 26 November 2026 — additional primary-source routes and targeted negative-search log
+
+### Campbell County marriage portal: verified fields and record strategy
+
+Opened the actual Campbell County Marriage License Search portal. It explicitly supports Book, Page, Party 1, Party 2, Combined Party Search, Date, Min Date and Max Date. Party names must be entered in `Last First` format. Because the original certificate citation is Book 196, page 83, the strongest index query is Book=196 and Page=83; secondary checks are Party 1 `Brewster Eunice`, Party 2 `Whittle Avery`, and date 23 July 1947. The interactive search cannot be submitted in this environment, so no indexed result has been returned. The portal's record index is distinct from the potentially separate original consent/permission papers. Campbell County's official records page confirms book/page search is supported; KDLA's handout explains that consents and bonds can be filed separately.
+
+- Live portal: https://campbellmarriagesearch.smllc.us/
+- Campbell County Clerk's official marriage information: https://campbellcountyclerk.ky.gov/services/marriage-licenses/
+- Campbell County records search guide: https://campbellcounty.kentuckycourt.us/marriage-divorce-records.html
+- KDLA marriage records handout: https://kdla.ky.gov/Archives-and-Reference/Documents/Handouts-RR/Handout-MarriageRecords.pdf
+
+### UC nursing class records: source language confirmed directly
+
+Opened UC Libraries' 2013 Archives article. It states the College of Nursing and Health archive contains class records from 1946–1987 with student rosters, schedules, correspondence and ephemera. The article supplies the UA-13-02 finding-aid PDF and identifies separate Raymond Walters College Department of Nursing records, 1969–2005 (UA-13-?? / OhCiUAR0266). UC's current finding-aid page says many boxes are off-site and require two weeks' notice and provides archives@ucmail.uc.edu. This confirms a genuine roster collection, but no individual roster was searched and no Eunice attendance is established.
+
+- UC Libraries article: https://libapps.libraries.uc.edu/liblog/2013/02/college-of-nursing-records-now-available-in-arb/
+- UA-13-02 PDF: https://libraries.uc.edu/documents/UA-13-02_College_of_Nursing.pdf
+- UC finding aids and contact: https://www.libraries.uc.edu/libraries/arb/collections/university-archives/ua-collections.html
+
+### 1940 census image route: direct-viewer procedure located, image still not retrieved
+
+The Stephen P. Morse Universal 1940 Census Image Viewer is a documented route for displaying the FamilySearch or Ancestry images for a known enumeration district. Its instructions state that the 1940 ED, state and county can be entered to view the images; the companion free-search page explains that the NARA viewer can also be used after obtaining state, county, ED, sheet and line. The FamilySearch index already gives Eunice's entry as Morgan County, Tennessee, ED 65-15, sheet 3B, line 51. The correct NARA microfilm is T627 roll 3924, independently confirmed by the USGenWeb census roll table and NARA's official roll-list PDF. However, this pass did not retrieve the actual frame or inspect the handwriting; keep the 1940 household details attributed to the indexed transcription pending image inspection.
+
+- Stephen P. Morse Universal 1940 viewer: https://stephenmorse.org/census/viewer1940.html
+- Stephen P. Morse free search instructions: https://stevemorse.org/census/freesearch.html
+- NARA official 1940 T627 roll list: https://www.archives.gov/files/research/census/1940/t627-roll-list.pdf
+- Morgan County roll index: https://www.us-census.org/states/tennessee/m-tn.htm
+
+### Fresh name searches: false positives excluded, no new family member identified
+
+Repeated searches for the exact forms `Eunice Edna Brewster`, `Eunice E. Burton`, `Eunice Burton` + Irvin, and the 1947 Avery/Eunice marriage did not produce a new primary source. A derivative people-search page repeats the already-known birth/death dates and Hamilton residence, but it also displays sensitive Social Security number data; that page is not used as evidence, and no such number is copied into the archive or public profile.
+
+Searches for the named Brewster siblings (`Earl Brewster`, `Eugene Brewster`, `Elmer Brewster`) with Morgan County obituary terms surfaced the same Morgan County obituary index pages already checked, not a matching obituary for one of these siblings. This is a search-engine limitation, not proof that no obituary exists. Aileene Gilpin's 2015 obituary remains the independent corroboration of the sibling group and is the strongest retrieved public obituary for that family cluster.
+
+A search result for a Homer Brewster profile on WeRelate is the user's own collaborative genealogy content, attributed to the user's watcher account and citing the user's existing research note. It is not independent corroboration and was not treated as a new source.
+
+- Aileene Gilpin obituary: https://www.clayconews.com/obituaries/aileene-gilpin
+- Morgan County obituary archive index: https://tngenweb.org/morgan/obituaries-of-morgan-county/
+- Morgan County “B” obituary page: https://tngenweb.org/morgan/b-obituaries/
+- Morgan County “E” obituary page: https://tngenweb.org/morgan/e-obituaries/
+- Morgan County “H” obituary page: https://tngenweb.org/morgan/h-obituaries/
+
+No new child, grandchild, sibling spouse, or nursing-school identity was added to Eunice's profile from these searches. Search limitations and next record targets remain explicit.
