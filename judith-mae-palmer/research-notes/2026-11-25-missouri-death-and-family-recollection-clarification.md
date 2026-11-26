@@ -26,14 +26,18 @@ Official references:
 
 A death certificate request should be considered only after confirming the correct jurisdiction. Last residence in Rockaway Beach makes Taney County a priority, but does not prove death occurred there.
 
-## Barry's health and death-order clarification (25 November 2026)\n\nThe family confirms that Barry had HIV/AIDS. Retain this as family-provided information; do not remove it because a medical record has not been located, and do not state that it caused his death. The user is not certain whether Barry died before or after Judy, so no death-order conclusion should appear in the profile.\n\n## Spring Grove
+## Barry's health and death-order clarification (25 November 2026)
+
+The family confirms that Barry had HIV/AIDS. Retain this as family-provided information; do not remove it because a medical record has not been located, and do not state that it caused his death. The user is not certain whether Barry died before or after Judy, so no death-order conclusion should appear in the profile.
+
+## Spring Grove
 
 The shared headstone image and secondary burial indexes continue to support burial at Spring Grove Cemetery in Cincinnati. The cemetery's original interment card / burial register is still needed to verify the exact burial date, section, lot, grave, and whether Barry's interment is in the same plot. Do not infer that Larry is buried beside Judy and Barry without a cemetery record or his own marker.
 
-## Open tasks — Judy first
+## External follow-up still outstanding after the profile handoff
 
 1. Locate Judy's 2006 death certificate or a reliable obituary, searching Missouri and Cincinnati-area newspapers and funeral-home records.
 2. Obtain Spring Grove's original burial/interment record for Judy and Barry; separately search Larry Clark only after his identity is sufficiently established.
 3. Continue resolving Judy's legal relationship timeline, including the 1984 Larry Clark divorce index entry.
 4. If available to an eligible requester, seek Barry T. Clark's 1969 Ohio birth record or Social Security application as documentary corroboration of the family's identification of Larry Clark as his father; do not describe his father as unknown or unresolved.
-5. Complete the source audit, photograph provenance, and archive-folder inventory for Judy before moving the main research focus to Ralph and then Larry.
+5. Keep Judy's profile and archive current if an original record is later obtained. The publicly accessible research pass is complete enough to move the main research focus to Ralph; these external requests remain open.
