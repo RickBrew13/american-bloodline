@@ -68,3 +68,9 @@ These index entries establish that Stanley and Monica jointly acquired a propert
 - Added 1977 and 1979 Hamilton County deed-index entries, including the separate affidavit entry.
 - Kept Monica's later marriage and children unknown.
 - No other profile, family-tree JSON, shared archive file or Drive original was changed. No records were ordered and no one was contacted.
+
+
+## Additional 1979 property-index entry and photo inspection
+The 1979 Hamilton County Recorder grantor index contains a separate entry dated **17 October 1979** under Monica Lynn Cossman as grantor and “Affidavit” as the grantee/type, deed book **4172**, page **756**. This is distinct from Stanley's transfer to Monica (book 4170, page 955). The index does not describe the affidavit's contents; it may concern title or another recorded matter, but no interpretation is made without the original. The Recorder's Office states that books 4062–4414 are available only on its office computers, so neither underlying document was inspected remotely.
+
+Virginia's original funeral-home obituary is hosted by Gilligan Funeral Homes: https://www.gilliganfuneralhomes.com/obituaries/virginia-wise . Its attached “profile photo” is a religious angel graphic, not a photograph of Virginia or Monica. No portrait was added to either profile.
