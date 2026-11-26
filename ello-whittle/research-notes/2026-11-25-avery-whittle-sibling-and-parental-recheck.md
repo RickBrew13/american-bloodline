@@ -100,3 +100,44 @@ Sources:
 - National Archives, SF-180 request instructions: https://www.archives.gov/veterans/military-service-records/standard-form-180
 
 No military claim was upgraded and no profile change was made; this is a documented access route for obtaining the underlying service file.
+
+
+## Indiana and Henry County record-route audit — 25 November 2026
+
+A targeted review of official Indiana archival guidance and Henry County local-history resources establishes the correct repositories for Avery's later New Castle years:
+
+1. **Avery–Charlotte marriage:** Indiana State Archives explains that before 1958 marriage records were kept at county level, with statewide marriage reporting beginning in 1958. Indiana marriages 1811–2007 are partly searchable through FamilySearch, but coverage varies by county; original records remain with the county clerk unless transferred. The 1957–1992 statewide marriage index is on microfilm in the Indiana State Archives reading room. Avery and Charlotte's marriage date/county remain unlocated; New Castle residence does not by itself prove they married in Henry County. Search Henry County and any county suggested by their courtship/residence evidence, then the statewide index for a possible 1958+ record.
+   - Indiana Archives vital-records guidance: https://www.in.gov/iara/services-for-public/search-archives-holdings/vital-records/
+   - Indiana State Library genealogy FAQ: https://www.in.gov/library/collections-and-services/genealogy/brochures-and-maps/genfaqs/
+   - FamilySearch Indiana Marriages 1811–2019: https://www.familysearch.org/en/search/collection/1410397/locale
+
+2. **Avery–Eunice divorce:** Indiana divorces are held by the county clerk where granted; there is no statewide divorce index. No Indiana divorce record has been identified, and the available evidence does not yet establish whether the divorce occurred in Kentucky, Ohio, or Indiana. The 1950 census still records Avery and Eunice as married in Cincinnati; later Avery/Charlotte family evidence does not provide a legal end date.
+   - Indiana State Library genealogy FAQ above; Indiana Archives marriage/divorce guidance above.
+
+3. **Avery's 1977 death and burial details:** New Castle's municipal cemetery-record request page says cemetery records may include date of death, relatives and burial location, and directs death-certificate requests to Henry County Health Department. This is a direct route to an original municipal cemetery record, but the known burial is Whittle Cemetery in Russell County, Kentucky, not a New Castle municipal cemetery. The page is therefore not the right cemetery office for his final interment; the Henry County death certificate remains a county health department route.
+   - New Castle cemetery request information: https://cityofnewcastle.net/cemetery-records-request/
+   - Indiana death-record guidance: https://www.in.gov/health/vital-records/death-information
+
+4. **New Castle newspapers, directories, and family records:** Henry County Public Library's Indiana Room lists New Castle city directories, death indexes (1882–2000), deed indexes, cemetery records, census materials, and a full card index for the *Courier-Times* (1848–1989). This is a strong targeted source for Avery's New Castle address, employment, illness/death coverage and family announcements. No specific directory or newspaper entry for Avery has yet been retrieved.
+   - Henry County Public Library, Indiana Room / Genealogy: https://nchcpl.org/resources/genealogy/
+
+5. **Real property:** Henry County's Recorder states that recorded documents can be searched through Doxpop by person, parcel or document. Its Auditor tax list allows name/property searches, but the online page is a current tax list and does not itself establish historical ownership. No deed or parcel record naming Avery has yet been found.
+   - Henry County Recorder: https://cloudplesk2.ssldomain.com/henryco_net/RecordersOffice.aspx
+   - Henry County Auditor tax list: https://auditor.henrycounty33.us/cgi.exe?CALL_PROGRAM=C009LIST
+
+## Further exact-name and identity checks
+
+- Rechecked exact-name variants **Avery Ello Whittle**, **Avery E. Whittle**, **Ello Whittle**, paired with New Castle, Henry County, Charlotte Mulvey, and service number 35888669. No new primary obituary, marriage/divorce instrument, employer record, deed, probate file, or military unit record was returned in this pass.
+- A derivative Social Security-style directory lists Avery Whittle, born 4 January 1927, died April 1977, last residence New Castle, Indiana 47362. The family obituary gives exact death 10 April 1977; the same derivative directory gives only month-level death and is not an independent primary record. Do not use it to override the obituary or headstone.
+  - LocateAncestors Indiana Whittle listing: https://www.locateancestors.com/whittle-indiana/
+
+## Current evidence boundaries and priority next actions
+
+- The 1947 certificate directly establishes Avery's first documented marriage to Eunice and his parents' names as Stanton and Lavina/Louvenia Whittle. The 1950 census confirms their shared married household.
+- The 1977 obituary and 2016/2025 funeral-home obituaries establish Avery's later family with Charlotte and their eight children. Seven children were named in the 1977 clipping as surviving; Becky is the infant daughter identified by Charlotte's later obituary. These are not Eunice's children.
+- No child with Eunice is documented by the 1950 two-person census or the records inspected. The 1987 Eunice death notice names three children, but it does not identify which husband fathered them; no paternity assignment is made here.
+- The birth date remains contradictory: 2 July 1926 on the 1944 draft card; 26 July 1926 in BIRLS; 4 January 1927 on the headstone, Kentucky birth-index transcription and Death Master File. The 1947 certificate's age 22 conflicts with all three. Highest-value records: Kentucky birth certificate/delayed birth file and original Social Security application.
+- Stanton's and Louvenia's parents remain unproved. The possible R. S. “Bob” Whittle connection is only a hypothesis and should not be added to the tree.
+- No specific occupation after the 1950 gardener/distillery entry, real-estate ownership, probate, court case, diagnosis, or additional portrait has been documented. The existing Army portrait, headstone and 1977 obituary clipping remain the only attributable images in the folder.
+
+No paid access was purchased, no record was ordered, and no institution or relative was contacted.
