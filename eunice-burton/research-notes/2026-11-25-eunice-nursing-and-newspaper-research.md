@@ -60,3 +60,29 @@ Sources:
 - Charlotte Ann (Mulvey) Whittle's obituary, Charles W. Smith & Sons Funeral Home (27 May 2025): https://www.charleswsmithandsonsfuneralhome.com/obituaries/charlotte-whittle
 
 This does not establish that Avery and Charlotte married in Henry County; the records are a targeted lead based on their documented New Castle family residence. Do not assume the location or date until an index entry or original instrument is found.
+
+
+## Avery Whittle's later household — child attribution boundary
+
+A new, directly attributable family obituary for Avery and Charlotte Whittle's daughter Theresa states that Theresa was preceded in death by her father **Avery Ello Whittle**, and survived by her mother **Charlotte Ann (Mulvey) Whittle** and six named surviving siblings: Rob, Debra, Jeff, Mike, Cindy and Louretta. Charlotte's 2025 obituary independently describes her life with Avery and says they built a home in New Castle, Indiana, for **eight children**, including the infant daughter Becky who died at six months. This is strong evidence for Avery's later family unit with Charlotte, but it is not evidence that these children were Eunice's children. Keep the Avery/Charlotte children out of Eunice's descendant list unless a separate source explicitly establishes parentage.
+
+The later Avery/Charlotte household is important to the unresolved legal chronology: the 1947 Campbell County marriage certificate documents Avery and Eunice as single at marriage, and the 1950 census documents them as a married couple in Cincinnati. The later obituaries establish Avery's family with Charlotte, but do not state when or where the prior marriage ended, or when Avery and Charlotte married. No divorce decree or later marriage certificate has yet been inspected.
+
+Sources:
+- Theresa Lynn Whittle obituary, Charles W. Smith & Sons Funeral Home, 29 Nov 2016: https://www.charleswsmithandsonsfuneralhome.com/obituaries/theresa-whittle
+- Charlotte Ann Whittle obituary, Charles W. Smith & Sons Funeral Home, 27 May 2025: https://www.charleswsmithandsonsfuneralhome.com/obituaries/charlotte-whittle
+
+## Newly confirmed archive-access paths (not individual records)
+- Hamilton County Domestic Relations Division states divorce/dissolution decrees from 1885 to current year are held at the Document Center, 1000 Main Street, Room 315; phone 513-946-5693. This is the correct county archive route to test for an Avery E. Whittle / Eunice Brewster or Whittle divorce, but it is not proof that such a decree exists. https://www.courtclerk.org/our-office/common-pleas-court-clerk/domestic-relations-division/
+- Ohio marriage certificates are maintained by county probate courts; Ohio History Connection confirms there is no statewide marriage index. Search must therefore be county-specific, beginning with Butler and Hamilton Counties for Eunice's marriage to Irvin, and the likely county of Avery/Charlotte's later marriage after their Indiana residence is established. https://ohiohistory.libguides.com/vital/marriagerecords
+- Cincinnati & Hamilton County Public Library Newsdex indexes Cincinnati articles and death notices/obituaries and can provide exact title/date/page/column citations; the library describes it as useful but not comprehensive. The library also lists full-text Enquirer and Cincinnati Post archives, with some resources requiring a library card. https://chpl.org/resources/magazine-newspaper-articles/
+
+## Evidence still outstanding
+1. Individual Ohio nursing inventory/licensure entry or historical Board file for Eunice; the 1987 death index is still the only inspected source explicitly calling her a registered nurse.
+2. Butler/Hamilton County marriage record for Eunice and Irvin; the family death notice names Irvin as husband but does not supply a marriage date.
+3. Divorce/dissolution record for Eunice and Avery, if any; later Avery/Charlotte family evidence cannot substitute for it.
+4. Original full obituary/death notice for Eunice with newspaper title, issue date, page and column.
+5. 1987 Ohio death certificate 088337, volume 27087.
+6. Original birth records and school/training records if available; no nursing school has been identified.
+7. A verified portrait of Eunice; current folder has headstone and place image, but the family-photos folder remains empty.
+8. Determine whether Eunice used the name Taylor in a legal marriage; NUMIDENT alias is not by itself a marriage record.
