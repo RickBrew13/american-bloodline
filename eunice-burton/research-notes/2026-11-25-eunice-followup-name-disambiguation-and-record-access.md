@@ -985,3 +985,19 @@ The current official Rose Hill Burial Park page identifies the cemetery as part 
 Hamilton County Recorder's Office also explains that its WPA grave-registration cards cover known veterans (mostly burials through 1939) and later veteran information through the 1980s; these are not a general burial register and are not a likely record for Eunice. This route is not being treated as evidence for her burial. The cemetery itself is the correct custodian for her 1987 interment card.
 
 - Hamilton County Recorder cemetery/veteran card guide: https://recordersoffice.hamilton-co.org/helpful_information/cemetery_locations.html
+
+
+## 26 November 2026 — Ohio death certificate custodian, price and request route confirmed
+
+Eunice's Ohio death certificate is **certificate 088337, volume 27087, 16 December 1987, Butler County**. Ohio Department of Health's current guidance says records less than 50 years old are handled through the state/local Vital Statistics system; records older than 50 years may be transferred to Ohio History Connection. Thus Eunice's 1987 certificate is still in the local/state Vital Statistics window, not the Ohio History Connection archival series. The City of Hamilton Health Department's official page says it issues Ohio death certificates statewide (not only Hamilton city deaths), with a certified copy priced at **$25**, pre-order by phone **513-785-7094**. The Butler County General Health District's 2026 approved fee schedule also lists birth/death certificates at **$25**; its Vital Statistics office is **301 South Third Street, Hamilton, OH**, phone **513-863-1770**. The Butler County Health Department is the natural first contact because the death index gives Butler County; Hamilton City Vital Statistics is a second in-county route and says statewide issuance.
+
+The original death certificate is likely the highest-value single outstanding record. Besides cause and place of death, it may name the informant, exact residence, occupation, spouse, parents and their birthplaces, and funeral director/cemetery. These details depend on the informant and should be compared against the 1987 family death notice, NUMIDENT, marriage certificate and cemetery records. No order has been placed and no fee paid.
+
+- Ohio Department of Health, how to order / 50-year transfer rule: https://ohid.ohio.gov/wps/wcm/connect/gov/Ohio%2BContent%2BEnglish/odh/know-our-programs/vital-statistics/How-to-Order-Certificates/
+- City of Hamilton Health Department, official vital records page / $25 / 513-785-7094: https://www.hamilton-oh.gov/health
+- Butler County General Health District 2026 approved fee schedule / $25: https://cms5.revize.com/revize/butlercountyboardofhealth/Documents/Environmental%20Health%20and%20Plumbing%20Services/2026%20Fee%20Schedule%20-%20Approved%20by%20BOH%209%2018%202025.pdf
+- Butler County VitalChek contact/coverage: https://www.vitalchek.com/v/death-certificates/ohio/butler-county-health-department?lang=en
+
+### Updated prepared death-certificate inquiry
+
+Request one certified copy of Ohio death certificate 088337, volume 27087, for Eunice E. Burton, died 16 December 1987 in Butler County, Ohio. Also ask whether the local office can provide a non-certified genealogical copy or abstract at lower cost; if not, ask for the full $25 cost and accepted proof/payment requirements before ordering. Compare informant, spouse, parent names, birthplaces, residence, occupation, cause, funeral director and burial fields. This is a prepared specification only; it has not been submitted.
