@@ -46,3 +46,32 @@ Sources:
 Carol's existing folder was inspected before this research. It contains her profile, the 19 November deep-audit note, the shared-archive reference, the young portrait, two headstone-image files and empty family-photo/documents/sources/family-books folders. The portrait and marker remain correctly attributed to Carol. No new portrait, original civil record, family document or identified descendant photograph was found in this pass. No image was duplicated, moved or removed.
 
 No profile or family-tree JSON change is justified by this research pass: the official obituary's family summary is consistent with the current profile, and the H. Clyde Craig lead is not sufficiently linked to Carol. Unresolved primary-record work remains: Carol's birth certificate/SSA application, H. Clyde Craig's original records if that lead proves relevant, the original Kentucky marriage certificates 24676 and 28705, and the civil marriage/divorce records for each reported spouse. No paid record was ordered and no outside party was contacted.
+
+
+## Extended H. Clyde Craig directory trail — 25 November 2026
+
+A further pass through the Cincinnati street and alphabetical directories adds specific residence and employment detail for the H. Clyde Craig lead:
+
+- **1932–33 Cincinnati directory:** a separate entry for **Jos. E. Craig** gives 3342 Lookout Circle. This is not H. Clyde and should not be conflated with him.
+- **1933–34 Cincinnati directory:** **H. Clyde Craig**, secretary of The Buka Coal Co. (northwest corner of Whittier and the Cincinnati, Lebanon & Northern Railroad), residence **3342 Lookout Circle**.
+- **1935 Cincinnati directory street section:** **H. Clyde Craig** listed at **1852 Catalina Avenue**.
+- **1936–37 Cincinnati directory street section:** lists **Craig Clyde** at 1850 Catalina Avenue and **Craig H. Clyde** at 1852 Catalina Avenue. The separate 1850 and 1852 entries are a warning that the two adjacent listings may represent different men, not one person duplicated. The 1852 listing matches the 1935 H. Clyde Craig street entry, but does not establish his family.
+- **1939 Cincinnati directory:** identifies H. Clyde Craig as secretary of Buka Coal Co., 614 Whittier. The OCR does not provide a residence in the business entry.
+
+These directory records support an adult H. Clyde Craig in Cincinnati in the mid-1930s and a likely match to the H. Clyde Craig, 1901–1939, Rest Haven Memorial Park listing. They do **not** name a wife or child. The 1939 death/burial year is currently only a cemetery-aggregator assertion, not a verified death certificate or obituary. The directories alone cannot yet establish him as Carol's father.
+
+Sources:
+- 1933–34 alphabetical directory, H. Clyde Craig / Buka Coal / 3342 Lookout Circle: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1933-34_Pt01.pdf
+- 1935 street directory, Catalina Avenue, 1852 H. Clyde Craig: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1935_Pt04.pdf
+- 1936–37 street directory, Catalina Avenue, separate 1850 Craig Clyde and 1852 Craig H. Clyde entries: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1936-37_Pt04.pdf
+- 1939 alphabetical directory, Buka Coal Co. / H. Clyde Craig, secretary: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1939_Pt01.pdf
+- Cemetery-aggregator lead (not primary): https://peoplelegacy.com/burial-records/h/craig/
+
+### Required identity test before adding H. Clyde as Carol's father
+1. Locate the original 1930 census household at 3342 Lookout Circle or the relevant district, and identify all adults/children.
+2. Locate the 1940 household for Carol (age about 3) and her mother; determine whether she is recorded as daughter of a widow or in a remarried household.
+3. Retrieve H. Clyde Craig's 1939 Ohio death certificate and original Rest Haven interment record; compare address, age, spouse/informant and next of kin.
+4. Retrieve Carol's 1937 Ohio birth certificate or SSA NUMIDENT application to obtain the exact father's and mother's names.
+5. Search 1930s marriage records for H. Clyde Craig and a possible wife, but do not attach any woman or child solely from matching address or surname.
+
+No new claim about Carol's parents was added to the public profile in this pass.
