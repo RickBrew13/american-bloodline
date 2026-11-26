@@ -1023,3 +1023,12 @@ The targeted archive search should request a search of the 1946–1987 class-rec
 - UC Libraries, “College of Nursing Records Now Available in ARB,” 28 February 2013 (explicitly identifies 1946–1987 class records and student rosters): https://libapps.libraries.uc.edu/liblog/2013/02/college-of-nursing-records-now-available-in-arb/
 - College of Nursing finding aid UA-13-02: https://libraries.uc.edu/documents/UA-13-02_College_of_Nursing.pdf
 - Raymond Walters College Department of Nursing finding aid: https://rave.ohiolink.edu/archives/ead/OhCiUAR0266
+
+
+### UC Archives contact and access logistics verified
+
+The current University of Cincinnati Archives and Rare Books Library reference page says general collection inquiries should go to **archives@ucmail.uc.edu** or **513-556-1959**. The current page says the reading room is appointment-only, average response time is about five business days, and some off-site materials require up to two weeks' advance notice. This gives a practical access route for the UA-13-02 roster search. No contact has been made on the user's behalf.
+
+- Current ARB contact/access page: https://www.libraries.uc.edu/libraries/arb
+- Current University Archives staff/contact page: https://www.libraries.uc.edu/libraries/arb/about/staff.html
+- Current finding-aids page and off-site retrieval notice: https://www.libraries.uc.edu/libraries/arb/collections/university-archives/ua-collections.html
