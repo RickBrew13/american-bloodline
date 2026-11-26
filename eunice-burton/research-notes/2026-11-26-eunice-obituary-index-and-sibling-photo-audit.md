@@ -83,3 +83,7 @@ Sources:
 
 ## Research boundary after this pass
 No direct page-level directory entry, nurse record, newspaper citation, additional photograph, birth certificate, death certificate or marriage/divorce record was located. No new family member has been attached. The online indexes and catalogues identify specific repositories and record series, but do not substitute for the original records.
+
+
+### Expanded visual review of all currently archived immediate-family images
+Reopened the remaining image files in Homer Sr., Sarah, Elmer, Earl and Homer Jr.'s GitHub folders, not just the files with “family” in the filename. This included the senior Brewster portrait and school/location images; Sarah's portrait, couple montage and Christmas photograph; Elmer's second portrait and obituary; Earl's 1953 portrait and newspaper articles and 1959 crash clipping; and Homer Jr.'s individual portrait and family images. The images depict Homer, Sarah, Elmer, Earl, Homer Jr., family memorials, and newspaper text. None visibly depicts Eunice. Eugene's images are cemetery markers/location images; Aileene's folder has no image files. The only confirmed Eunice image currently in the GitHub archive remains her headstone. No family member's portrait has been mislabelled as Eunice and no low-resolution newspaper halftone has been cropped and presented as a portrait.
