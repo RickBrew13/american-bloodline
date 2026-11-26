@@ -61,3 +61,26 @@ Sources:
 - Existing memorial/compiled cemetery date reference for Stanton, 1892–1972: https://peoplelegacy.com/david_allen_eastham__sr-6Y5g3F
 
 Primary-record targets remain Stanton's 1900/1910 census household and 1972 Kentucky death certificate, plus Louvenia's 1940 death certificate and 1900/1910 census household. No request or payment has been made.
+
+
+## New candidate lead for Stanton's father — R. S. “Bob” Whittle (not proven)
+A local-history transcription of a 22 March 1951 *Russell County News* obituary for **Cordella Whittle** states that she married **R. S. Whittle, known as Bob Whittle**, on 24 December 1895; he died 1 December 1949. It says five named children were born “to this union”: Otha, Rese, Jim Elmer, Caleb and Grady (the transcription says six children but prints only five names). Stanton's reported birth, 10 July 1893 in the derivative SSDI-style listing, predates this marriage by about two years.
+
+This creates a research question—not a parentage conclusion—whether Stanton could have been an earlier child of R. S. “Bob” Whittle by a prior relationship, later raised in or connected to the Whittle family. The obituary's wording does not name Stanton among Cordella's children, and no record found so far identifies Stanton as Robert/R.S.'s son. It is also not yet proven that the R.S. Whittle in the obituary is the same individual as the “Robert S. ‘Bob’ Whittle” shown in the secondary cemetery listing, which gives 1875–1948 rather than the obituary's 1 December 1949 death date.
+
+The same local-history source provides an original-record route: Russell County deed indexes are linked to FamilySearch, including General Index to Deeds Vol. 2 (1880–1922), Deed Book Q (1892–1897), Deed Book R (1896–1900), and Deed Book S (1900–1903). The linked FamilySearch viewer timed out in this research session, so no index entry or deed image was read. The Kentucky Department for Libraries and Archives inventory confirms Russell County deed microfilm holdings 1825–2016, and its research guide explains how deeds, wills and tax records can establish property and family links.
+
+Priority records to settle the hypothesis:
+1. 1900 and 1910 Russell County census images for R.S./Robert “Bob” Whittle, Cordella, and Stanton (look for Stanton's relationship and birthplace/age).
+2. The original marriage record for R.S. Whittle and Cordella, plus any earlier marriage for R.S.
+3. Stanton's 1972 Kentucky death certificate or Social Security application, which may name his parents.
+4. Deed and probate records for R.S. Whittle, Cordella, and Stanton; follow any land division or guardianship references.
+
+Sources:
+- The Shy Genealogist, “The Passing of Cordella Whittle,” transcription of *Russell County News*, 22 March 1951: https://theshygenealogist.wordpress.com/page/3/
+- The Shy Genealogist, Russell County Deed index and book links: https://theshygenealogist.wordpress.com/deeds/
+- Kentucky Department for Libraries and Archives, Inventory of Land Records (Russell County deeds 1825–2016): https://kdla.ky.gov/Archives-and-Reference/Documents/Inventory_Land_Records.pdf
+- KDLA, *Research Guide—Kentucky Land Records*: https://kdla.ky.gov/Archives-and-Reference/Documents/ResearchGuide-Kentucky_Land_Records.pdf
+- Secondary cemetery listing for Robert S. “Bob” Whittle and related Whittle burials: https://peoplelegacy.com/cemetery/mcbeath_cemetery-6b6Z01/
+
+No public profile or family-tree JSON change was made. R.S./Bob Whittle is not entered as Stanton's father unless a direct record is found.
