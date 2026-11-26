@@ -492,3 +492,20 @@ The 1930–1931 directory's searchable Brewster surname section (in Part 1) did 
 - 1930–1931 Williams' Cincinnati Directory, Part 1, searchable surname index section: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1930-31_Pt01.pdf
 
 This was a deliberately excluded same-name false match; no address or residence claim was added to Eunice's profile.
+
+
+## Additional image audit across Eunice's immediate-family folders (26 November 2026)
+
+I checked the current GitHub image inventories for Eunice, her parents, and her named siblings, including:
+- eunice-burton/img/ and its family-photos/ and headstones/ folders;
+- homer-william-brewster-sr/img/;
+- sarah-hazel-kelly/img/;
+- homer-william-brewster-jr/img/;
+- elmer-brewster/img/;
+- earl-brewster/img/;
+- eugene-brewster/img/;
+- aileene-wagers/img/.
+
+The Homer Sr. folder contains portraits of Homer Sr., Sarah, a Christmas photograph captioned Homer and Sarah, and photos of Homer with his father William and son Homer Jr. The sibling family-photos/ folders are empty placeholders; the existing Eunice folder has her headstone image, cemetery/location image and the original death-notice clipping, but no standalone portrait. No image in this audit was identified as Eunice. No duplicate was copied and no original image was modified.
+
+**Image status:** no verified personal portrait or nursing-school/yearbook photograph of Eunice has been located in the family's current GitHub archive or in the public image search results checked. The headstone photograph and death-notice clipping remain the only Eunice-specific image assets in her folder. Continue searching external yearbooks, school archives, nursing-school alumni files and funeral-home family files; do not mislabel Sarah's portrait or another Brewster woman as Eunice.
