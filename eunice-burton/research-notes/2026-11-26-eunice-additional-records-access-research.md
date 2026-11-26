@@ -52,3 +52,17 @@ Highest-value unresolved records remain:
 9. High-resolution transcription of the 1940 census image and a verified personal portrait.
 
 **No phone call, email, public-records request, paid order or archive request was made. No family-tree relationship was added from a same-name search result. No image or source file was duplicated.**
+
+
+## 26 November 2026 — Ohio State Archives nurse-inventory series identified
+A more specific archival lead has now been identified in the Ohio state-government classification schedule. It lists the State Board of Nursing Education and Nurse Registration (1955–1988) under record group **OY N 77**, and specifically lists **OY N 77.15/2 as “Nurse inventory.”** This is distinct from the general Board registry and the county probate certificate books. It may be a published or administrative inventory rather than a name-level license file; the catalog classification alone does not reveal its contents, years, or whether individual nurse names appear. It should not be assumed to be a searchable list of licensees until the finding aid or actual material is inspected.
+
+The Ohio History Connection Archives & Library is the state archive custodian/research contact. Its current guidance says most state and local public records are paper or microfilm, not searchable online; researchers may need to inspect them on site. The current reading room is appointment-only, with contact voicemail 614-297-2510 at 800 E. 17th Avenue, Columbus, Ohio 43211. A precise inquiry should ask whether OY N 77.15/2 survives, its date coverage, whether it indexes individual nurses, and whether a name search for Eunice Edna Brewster / Eunice E. Whittle / Eunice Taylor / Eunice E. Burton can be conducted or whether the user must inspect it in person. This is a targeted next step, not evidence that Eunice appears in the inventory.
+
+Sources:
+- Ohio state-government classification schedule, Board of Nursing Education and Nurse Registration (1955–1988), record group OY N 77 and OY N 77.15/2 “Nurse inventory”: https://dam.assets.ohio.gov/image/upload/library.ohio.gov/government-documents/oh-classification/OH_classification_independent_N.pdf
+- Ohio History Connection Archives & Library contact and current access conditions: https://www.ohiohistory.org/research/archives-library/
+- Ohio History Connection guide explaining that most public records are paper/microfilm and require in-person research: https://ohiohistory.libguides.com/welcome
+- Ohio History Connection State Archives description: https://www.ohiohistory.org/research/archives-library/state-archives/
+
+No inquiry was sent and no visit or fee was arranged.
