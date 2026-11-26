@@ -197,3 +197,23 @@ Sources checked in this pass:
 - Demetria Kim Lawrence obituary (used only to rule out a same-name false match): https://www.rileyfuneralhome.com/obituaries/demetria-lawrence
 
 **No new original Eunice record or marriage/divorce decree was obtained. No request, call, or purchase was made. The new findings and correction are recorded here; Avery's files were inspected but not modified.**
+
+
+### Original 1987 death-notice image inspected directly — family details expanded
+- Retrieved and visually inspected the original JPEG already held at `eunice-burton/documents/Eunice-Burton-1987-death-notice-Drive-original.jpg` (blob SHA at time of inspection: `48cee721f0ce4be4f0aaccb23bfa916a1c0c750c`). No image was edited or duplicated.
+- Full legible text of the clipping (line breaks normalized; punctuation retained where visible):
+  > BURTON  
+  > Eunice E. (nee Brewster), beloved wife of Irvin Burton, dear mother of Demetria Sexton, Elaine Bishop and Anthony Q. Burton, dear daughter of Homer Brewster and the late Sarah Brewster, grandmother of Michael and Melissa Sexton, Alicea and Brandy Bishop, sister of Aileen Gilpin, Elmer and Homer Brewster and the late Earl and Eugene Brewster. Suddenly, December 16, 1987. Age 56 years. Residence of Hamilton, OH. Friends may call at the Hodapp Funeral Home, 7401 Vine St. Carthage, Friday from 6–8 P.M. Funeral services will be held Saturday morning 10 A.M. at the Rose Hill Burial Chapel, 2421 Princeton Park Rd. Hamilton, OH. Memorials may be directed to the charity of your choice.
+- The notice independently confirms spouse, three named children, parents, five named siblings, and four named grandchildren. The grandchildren are specifically Michael and Melissa Sexton, and Alicea and Brandy Bishop. It confirms her death date and gives her age and Hamilton residence. It also fixes the funeral schedule: calling hours Friday 6–8 p.m. at Hodapp Funeral Home, Carthage; service Saturday 10 a.m. at Rose Hill Burial Chapel, Hamilton. Given death on Wednesday 16 December 1987, the Friday/Saturday dates calculate to 18 and 19 December 1987 respectively. This date calculation is derived from the clipping's weekday references and the calendar, not a printed date on the clipping.
+- The original image does **not** show the newspaper masthead, issue date, page or column. Do not invent them. The issue likely appeared before the Friday calling hours, but its exact publication remains unknown.
+- Source spelling is **Aileen Gilpin** in this clipping (not Aileene); retain the image's spelling when describing what the notice says, while cross-referencing the family member's existing profile spelling separately.
+- The clipping does not say that all three named children were fathered by Irvin; it calls them Eunice's children and calls Irvin her beloved husband. Paternity remains unproven without direct birth records.
+- The notice's Hodapp address (7401 Vine St., Carthage) and Rose Hill Burial Chapel address (2421 Princeton Park Rd.) are historical 1987 addresses, not current addresses. The Hodapp location is a new retrieval lead: ask for the 1987 arrangement book, register, funeral bill, obituary submission copy, and any surviving family file under Eunice E. Burton / Brewster. No request has been made.
+
+New research implications:
+1. Search the four grandchildren's names in combination with their surnames and the mothers' surnames to identify later obituaries that may identify their parents and maternal grandparents; avoid broad people-search matches.
+2. Search Hodapp's historical records for the original funeral file and any retained copy of the obituary submission. The file could identify the newspaper or family informant.
+3. Search Lane Libraries / Hamilton Journal-News and CHPL Newsdex for the 17–18 December 1987 publication window, but do not report a negative result until the database or original issue is actually searched.
+4. The original death notice itself is stronger evidence than the derivative indexes for Eunice's children, siblings, grandchildren, marital status at death, death date, and residence.
+
+**This is a newly inspected original family source from the existing archive, not a newly discovered web record. The exact original JPEG remains in place; no duplicate or altered copy was created.**
