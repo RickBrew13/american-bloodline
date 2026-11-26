@@ -61,3 +61,19 @@ A search also surfaced a Cincinnati Museum Center archival finding aid for a dif
 5. Continue obituary and cemetery searches only when a more specific age, birthplace, middle initial, or family member is identified.
 
 No unverified relatives, phone numbers, street addresses, or property claims have been added to the public profile.
+
+
+## Same-name obituary and record exclusions from the follow-up search
+
+Additional targeted searches surfaced other men named Ralph Hall, but their known dates do not match the January 1940 people-search lead and no identity link to Judy's companion was found:
+
+- A Zettler Funeral Home obituary listing for Ralph Hall of Fairfield, Ohio, says he died 10 June 2006 at age 82 and was born 23 August 1923 in Houston, Texas. This is not the January 1940 Ralph Hall and is excluded. Source: https://www.zettlerfuneralhome.com/obituaries?page=93
+- A Legacy obituary for Ralph Earl Hall says he was born 2 September 1932 in Speedwell, Tennessee, and died 1 September 2007 in the Bristol, Virginia area; the notice describes a different life history and family. Excluded. Source: https://www.legacy.com/us/obituaries/legacyremembers/ralph-hall-obituary?id=26086934
+- AncientFaces lists many unrelated Ralph Halls; a Cincinnati Ralph W. Hall, born 31 July 1927 and died 22 January 2004, is also not a match to the January 1940 lead. Source: https://www.ancientfaces.com/directory/name/ralph-hall/2
+- The Cincinnati Museum Center finding aid's Ralph Hall was born 22 May 1933 and appears in New Orphan Asylum records. No connection to Judy's companion was found; excluded.
+
+These exclusions matter because the name is common. None of these deaths establishes whether Judy's companion was alive or deceased at Judy's funeral.
+
+## Follow-up search outcome
+
+The web searches did not identify a reliable obituary, death certificate, cemetery record, parents, spouse, child, or occupation for the family's Ralph Hall. No public web result established joint ownership of property with Judy. The county's official Recorder page identifies the actual deed-search systems and date coverage, but the Laredo/Tapestry name search remains an external database step.
