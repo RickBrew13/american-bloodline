@@ -268,3 +268,16 @@ Monica's public profile now lists **Samuel Cossman** and **Matthew Cossman** as 
 - The 2024 Anthony Wills-Cossman obituary identifies Samuel Cossman as Anthony's father, and the 2004 court opinion's unnamed 17-year-old son could be a child in this family, but no name is supplied.
 
 **Evidence grading:** Stanley's parentage of Samuel and Matthew is supported by his obituary and Kathryn's obituary. Samuel's maternity to Monica is compiled-tree evidence plus circumstantial family-network context, not a birth record. Matthew's mother is not identified in the records reviewed. The court opinion's unnamed son is not assigned to either Samuel or Matthew. Do not claim that Monica is proven mother of both until the original birth certificates or another direct parentage record is obtained.
+
+
+## Stanley–Monica divorce window and official record route
+
+Kathryn “Kate” Cossman's 2016 obituary says she and Stanley William Cossman married in **1984** (reported date 12 October 1984 in the family archive). Since Stanley's 1976 marriage license documents his earlier marriage to Monica Lynn Wise, the Stanley–Monica marriage must have ended before the 1984 marriage. The exact divorce/dissolution date and case number have not been found. The 1979 deed sequence (Stanley to Monica, then Monica to Terrance M. Nagel et al) falls within the likely separation/divorce window, but no deed image or court decree proves that it was a divorce settlement or connected to the same parcel.
+
+Hamilton County Clerk of Courts' Domestic Relations Division states that divorce decrees and dissolutions from **1885 to the present** are maintained in the Document Center, 1000 Main Street, Room 315, Cincinnati. The Hamilton County Genealogical Society says mid-20th-century to current divorce cases are indexed through the Clerk's website Name Search, with older case numbers often beginning “A” and later cases “DR.” I opened the official records-search page, but the Name Search endpoint timed out in this session; no online name-index search was completed. The published sources point to the exact repository and time range, but no contact or copy request was made.
+- Hamilton County Clerk, Domestic Relations Division / divorce record access: https://www.courtclerk.org/our-office/common-pleas-court-clerk/domestic-relations-division/
+- HCGS, Marriages and Divorces / divorce index instructions: https://www.hcgsohio.org/cpage.php?pt=60
+- Hamilton County Clerk records search: https://www.courtclerk.org/records-search/
+- Kathryn Cossman obituary (married Stanley in 1984): https://www.mccrearyjournal.com/2016/09/01/obituary-august-2016/
+
+The highest-value next record is the full divorce file, not merely the decree: petition, property division, custody/children section and final decree may establish the marriage end date, children, custody, later names and whether the 1979 deed was part of a settlement.
