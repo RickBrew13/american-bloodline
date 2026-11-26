@@ -53,3 +53,24 @@ The grave marker image records “Sgt US Army / Korea / Purple Heart.” Togethe
 7. County deed and probate searches using confirmed identity and dates.
 
 No paid records were ordered and no archive, cemetery, agency, funeral home or family member was contacted.
+
+
+## Additional independent sibling-group obituary and profile correction — 25 November 2026
+A search for Merida's brother David located his 2017 obituary in the *Berea Citizen* (4 January 2017, page A2). It states David was the son of the late **Shirley and Amanda Baker Wagers** and identifies seven deceased siblings: **Dudley, Price, Merida, Pearl, Linia, Ida and Ailene**, plus two surviving siblings, **Freddy Wagers** and **Kathleen (Wagers) Norton**. This is a strong independent family obituary corroborating Merida's parentage and the full ten-child sibling group (David plus nine siblings). It also gives useful spelling variants:
+- Pearl / Pearlie
+- Linia / Linea
+- Ailene / Aline
+The profile's existing sibling list already contained these nine siblings; this source strengthens the evidence rather than adding a new person.
+- *Berea Citizen*, 4 January 2017, page A2, “David Wagers”: https://apps.madisonlibrary.org/newspapers/bereacitizen/Berea_Citizen.2017.01.January_2017.pdf
+
+The public profile was corrected in this pass to avoid claiming a legal Merida–Aileene marriage where only parentage/relationship evidence exists, and to qualify the 1961 Helen Henson, 1979 Volusia and 1987 Pearl Hicks entries as unverified identity/sequence leads. The 2017 sibling obituary was added to the source list and life story. The page was re-fetched and verified after the update.
+
+## Updated relationship evidence distinctions
+- **Merida + Aileene:** Yvonne's NUMIDENT and later records establish both as her parents; Paul J. Wagers's 1971 marriage index also names Merida and Aileene as parents. Aileene's obituary names sons Paul and William and late daughter Yvonne. These records establish a family/parental relationship, but no legal marriage certificate or date has been located. The profile now says “reported partner/children's mother,” not “married.”
+- **Merida + Helen Louise Henson:** only a compiled-tree claim for 1961; no original certificate found, and identity not confirmed.
+- **Merida + unidentified bride (Volusia County):** the 19 November 1979 index entry does not name the bride and has not been tied to this Merida by a primary identifier.
+- **Merida + Pearl Hicks:** Kentucky index records a 9 May 1987 Laurel County marriage under the name Merida Wagers. The original application/certificate and identity bridge are still needed before treating this as a confirmed spouse.
+No legal sequence among these relationships is asserted.
+
+## Further search limits
+Additional exact-name searches for Merida Henry Wagers / Merdia Wagers with Helen Henson, Pearl Hicks, London, Laurel County, deeds, probate and occupation did not surface an attributable original marriage certificate, probate inventory, deed, occupation record, or complete 2006 newspaper obituary. Search-engine people-finder snippets were excluded as unreliable and privacy-invasive. No new property or employment claim was added.
