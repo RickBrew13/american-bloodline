@@ -40,3 +40,12 @@ The repository’s code search did not surface additional Avery-specific files i
 5. Search original census images and local records for each sibling, rather than relying only on compiled trees and cemetery indexes.
 
 No paid records were ordered and no outside institution or person was contacted.
+
+
+## Additional sibling/parent cross-check
+The official Bernard Funeral Home obituary for Norma Jean (Whittle) Wilson (17 January 1933–30 January 2017) states that she was the daughter of Stanton B. and Louvienie McGowan Whittle; names sisters Grace Eastham and Dean Beckner as survivors; and reports that two sisters and three brothers had predeceased her. This independently corroborates Avery’s parents and confirms Grace Eastham as a sister. “Dean Beckner” is likely the Veldean/Veldene Beckner named elsewhere in this family group, but I am keeping the name-identity link provisional until a record explicitly equates them.
+
+A separate compiled Social Security-derived listing gives Stanton Whittle’s birth as 10 July 1893 and death as 1 October 1972, while the Whittle Cemetery-derived listing gives 1892–1972. These are not original records and the one-year birth discrepancy remains unresolved. The profile’s 1892 date should be treated as a working date, not a verified exact birth date. No reliable public result located in this pass identified Stanton’s parents or Louvenia McGowan’s parents; no names have been added.
+
+Source: https://www.bernardfuneralhome.com/obituary/Norma-Wilson
+Additional lead only: https://www.locateancestors.com/whittle-kentucky/
