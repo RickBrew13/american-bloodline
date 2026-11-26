@@ -61,3 +61,7 @@ This is a **documented Clark-family candidate**, not yet a proven match for Judy
 - Compare this cluster against the 1984 Hamilton County case (certificate 035410 / volume 05370) and the city-directory entries transcribed as “Larry Clark & Judith Palmer” / “Judy M Clark.”
 
 This is the first meaningful potential parent/sibling lead for a Larry Clark in the same broader Hamilton County region, but it is not yet a safe addition to Larry's public family tree.
+
+### Exclusion: the sibling Judy Clark is not Judith Mae Palmer
+
+The 2007 Bentley Haze Clark obituary explicitly lists sister Judy Clark among his surviving siblings. Judith Mae Palmer (the user's Judy) died on 7 June 2006, according to the family's established cemetery/SSDI evidence. Therefore, the Judy Clark in Bentley's 2007 surviving-sibling list cannot be Judith Mae Palmer. Vicki McNew's 2026 obituary later lists her sister Judy Clark as deceased, which is consistent with a different Judy Clark in the Albert Haze Clark/Ruth Greenfield sibling group. This removes the apparent Judy-name overlap as a way to connect that family to the user's Judy. The brother Larry Clark remains only a same-name candidate; there is still no evidence connecting him to Barry's father.
