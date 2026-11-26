@@ -84,3 +84,33 @@ The shared marker, Bill's 1940 draft registration naming Flora as wife, the chil
 
 ## New searches and remaining access gaps
 Additional exact-name searches were run for Dorothy Ann McCartt, William Dague, Babington, Robert Doney, and DeWayne Miles Dague, along with Bill/Flora McCartt and their reported dates/locations. No new attributable marriage record, divorce, probate file, property record, DeWayne obituary, birth certificate, or cemetery register surfaced. The Ohio History Connection guide confirms there is no statewide marriage index; county probate court and FamilySearch county-by-county browsing remain the productive routes. No paid request, new account registration or outreach was made.
+
+
+## Additional sibling-obituary pass — 25 November 2026
+
+### Thelma Mae (McCartt) Frazier
+A further search located Thelma's 21 August 2008 obituary in the Tufts Schildmeyer funeral-home archive:
+https://www.tuftsschildmeyer.com/obituaries?page=419
+
+The archived obituary excerpt identifies Thelma Mae (née McCartt) Frazier of Loveland, Ohio, as the wife of the late **Mont Frazier**. It names:
+- Daughter: **Cindy (Brian) Worley**.
+- Son: **Hastel L. West**, deceased by 2008.
+- Stepdaughter: **Brenda (Denny) Ratcliff**.
+- Grandchildren: Heather, Jade, Douglas, Robert, Matthew and Lindsey.
+- Two great-grandchildren.
+- Siblings include **Nellie, Dorothy, Jack, Melvin and Denny**; the archived search excerpt cuts off after “and the…”, so it cannot safely supply the rest of the sibling list.
+
+This is reciprocal obituary evidence: Dorothy's 2020 obituary names her deceased sister Thelma Frazier; Thelma's obituary independently names Dorothy as her sister. Thelma's husband Mont is also identified as Dorothy's brother-in-law in Dorothy's obituary. Her death date, 21 August 2008, is now included in Dorothy's sibling list, along with the spouse/children documented in Thelma's obituary. No assumption is made about the parentage of grandchildren or the truncated remainder of the sibling list.
+
+### Other siblings and excluded namesakes
+The current evidence remains:
+- **Nellie Jane Bridges** (1929–2021): Gilligan Funeral Homes identifies her as a daughter of Willie “Bill” and Flora (Strunk) McCartt; Dorothy's obituary calls her a sister.
+- **John “Jack” McCartt** and **Melvin McCartt**: named as surviving brothers in Dorothy's 2020 obituary; Jack's wife Alice and Melvin's wife Gloria are named there. No reliable public obituary was located that independently supplies their dates or further children. Current-address aggregator material was not used or copied.
+- **Kenneth McCartt** and **Janice McCartt**: named among Dorothy's deceased siblings, but no independent obituary or primary death record has been identified.
+- A 2026 obituary mentioning a Kenneth McCartt as a brother of a Bessie Cadle-Wascom was not attached: it supplies no link to the Bill/Flora McCartt family and could refer to another man.
+- The 2024 Janice McCartt Beatty obituary remains excluded as an unrelated woman, with different parents and family.
+
+### Further negative search and scope
+Additional exact-name searches were run for Dorothy's McCartt, Babington and Doney surnames; Bill/Flora; and the sibling names Thelma, Kenneth, Janice, Nellie, Jack and Melvin. The new Thelma obituary is the only attributable new sibling record from this pass. No Babington marriage record, marriage date, divorce, new DeWayne obituary, additional child, new parent record, probate/property file or grave marker was found.
+
+The existing profile now includes Thelma's death date, spouse and children in a qualified sibling note and cites the funeral-home archive. The live profile was re-fetched and verified. No other family profile, tree JSON or Drive original was changed.
