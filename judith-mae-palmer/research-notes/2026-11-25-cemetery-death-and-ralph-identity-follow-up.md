@@ -50,3 +50,8 @@ The next records to request are:
 - Raises **Ralph Hall** as a possible surname for the family-remembered companion Ralph, but explicitly keeps it unverified and out of the public family roster.
 - Provides the official retrieval path for the 1984 divorce case.
 - Does **not** establish Judy’s death place, Barry’s father, Larry’s full identity, or Ralph’s identity.
+
+
+## Later family identification clarification — 25 November 2026
+
+The user has accepted **Ralph Hall** as the working identity for Judy's companion, based on the shared Rockaway Beach-area telephone listing and the family's knowledge of Judy's companion. This supersedes the earlier instruction in this note not to use Ralph Hall in Judy's profile. Judy's profile may identify Ralph Hall as her family-identified companion, while clearly distinguishing the family identification from documentary proof of his complete identity or legal marital status. Do not publish private phone numbers or street addresses from data-broker listings.
