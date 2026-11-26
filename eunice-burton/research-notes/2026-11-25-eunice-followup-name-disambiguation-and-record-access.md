@@ -126,3 +126,18 @@ Source files (all pre-existing; no originals modified):
 - `sarah-hazel-kelly/img/elmer-brewster-obituary.jpg`
 - Exact duplicate of Elmer scan: `elmer-brewster/documents/Elmer-Brewster-1993-Palm-Beach-Post-obituary-Drive-original.jpg`
 
+
+
+## Nursing-school image archives checked for similarly named Mercy schools (25 November 2026)
+
+The latest search surfaced several digitized “Mercy Hospital School of Nursing” collections. I checked their institutional locations before treating them as leads:
+
+- **Hamilton, Ohio Mercy Hospital School of Nursing**: the local history source says the diploma school trained nurses from 1906 until its final class graduated in June 1970. A Butler County nursing-honor-guard profile confirms a Hamilton Mercy graduate in 1957 who then worked at Mercy Hospital. This keeps Hamilton Mercy as a plausible local school for Eunice, but there is still no record naming Eunice as a student or graduate. Sources: https://nkhistory.org/content/97-memories-of-early-rural-life and https://www.ohioshospice.org/nursing-honor-guard-ohios-hospice-of-butler-warren-counties/
+- **Portsmouth, Ohio Mercy Hospital School of Nursing**: Scioto County Public Library's digital collection has 75 items, including 1946–1960 capping/commencement programs, class lists and portraits. Its own item descriptions explicitly locate the collection in Portsmouth/Scioto County. This is not Hamilton's Mercy school; the Portsmouth collection cannot establish Eunice's training without a separate connection. It is excluded as a direct Eunice record. Collection: https://www.sciotolibrary.org/history/items/browse?collection=232
+- **Pittsburgh, Pennsylvania Mercy Hospital School of Nursing**: the UPMC Mercy Archives digital collection contains 1950s graduation and student-life photographs. Its institutional identity is Pittsburgh, not Hamilton, Ohio. Excluded from Eunice's local school evidence. Sources: https://upmcmercydigitalcollection.omeka.net/collections/show/1 and https://upmcmercydigitalcollection.omeka.net/exhibits/show/mercy-hospital-school-nursing/graduations/1950s
+- **Good Samaritan Hospital School of Nursing, Cincinnati**: Ohio Memory's digitized 1947–1970 two-volume history is a valid Cincinnati institution source, and the school was active in the relevant years. The digitized item is a historical scrapbook, not an indexed student roster; its public description does not identify Eunice. Source: https://ohiomemory.org/digital/collection/p16007coll72/id/2976/rec/3
+- **University of Cincinnati College of Nursing**: the university's finding aid confirms College of Nursing records from 1940–2004 and student rosters/class records 1946–1987. This remains a valid archival route, but no named Eunice entry has been found in the online finding aid. Source: https://www.libraries.uc.edu/libraries/arb/collections/university-archives/ua-collections.html
+
+The search result for a different Mercy school's yearbook/photograph collection was not used as evidence about Eunice. The distinction matters because “Mercy Hospital School of Nursing” is not a unique institutional name.
+
+**No new photograph, class roster, license record or graduation notice for Eunice was identified.**
