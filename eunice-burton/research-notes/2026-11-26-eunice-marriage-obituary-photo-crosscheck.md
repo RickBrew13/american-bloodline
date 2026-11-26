@@ -53,3 +53,9 @@ The birth certificate, death certificate, SS-5, county marriage/divorce instrume
 
 ### Existing family photographs visually inspected
 To make the image review more than a filename check, visually inspected the existing parent-folder JPEGs `homer-william-brewster-sr/img/s_xmas.jpg`, `s_comp.jpg`, `s_homer_sr_jr.jpg`, `s_father_william.jpg`, `s_later.jpg`, and `sarah-hazel-kelly/img/s_wallet.jpg`. These depict Homer and Sarah, Homer with his father, and Homer with Homer Jr.; none visibly identifies or depicts Eunice. The images remain in their existing canonical folders and were not duplicated into Eunice's archive. This still leaves a possibility of Eunice appearing in a photograph held in a sibling's folder or in the shared Drive collection, but no such image is currently verified.
+
+
+### Original family clipping and certificate images re-read
+Visually re-read the original 1987 family death-notice scan in Eunice's documents folder. It is a text-only clipping, not a portrait; it directly states “Eunice E. (née Brewster), beloved wife of Irvin Burton,” names her three children and four grandchildren, names Homer and the late Sarah as her parents, and lists the five siblings. It reports death on 16 December 1987, age 56, Hamilton residence, Hodapp Funeral Home, and Saturday 10 a.m. services at Rose Hill Burial Chapel. The clipping still lacks a newspaper masthead and publication date, so the funeral date cannot be fixed from the clipping alone.
+
+Re-read the original 1947 Campbell County marriage certificate and the 1950 census detail image from the archive. The certificate names the parties and parents and explicitly records the sworn age statement; the census detail shows Avery as head and Eunice as wife, with her occupation as candy packer for a wholesale grocer. These confirm the existing transcriptions; no new relationship or photograph emerged.
