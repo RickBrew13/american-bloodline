@@ -68,7 +68,7 @@ The public profile now labels these as reported relationships/surnames and state
 - **Death:** 2 September 2015, Manchester, Clay County, Kentucky, supported by the Britton Funeral Home obituary and ClayCoNews transcription.
 - **Residence:** obituary identifies Memorial Drive, Manchester, in 2015. Elmer's 1993 obituary places her in West Palm Beach. A public-records index lists Cincinnati, Reno, Jacksonville and Corbin entries from 1996–2006; the dates overlap, so they do not prove a strict sequence of moves. The profile now phrases this as indexed address history.
 - **Occupation:** no reliable occupation record found in the existing archive or this pass. Keep unknown.
-- **Burial:** obituary says burial was to follow at Brewster Town Cemetery in Tennessee. Find a Grave memorial 151841686 instead files her in Brewster Cemetery, New Tazewell, Claiborne County, without a stone photo. No cemetery interment card, cemetery register, plot record, or headstone image was found. Brewstertown is a Morgan County community, but the obituary itself does not specify Morgan County or the exact cemetery. Keep burial unverified.
+- **Burial:** obituary says burial was to follow at Brewster Town Cemetery in Tennessee. Find a Grave memorial 151841686 instead files her in Brewster Cemetery, New Tazewell, Claiborne County, without a stone photo. A separate gazetteer listing identifies Brewster Cemetery, Find a Grave cemetery 9679, in Morgan County, 17 miles north of Frankfort and in the Brewstertown area. This is a plausible match for the obituary's wording, while the memorial's Claiborne County cemetery is a different cemetery (9680). No cemetery interment card, register, plot record or headstone image confirms Aileene at either location. Keep burial unverified.
 - **Property:** no attributable deed, parcel, probate or tax record found in this pass. No property ownership claim added.
 
 ## 5. Profile corrections made
@@ -92,3 +92,7 @@ The public profile now labels these as reported relationships/surnames and state
 7. County property, tax and probate indexes only after a record confirms the legal surname and residence for the relevant year.
 
 No paid records were ordered, no relatives or institutions were contacted, and no external requests were submitted. No source files were moved, deleted or duplicated.
+
+
+## Additional cemetery-place distinction
+A Morgan County gazetteer page lists a **Brewster Cemetery** in Morgan County, Tennessee, 17 miles north of Frankfort, and links it to Find a Grave cemetery ID 9679: https://roadsidethoughts.com/tn/frankfort-xx-morgan-cemeteries.htm . This is a plausible candidate for the obituary's “Brewster Town Cemetery in Tennessee,” given the nearby Brewstertown community. Aileene's individual Find a Grave memorial, however, points to cemetery ID 9680 in New Tazewell, Claiborne County—a separate cemetery. The gazetteer confirms the Morgan County cemetery exists, not that Aileene was buried there. The Find a Grave cemetery page was inaccessible in this session, and no interment list or headstone for Aileene was found. The profile now distinguishes these two locations rather than treating the Claiborne assignment as a confirmed burial.
