@@ -71,3 +71,12 @@ I searched the exact names and variants for **Demetria Sexton**, **Elaine Bishop
 - **Anthony Q. Burton:** exact-name web results did not produce a reliable obituary, marriage, or birth record that identifies him as Eunice and Irvin's son. I did not use people-search results that expose current residential/contact details for a possibly living person.
 
 The Generation IV family-tree entry records Sam Cossman's mother as Monica Lynn Cossman (unproved) and his father as Stanley William Cossman (documented); it does not establish any relationship to Irvin's children. No new descendant or child relationship was added from the above name-only search results.
+
+## New household and employment trail for Grady and Ora — Cincinnati directories
+I located two digitized Cincinnati city directories that add a dated residence/employment trail for the parental household. The 1938 Williams directory lists **“Grady E (Ora), candlemkr” at 226 E. 71st Street**. The 1944 directory lists **“Grady E (Ora), mldr Emery Industries” with residence “Elmwood pl.”** These entries fit the Grady-and-Ora household in the existing 1940 census research and the later 1966 deed index, but they do not state Grady's middle name or parentage; the identity link is supported by spouse Ora and the family chronology, not an explicit full-name identifier. The 1944 listing suggests employment at Emery Industries as a molder, while the 1938 listing gives a candle-making occupation. Keep the distinction between this Grady E. and other Burton entries in the same directories.
+
+- 1938 Cincinnati directory, Burton entry: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1938_Pt01.pdf (directory page printed 311; searchable text around PDF lines 45003–45004).
+- 1944 Cincinnati directory, Burton entry: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiCityDirectory_1944_Part1.pdf (searchable text around PDF lines 48775–48777).
+- The 1966 deed index independently lists “Burton, Grady & Ora” as grantees from “Allen C & B J Berbar,” deed book 3480, page 120, dated 16 May 1966. This is an index entry only; the deed instrument and legal description still need to be obtained. https://recordersoffice.hamilton-co.org/deed_indexes/di1966tetrb.pdf
+
+These directory entries strengthen the family's Cincinnati/Elmwood Place residence and employment history, but they do not establish Grady's parents or Irvin's ownership of any property. No address or property claim has been added to Irvin's public profile on this basis.
