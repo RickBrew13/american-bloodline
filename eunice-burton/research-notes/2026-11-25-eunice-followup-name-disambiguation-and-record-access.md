@@ -480,3 +480,15 @@ Primary/official sources:
 - Existing James Thomas Brewster profile: https://rickbrew13.github.io/american-bloodline/james-thomas-brewster/
 
 This is a new contextual finding; no separate person or speculative relative has been added. The original 1940 image remains an open pull.
+
+
+## Cincinnati city-directory false match excluded (26 November 2026)
+
+A 1930–1931 Williams' Cincinnati Directory search returned a snippet reading “Homer W salesman … h 955 Purcell Av.” I opened the full directory at the relevant page to inspect the heading and surrounding entries. The entry occurs within **LONG—Continued**, so it is **Homer W. Long**, not Homer W. Brewster. The matching first/middle initials and city were insufficient; the surname context rules it out. Do not use 955 Purcell Avenue as an address for Homer Sr., Sarah or Eunice.
+
+The 1930–1931 directory's searchable Brewster surname section (in Part 1) did not surface Homer W. Brewster. This is not proof that the family was absent from the entire Cincinnati area: the directory covers city residents and named suburbs, and may omit people living outside its canvass or in nearby jurisdictions. It does not resolve whether the family stayed in Morgan County after the 6 August 1930 Homer–Sarah marriage or when they moved north. The 1930 marriage index in Hamilton County and Eunice's December 1930 Cincinnati birthplace remain the independent evidence of a Cincinnati connection at that time.
+
+- 1930–1931 Williams' Cincinnati Directory, Part 2, pp. 1094–1095, “LONG—Continued,” Homer W. Long entry: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1930-31_Pt02.pdf
+- 1930–1931 Williams' Cincinnati Directory, Part 1, searchable surname index section: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1930-31_Pt01.pdf
+
+This was a deliberately excluded same-name false match; no address or residence claim was added to Eunice's profile.
