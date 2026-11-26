@@ -101,3 +101,34 @@ The live Samuel profile had an internal contradiction: its story and obituary ci
 
 ### Archive placement correction
 The 25 November obituary/family follow-up note had been saved under a mistyped folder name, samuel-g-c-campbell. Its content was copied into the correct samuel-g-campbell/research-notes folder, re-fetched and byte-compared, then the misplaced source file was removed. The target copy was verified after the move; the content was preserved in GitHub history. No other files or profiles were changed.
+
+
+## New identification lead for sister Geneva Bell — likely Geneva Campbell Bell
+
+A newly located Lincoln County, Kentucky obituary transcription for **Elmer Eugene “Gene” Bell** (2 February 1923–22 July 2010) states that he was of Moreland and survived by his wife **Geneva Campbell Bell**. Samuel's 18 November 1998 obituary independently names a sister **Geneva Bell of Moreland**. The matching full maiden name and exact community make this a strong likely identification of the sister named in Samuel's obituary, although neither obituary explicitly names Samuel or Logan and Ora as her parents.
+
+Source:
+- KYGenWeb, Lincoln County Obituaries, Section 74, “Bell, Elmer Eugene”: https://mail.kygenweb.net/lincoln/family/obituaries/section-74/
+
+### Name conflict in Logan and Ora's compiled child group
+
+The FamilySearch compiled profile for Logan Ira Campbell lists eight children, including **Nelma Campbell (1920–unknown)** and **Virginia Elece Campbell (1942–2011)**. Logan's Find a Grave memorial (18113403) instead reportedly links a daughter **Naomi Campbell Reeves (1919–1985)**. Samuel's 1998 obituary names his sisters as **Geneva Bell** and **Elece Hatter**. The likely family pattern is that Elece Hatter may be Virginia Elece Campbell and Geneva Campbell Bell may be the other daughter, but the eldest daughter's birth/legal name is unresolved among **Nelma, Naomi and Geneva**. Do not merge these names or change Logan/Ora's public child list until an original census, birth certificate or marriage record connects them.
+
+### Other sibling identity boundaries
+- **Ray Campbell of Athens, Georgia:** likely Logan Ray Campbell (1927–2017), based on Samuel's obituary, Ray's Lord & Stephens obituary naming parents Ira and Ora, and the FamilySearch compiled child group.
+- **Elece Hatter of Indianapolis:** likely Virginia Elece Campbell (1942–2011), based on the shared distinctive name and family context; no marriage record or obituary directly bridges Elece Hatter to Virginia Elece yet.
+- The compiled FamilySearch group also lists James Otis, Robert Lee, Edward Thomas and Ernest Franklin Campbell. These remain compiled-tree sibling leads until original parent-naming records or their own obituaries are inspected.
+
+### Ancestors above Logan and Ora
+The FamilySearch compiled profile for Logan identifies his parents as **James Logan Campbell (1864–1949)** and **Maude Allen Combs (1873–1958)**; Maude's compiled profile identifies her parents as **Thomas C. Combs and Elizabeth Williams**. These are useful grandparent/great-grandparent leads for Samuel, but no original birth, marriage or death record establishing Logan's parentage has been inspected in Samuel's folder. The Logan and Ora GitHub folders were checked: each has a public profile but its research-notes, documents, img, sources and family-books folders contain only .gitkeep; the profile pages rely mainly on compiled FamilySearch data and small source-card thumbnails. Do not treat those thumbnails as inspected original records.
+
+Sources:
+- Logan Ira Campbell, FamilySearch compiled profile: https://ancestors.familysearch.org/en/L6XR-9BZ/logan-ira-campbell-1897-1970
+- Maude Allen Combs, FamilySearch compiled profile: https://ancestors.familysearch.org/en/LJJX-TQM/maude-allen-combs-1873-1958
+
+### Remaining highest-value record work
+1. Obtain and inspect the original 1940 and 1950 census schedules for Logan and Ora's household; the 1950 index source-card attached to Logan's profile is not the census page.
+2. Obtain original death certificates for Samuel (Kentucky certificate) and the two deceased daughters, Connie Renee (1959) and Marva Charlene (1962), to identify informants, mothers and residence details.
+3. Search Kentucky marriage records for Geneva/Nelma/Naomi Campbell to Elmer Eugene Bell and for Virginia Elece Campbell to a Hatter; no original certificate yet located.
+4. Obtain Samuel's U.S. Navy Official Military Personnel File or equivalent service record; the 1998 obituary's “retired Navy veteran” is the only inspected evidence of service, with no dates, service number, ships, stations, rank or awards.
+5. Search the U.S. Postal Service employment/retirement record only if accessible through public archive or family-held records; no employer personnel record is available.
