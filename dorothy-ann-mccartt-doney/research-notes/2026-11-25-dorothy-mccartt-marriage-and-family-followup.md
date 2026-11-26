@@ -54,3 +54,33 @@ The couple's son was born in Columbus in 1964, so Franklin County is a logical p
 7. Search for additional family photos in existing source folders; no new authenticated photo was found.
 
 No paid records were ordered, no family member or institution was contacted, and no Drive original was moved, deleted or edited.
+
+
+## Parents' life-date and later-residence cross-check — 25 November 2026
+
+The parents' own Generation VI profiles and the existing Bill–Flora shared-family archive were checked. These records add useful, but still derivative, life-date evidence for Dorothy's parents:
+
+### Father: William “Bill” McCartt
+- Bill's profile reports a birth about **1908** based on the 1910 census age 2 and 1920 census age 12; his 1940 draft registration gives Huntsville, Tennessee, as birthplace and identifies Mrs. Flora McCart as his wife.
+- A 1970 obituary for his mother, Sylvania McCartt Stephens Sexton, lists son **William McCartt of Browns Mills, New Jersey**. This is a direct obituary clue to Bill's later residence.
+- Bill's Find a Grave memorial and the shared marker with Flora report **1908–1972**, with burial at **Odd Fellows Cemetery, Pemberton, Burlington County, New Jersey**. The marker photo is shared by both memorials. The exact dates are not independently established by a civil death or birth certificate.
+
+### Mother: Flora (Strunk) McCartt
+- Flora's Find a Grave memorial and the shared marker report **1910–1977**, with burial alongside Bill at Odd Fellows Cemetery, Pemberton, New Jersey.
+- The exact birth day remains unresolved: one memorial gives 7 July 1910, while another derivative index has a conflicting date. The profile carries only the year range.
+- Shelby Lee Strunk's 1965 obituary lists daughter Flora McCartt in Detroit, Michigan. This is consistent with the family's move to Michigan around 1950 described in Denny McCartt's obituary.
+- The parents' shared marker is not an individual portrait and does not replace a civil record or cemetery register.
+
+Sources:
+- Bill McCartt memorial 105861992: https://www.findagrave.com/memorial/105861992/bill-mccartt
+- Flora G. Strunk McCartt memorial 105862078: https://www.findagrave.com/memorial/105862078/flora_g-mccartt
+- Shared marker photograph: https://www.findagrave.com/memorial/105862078/flora_g-mccartt/photo
+- Sylvania McCartt Stephens Sexton memorial/obituary transcription: https://www.findagrave.com/memorial/65691783/sylvania-mccartt-sexton
+
+Dorothy's live profile now carries these dates as qualified parent facts and links to the existing Bill and Flora profiles. The update was re-fetched and verified. The parent profiles and family-tree data were not changed.
+
+## Parent identity conclusion
+The shared marker, Bill's 1940 draft registration naming Flora as wife, the children's obituaries naming Bill and Flora as parents, and Sylvania's 1970 obituary placing William McCartt in New Jersey together make the Bill-and-Flora couple on the Odd Fellows Cemetery marker a strong match to Dorothy's parents. The dates remain **reported memorial/marker dates**, not primary-record proof. The separate Bill McCartt born 1 June 1897 and dying in Tennessee in 1985 is not this couple and must not be merged.
+
+## New searches and remaining access gaps
+Additional exact-name searches were run for Dorothy Ann McCartt, William Dague, Babington, Robert Doney, and DeWayne Miles Dague, along with Bill/Flora McCartt and their reported dates/locations. No new attributable marriage record, divorce, probate file, property record, DeWayne obituary, birth certificate, or cemetery register surfaced. The Ohio History Connection guide confirms there is no statewide marriage index; county probate court and FamilySearch county-by-county browsing remain the productive routes. No paid request, new account registration or outreach was made.
