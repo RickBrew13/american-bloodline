@@ -41,3 +41,23 @@ Sources:
 - *Dallas Morning News*, “Rebecca Whittle,” published 30 September 2008: https://obits.dallasnews.com/us/obituaries/dallasmorningnews/name/rebecca-whittle-obituary?id=25026934
 - Charles W. Smith & Sons Funeral Home, “Theresa Lynn Whittle,” 29 November 2016: https://www.charleswsmithandsonsfuneralhome.com/obituaries/theresa-whittle
 - Charles W. Smith & Sons Funeral Home, “Charlotte Whittle,” 27 May 2025: https://www.charleswsmithandsonsfuneralhome.com/obituaries/charlotte-whittle
+
+
+## Additional Whittle-cemetery cluster and Stanton birth-year conflict
+A broader cemetery search surfaced further Whittle entries in Hugh Frank Cemetery, Russell County:
+- **William Anderson Whittle**, reported 1858–1932;
+- **E. Joanna Whittle**, reported 1897–1918;
+- **Ulissus Hue Whittle**, reported 1928–1929;
+- **Gearlind Whittle**, reported 1936–1936.
+
+The first two may be from Stanton's extended family, but cemetery co-location is not proof of a relationship. William Anderson is a possible research lead for Stanton's parentage only; E. Joanna is a possible relative of the same generation, but neither has been connected to Stanton by a census, birth/death certificate, obituary or probate record. Do not add them as father/sister.
+
+A second birth-date discrepancy surfaced for Stanton himself. The cemetery/compiled memorial listing used in the current profile gives **1892–1972**. LocateAncestors' derivative SSDI-style listing gives **10 July 1893–1 October 1972** and last residence Russell Springs. No original Social Security application, death certificate, marker photograph or census image was retrieved to settle this. Keep the profile's current 1892 date flagged as provisional; do not change it to 1893 based only on the derivative directory.
+
+Sources:
+- PeopleLegacy, Hugh Frank Cemetery entries (secondary burial aggregation): https://peoplelegacy.com/cemetery/hugh_frank_cemetery-6b6Z01/
+- PeopleLegacy, Herbert B. “Earl” Edmonds page with additional Hugh Frank Cemetery entries: https://peoplelegacy.com/herbert_b__earl_edmonds-3j5s1y
+- LocateAncestors, Kentucky Whittle SSDI-style listing, Stanton Whittle entry: https://www.locateancestors.com/whittle-kentucky/
+- Existing memorial/compiled cemetery date reference for Stanton, 1892–1972: https://peoplelegacy.com/david_allen_eastham__sr-6Y5g3F
+
+Primary-record targets remain Stanton's 1900/1910 census household and 1972 Kentucky death certificate, plus Louvenia's 1940 death certificate and 1900/1910 census household. No request or payment has been made.
