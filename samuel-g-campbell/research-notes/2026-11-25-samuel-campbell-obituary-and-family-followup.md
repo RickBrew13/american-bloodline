@@ -72,3 +72,32 @@ No paid records were ordered, no outside party or institution was contacted, and
 - FamilySearch's **Kentucky, Vital Record Indexes, 1911–1999** collection covers death indexes through July 1999 and explains that the index was created from Kentucky Department for Libraries and Archives data; the original certificates are held by Kentucky's Office of Vital Statistics: https://www.familysearch.org/en/search/collection/2531527 . Kentucky's official genealogy page cautions that externally hosted index entries may differ from original certificates: https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/genealogy.aspx . Samuel's 1998 death certificate has not been obtained or inspected.
 - The 1998 obituary does not name a wife or state that Janice was his wife at death. The 1956 marriage register proves the marriage then, and the 1980 consent form confirms both parents' involvement in Rhonda's marriage, but the marital status in November 1998 remains unknown. The profile now labels Janice under “Documented marriage” and does not imply an unbroken marriage through his death.
 - NARA's 1950 census site supports free searching and image viewing, but the specific original Logan/Ora household image was not located in this pass. The FamilySearch 1950 index remains marked unusable, and no household claims were added from it.
+
+
+## Additional sibling-group recheck and profile consistency correction — 25 November 2026
+
+### Logan Ray independently identified
+Lord & Stephens Funeral Homes' original 2017 obituary identifies **Dr. Logan Ray Campbell**, born 22 January 1927 in Liberty, Kentucky, son of the late Ira and Ora Campbell; he died 25 May 2017 in Athens, Georgia. Samuel's 1998 obituary names a surviving brother Ray Campbell of Athens, and the FamilySearch compiled Logan/Ora family tree lists Logan Ray among their children. This makes Logan Ray the likely identification of Samuel's brother Ray, although the two obituaries do not explicitly connect Logan Ray to Samuel.
+- Lord & Stephens, Logan Campbell obituary, 25 May 2017: https://www.lordandstephens.com/obituaries/logan-campbell
+- Berea College Magazine, Winter 2018 “Passages,” repeats Logan Ray's death notice: https://magazine.berea.edu/winter-2018/passages-14/
+
+### Full sibling group — compiled-tree lead, not all verified
+The FamilySearch compiled profile for Logan Ira Campbell lists eight children of Logan and Ora:
+1. Nelma Campbell
+2. James Otis Campbell (1920–1976)
+3. Logan Ray Campbell (1927–2017)
+4. Robert Lee Campbell (1931–1954)
+5. Edward Thomas Campbell (1932–1995)
+6. Ernest Franklin Campbell (1935–1994)
+7. Samuel Eugene Campbell (1937–1998)
+8. Virginia Elece Campbell (1942–2011)
+
+The 1998 Sam obituary independently names siblings Ray, Geneva Bell and Elece Hatter. Logan Ray is likely the brother Ray. Elece Hatter may be Virginia Elece Campbell, but that is not proven. Geneva Bell is not reconciled with the eight-child tree; do not merge her with Nelma or another sibling without records. The other five names remain compiled-tree sibling leads pending original records.
+- FamilySearch compiled Logan Ira profile: https://ancestors.familysearch.org/en/L6XR-9BZ/logan-ira-campbell-1897-1970
+- FamilySearch compiled Ernest Franklin profile: https://ancestors.familysearch.org/en/LVFW-YX6/ernest-franklin-campbell-1935-1994
+
+### Quick-fact correction
+The live Samuel profile had an internal contradiction: its story and obituary citation correctly stated that he was a retired postal employee and retired Navy veteran, while its “Additional Quick-Fact Details” still said occupation/military were not established. This has been corrected to state the obituary-supported occupation and veteran status while keeping exact Navy service dates/rating unverified. The profile now also separates the 1998 obituary's three named siblings from the larger compiled eight-child group. It was re-fetched and verified.
+
+### Archive placement correction
+The 25 November obituary/family follow-up note had been saved under a mistyped folder name, samuel-g-c-campbell. Its content was copied into the correct samuel-g-campbell/research-notes folder, re-fetched and byte-compared, then the misplaced source file was removed. The target copy was verified after the move; the content was preserved in GitHub history. No other files or profiles were changed.
