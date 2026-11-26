@@ -61,3 +61,13 @@ No verified portrait or family photograph of Irvin was found in his existing fol
 9. Verify the 1966 Grady/Ora deed, legal description and parcel history; this is a parents' property lead, not Irvin's.
 
 **Evidence rule:** no speculative grandparents, later spouse, additional children, military service, gospel-group membership, or Allen relatives are to be added to Irvin's public profile unless an identity-linked source supports them.
+
+
+## Recheck of the three children named in Eunice's 1987 notice
+I searched the exact names and variants for **Demetria Sexton**, **Elaine Bishop**, and **Anthony Q. Burton**, and searched the repository's Generation IV data for their family connections.
+
+- **Demetria Sexton:** a Lansing-area alumni search result lists a Demetria Lewis Burton at J.W. Sexton High School, but it does not identify her parents, birth date, or any Sexton connection. This could be a namesake or a married-name lead; it is not enough to identify her as Eunice and Irvin's daughter. Do not merge.
+- **Elaine Bishop:** an Ohio obituary for Cynthia Mae Bishop (1951–2025) names her parents as LeRoy Bishop and Elaine (Christiansen) Bishop. It does not name Elaine's maiden name, parents, or spouse, and nothing in it links her to Eunice or Irvin. It is not accepted as the same Elaine Bishop. Source: https://www.dignitymemorial.com/obituaries/mansfield-oh/cynthia-bishop-12485909
+- **Anthony Q. Burton:** exact-name web results did not produce a reliable obituary, marriage, or birth record that identifies him as Eunice and Irvin's son. I did not use people-search results that expose current residential/contact details for a possibly living person.
+
+The Generation IV family-tree entry records Sam Cossman's mother as Monica Lynn Cossman (unproved) and his father as Stanley William Cossman (documented); it does not establish any relationship to Irvin's children. No new descendant or child relationship was added from the above name-only search results.
