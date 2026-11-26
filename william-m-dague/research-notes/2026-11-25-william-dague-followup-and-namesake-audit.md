@@ -36,3 +36,11 @@ https://www.locatefamily.com/D/DAG/DAGUE-69.html
 Additional exact-name searches for William, Robert, Dorothy McCartt, National Electric Coil, Columbus, and the 1937/1964/2000/2011 dates did not locate a new attributable marriage record, spouse, child, property record, probate file, military record, birth certificate, cemetery plot card, or family photograph. Search results for other Dague families and same-name individuals were excluded. The profile was not changed because no new fact met the evidence threshold.
 
 The existing open records remain access-dependent: historical Franklin County marriage files for William and Dorothy (if they married there), original 1937 birth records for William and Robert, Robert's original death record/obituary, and St. Joseph Cemetery's interment card/plot. No paid request, account creation or outreach was made.
+
+
+## Additional Robert A. Dague namesake exclusion — 25 November 2026
+
+An exact-name search surfaced a Robert A. Dague obituary from Scott City, Kansas, who died 29 May 2019 at age 82. That man was born 4 May 1937 in Franklin County, Kansas, son of John George Jacob Dague and Etta Elizabeth Morgan Dague; he married Joan Carol Vaughn in 1959 and had children Barbara Jean, Michael Lee and John Dale. He is **not** William's twin Robert A. Dague, who is recorded as born 21 August 1937 in Columbus, Ohio, and died 14 October 2000. The birth date, parents, location, spouse and death year exclude the Kansas man.
+- Price & Sons Funeral Home, Robert A. Dague obituary (2019): https://www.priceandsons.com/obituaries/robert-dague
+
+No new identity-matched obituary, marriage, spouse, child, occupation, property, military, or cemetery record for the Columbus-born Robert (1937–2000) was located. Keep the twin relationship supported by William's obituary and the existing family memorials; do not attach the Kansas Robert's family to this Dague branch.
