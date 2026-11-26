@@ -114,3 +114,53 @@ The same obituary calls **Monica Hackbarth** Anthony's grandmother but does not 
 - Keep Stanley's four children and the stepchild distinctions already documented; the 2016 Kathryn obituary still says Samuel and Matthew were her stepsons.
 - No further independent obituary for Stanley's siblings Greg, Brett or Linda was found in this search. Current-person profiles and unrelated same-name legal/news records were not used to expand their identities.
 - The NCOC Class 28-69 B page remains only a possible service lead: class-wide MOS 11B40 and Harmony Church details do not establish Stanley's personal MOS, and its 27 April 2017 death date conflicts with the 26 August 2017 obituary/VA date. Keep it out of the public service facts until an official military record or identity bridge is obtained.
+
+
+## Extended-family and grandparent review through both parents
+
+### Maternal line through Beulah Mae Cornett Cossman
+
+Beulah's profile and obituary identify her as a daughter of **William M. Cornett Sr.** and **Roberta Cromer Cornett**. Her obituary names four siblings: **William Jr., Ralph, Sharon, and Sandi**. Roberta's compiled FamilySearch profile expands these as William McKinley Cornett Jr., Ralph Edwin Cornett, Sharon Lee Cornett and Sandra Sue Cornett. For Stanley, these are maternal aunts/uncles; keep “Sharon” and “Sandi” as the obituary's forms and the expanded names as compiled-tree forms.
+- Beulah obituary, Mihovk-Rosenacker / Tribute Archive: https://www.tributearchive.com/obituaries/49997712/beulah-cossman
+- Roberta Cromer FamilySearch profile: https://ancestors.familysearch.org/en/L1G3-VGZ/roberta-cromer-1908-1999
+- Stanley William's own obituary independently states that he was born to Stanley Peter Cossman and Beulah Mae Cornett Cossman: https://www.strunkfuneralhome.net/obituaries/stanley-cossman
+
+**Roberta's birth and maternal parent evidence:** Kentucky's delayed birth index gives Roberta Cromer, born **15 August 1908** in Rockcastle County, with mother **Sarah Bradley**, volume 233, certificate 49389. This is a valuable independent index entry for Roberta's date and mother; the image/certificate has not been inspected. The Linville Family Genealogy Database and the Rockcastle County KYGenWeb Cromer family compilation identify her father as **Henry Martin “Hen” Cromer** and her mother as **Sarah Louisa Bradley**. The 1908 index confirms Sarah Bradley, but not Henry; treat Henry as compiled-tree evidence until the birth certificate or census image is reviewed.
+- Kentucky delayed birth index: https://kygenweb.net/carter/birth/delayed_birth_index/kdbci_conlin_custard.htm
+- Linville Family Genealogy Database, Henry Martin Cromer: https://www.linvillefamily.us/LFA-o/g1/p1552.htm
+- Rockcastle County KYGenWeb, Cromer family: https://mail.kygenweb.net/rockcastle/family/cromer/
+
+**Roberta's proposed siblings:** the Linville compilation lists Rosa/Rosalee (1892–1918), Margarete/Maggie (1893–c.1978), Pearl Helen (1894–1974), Roy (c.1896), Dewey (1898–1979), Dora Ann (1899–1986), Hugh (1901–1979), Ida (1906–1978), Roberta (1908) and Austin (c.1910). FamilySearch's Rosalee Cromer profile independently shows the same parent couple and a ten-sibling group. These are Stanley's proposed maternal great-aunts/uncles. They are not individually added as proven until the original 1900/1910 census schedules and vital records are reviewed.
+- Rosalee Cromer FamilySearch profile: https://ancestors.familysearch.org/en/9SXZ-8PW/rosa-lee-cromer-1892-1918
+- Linville Family Genealogy Database, family entries: https://www.linvillefamily.us/LFA-o/g1/p1552.htm and https://www.linvillefamily.us/LFA-o/g1/p1564.htm
+
+**Roberta's grandparents / Stanley's maternal great-grandparents:** the same compiled sources name Henry Martin Cromer's parents as **David Cromer** (July 1837–1925) and **Elizabeth Rebecca Southard** (February 1840–1918), and Sarah Louisa Bradley's parents as **James Bradley** and **Sarah J. (surname unknown)**. A second Rockcastle County KYGenWeb transcription gives Henry's parents as David Cromer (born July 1834) and Elizabeth Southard (born February 1840), creating a 1834/1837 birth-year conflict for David. Preserve both estimates; do not select one without a census or death record. Sarah's mother's identity remains incomplete.
+- Linville, David Cromer family: https://www.linvillefamily.us/LFA-o/g0/p377.htm
+- Linville, Sarah Louisa Bradley: https://www.linvillefamily.us/LFA-o/g1/p1562.htm
+- Rockcastle County KYGenWeb, Cromer family: https://mail.kygenweb.net/rockcastle/family/cromer/
+
+William M. Cornett Sr.'s parents remain unknown in his profile. An exact-name web search surfaced an Ancestry tree for a William McKinley Cornett (1896–1951) married to Minta (Minnie) Day and father of Green Cornett (1934–2002). No source links that man to Beulah or Roberta; he may be a namesake or a second family of the same man. Do not merge this tree into Stanley's family without birth, marriage, census or death-record proof.
+- Ancestry public tree result for Green Cornett: https://www.ancestry.com/genealogy/records/green-cornett-24-127gkt1
+
+### Paternal line through Stanley Peter Cossman
+
+Stanley Peter's profile names his parents as **John Adam Cossman/Cossmann** and **Henrietta Stella Bost/Cossmann**, based on a birth-register image attached to the Find a Grave memorial and compiled family material. The profile also identifies Stanley Peter's children as Stanley William, Greg, Brett and Linda Nelson. Stanley William's 2017 obituary independently identifies Greg and Brett as his brothers; the fourth child Linda is listed in Stanley Peter's own profile, but the obituary text available in this audit does not independently name her. Treat Linda as parent-profile/obituary-derived, not as independently re-proven here.
+- Stanley Peter profile and source list: https://rickbrew13.github.io/american-bloodline/stanley-peter-cossman/
+- Stanley William obituary: https://www.strunkfuneralhome.net/obituaries/stanley-cossman
+
+A new **Hamilton County Genealogical Society abbreviated marriage index** lists **John A. Kohsmann** marrying **Sophia Bischoff** in **1879**, at **St. Louis Catholic Church** in Cincinnati. This is a plausible match to the reported parent couple of John Adam Cossman (born 1884) because the name, bride, place and chronology fit. It also suggests the surname may have been written Kohsmann before the later Cossman/Cossmann forms. However, the index gives only “John A.” and does not establish that he is the John Adam Cossmann named as father in the 1884 birth-register transcription. Treat this as a high-value parent-couple lead, not a proven marriage for the exact ancestor until the church register or a child baptism/birth record is inspected.
+- HCGS Grooms index, 1808–1884, K–H section: https://hcgsohio.org/upload/files/Local%20Records/Marriages%20and%20Divorces/HCGS-Marriages1808-1884-Grooms-AbbreviatedIndex-H-K.pdf
+- HCGS Brides index, 1808–1884, C section: https://hcgsohio.org/upload/files/Local%20Records/Marriages%20and%20Divorces/HCGS-Marriages1808-1884-Brides-AbbreviatedIndex-Null-C.pdf
+
+Henrietta Stella Bost's parents remain unknown. Her profile has a marker reading “Mother Henrietta S. Cossmann 1887–1969,” but no birth certificate, marriage record or obituary naming her parents has been found. The parentage of William M. Cornett Sr. likewise remains unknown. Thus the maternal Cromer/Bradley line is the only one of Stanley's four grandparent branches that can presently be extended beyond his grandparents, and even that extension remains compiled-source evidence pending primary-record review.
+
+### Current family-structure map for Stanley
+
+- **Parents:** Stanley Peter Cossman × Beulah Mae Cornett Cossman — supported by Stanley William's obituary.
+- **Paternal siblings:** Greg Cossman and Brett Cossman — named as brothers in Stanley William's obituary; Linda Nelson appears in Stanley Peter's profile as one of four children.
+- **Maternal siblings:** William Jr., Ralph, Sharon and Sandi — named in Beulah's obituary; expanded full names are compiled.
+- **Maternal grandparents:** William M. Cornett Sr. × Roberta Cromer Cornett — compiled memorial/tree evidence and family obituary context.
+- **Paternal grandparents:** John Adam Cossman/Cossmann × Henrietta Stella Bost — compiled memorial and birth-register transcription; original birth record not reviewed.
+- **Maternal great-grandparents through Roberta:** Henry Martin Cromer × Sarah Louisa Bradley — supported by Roberta's delayed birth index for mother Sarah Bradley and compiled sources for Henry.
+- **Next ancestor generation:** David Cromer × Elizabeth Rebecca Southard, and James Bradley × Sarah J. (surname unknown) — compiled-only; David's birth year conflicts.
+- **Unresolved branches:** William M. Cornett Sr.'s parents and Henrietta Stella Bost's parents; John A. Kohsmann/Sophia Bischoff as the possible earlier Cossman parent couple.
