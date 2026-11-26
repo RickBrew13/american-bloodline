@@ -544,3 +544,15 @@ Repeated exact-name searches for Demetria Sexton, Elaine Bishop, Anthony Q. Burt
 Fetched the repository copy of `eunice-burton/index.html`, found and removed an accidental duplicate paragraph that repeated the 1947 marriage and 1950 census evidence. Added direct citations to the KDLA marriage-record guide, Kentucky law summary, Ohio nursing-board record statutes and CHPL newspaper guide. Re-fetched the file after commit and verified: duplicate paragraph count is zero; KDLA and Ohio nursing-law citations are present; profile history records the cleanup.
 
 The core profile remains supported by the original 1947 marriage certificate, original 1950 census image, original 1987 death notice, original parental obituaries, and the corroborating sibling obituary. No unverified spouse, child identity, child paternity, nursing school, employer, or portrait was added.
+
+
+## Critical correction: 1940 census microfilm roll number (26 November 2026)
+
+The earlier research note incorrectly mentioned T627-2263 as the 1940 census roll. That was a carry-over from the **1930** roll designation T626-2263. The USGenWeb Census Project's Tennessee roll table identifies Morgan County's **1940** population schedules as **NARA microfilm publication T627, roll 3924**. The FamilySearch 1940 census collection likewise cites T627 as the original NARA publication. Therefore, use **T627-3924** when requesting or locating the 1940 Morgan County schedule; do not use T627-2263. This correction is about the reel number only and does not yet locate or transcribe Eunice's ED 65-15 sheet 3B image.
+
+- Tennessee / Morgan County census roll table: https://www.us-census.org/states/tennessee/m-tn.htm
+- NARA 1940 census publication description and access: https://www.archives.gov/developer/1940-census
+- FamilySearch 1940 collection details (NARA publication T627): https://www.familysearch.org/en/search/collection/2000219
+- NARA 1940 census FAQs explain that EDs can be browsed through population schedules and Catalog: https://www.archives.gov/research/census/1940/faqs
+
+The exact FamilySearch index still gives Eunice as ED 65-15, sheet 3B, line 51. The remaining work is to access the image from the correct reel/ED through NARA Catalog, FamilySearch, Ancestry, or the Stephen P. Morse universal viewer. No original image was inspected in this pass.
