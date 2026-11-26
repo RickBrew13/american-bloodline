@@ -314,3 +314,36 @@ Accordingly, the correct question to Butler County Probate Court is not “pleas
 - Butler County Records Center: https://bcohio.gov/
 
 This correction narrows the evidence claim; no Butler County nurse certificate has been found and no negative search result has been received from the Court.
+
+
+## Further archive research: Butler County court-record custody and 1940 census image route (26 November 2026)
+
+### Butler County court records: the correct custodian distinction
+
+The Butler County Clerk of Courts' court-record guide says records before 2000 are stored at the Butler County Records Center and Archives, 123 North Third Street, Hamilton, OH 45011, phone 513-887-3437. However, Butler County's own 2025 Records Management Manual explains that the Records Center is only a physical storage extension; **legal custody remains with the office of origin**. It also says court records are governed by the Ohio Supreme Court's Rules of Superintendence, not simply by the county office retention manual. Thus, for Eunice's historical nurse-registration certificate, begin with Butler County Probate Court (probatecourt@bcohio.gov; 513-887-3294) and ask its staff to identify the series and legal custodian. The Records Center (records@bcohio.gov; 513-887-3437) is a secondary inquiry for any transferred record or inventory, not proof that it holds the Probate Court volume.
+
+The Warren County Probate Court's 2021 RC-2 does list HR-09 “Medical Professionals Records,” including nurses, as permanent paper and/or microfilm. This is a strong comparator showing the record class existed in at least one Ohio probate court, but it is **not Butler County's schedule**. The official Union County archive independently describes its 1916–1956 registered nurse certificate volume and says the record includes the nursing school. No equivalent Butler or Hamilton County nurse volume has yet been located in an official catalog.
+
+Sources:
+- Butler County Clerk of Courts historical record location: https://butlercountyclerk.org/locating-court-records/
+- Butler County Records Management Manual 2025, sections 4, 8, 10: https://bcohio.gov/Document_Center/Records%20Center/Records%20Manual%20Final%20-%202025.pdf
+- Butler County Probate Court directory: https://probatecourt.bcohio.gov/phone.php
+- Warren County official RC-2: https://www.warrencountyohio.gov/RecordsCenter/doc/RetentionSchedules/Probate.pdf
+- Union County official Nurses Records inventory: https://www.unioncountyohio.gov/departments/Archives/probate-court-records
+
+### 1940 census: NARA direct-access path identified, image not yet inspected
+
+The existing index locates the Brewster household in Morgan County, Tennessee, ED 65-15, sheet 3B, line 51. The National Archives confirms that its 1940 population-schedule images are public and that they can be browsed by enumeration district; it also publishes the full digitized dataset, including the population schedule JPGs, in its AWS Open Data collection. The NARA microfilm roll list identifies Morgan County EDs 65-1 through 65-15 on roll T627-2263. This narrows the image hunt to the final ED on that roll, but it does not itself identify the exact image filename or prove the handwriting.
+
+- NARA 1940 Census AWS collection and image access instructions: https://www.archives.gov/developer/1940-census
+- NARA 1940 Census FAQs / browse-by-ED procedure: https://www.archives.gov/research/census/1940/faqs
+- Existing FamilySearch index: https://www.familysearch.org/ark:/61903/1:1:K4ZX-8VY
+- Existing FamilySearch image link: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-D46S
+
+Important caution: the previously consulted FamilySearch image URL was inaccessible in the current browser session. NARA's 1940 public image route is a separate avenue to pursue. No new census image has been inspected and no additional transcription is claimed.
+
+### Additional exact-name results excluded
+
+A 2024 people-search/data-broker entry for an “Anthony Q Burton” in Hamilton, Ohio surfaced in search. It does not establish that he is Eunice's son: it supplies no reliable birth date, parentage, or primary-source link to her. It is excluded from the family tree and not used to publish or expose a private address.
+
+A 1932–1933 Cincinnati city-directory result for an “Eunice E, stenographer” and a 1933–1934 directory result for “Eunice E, stenographer” are chronologically impossible matches for Eunice Edna Brewster, who was a toddler in 1932–1934. They are excluded. The Cincinnati Public Library's digitized directory archive remains useful for searching later years and tracing a named adult by occupation/address, but a same-name directory hit must be cross-checked against age, spouse and address before use.
