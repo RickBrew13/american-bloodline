@@ -116,8 +116,8 @@ The Cincinnati & Hamilton County Public Library's official yearbook holdings lis
 - CHPL Digital Library school yearbook collection: https://digital.cincinnatilibrary.org/digital/collection/p16998coll3
 - CHPL genealogy resources and affiliate-library access to FamilySearch: https://chpl.org/resources/genealogy/
 
-### Parent-name distinction retained
-The 1976 marriage license in Monica's folder names **David W. Wise** and **Virginia Greiner** as her parents. Virginia's 2006 obituary identifies her as the wife of the late **Samuel P. Wise** and mother of Monica Kelly. The two male names are not the same. This may mean David W. Wise was Monica's biological father and Samuel P. Wise was her stepfather or later step-parent, but no marriage, divorce or death record yet establishes that sequence. Do not substitute Samuel P. Wise as Monica's father or call him her stepfather until the relationship is documented.
+### Parentage correction
+The original 1976 Hamilton County marriage license names **Samuel P. Wise** as Monica Lynn Wise's father and **Virginia Greiner** as her mother. Virginia's 2006 obituary independently identifies her as the wife of the late Samuel P. Wise and names daughter Monica Kelly. Thus Samuel P. Wise is not a separate possible stepfather; he is the father named on Monica's original marriage license. The remaining unresolved identity bridge is Monica Lynn Wise → Monica Kelly, which is strongly supported by the mother's obituary but lacks Monica's own later marriage/name-change record. No David W. Wise is named on the original license, and the earlier David W. Wise wording in this appended section was an error and is withdrawn.
 
 ### New follow-up targets
 - Locate the 1975 Madeira yearbook image and check the class portraits/name index.
