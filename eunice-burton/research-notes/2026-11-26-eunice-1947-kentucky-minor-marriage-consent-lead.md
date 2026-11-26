@@ -38,3 +38,15 @@ The FamilySearch image currently archived in Eunice's folder is the certificate 
 
 ## Evidence boundary
 This is a high-priority record lead, not proof that a consent was filed or that the marriage was invalid. Do not characterize the event as a fraudulent marriage or state that her parents approved/refused until the original application/consent and the law effective in July 1947 are checked. No clerk or archive has been contacted and no record ordered.
+
+
+## Additional historical check: which county could issue the license in 1947?
+A 1922 national marriage-law manual reproducing Kentucky Statutes §2105 (the predecessor of KRS 402.080) says a license was issued by the clerk of the county where the woman resided, unless she was of full age or a widow and applied in person or by signed writing, in which case any county clerk could issue it. The current KRS history shows §402.080 was next amended by 1948 Ky. Acts chapter 42, section 1; no intervening amendment is listed between the 1942 recodification and that 1948 act. This is strong historical context for the rule in force in July 1947, although the actual 1947 session-law text still should be checked.
+
+That makes the original certificate's details especially important: it gives Eunice's residence as Cincinnati, Ohio, says she was single and 21, and shows a Campbell County, Kentucky license. If she was actually 16 and resident in Cincinnati, the 1947 county-of-residence rule and under-21 consent rule both make the original application/consent papers particularly valuable. The apparent mismatch could reflect the ages/residence as reported on the application, an exception or factual detail not shown on the certificate, or an administrative irregularity; it is not proof of misconduct or invalidity. Kentucky case-law summaries note that irregularity in the place of license issuance does not automatically invalidate a marriage.
+
+Additional source:
+- *Marriage Laws and Decisions in the United States: A Manual*, Kentucky section, §1(b), reproducing Kentucky Statutes §2105 (1922): https://www.russellsage.org/sites/default/files/Marriage-Laws-Decisions.pdf
+- Current KRS 402.080 history showing 1948 Ky. Acts ch. 42 as its first amendment after 1942 recodification: https://apps.legislature.ky.gov/Law/statutes/statute.aspx?id=47593
+
+This remains a research lead; no legal conclusion about the marriage is made.
