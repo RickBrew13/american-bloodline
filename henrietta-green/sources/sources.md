@@ -1,0 +1,10 @@
+# Sources — Henrietta Green Lyon
+
+- FamilySearch, West Virginia Births and Christenings, 1853–1928 — unnamed daughter “Lyon,” born 11 September 1870, Lamberts Run, Harrison County; father Andrew Lyon, mother Henrietta Lyon. The retired duplicate copy is X5T5-18S.
+- FamilySearch, West Virginia Deaths, 1804–1999 — “Minnie Lyon Powell,” died 4 January 1952, Sweet Springs, Monroe County; father Andrew Lyon, mother Henrietta Green.
+- United States Census, 1850, Harrison County, West Virginia — “Harriet Green” in the household of her father Richard Green.
+- United States Census, 1880, Coal District, Harrison County, West Virginia — Henrietta Lyon, 30, wife, in the household of Andrew Lyon.
+- United States Census, 1900, Clarksburg, Harrison County, West Virginia — “Henaretta Lyon,” 55, wife, in the household of Andrew Lyon.
+- Find a Grave Index — “Henrietta Green Lyon,” born 8 September 1845, died 8 April 1908, burial Odd Fellows Cemetery, Clarksburg, Harrison County, West Virginia.
+
+FamilySearch tree person: LR2V-562
