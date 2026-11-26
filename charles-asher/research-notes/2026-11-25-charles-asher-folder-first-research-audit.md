@@ -118,3 +118,12 @@ Sources:
 4. **Charles Asher Jr. (1931–2023):** parents Charlie Asher and Cleoria Smith; married Ruth Colson in 1954; long-lived Hamilton/New Miami family documented in three funeral-home obituaries. This is a distinct, documented family and is not linked to Aileene.
 
 No candidate above has been substituted for Aileene's Charles. The next decisive evidence remains Julie's original birth record/SS-5 and the full Charlene obituary, followed by the original 1950 census image and the 1969 Ohio death certificate for the possible younger Charles.
+
+
+### 1940 census corroboration for the separate 1931 Charles Asher Jr.
+
+A 1940 census transcription for the Alf B. Smallwood household in Kentucky lists **Charles Asher, age 8**, alongside his mother **Clora Smallwood**, stepfather Alf B. Smallwood, and siblings/half-siblings J.B. Asher (14), John C. Asher (12), Vernie Asher (10), Sylvia Smallwood (6), Leeda Smallwood (3) and Audrey Smallwood (1). This fits the 15 September 1931 birth year and the later Brown-Dawson-Flick obituary's statement that Charles was the son of Charlie Asher and Cleoria (Smith) Smallwood, and that he had a half-brother Bobby Smallwood. The transcription is derivative and the original 1940 schedule has not been inspected, but it further separates this 1931 Charles from the unidentified Aileene-linked Charles.
+- YourRoots, 1940 U.S. Census transcription: https://yourroots.com/us-census/jessie-baker-1940-kentucky--2zyi55
+- Brown-Dawson-Flick, Charles Asher Jr. obituary: https://www.browndawsonflick.com/obituaries/charles-asherjr
+
+This is not evidence that the 1931 Charles is Aileene's Charles; it is additional evidence that the 1931 namesake belongs to a distinct, documented family. The four candidate identities remain separate.
