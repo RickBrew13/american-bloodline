@@ -80,3 +80,6 @@ I located two digitized Cincinnati city directories that add a dated residence/e
 - The 1966 deed index independently lists “Burton, Grady & Ora” as grantees from “Allen C & B J Berbar,” deed book 3480, page 120, dated 16 May 1966. This is an index entry only; the deed instrument and legal description still need to be obtained. https://recordersoffice.hamilton-co.org/deed_indexes/di1966tetrb.pdf
 
 These directory entries strengthen the family's Cincinnati/Elmwood Place residence and employment history, but they do not establish Grady's parents or Irvin's ownership of any property. No address or property claim has been added to Irvin's public profile on this basis.
+
+### Earlier Cincinnati residence lead (1930–31 directory)
+A digitized 1930–31 Cincinnati street directory lists **Grady E. Burton at 7211 Vine Street**. The directory's street-address listing does not identify a spouse, so this is a residence lead rather than proof by itself that this was the same Grady E. later listed with Ora. It gives an earlier address to compare against the 1938 listing at 226 E. 71st Street and the 1944 Elmwood Place residence. Source: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1930-31_Pt04.pdf (search result text under the Seventy-second street block).
