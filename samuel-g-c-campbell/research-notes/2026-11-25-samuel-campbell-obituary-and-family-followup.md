@@ -65,3 +65,10 @@ The existing profile was updated with the obituary's occupation, Navy-veteran st
 8. Original 1940 and 1950 census schedules and deed/tax/probate records in Casey/Russell Counties after the identity is confirmed.
 
 No paid records were ordered, no outside party or institution was contacted, and no files were moved, deleted or duplicated.
+
+
+## Additional burial and vital-record index check
+- A derivative burial index lists **Sam Campbell, 1937–1998**, at **Salem United Methodist Church Cemetery, Liberty, Kentucky**: https://peoplelegacy.com/burial-records/sam/campbell/ . This aligns with the 1998 obituary's Salem Cemetery statement and the cemetery used by his parents, Logan and Ora. It is not a cemetery register or marker photograph, so the plot and grave marker remain unverified.
+- FamilySearch's **Kentucky, Vital Record Indexes, 1911–1999** collection covers death indexes through July 1999 and explains that the index was created from Kentucky Department for Libraries and Archives data; the original certificates are held by Kentucky's Office of Vital Statistics: https://www.familysearch.org/en/search/collection/2531527 . Kentucky's official genealogy page cautions that externally hosted index entries may differ from original certificates: https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/genealogy.aspx . Samuel's 1998 death certificate has not been obtained or inspected.
+- The 1998 obituary does not name a wife or state that Janice was his wife at death. The 1956 marriage register proves the marriage then, and the 1980 consent form confirms both parents' involvement in Rhonda's marriage, but the marital status in November 1998 remains unknown. The profile now labels Janice under “Documented marriage” and does not imply an unbroken marriage through his death.
+- NARA's 1950 census site supports free searching and image viewing, but the specific original Logan/Ora household image was not located in this pass. The FamilySearch 1950 index remains marked unusable, and no household claims were added from it.
