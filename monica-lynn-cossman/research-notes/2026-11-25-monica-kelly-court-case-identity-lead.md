@@ -257,3 +257,14 @@ Sources:
 - Hiatt family compilation: https://www.hiattfamily.net/gen/lda-2014-10-03/aqwg10828.htm
 - FamilySearch, Mary Emma McIntosh Tipton: https://ancestors.familysearch.org/en/K8V3-DPJ/mary-emma-mcintosh%2C-tipton-1862-1925
 - KYGenWeb Estill County Tipton family page: https://mail.kygenweb.net/estill/site/family/families/tipton/
+
+
+## Reported children from the Stanley marriage — evidence grading
+
+Monica's public profile now lists **Samuel Cossman** and **Matthew Cossman** as reported children rather than leaving the child section blank:
+- Stanley William Cossman's 2017 obituary names Samuel and Matthew among his children.
+- Kathryn “Kate” Cossman's 2016 obituary calls Samuel and Matthew her stepsons, which is consistent with them being Stanley's children from an earlier relationship.
+- An Ancestry compiled tree specifically assigns Samuel to Stanley William Cossman and Monica Lynn Cossman.
+- The 2024 Anthony Wills-Cossman obituary identifies Samuel Cossman as Anthony's father, and the 2004 court opinion's unnamed 17-year-old son could be a child in this family, but no name is supplied.
+
+**Evidence grading:** Stanley's parentage of Samuel and Matthew is supported by his obituary and Kathryn's obituary. Samuel's maternity to Monica is compiled-tree evidence plus circumstantial family-network context, not a birth record. Matthew's mother is not identified in the records reviewed. The court opinion's unnamed son is not assigned to either Samuel or Matthew. Do not claim that Monica is proven mother of both until the original birth certificates or another direct parentage record is obtained.
