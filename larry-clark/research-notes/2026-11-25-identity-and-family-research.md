@@ -94,3 +94,26 @@ The previously noted **Larry Thomas Clark, born 22 September 1946 in Princeton, 
 The 1973 *RPM* trade-paper result says WSAI Cincinnati disc jockey Larry Clark moved to CHAM in Hamilton, Ontario, where he took the 3–6 p.m. slot. This extends the possible radio-career trail beyond the 1968–1969 Cincinnati references. It still identifies only a professional by that name, not the husband in the divorce index. Source: https://www.worldradiohistory.com/CANADA/RPM/70s/1973/RPM-1973-03-10.pdf
 
 The strongest current working identification test is now: **Does the radio personality match the 1940-born Larry Clark named in the 1984 divorce index?** If so, the 1967–1973 career path (small-town Cincinnati area → Columbus → WSAI Cincinnati → CHAM Hamilton, Ontario) may provide a way to find his full name, addresses, and later family records. Until the 1969 profile article or a primary record supplies a date of birth/address, this remains a lead only.
+
+
+## 4. Reassessment after family feedback — 26 November 2026
+
+The family does **not** think the Cincinnati WSAI radio disc jockey is likely to be the Larry Clark connected to Judy Palmer and Barry. This is important firsthand context. The radio personality is therefore downgraded from a promising identity lead to a **weak, unconfirmed namesake possibility**. Do not use his career, education, or reported movements to identify the target Larry, and do not add the radio occupation to the public profile. Retain the trade-paper references only so this lead is not accidentally revived as fact.
+
+A further broad search still did not find a documentary link between the radio personality and Judy, Barry, or the 1984 Hamilton County divorce index. Nor did it produce a reliable obituary, birth record, parent/sibling cluster, or marriage record for the target Larry. Search results for other Larry Clarks in Cincinnati/Hamilton County remain namesakes unless they can be connected by a spouse, child, date, or address.
+
+The strongest direct research targets remain unchanged:
+- The original 1984 Hamilton County divorce case, certificate **035410 / volume 05370**, including petition and decree.
+- The actual Cincinnati-area directory image transcribed as “Larry Clark & Judith Palmer” and “Judy M Clark,” including its year, address, and occupation.
+- Barry's original Ohio birth record or Social Security application, which should identify his father more fully than the family-level name “Larry Clark.”
+- The actual Spring Grove interment and cemetery records for Judy and Barry, to see whether they contain any reference to Larry.
+
+### Chronology caution
+
+The existing public profile places Larry and Judy together by about late 1968 because Barry was born in August 1969. The divorce index's reported eight-year marriage, if the 1984 entry is indeed this couple, would suggest a legal marriage around 1976. These statements are not necessarily contradictory (a couple may have been together before marrying), but neither the exact marriage date nor the relationship sequence is established. Do not turn the approximate 1968 relationship date or the calculated 1976 date into a proven marriage date.
+
+### Search results excluded
+
+- A 2008 guestbook entry signed “Judy & Larry Clark” in an Ohio obituary is not connected to this family and supplies no usable identity evidence.
+- Commercial people-search pages return many Larry Clarks and sometimes expose private contact details; they are not reliable genealogical evidence and should not be used to assign this man's relatives or addresses.
+- The Albert Haze Clark / Ruth Greenfield sibling group remains excluded as a match: its sister Judy Clark was alive in the 2007 obituary, whereas Judith Mae Palmer died in 2006. No independent evidence connects its brother Larry to Barry.
