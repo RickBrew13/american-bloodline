@@ -15,8 +15,8 @@ Sources:
 
 ## 1951–1955 Hamilton County deed entries — likely a different Irvin Burton
 A separate older Irvin Burton appears in earlier Hamilton County indexes:
-- 1 December 1951: grantor Funk, Dove and Sam; grantee **Irvin Burton & Marie**; deed book 2517, page 341.
-- 24 November 1953: grantor William A. and Emma Del Favero; grantee **Irvin Burton et al.**; book 2639, page 124.
+- 28 November 1951: grantor Funk, Dove and Sam; grantee **Irvin Burton & Marie**; deed book 2517, page 340.
+- 25 September 1953: grantor William A. and Emma Del Favero; grantee **Irvin Burton et al.**; book 2639, page 124.
 - 19 April 1955: grantor William R. Evans; grantee **Irvin Burton et al.**; book 2750, page 154.
 
 The 26 September 1951 Hamilton County register of voters also lists **Irvin Burton** at 843 Barr, Ward 16, Precinct H. The same register separately lists Frances Burton at 848 Barr. It does not state an age or spouse.
