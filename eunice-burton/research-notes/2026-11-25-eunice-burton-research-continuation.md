@@ -217,3 +217,12 @@ New research implications:
 4. The original death notice itself is stronger evidence than the derivative indexes for Eunice's children, siblings, grandchildren, marital status at death, death date, and residence.
 
 **This is a newly inspected original family source from the existing archive, not a newly discovered web record. The exact original JPEG remains in place; no duplicate or altered copy was created.**
+
+
+### Sibling group independently corroborated by sister Aileene's obituary
+- A separate obituary for **Aileene W. Gilpin**, published by Clay County News on 9 September 2015, says she died 2 September 2015 at age 78. It names her parents as Homer and Sarah Brewster and says her deceased brothers and sisters included **Elmer Brewster, Eugene Brewster, Earl Brewster, Homer Brewster Jr., and Eunice Brewster**. This independently corroborates the exact sibling group named in Eunice's 1987 death notice, including Eunice herself, and supports the family relationship between Eunice and Aileene Gilpin. The age implies a birth around 1936–1937, consistent with the working 1940 household chronology but not used to invent an exact birth date.
+- The Aileene obituary also names her children: sons Paul Wagers, William Wagers and Greg Asher; daughters Yvonne Wuennemann, Julie Korman and Charlene Asher (all three predeceased her); 16 grandchildren and 21 great-great-grandchildren. This helps separate her descendants from Eunice's own children. No individual names for Aileene's grandchildren are supplied.
+- This is a strong independent family obituary source for Eunice's siblings and parents. It is not a birth certificate or census, but it is a second family-published account that agrees with Eunice's own 1987 notice. It supports keeping all five named siblings in Eunice's profile and retaining the 1940 census wording of four brothers and one sister.
+- Source: Clay County News, “Aileene Gilpin,” 9 September 2015: https://www.clayconews.com/obituaries/aileene-gilpin
+
+**No separate profile was edited. This evidence is recorded only in Eunice's research note; Aileene's own profile and archive remain unchanged.**
