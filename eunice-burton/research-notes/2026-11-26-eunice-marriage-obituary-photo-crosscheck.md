@@ -49,3 +49,7 @@ Ran separate exact-name searches for Demetria Sexton, Elaine Bishop and Anthony 
 
 ### Status after this pass
 The birth certificate, death certificate, SS-5, county marriage/divorce instruments, nursing-license file, funeral/interment files and newspaper source citation still require access from custodians or restricted databases. These are not silently treated as completed. No paid order, email, call or archive request was submitted.
+
+
+### Existing family photographs visually inspected
+To make the image review more than a filename check, visually inspected the existing parent-folder JPEGs `homer-william-brewster-sr/img/s_xmas.jpg`, `s_comp.jpg`, `s_homer_sr_jr.jpg`, `s_father_william.jpg`, `s_later.jpg`, and `sarah-hazel-kelly/img/s_wallet.jpg`. These depict Homer and Sarah, Homer with his father, and Homer with Homer Jr.; none visibly identifies or depicts Eunice. The images remain in their existing canonical folders and were not duplicated into Eunice's archive. This still leaves a possibility of Eunice appearing in a photograph held in a sibling's folder or in the shared Drive collection, but no such image is currently verified.
