@@ -191,3 +191,58 @@ Ask Butler County Probate Court to search any “Nurses Records,” “Registere
 Supply her birth date (22 December 1930) and explain she was known in Hamilton, Butler County. Request a scan of any certificate and the full register entry, including school, issue date, certificate number and county of residence. Ask whether the series exists in Butler County or was transferred to the Ohio History Connection/State Archives. If no Butler record is found, ask Hamilton County Probate Court to search the same series. No request or call has been made.
 
 **This is now one of the highest-value next record requests in Eunice's case** because a single certificate could identify her nursing school and provide an independent biographical anchor. No license number, school or employer has yet been confirmed.
+
+
+## Further follow-up: county archive route, false Taylor match, and second-round family searches (25 November 2026)
+
+### County-filed nurse certificate: what is established and what is not
+
+The Union County, Ohio archive's official catalog confirms that Ohio's early RN certificates were filed with the probate judge in the county where the nurse intended to practice, and that the surviving county register can identify the nurse's school, certificate number, residence and filing/issue dates. This establishes the record system and the contents of a surviving example; **it does not establish that Butler County's equivalent volume survives or that Eunice filed there**.
+
+The correct Butler County contact split is:
+- **Butler County Probate Court**, 101 High Street, Hamilton, OH 45011; (513) 887-3294; probatecourt@bcohio.gov. Ask whether its historic nurse-registration/certificate register exists and where it is held.
+- **Butler County Records Center and Archives**, 123 North Third Street, Hamilton, OH 45011; (513) 887-3437. The county records center is the historical repository for older court records. Ask whether the nurse register was transferred there and whether it can be searched by name.
+- If she first practiced in Cincinnati/Hamilton County, ask Hamilton County Probate Court about any separate historical nurse-certificate series. Its current online archive category list does not list nurses' certificates as a distinct category, so a clerk/archive confirmation is needed.
+
+Search names: Eunice Edna Brewster; Eunice Edna Whittle; Eunice E. Burton; and Eunice Taylor (Social Security alias only). Supply DOB 22 December 1930 and Hamilton/Butler County residence. Request the original certificate or complete register entry, especially nursing school and certificate number. **No call, email, request or paid order has been made.**
+
+Official/primary record-system references:
+- Union County Probate Court Records: https://www.unioncountyohio.gov/departments/Archives/probate-court-records
+- Butler County Probate Court: https://probatecourt.bcohio.gov/
+- Butler County Records Center archive location is corroborated by the Clerk of Courts guide: https://butlercountyclerk.org/locating-court-records/
+- Hamilton County Probate Court archive categories: https://www.probatect.org/court-records/archive-categories
+
+### Same-city Eunice Taylor result rejected
+
+A search for Eunice Taylor in Hamilton, Ohio returned an obituary for **Eunice C. King Taylor (16 July 1926–3 July 2016)**. That woman was born in Hazard, Kentucky to Arch and Laura Phelps King and was married to Willie B. Taylor. She is not Eunice Edna Brewster Burton, who was born in Cincinnati on 22 December 1930 and died 16 December 1987. This is a documented same-city false match, not evidence that Eunice Edna used Taylor as a married surname. Sources:
+- https://www.dignitymemorial.com/obituaries/hamilton-oh/eunice-taylor-8007231
+- https://peoplelegacy.com/eunice_c__king_taylor-30383f1
+
+The Taylor alias on Eunice Edna's Social Security record remains unexplained. Do not attach the 2016 Eunice Taylor or her husband Willie Taylor to this family.
+
+### Second-round searches for Eunice's named children and grandchildren
+
+Additional exact-name/location searches were run for:
+- Demetria Sexton, including Hamilton and Cincinnati, Ohio;
+- Elaine Bishop, including Hamilton/Cincinnati and the Brewster/Burton connection;
+- Anthony Q. Burton, including Cincinnati and Hamilton;
+- Michael and Melissa Sexton in connection with Demetria;
+- Alicea and Brandy Bishop in connection with Elaine.
+
+No reliable obituary, vital record, or family record tying any returned candidate to Eunice was found. Data-broker and people-search results were excluded. The Demetria Kim Lawrence result remains a false match because her obituary names Jack E. and Delilah Lawrence as parents. The four grandchildren remain identified only as names in Eunice's death notice; no parent links have been established.
+
+### Newspaper index and access route clarified
+
+The Hamilton County Genealogical Society confirms that CHPL's Newsdex indexes many 20th-century Cincinnati newspaper articles, death notices and obituaries, and that a library card is not required. It also gives a direct retrieval route once a full index citation is known: email research@chpl.org or call 513-369-6900; for a death notice, provide the deceased's name, full date and newspaper. Newsdex itself did not load in this browser session, so no search result or negative result is claimed.
+
+Lane Libraries' official local-history page confirms that its History Team accepts research requests for obituaries, specific newspaper articles/issues and genealogy; the Cummins Local History Room is in Hamilton. Its online request form requires the researcher's contact details and CAPTCHA, so no request was submitted. This is a concrete route to ask staff to check the December 1987 Journal-News issue and locate any family notices or nursing-school photographs.
+
+- CHPL Newsdex and copy-request instructions: https://www.hcgsohio.org/cpage.php?pt=62
+- Lane Libraries local history/genealogy research request: https://www.lanepl.org/local-history-genealogy
+- Lane Libraries historical newspaper holdings: https://www.lanepl.org/local-history-genealogy/historical-newspapers
+
+### Current evidentiary status
+
+The original family obituary, original 1947 marriage certificate, 1950 census image, and the original obituaries of Sarah, Homer and Elmer provide a strong documentary foundation for Eunice's identity, parents, siblings, marriage to Avery in 1947, 1950 household, spouse at death, children named in her death notice, and burial location. No new evidence in this pass changes those conclusions.
+
+The remaining unresolved questions are record-access questions rather than a lack of additional same-name web searches: original SS-5/application image; original 1940 census image transcription; RN certificate and school; original death certificate and exact place of death; the Avery marriage's legal end and Eunice/Irvin marriage record; Hodapp's funeral file and Rose Hill interment card; direct identification/parentage records for the named children and grandchildren; and an identified personal photograph. These must remain explicitly open until source records are obtained. No speculative identity has been added to the tree.
