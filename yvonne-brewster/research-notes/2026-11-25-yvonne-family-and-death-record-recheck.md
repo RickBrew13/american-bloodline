@@ -36,3 +36,32 @@ Further exact searches for Yvonne S. Dukes, Yvonne Brewster Dukes, Joseph Elmer 
 
 ## No profile or family-tree data changed
 This pass adds a research note only. It does not justify changing Yvonne's death date, parent names, spouse sequence or children links. The prior profile's one-day death-date conflict and the difference between memorial and burial remain intact. No paid record was ordered, no cemetery or funeral home was contacted, and no existing Drive file was edited, moved or deleted.
+
+
+## Maternal Nicolai branch expanded from the Wuelzer family compilation
+
+A fresh review of the Wuelzer Family Tree (entry 182 for Yvonne and the linked entry 102 for her mother) reveals a more extensive proposed maternal line than was captured in the earlier notes:
+
+- **Marie Suzanna Nicolai** (20 September 1911–22 April 1978), listed as daughter of **Frederick Stephan Nicolai** (25 April 1887–7 February 1950) and **Florence E. Becht** (6 January 1887–31 May 1963).
+- Marie's proposed siblings are **Melvin Stephan Nicolai** (6 July 1910–26 July 1943) and **Andrew Joseph Nicolai** (23 May 1919–31 December 2009). The compilation lists Melvin's daughter Barbara Ann Nicolai (1943–1999) and Andrew's children William A. Nicolai (1945–1971) and Patricia Izell Nicolai (born 1947). These would be Yvonne's maternal niece/nephew/cousin connections if the sibling links are confirmed.
+- Frederick Stephan Nicolai is listed as son of **Mickel Nicolai** (5 May 1841–23 June 1912) and **Susanna Marie Wuelzer** (6 September 1856–30 March 1936), making them possible maternal great-grandparents of Yvonne.
+- The compilation names Florence's parents as **Joseph Becht** and **Frances Lohmiller**.
+- The same tree identifies Marie's later spouse as **Joseph R. Courtois** (12 August 1892–28 February 1969) and indexes her in the Arlington Memorial Gardens cemetery transcription as **Maria S. Courtois**, with maiden/alternate name Marie Suzanna Nicolai. This corroborates a Courtois surname association and the exact death date, but does not by itself establish the marriage date or the stepfamily relationship.
+
+The Spring Grove Cemetery transcription independently lists Frederick S. Nicolai and Melvin S. Nicolai in adjoining spaces 126-355-02 and 126-355-01; PeopleLegacy independently places Frederick and wife Florence in Spring Grove, spaces 2 and 3 of the same lot. These cemetery transcriptions support the identity/death/burial cluster, but do not establish parent-child links. The Wuelzer compilation cites census records (1900–1950), draft cards, death records, cemetery records and obituaries for this family, but the actual census images, draft cards, death certificates and obituaries have not been inspected in this pass.
+
+Sources:
+- Wuelzer Family Tree, entries 43, 101, 102, 103 and 182: https://www.fam-tree.net/FamilyTree/Book/WuelzerBook.html
+- Spring Grove Cemetery transcription, Nicolai entries: https://www.fam-tree.net/FamilyTree/Cemetery/OH/OH_Cemetery_955.html
+- Arlington Memorial Gardens transcription, Maria S. Courtois / Marie Suzanna Nicolai: https://www.fam-tree.net/FamilyTree/Cemetery/OH/OH_Cemetery_69.html
+- PeopleLegacy, Florence E. Becht Nicolai: https://peoplelegacy.com/florence_e_becht_nicolai-1C5o5B
+
+### Parentage confidence and next evidence
+- Yvonne's own parent names Joseph Farrell and Marie S. Nicolai remain supported by the NUMIDENT transcription and the Indiana marriage record's conflicting Lorraine Walker field is still unresolved.
+- Marie's parentage to Frederick and Florence is presently a **compiled-tree lead**, not a proven link. The strongest next sources are Marie's original birth certificate (20 September 1911, Wyoming, Hamilton County), 1920/1930/1950 census images, Frederick and Florence's original death records, and the 1943/1950/1963 obituaries.
+- Marie's proposed siblings should not yet be added as proven relatives on Yvonne's public profile. The next checks are the original 1910/1920/1930/1940 census household images and Frederick/Florence's original death/obituary records.
+- Joseph Elmer Farrell's parents and siblings remain unknown. The Wuelzer compilation gives a birth date/place (21 December 1909, Dayton, Campbell County, Kentucky), death (5 July 1976, Cincinnati), St. Stephen Cemetery burial, and cites a WWII draft card, but does not identify his parents in the retrieved excerpt. Obtain the 1909 Kentucky birth record, 1910/1920 census, 1942 draft card and 1976 Ohio death certificate to identify his family.
+
+## Spouse-count correction / evidence grading
+
+The Wuelzer compilation lists five spouse entries for Yvonne: an unnamed **Miracle**, George Ernest Zurline Jr. (21 November 1955 Indiana marriage), Eugene E. Brewster (tree says 1959), Charles Clay Goff (18 May 1970 original Tennessee register), and Raymond Dean Dukes (tree says 1976). Of these, only the Zurline and Goff marriages have original/indexed civil-record support already inspected in the archive. The Eugene relationship is supported by family and children's records but lacks an inspected marriage certificate; the Dukes marriage is tree-derived; and the Miracle entry has no first name, date or located record. The count of five legal marriages is therefore **not yet proven**. Do not call all five confirmed spouses or present an exact marriage sequence without the missing certificates.
