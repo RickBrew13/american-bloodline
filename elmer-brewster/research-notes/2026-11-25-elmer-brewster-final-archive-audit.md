@@ -48,3 +48,13 @@ I directly inspected the original obituary JPG in `elmer-brewster/documents/Elme
 - Corrected Elmer's live profile to preserve the newspaper's exact “Perrysville” spelling and distinguish it from the possible Perryville interpretation.
 - Corrected the burial note to state that the newspaper reports planned interment, while a cemetery register/marker remains unverified.
 - No other person profile, shared tree JSON, homepage, or site design was changed. No Drive original was moved, deleted or edited. No fee was paid and no institution or relative was contacted.
+
+
+## Further descendant-name search and identity caution — 25 November 2026
+
+An exact-name search for Elmer's daughter Cathy Bubolz surfaced a 2024 obituary for LeRoy Bubolz. It names two women separately: **his first wife Cathy Jo (Elmer) Bubolz** and **his second wife Cathy (Brewster) Burton**. The second woman's Brewster maiden name makes her a possible match to Elmer's daughter Cathy, but the obituary does not state that she is the same Cathy named as Elmer's daughter in the 1993 Palm Beach Post notice. The first wife's parenthetical surname is Elmer, not Brewster. Because the notice distinguishes two Cathys and the identity bridge is not yet documented, do not merge them or add LeRoy as Elmer's son-in-law without a marriage certificate, a direct family statement, or another source that explicitly connects Cathy (Brewster) Burton to Elmer.
+
+The 2024 obituary names LeRoy's sons Bryan and Ryan and grandchildren, but these are not added to Elmer's descendant list. This is a lead only.
+- LeRoy Bubolz obituary, published 22–24 March 2024: https://www.legacy.com/us/obituaries/legacyremembers/leroy-bubolz-obituary?id=54696573
+
+No new primary source for Elmer's wife Mary Jane, his 1951 marriage, the parentage of his five children, his Palm Beach property, or completed burial at Lake Worth Memory Gardens was located in this pass. The original Palm Beach Post clipping remains the best direct source for his 1993 family and work details; the death certificate (Florida certificate 95968) and cemetery interment register remain the highest-value outstanding records.
