@@ -876,3 +876,28 @@ No sibling profile was edited in this pass. All source files remain in their ori
 ## 26 November 2026 — family-tree data label corrected and verified
 
 Repository code search found that `family-tree-data/generation-5.json` still labeled Eunice's first spouse only as “Ello Whittle.” This is an incomplete rendering of her documented spouse's name. Updated only Eunice's spouse string to “Avery Ello Whittle (also recorded as Avery E. Whittle; 1927–1977),” retaining Irvin Burton as the later spouse. Re-fetched the JSON, parsed it successfully, and verified the exact Eunice entry. No other person's tree data was changed. The profile and evidence continue to preserve the 1947 certificate's exact form, Avery E. Whittle, alongside Avery Ello Whittle as his full identity.
+
+
+## 26 November 2026 — FamilySearch digitized Campbell marriage holdings: new route
+
+### FamilySearch's Kentucky image collection includes bonds, licenses, certificates and returns
+
+Opened the current FamilySearch collection page for *Kentucky, County Marriages, 1786–1965*. Its official description states that the image collection includes bonds, licenses, certificates and returns; records are arranged by county, then volume and year range. It specifically explains that some bonds/licenses began as loose handwritten papers and were later bound into lettered volumes. The browse interface exposes 1,302,310 images by Digital Folder Number (DGS), but the general browse page does not itself label each DGS by county/volume/year. FamilySearch's linked Digital Folder Number List is the required mapping to identify Campbell County's 1947 series; its wiki page returned 403 in this session, so no DGS number is guessed.
+
+- FamilySearch collection description and image browse: https://www.familysearch.org/en/search/collection/1804888
+- Browse all images: https://www.familysearch.org/en/search/image/index?owc=https://www.familysearch.org/service/cds/recapi/collections/1804888/waypoints
+- FamilySearch help: the catalog's film notes identify the record type/date span and camera icon means images can be browsed: https://articles.familysearch.org/hc/en-us/articles/57917280093851-How-do-I-search-the-FamilySearch-Catalog-for-records
+- FamilySearch Kentucky county marriage collection description confirms bonds, licenses, certificates and returns: https://www.familysearch.org/en/search/collection/1804888
+
+### Campbell County has joined FamilySearch digitization partnerships
+
+A FamilySearch/Northern Kentucky genealogical presentation reports that Campbell County was among five county clerks to sign an on-site digitization agreement with FamilySearch, and among nine county clerks to sign the 2024 KDLA–FamilySearch digitization agreement. This confirms an active digitization route for Campbell County clerk records beyond the simple marriage index portal. The presentation does not specify which exact Campbell County record series or years have been filmed, so do not assume the 1947 loose consent packet is included. The next precise step is to identify the Campbell County DGS/film entry in FamilySearch Catalog and compare it with the 1947 Book 196/Page 83 certificate.
+
+- FamilySearch/Northern Kentucky genealogy presentation, slide 8: https://cms-z-assets.familysearch.org/0f/68/26094b5c40f0b01c017a4df1f561/susan-court-presentation.pdf
+- Campbell County marriage search portal: https://campbellmarriagesearch.smllc.us/
+- KDLA microfilm inventory: https://microfilm.ky.gov/
+- KDLA confirms county marriage records can include separately filed consent papers: https://kdla.ky.gov/Archives-and-Reference/Documents/Handouts-RR/Handout-MarriageRecords.pdf
+
+### Current conclusion
+
+The 1947 marriage certificate itself remains proven and already archived. The missing parental-consent/application/loose-paper packet is not yet located. The most promising online next step is not another broad name search; it is the FamilySearch Catalog/DGS inventory for Campbell County 1917–1989 marriage records, then targeted browsing of the 1947 volume/loose-paper series. No DGS, film number, or image is claimed until the inventory identifies it.
