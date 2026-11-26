@@ -111,3 +111,16 @@ The family identification of Ralph Hall as Judy's companion remains the accepted
 - Search Cincinnati directories in the 1950s–1970s for Ralph Hall and inspect images rather than relying on search snippets.
 - Search Tennessee and Oklahoma city directories only once a year range or neighborhood can be established.
 - Obtain actual Taney County deeds and marriage-license index results through the official paid/subscription systems; these may yield a legal name, spouse designation, or prior county of residence.
+
+## 9. Additional Cincinnati and census cross-check — 25 November 2026
+
+A further search pass checked Cincinnati directory digitizations, the 1950 census name index, and additional Ohio/Tennessee/Oklahoma combinations.
+
+- **1922 Cincinnati directory entry — excluded.** The digitized directory has a business listing naming “Ralph Hall” as one of the partners in At-Las-Ta Battery Service Co. at 2110 Gilbert Avenue. This is decades before the family's Ralph's reported 1940 birth and is plainly a different person. It is retained here only as a same-name exclusion, not as evidence about Judy's companion. Source: https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1922_Pt01.pdf
+- **Cincinnati Museum Center orphanage index — excluded.** A collection guide lists a Ralph Hall born 22 May 1933 who was at the New Orphan Asylum for Colored Children from 1940 to 1951. That birth year does not match the January 1940 lead, and no evidence connects him to Judy or the adult Ralph in Missouri. Do not infer that Judy's Ralph was an orphan or had any connection to this institution. Source: https://studylib.net/doc/8718526/new-orphan-asylum-for-colored-children-records.-1875
+- **1950 census index review remains inconclusive.** The accessible broad index summary shows numerous Ralph Hall entries but did not expose a matching Cincinnati, Oklahoma City, or Tennessee household for a child born around 1940. Without a matching original census image, birthplace, or household clue, no entry can safely be selected. Source: https://www.myheritage.com/census/us/1950census/hall/ralph_hall
+- **Additional same-name profiles excluded.** Search results for Ralph Goddard Hall (born 1933 in Tennessee; parents Gid Jackson Hall and Mary Goddard; married Shirley Susan Ridings in 1953) and a Ralph Hall born 1934 in Kentucky and deceased in 2019 are not identity matches. No evidence links either man to Judy's Ralph. Sources: https://ancestors.familysearch.org/en/G49S-8QV and https://www.mrgfuneralhome.com/obituaries?page=12
+
+### Updated result
+
+This pass adds no verified parent, sibling, spouse, child, birth, death, or property fact for Judy's Ralph. It does, however, eliminate several tempting same-name records and confirms that the next productive step is not to import online family trees, but to obtain a reliable identifying anchor (middle name/initial, birthplace, exact birth date, occupation, or a known relative) and then inspect original census, directory, vital, and deed records.
