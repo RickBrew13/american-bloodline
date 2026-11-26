@@ -137,3 +137,9 @@ The next record-level avenues have now been identified more precisely. These are
 ### Work still outstanding
 
 The Cincinnati and Oklahoma City directories must be searched in the actual images or searchable collection interface, and the Missouri marriage collection must be queried by name and jurisdiction. Taney County's online Recorder systems also need an actual party-name search for deed evidence. None of those searches has been represented as completed in this note. No family relationships are added from repository descriptions alone.
+
+## 11. Final focused identity pass before transition — 25 November 2026
+
+A final search again combined the family's Ralph Hall working identity with the January 1940 lead, Rockaway Beach/Taney County, Cincinnati, Oklahoma City, Kingston Springs, and Judith/Judy Clark. The only directly relevant result repeated was the same commercial people-search aggregation already documented. It repeats the January 1940 estimate and the multi-state location history but supplies no documentary birth record, household, marriage, obituary, or family relationship. Its “Relatives & Associates” list remains unclassified and cannot be treated as a sibling/child/parent list. Source: https://freepeoplesearch.com/phone-number/417-561-1411/
+
+No new identity-secure Ralph record was found in this final pass. Parents, siblings, spouse(s), children, exact birth/death dates, occupation, military service, burial, and joint property ownership with Judy remain unverified. No new names have been added to his family tree. The research focus now transitions to Larry Clark, Barry's father, while Ralph remains open for future work if a stronger identifying clue or original record becomes available.
