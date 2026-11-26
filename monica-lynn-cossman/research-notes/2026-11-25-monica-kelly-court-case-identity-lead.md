@@ -91,3 +91,37 @@ This establishes a real-estate sequence in the public index: a joint purchase in
 
 This is the first concrete property trail found for Monica and should be added to her profile as index-based evidence, with the above caveats. The deed-book image search is an interactive Recorder service; no deed image was obtained or paid for in this pass.
 
+
+
+## New Madeira High School class-of-1975 identity lead
+
+Two separate alumni-directory sites place women with the exact first name Monica in **Madeira High School's class of 1975**, but use different surnames:
+- MadeiraHighSchool.org lists **Monica Courtney**, class of 1975, and has an unclaimed profile for her. The profile page says it represents a classmate who has not joined the site; it supplies no birth date, family, photograph or other identity detail.
+  - Class list: https://madeirahighschool.org/cincinnati-oh/class-of-1975.html
+  - Individual unclaimed profile: https://madeirahighschool.org/cincinnati-oh/alumni/2198051/monica-courtney.html
+- AllHighSchools.com lists **Monica Wise** under Madeira High School, class of 1975.
+  - https://www.allhighschools.com/school/madeira-high-school/1000000522
+
+This is a potentially important surname/identity bridge because:
+1. Monica Lynn Wise/Cossman was born in 1956 and married Stanley in 1976.
+2. The 2004 Ohio appellate opinion identifies a woman as **Monica Kelly (n.k.a. Courtney)** and says she had a 17-year-old son in August 1996.
+3. Virginia G. Wise's 2006 obituary identifies Monica Kelly as her daughter.
+4. The two alumni directories independently list Monica Wise and Monica Courtney in the same school and graduating class.
+
+The age and chronology fit a woman born in 1956, but these alumni lists are user-submitted/third-party class directories, and the two names could refer to two different Monicas. No source directly states that Monica Wise became Monica Courtney or that either is Monica Lynn Wise/Cossman. **Do not add Madeira High School, class of 1975, Courtney, or a 1978/79-born son as established facts.**
+
+### Yearbook source now identified
+The Cincinnati & Hamilton County Public Library's official yearbook holdings list Madeira High School yearbooks for **1938–1959 and 1961–2021**, which includes the 1975 yearbook. Its Digital Library has a school-yearbook collection, but the online collection page requires JavaScript and the Classmates viewer redirected to a registration wall. The yearbook itself has not been inspected. A scan or library-terminal inspection of the 1975 yearbook is the best next way to check whether the two class-list entries are distinct classmates, whether a Monica Courtney/Monica Wise photograph appears, and whether any maiden-name/portrait evidence can be found. No library contact or paid order was made.
+- CHPL yearbook holdings list: https://chpl.org/wp-content/uploads/sites/84/2022/08/Yearbooks-Needed-CHPL-Yearbooks-School-Publications-Collection.pdf
+- CHPL Digital Library school yearbook collection: https://digital.cincinnatilibrary.org/digital/collection/p16998coll3
+- CHPL genealogy resources and affiliate-library access to FamilySearch: https://chpl.org/resources/genealogy/
+
+### Parent-name distinction retained
+The 1976 marriage license in Monica's folder names **David W. Wise** and **Virginia Greiner** as her parents. Virginia's 2006 obituary identifies her as the wife of the late **Samuel P. Wise** and mother of Monica Kelly. The two male names are not the same. This may mean David W. Wise was Monica's biological father and Samuel P. Wise was her stepfather or later step-parent, but no marriage, divorce or death record yet establishes that sequence. Do not substitute Samuel P. Wise as Monica's father or call him her stepfather until the relationship is documented.
+
+### New follow-up targets
+- Locate the 1975 Madeira yearbook image and check the class portraits/name index.
+- Search Cincinnati marriage and divorce records for Virginia Greiner with David W. Wise and/or Samuel P. Wise.
+- Search the original 1976 marriage application/license image for exact parent names and any corrections.
+- Obtain the underlying 2004 Butler County case file if publicly available; the published appellate opinion supplies a case number and party alias but does not name the son.
+- Keep the “Monica Hackbarth” grandmother entry in Anthony Wills-Cossman's obituary unassigned to Monica Lynn Wise/Cossman; it could be maternal or paternal and no surname bridge exists.
