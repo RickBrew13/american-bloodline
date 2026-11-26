@@ -134,3 +134,22 @@ The live Newsdex landing page links to its actual Datasette `record` table, whic
 8. Continue portrait search through school/yearbook, nursing-school, family-photo and newspaper sources.
 
 **This pass produced better retrieval routes and a stronger reconciliation of the father's name, but no new original Eunice record. No requests, phone calls, purchases, or external orders were made.**
+
+
+### Avery Whittle's later marriage — new line followed into Indiana
+- Re-inspected Avery Ello Whittle's existing person folder and his 19 November deep-audit note before using the lead. The folder already holds the original 1947 Eunice–Avery certificate, the 1977 obituary clipping, his Army portrait, headstone, and Charlotte's shared-family references. The existing Avery note says his 1977 obituary identifies his wife as Charlotte and lists eight children; the 2025 Charlotte obituary independently describes Avery as her husband and says they built a home in New Castle, Indiana, with their eight children. These are evidence of Avery's later family with Charlotte, not proof of when or where the marriage occurred or when the Eunice marriage ended.
+- The 1950 Cincinnati census remains important: it shows Avery and Eunice together as husband and wife in April 1950, with only the two adults in that household. It does not establish whether there were children before or after that census.
+- Indiana's official Archives and Records Administration says the State Department of Health began recording marriage data in 1958; digitized records from 1958–2005 are available through Ancestry, while pre-1958 records are county-held and may be in FamilySearch. The Indiana State Library's Indiana Legacy search page exposes an **Indiana Marriages 1958–2022** index with fields for each applicant's last, first and middle names, marriage date, county and certificate number. Its own help warns that no complete statewide divorce index exists; post-1980 cases may be searchable through MyCase, while earlier divorces require the county clerk.
+- The State Library's search form is visible but its input controls did not execute through this browser, so no result is claimed for Avery Ello Whittle / Charlotte Ann Mulvey. If they married in Indiana after 1958, the index is a high-priority next query. If before 1958, Henry County Clerk / FamilySearch county records and possibly Kentucky records need to be checked; Charlotte's 2025 obituary says she was from Covington, but that alone does not establish where the marriage license was issued.
+- New Castle–Henry County Public Library's Indiana Room has a full *Courier-Times* card index (1848–1989), local newspapers, New Castle city directories, cemetery records, and family-history files; it also provides a local genealogist contact. This is a concrete route to locate Avery's 1977 obituary citation, Charlotte/Avery household addresses, and possible wedding announcements. The online NCHCPL Newspaper Index is linked from the library page, but no search result for this couple was obtained in this pass.
+- These Indiana leads matter to Eunice because they can narrow the latest possible end of the Whittle marriage and distinguish Avery's later household from Eunice's later Burton marriage. Do not say Eunice and Avery divorced in any particular year until a decree or other direct record is found.
+
+Sources and access routes:
+- Indiana Archives and Records Administration, marriage/divorce records: https://www.in.gov/iara/services-for-public/search-archives-holdings/vital-records/
+- Indiana Legacy, Indiana Marriages 1958–2022 search: https://digital.statelib.lib.in.us/legacy/search.aspx?index=2
+- Indiana State Library, divorce/marriage guidance: https://www.in.gov/library/collections-and-services/genealogy/brochures-and-maps/genfaqs/
+- New Castle–Henry County Public Library, Indiana Room and Courier-Times index: https://nchcpl.org/resources/genealogy/
+- Charlotte Ann (Mulvey) Whittle obituary, 27 May 2025: https://www.charleswsmithandsonsfuneralhome.com/obituaries/charlotte-whittle
+- Avery's existing archive note: `ello-whittle/research-notes/2026-11-19-avery-whittle-deep-audit.md`
+
+**No Indiana marriage/divorce index result or original record was obtained in this pass. No existing Avery file or profile was edited; the cross-person evidence and research route are recorded here only.**
