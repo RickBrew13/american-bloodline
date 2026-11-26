@@ -47,3 +47,21 @@ A public LinkedIn result for a Greg Cossman in Cincinnati appears superficially 
 5. Keep Sam's biological parentage unresolved until a direct record identifies his mother.
 
 No paid records were ordered, no external party or institution was contacted, and no files were moved, deleted or duplicated.
+
+
+## New Cossman grandparent-household trail — 25 November 2026
+
+The grandparent folders for Stanley's paternal line were rechecked, and a new separate note was added to John Adam Cossman's folder. Cincinnati directories now give a more detailed, but still partly provisional, picture of Stanley Peter's possible siblings:
+
+- Carl J. Cossman is already listed in the John Adam profile as a child. A Geneanet user tree reports birth 26 March 1908, death 3 August 1971, marriage to Emma D. Reinhart on 27 March 1929 and three children. Cincinnati directories place Carl at separate addresses in 1929–33, consistent with an adult married son. This remains compiled-tree evidence plus directory correlation; the original 1908 birth and 1929 marriage records have not been inspected.
+- Theresa M. Cossman is reported by a Geneanet user tree as born in Ohio in 1907 and daughter of John Adam Cossmann and Henrietta Stella Bost. The 1924 Cincinnati directory lists “Theresa, saleslady” at 2123 Loth, the same residence as “Cossmann John, coffee.” This is a plausible daughter/household-member lead, not a direct parentage record.
+- Harold G. Cossmann appears at 2223 Loth with John Cossmann in the 1929–30, 1930–31, 1931–32 and 1932–33 directories. The 1942 voter register still lists John Cossman at 2223 Loth. Harold is later listed as a clerk and is named with wife Mary Helen in 1943/1944 deed indexes. The shared residence strongly suggests a family connection, but no birth or census record proves Harold was John's son. A WikiTree suggestion report estimates Harold's birth about 1915, but this is not primary evidence.
+- The Geneanet tree also proposes Kathryn Anna Cossmann (1881–1974) as a daughter of John Adam Cossmann and Sophia Bischoff, married to George William Holtmann in 1901, and lists early deceased children Johann Carl (1880–1881), Caroline (1882–1883) and an unnamed infant (1888). These would be Stanley Peter's paternal aunt/uncle group if the tree is correct. They are compiled-only and not added to the public tree.
+
+Sources and the full directory sequence are documented in the John Adam Cossman folder, research note 2026-11-25-john-cossmann-household-and-children-directory-audit.md.
+- 1924 directory (John and Theresa at 2123 Loth): https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1924_Pt01.pdf
+- 1930–31 directory (John and Harold at 2223 Loth; Carl separately): https://apps.cincinnatilibrary.org/citydirectory/WilliamsCincinnatiDirectory_1930-31_Pt01.pdf
+- 1942 Cincinnati voter register (John at 2223 Loth): https://digital.cincinnatilibrary.org/digital/api/collection/p16998coll15/id/401312/download
+- Geneanet compiled Cossman tree: https://nl.geneanet.org/fonds/individus/?go=1&nom=COSSMAN&place__0__=Cincinnati%2CHamilton&size=50
+
+No names have been added to Stanley William's public sibling list or grandparent profiles from these provisional collateral leads. The direct obituary evidence for Stanley William's own siblings Greg, Brett and Linda Nelson remains unchanged. The next decisive step is original 1930/1940 census schedules and original birth/marriage records for John Adam and Henrietta's household.
