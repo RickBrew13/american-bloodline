@@ -57,3 +57,40 @@ The National Archives confirms that 1950 population schedules are freely searcha
 7. Seek an authenticated portrait, cemetery entry, property record or military file only after the identity is sufficiently resolved.
 
 No paid record was ordered, no family member or institution was contacted, and no files were moved, deleted or duplicated.
+
+
+## New possible Asher sibling cluster and 1969 death/burial candidate — 25 November 2026
+
+### Taft Asher's obituary identifies a deceased brother Charles
+A contemporary Clay County funeral obituary for **Taft Asher** (13 March 1939–2 October 2019) states that he was the son of **Mack and Clarissa Helton Asher**. It names a deceased brother **Charles**, alongside Forrester, Oscar, Howard, Joe, M. C., and sisters Norma Rollins and Winnie Collette; surviving brother Carter is also named. Taft's burial was in **Manchester Memorial Gardens**.
+- ClayCoNews, Taft Asher obituary, 3 October 2019: https://www.clayconews.com/obituaries/obituary-for-taft-asher
+
+### A Charles Asher candidate buried in the same cemetery
+PeopleLegacy's derivative burial page lists a **Charles Asher**, born March 1943, died 27 October 1969, buried Manchester Memorial Gardens, Manchester, Kentucky.
+- PeopleLegacy, Charles Asher 1943–1969: https://peoplelegacy.com/charles_asher-6P6d131
+- A separate derivative Social Security-index transcription lists a Charles Asher born 14 March 1943, death month October 1969, last residence Cheviot, Hamilton County, Ohio (45211): https://www.locateancestors.com/charles-asher/
+
+The shared surname, approximate generation, and Manchester Memorial Gardens burial location make it plausible that the 1943–1969 Charles is the deceased brother named in Taft's obituary, and therefore a son of Mack and Clarissa Helton Asher. But no original record yet connects the Taft obituary's Charles to the 1943–1969 death/burial candidate. The two derivative indexes also disagree on the exact death date (1 October vs. 27 October). Do not attach Mack and Clarissa as parents or the Taft sibling group to Aileene's Charles yet.
+
+### Keep three distinct identity tracks separate
+1. **Aileene's Charles:** Julie Marlene Korman's Social Security NUMIDENT names Charles Asher and Aileene W. Brewster as parents; Aileene's obituary names son Greg Asher. These are the strongest links to the Charles on this profile, but his exact life dates and parents remain unproven.
+2. **1950 Hamilton County household:** a FamilySearch index lists Charles A. Asher, born about 1940 in Kentucky, in Russell and Eliza Asher's household with Marie and Wanda. Original image not inspected; no bridge to Aileene.
+3. **1943–1969 Manchester candidate:** derivative index/burial pages and Taft Asher's obituary suggest a Charles in the Mack and Clarissa Helton Asher sibling group. No bridge to Aileene, Julie, or the 1950 Russell/Eliza household. This may be the Charles in track 1, but that remains unproved.
+
+The new 2019 Taft obituary and 1943–1969 burial candidate were added to the Charles profile as **research leads only**, with explicit warnings not to merge them. The profile was re-fetched and verified.
+
+## Newly identified primary-record access route for the 1969 Ohio death
+The Ohio History Connection's Death Record Index Search includes Ohio Department of Health death certificates for 1954–1970. Its current instructions state that 1954–1970 index results provide a record number for lookup on kiosk computers at the Ohio History Connection Archives & Library in Columbus; these records are **not available off-site**, and the institution no longer provides search/order fulfillment. This is the best next route to establish the 1969 Charles's Ohio death record and possibly identify the parents/informant, but no query was submitted because the search interface is interactive and the original record must be viewed onsite.
+- Official index: https://resources.ohiohistory.org/death/index.php
+- Search/access instructions: https://resources.ohiohistory.org/death/search_dc.php
+- Ohio History Connection FAQ: https://ohiohistory.libanswers.com/faq/370514
+
+## Next high-value checks
+1. Search Ohio History Connection's 1954–1970 index onsite for Charles Asher, year 1969, Hamilton County; record certificate/record number and inspect the original certificate.
+2. Request/inspect Manchester Memorial Gardens' original interment register for the 1943–1969 Charles and compare burial date, next of kin, plot owner and funeral home.
+3. Find Mack and Clarissa Helton Asher's original marriage, death records, 1940/1950 census household and other children's birth records to verify the family cluster.
+4. Locate the full 6 January 2009 Corbin Times-Tribune obituary for Charlene Eubanks and determine whether it names her father or gives a direct Charles Asher identity clue.
+5. Revisit the 1950 Russell/Eliza Asher census image and obtain the underlying FamilySearch image/household details; do not treat the index alone as proof.
+6. Continue searching for Julie's birth record and any original Aileene–Charles marriage/divorce record.
+
+No new parents, siblings, spouses, dates or military/occupation/property claims have been attached to Charles. The profile change is limited to preserving the alternative candidate evidence and access path. No paid records were ordered or outside parties contacted.
