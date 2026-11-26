@@ -67,3 +67,28 @@ A final profile-to-index comparison found two places where the live profile was 
 - The 1930 census index says **Rosabelle Pugh**, the 1939 original marriage image says **Rosabelle Grant**, and the 1945 marriage index says **Rosa Bell White**. Cornelius Pugh is repeated as Ruby's father in both marriage indexes. The profile now describes the mother as Rosabelle (Grant/White) Pugh with the surname sequence unresolved, rather than asserting that Rosa Bell White is a fully established identity.
 
 The duplicate Ruby Mae Griffin obituary citation was reduced in the source list while preserving the explicit namesake exclusion. The public profile was re-fetched and verified after these corrections. No other person's profile or family-tree data was changed.
+
+
+## Parent-folder cross-check and additional-child lead — 25 November 2026
+
+### Cornelius and Rosabelle folders checked
+I inspected the existing GitHub folders and current research notes for Ruby's reported parents, **Cornelius Pugh** and **Rosabelle Pugh / Grant / White**. Their folders contain substantial new research notes but no original civil certificates or family photographs for Ruby; their documents folders are empty apart from .gitkeep. The notes preserve the following boundaries:
+- Ruby's 1939 marriage index names Cornelius Pugh and Rosabelle Grant as her parents; the 1945 index is reported to name Cornelius Pugh and Rosa Bell White. The original 1945 image was not accessible in this pass.
+- The 1930 census index reports Rosabelle Pugh, age 22, and Ruby M. Pugh, age 7, in the same Birmingham household; the original schedule has not yet been inspected.
+- Neither Ruby's marriage records nor the 1930 index proves that Cornelius and Rosabelle were married to one another. No spouse relationship between them is added.
+- The 1950 NARA OCR searches for Rosabelle/Rosabell and Rosa Belle in Jefferson County did not identify a matching adult household. This is a bounded non-result, not proof she was absent.
+
+### Possible additional child of Cornelius — not a confirmed Ruby sibling
+Cornelius's research note identifies a secondary-aggregation lead for **Norman Patterson**, reportedly born 14 December 1930 in Birmingham, with mother **Mattie Patterson** and father **Cornelius Pugh**. The aggregator does not reveal the underlying birth record or identify which same-name Cornelius it means. No source connects this man to Ruby's Cornelius, and no record establishes Mattie as Cornelius's spouse. If the father is the same man, Norman could be Ruby's paternal half-brother; at present that is only a research lead. Do not add Norman to Ruby's sibling list or assign Mattie as a spouse.
+- Source lead preserved in Cornelius's African-American family research note: https://sortedbyname.com/letter_p/patterson/mattie_patterson_1.html
+
+### Rosabelle photo lead kept separate
+Rosabelle's folder contains a candidate FamilySearch Memories image tagged “Rosabelle Grant,” item 220372990, dated 5 October 1985. It is filed in Rosabelle's own folder as a candidate, not a verified portrait. It has not been copied into Ruby's folder or used as a photograph of Ruby. The date and “75th birthday” search snippet could suggest a birth around 1910, but neither proves the pictured woman's identity or Ruby's parentage.
+
+### Second marriage and son — public profile correction
+The 5 February 1945 index identifies the groom as **George Moore**, not George Howard Moore. Family records use the fuller name George Howard Moore, but no original 1945 image or independent identity bridge was inspected to prove the middle name. The public profile now uses George Moore as the documented groom and explicitly qualifies “Howard” as a family-tree identification only.
+The reported son **George Howard Moore Jr. (1947–2006)** remains a compiled-family lead. No original birth record, death certificate, obituary, or parent-naming record has linked that son to this Ruby and the 1945 groom. The public profile now distinguishes him from Leslie, whose parentage is supported by NUMIDENT and marriage evidence.
+The profile was re-fetched after this correction and verified. No new spouse, child, sibling, death, burial, occupation, property, probate, or portrait was added.
+
+### Current stop point
+No identity-matched death or burial record for Ruby has emerged. The 1927–2006 Six Mile Cemetery Ruby Mae Moore and the 1923–2016 Ruby Mae Griffin remain excluded namesakes. The highest-value unresolved records are the original 1930 Birmingham census schedule, the original 1945 George Moore marriage page, Ruby's birth record (to resolve the 1930 age 7 versus 1939 age 19 conflict), and an original birth/death/parentage record for the reported George Howard Moore Jr. No paid record was ordered and no outside party or institution was contacted.
