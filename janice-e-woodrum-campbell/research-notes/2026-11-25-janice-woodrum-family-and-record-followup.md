@@ -85,3 +85,35 @@ Exact-name searches for Clement Herman/Herman Woodrum and Anna Edith Woodrum did
 The accessible public search in this pass did not identify a new original record for Janice herself, a verified obituary/death record, occupation, property, probate, military service, or a photograph. Her death/living status remains unknown and no current personal details have been collected. The public profile correctly keeps her dates, last residence and burial unresolved; the reported 26 November 1937 birth date remains unverified. No new sibling identities have been merged, no current-person-search data has been used, and no files or images were duplicated.
 
 The next profile in the working list is **Joseph Leslie Collins**. Janice's file remains open for the original birth/census records and any future authenticated family photograph; this pass does not convert those outstanding records into negative findings.
+
+
+## Follow-on archive and sibling-group audit — 25 November 2026
+
+### Parent profiles checked
+I inspected the existing GitHub profiles and folders for Clement Herman Woodrum and Anna Edith (Wethington) Woodrum. Both parent profiles have only their HTML profile and empty research-notes, documents, img, sources and family-books folders (apart from .gitkeep). Their profile claims therefore do not represent a hidden set of scanned original certificates or photographs. No new parentage evidence was found in those folders.
+
+### Additional independent sibling and cemetery leads
+- The 2002 Anna “Edith” Woodrum obituary names the children who survived her: Milburn, Bobby, Clement, Alta Gabehart, Janice Campbell, Velma Wethington and Charlene Warner. This is the strongest located source for Janice's adult sibling names and married surnames.
+- A Kentucky veterans' burial transcription lists Milburn Jr Woodrum, born 30 August 1928, died 13 April 2003, U.S. Army SFC, Korean War, buried Noel Cemetery, Liberty. The 2002 obituary's “Milburn Woodrum of Louisville” could be this man, but the obituary does not give a middle name, birth date or military status. Retain this as a plausible match, not a proved identity.
+  - https://www.interment.net/united-states/kentucky/veterans-burials/records.php?page=1352
+- PeopleLegacy's cemetery aggregation lists Wilda Jean Woodrum Hogue (1931–1996) at St. Bernard Cemetery, Clementsville. This is consistent with the Wilda J. Woodrum indexed in the 1950 household and her absence from Anna's 2002 survivor list, but the aggregation is derivative and no obituary or original cemetery register was inspected. The likely identity remains provisional.
+  - https://peoplelegacy.com/anna_j_wethington_goode-2Q0T58
+- A separate 2017 obituary for Bobby Joe Woodrum (1941–2017) identifies his parents as Everett and Rena Grant Woodrum, so he is not Anna Edith's son Bobby. This exclusion is important: do not attach this Bobby to Janice's sibling group.
+  - https://www.mckinneybrown.com/obituary/Randy-Wethington
+- The Casey County cemetery transcription for Whited Cemetery lists a Velma F. Woodrum (25 September 1927–8 January 2001). This conflicts with Anna's 2002 obituary naming daughter Velma Wethington of Liberty as a living survivor. Without a marriage/parentage bridge, this Velma F. is not attached to Janice's sister Velma.
+  - https://mail.kygenweb.net/casey/cemetery/WhitedTZ.htm
+
+### Anna Edith's 2002 obituary — additional collateral family network
+The obituary also names two sisters of Anna: Urial Clements of Liberty and Vatus Green of Indiana, plus sister-in-law Pat Wethington of St. Louis. These are Anna's collateral relatives, not Janice's siblings. They may help identify Anna's maternal/paternal Wethington and Clements families in a separate ancestor-focused pass. They are not added as Janice's aunts until the exact relationships are sourced.
+
+### Evidence and profile boundaries
+- The marriage register directly identifies Janice's parents by the names “Herman Woodrum” and “Edith Woodrum”; Anna's obituary independently identifies Janice Campbell as her daughter. The full name Clement Herman is still linked by compiled sources and chronology, not an original record inspected in the parents' folders.
+- Janice's exact birth date remains reported as 26 November 1937, not verified by her birth certificate.
+- No evidence yet identifies a second spouse, divorce, or death for Janice. Do not presume that the 1956 marriage continued until Samuel's 1998 death, and do not treat Janice as deceased.
+- No new occupation, property, probate, personal portrait, headstone or original 1950 census schedule was located.
+
+Sources:
+- Anna “Edith” Woodrum obituary, 2002: https://www.genlookups.com/ky/webbbs_config.pl/noframes/read/1196
+- Kentucky veterans' burial transcription for Milburn Jr Woodrum: https://www.interment.net/united-states/kentucky/veterans-burials/records.php?page=1352
+- Wilda Jean Woodrum Hogue cemetery aggregation: https://peoplelegacy.com/anna_j_wethington_goode-2Q0T58
+- Whited Cemetery transcription: https://mail.kygenweb.net/casey/cemetery/WhitedTZ.htm
