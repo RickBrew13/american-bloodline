@@ -45,3 +45,22 @@ The highest-value next records remain:
 6. Cincinnati newspaper issue for 16–20 October 1983 and Eugene family photographs with a reliable caption.
 
 No paid records were ordered, no outside party or institution was contacted, and no other person's profile, the family tree JSON, homepage, or site design was changed.
+
+
+## Additional cemetery, obituary and marriage-index recheck — 25 November 2026
+A fresh exact-name web pass was made for Eugene E. Brewster, Fairfield/Hamilton/Butler County, his 16 October 1983 death, Greenlawn Cemetery, and both Carol marriage-index certificate numbers.
+
+### Cemetery cross-check
+A cemetery-aggregator result independently lists **Eugene E. Brewster, 1933–1983, Greenlawn Cemetery, Milford, Ohio**. It agrees with the headstone image and Find a Grave memorial already preserved in this folder, but is not an independent cemetery register and does not add an exact date, plot, spouse, or relatives. No new family member or photograph was identified. Source: https://peoplelegacy.com/burial-records/eugene/brewster/
+
+### Carol marriage-index recheck
+Exact searches for certificate **24676** (19 November 1977) and **28705** (9 November 1979), including Eugene E. Brewster / Carol A. Hillman and Eugene/Carol Brewster, did not surface the underlying Kentucky certificates or an independent official index entry. Keep the two entries as previously transcribed index leads only. Do not claim two distinct marriage ceremonies as established fact until the original applications/certificates or clerk register explain the two numbers.
+
+### Newspaper search/access boundary
+Additional exact-name searches did not locate an attributable public obituary for Eugene. Cincinnati & Hamilton County Public Library explains that its Newsdex indexes local articles and obituaries and can provide full citations, while the full Cincinnati Enquirer and Cincinnati Post newspaper-image databases require library-card access. This confirms the appropriate next step is an exact Newsdex query and, if indexed, retrieval of the cited newspaper image; the absence of an open-web result is not evidence no obituary was published.
+- CHPL newspapers / Newsdex / Enquirer and Post access: https://chpl.org/resources-types/newspaper/
+- CHPL local-history access: https://chpl.org/resources/local-history/
+- Hamilton County Genealogical Society explanation of obtaining a Newsdex-indexed copy: https://www.hcgsohio.org/cpage.php?pt=62
+
+### No profile change
+No new person-level fact met the threshold for changing Eugene's public profile. His existing profile's statements about birth year, death, parentage, siblings, spouse leads, children, and burial remain as qualified in the earlier research note. The open primary-record list remains: death certificate 071732/vol. 25392; Greenlawn interment card; original 1940/1950 census images; Yvonne/Eugene marriage/divorce records; original 1977/1979 Carol certificates; and children's birth records. No paid record was ordered and no outside party was contacted.
