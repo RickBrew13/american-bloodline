@@ -138,3 +138,12 @@ A third-party Deer Park High School alumni directory lists a **Sam Cossman** in 
 - Deer Park High School alumni directory, Sam Cossman, class of 1995: https://www.alumniclass.com/deer-park-high-school-wildcats-cincinnati-oh/alumni-classmates/
 
 **Interpretation:** Samuel is well supported as Stanley's son and Anthony's father, so Anthony is a documented descendant of Stanley. The 2016/2024 overlap strengthens the family-network connection. It still does not prove that Monica Hackbarth is the same woman as Monica Lynn Wise/Cossman/Kelly/Courtney, nor that Monica Lynn is Samuel's mother. The obituary calls Monica Hackbarth a grandmother but does not specify whether maternal or paternal. Keep the surname Hackbarth and any Monica–Samuel parentage link as unverified until a direct birth, marriage, or name-change record is found.
+
+
+## Monica Courtney namesake excluded from the 2020 Rosemary Breeden obituary
+
+A 2020 obituary for **Rosemary Simpson Breeden** names a daughter **Monica Courtney (Mark)** of Dry Ridge, Kentucky. Rosemary's birth year is 1947. The obituary does not provide her daughter's birth year or maiden name, but this daughter cannot be assigned to Monica Lynn Wise/Cossman on the available evidence: if Rosemary is her biological mother, the age gap to a woman born in 1956 would be only nine years. No adoption/step-parent explanation or other identity bridge is present. Treat the 2020 Monica Courtney as a separate namesake unless a record proves otherwise.
+- Stanley Funeral Home, Rosemary S. Breeden obituary, 29 April 2020: https://www.stanleyfuneralhomes.com/obituaries/rosemary-breeden
+- Legacy transcription: https://www.legacy.com/us/obituaries/grantky/name/rosemary-breeden-obituary?id=9125669
+
+This reinforces that the Madeira High School class-of-1975 entries for Monica Wise and Monica Courtney should not be assumed to describe the same woman. The class directory could list two different Monicas. The Monica Wise entry is the more relevant one to this subject, but it is still only an unverified alumni-directory lead; the Monica Courtney entry may be a separate classmate.
