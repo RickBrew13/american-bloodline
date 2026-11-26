@@ -75,3 +75,7 @@ The individual-folder audit says the standalone Eunice Drive folder's ten ordina
 4. Continue searching the marriage/divorce records and children's original birth records for direct evidence of Eunice's marital chronology and the children's father.
 
 **No new original record was located in this additional pass. The archival and library leads above are research routes, not findings about Eunice herself. No external request or paid order was submitted.**
+
+
+### Newsdex database inspection — additional pass
+The CHPL Newsdex site itself is now reachable through its public landing page. Its public Datasette catalog exposes a `record` table with 427,002 indexed records and fields for article title, publication date, newspaper name, citation, location and indexed subjects. This confirms the underlying index is not merely a help page. The search controls and SQL/query endpoints did not execute through the available browser interface in this session, so I could not run a reliable name query for Eunice or claim a zero-result search. The next check should query the indexed subjects for the variants **Burton, Eunice; Brewster, Eunice; Whittle, Eunice; Taylor, Eunice**, then inspect the publication date/citation and request the clipping. Landing page: https://newsdex.chpl.org/ ; catalog: https://newsdex.chpl.org/Newsdex%2BRecord%2BData
