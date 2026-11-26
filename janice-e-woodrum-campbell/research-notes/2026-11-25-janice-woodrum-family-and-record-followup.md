@@ -1,0 +1,61 @@
+# Janice E. (Woodrum) Campbell — family and record follow-up
+**Date:** 25 November 2026  
+**Subject folder:** `janice-e-woodrum-campbell/`
+
+## Folder-first review
+Searched and reviewed Janice's existing profile, 19 November deep-audit note, family-notes and profile-edit document exports, the shared Samuel–Janice transfer inventory, 18 November photo/life audit, original 1980 Hamilton County marriage-license/parental-consent export, Samuel's 19 November audit, and the original 1956 Kentucky marriage record transcription in the Samuel research note. Janice's own pictures folder is empty. The shared Samuel–Janice Pictures folder is also empty. No portrait, family photo, headstone image, death certificate or standalone Janice obituary was present. No image was duplicated or attributed to her.
+
+## New direct/near-direct family evidence
+### Parents
+The original Kentucky marriage record for Samuel Campbell and Janice Elaine Woodrum (Marriage Bond 356) records their marriage on 1 December 1956 at Clementsville, Casey County. It names Janice's parents as **Herman and Edith Woodrum** and Samuel's as Logan and Ora Campbell. The original is archived in the shared Samuel–Janice folder and was reviewed in the Samuel pass; it was not copied into Janice's folder.
+
+A 2002 obituary transcription for **Anna “Edith” Woodrum** says she died 29 July 2002, age 91, and names daughter **Janice Campbell of Cincinnati** among her seven children. This directly links Janice Campbell to Anna Edith Woodrum, consistent with the marriage record's “Edith Woodrum” mother field. The obituary lists three sons and four daughters:
+- Sons: Milburn Woodrum of Louisville; Bobby and Clement Woodrum of Liberty.
+- Daughters: Alta Gabehart of Campbellsville; Janice Campbell of Cincinnati; Velma Wethington of Liberty; Charlene Warner of Elkhorn.
+It reports 30 grandchildren, 55 great-grandchildren and eight great-great-grandchildren, and says funeral services were at St. Bernard's Church in Clementsville with burial in the church cemetery.
+Source: https://www.genlookups.com/ky/webbbs_config.pl/noframes/read/1196
+
+FamilySearch's compiled profile for Anna Edith and the Virts family genealogy identify her husband as **Clement Herman Woodrum**. The 1950 census index records the mother as Edith and father as Herman. Together these sources strongly support Janice's parents as Clement Herman Woodrum and Anna Edith Wethington Woodrum, though the full-name link rests partly on compiled genealogy rather than an original birth certificate.
+
+### Siblings
+The Anna Edith obituary provides a seven-sibling family group, excluding Janice:
+1. **Milburn Woodrum** — son, living in Louisville in 2002. A derivative veterans' burial index has a Milburn Jr Woodrum (30 Aug 1928–13 Apr 2003), U.S. Army SFC, Korea, buried Noel Cemetery, Liberty. This is a plausible identity match by name, age, locality and timing, but no source directly connects that Milburn Jr to Anna; retain as provisional.
+2. **Wilda Jean Woodrum Hogue** — the FamilySearch 1950 census index lists Wilda J. in the household; PeopleLegacy's burial aggregation gives Wilda Jean Woodrum Hogue, 1931–1996, buried St. Bernard Cemetery, Clementsville. No original obituary or cemetery register has been inspected; married surname and dates remain secondary-index evidence.
+3. **Bobby Woodrum** — Anna's obituary names a son Bobby. A tempting same-area candidate, Bobby Joe Woodrum (1941–2017), is **not** this son: his 2017 obituary names parents Everett and Rena Grant Woodrum. Excluded.
+4. **Clement Woodrum** — Anna's obituary names a son Clement; the 1950 census index also lists Clement. The profile's prior expanded name “William Clement Woodrum” is not independently verified; use Clement Woodrum until a birth/marriage record establishes the full name.
+5. **Alta Woodrum / Alta Gabehart** — Anna's obituary names daughter Alta Gabehart; the census index gives Alta R. Woodrum. Her middle name and marriage record remain unverified. No current contact details are included.
+6. **Velma Woodrum / Velma Wethington** — Anna's obituary names daughter Velma Wethington; the census index gives Velma. A derivative SSDI-style index result for a Velma Woodrum (25 Sep 1927–8 Jan 2001) conflicts with Anna's 2002 obituary naming Velma alive in Liberty. Do not attach the 1927–2001 record without an identity bridge.
+7. **Charlene Woodrum / Charlene Warner** — Anna's obituary names daughter Charlene Warner; the census index appears to spell her “Sharleen.” Her full name and marriage record remain unverified.
+
+The 1950 census index lists six children besides Janice: Clement, Wilda J., Bobbie, Sharleen, Velma and Alta R. The 2002 obituary names seven children besides Janice, adding Milburn. These sources align on the family group but do not by themselves prove each expanded identity. The profile now uses the obituary's names and clearly labels uncertain expansions.
+
+## Janice's own dates, marriage and child
+- **Birth:** 26 November 1937 is reported in a compiled Kentucky birth-index reference in the prior Zapia note, but the index page or original certificate has not been reviewed. The 1950 census index gives an estimated birth year of 1938. The 1956 marriage record calls her 19, consistent with 1937, but does not prove the exact date. Keep 26 November 1937 reported, not verified.
+- **Marriage:** original county record establishes marriage to Samuel Eugene Campbell on 1 December 1956 at Clementsville, Casey County.
+- **Child:** the 1980 Hamilton County certified marriage abstract for Rhonda Sue Campbell and Ronald Keith Brewster names Janice E. Woodrum as Rhonda's mother. The attached ML 50 consent form, sworn 17 October 1980, is signed by Janice E. Campbell as mother and Samuel G. Campbell as father. This is direct parentage evidence for Rhonda.
+- **Death/living status:** unknown. No identity-matched death certificate, obituary or cemetery entry has been found. Do not infer that she is deceased or disclose current personal details.
+
+## Search results and cautions
+- A search for a Janice Woodrum who died in 2021 and was née Barnes was checked and excluded as a different woman.
+- Bobby Joe Woodrum (1941–2017) was rejected as Anna's son Bobby because his obituary names Everett and Rena Grant Woodrum as parents.
+- The Velma Woodrum index entry (1927–2001) conflicts with Anna's 2002 obituary listing Velma Wethington alive; it remains unlinked.
+- The Wilda Jean Hogue 1931–1996 and Milburn Jr 1928–2003 matches remain secondary-source leads only.
+- No original 1950 census image, Janice birth certificate, obituary, death certificate, property record, probate, occupation record, personal portrait or headstone has been located.
+
+## Profile changes
+- Updated parents to Herman and Edith Woodrum, with the full-name match to Clement Herman and Anna Edith qualified by compiled family sources.
+- Changed marriage from a tentative lead to a documented 1 December 1956 marriage and linked the shared record source without duplicating it.
+- Added Anna Edith's 2002 obituary as evidence naming Janice Campbell as her daughter.
+- Corrected sibling names to reflect the obituary's forms and marked all uncertain expansions/identity matches.
+- Preserved the birth-date discrepancy, and kept death/living status unknown.
+- No other profile, shared family-tree JSON, or Drive original was changed. No files were moved, deleted or duplicated.
+
+## Remaining records
+1. Janice's original 1937 Kentucky birth certificate (to verify full birth date and parent names).
+2. Original 1950 census image for Herman/Edith Woodrum household.
+3. Original birth records for each Woodrum sibling to resolve full names and dates.
+4. Full obituaries/death certificates for Wilda, Milburn, Alta, Bobby, Clement, Velma and Charlene; only attach same-name records when a parent/spouse link is found.
+5. Janice's own death record/obituary only if a public record confirms death; living status remains unknown.
+6. Any authenticated family photo with caption/provenance.
+
+No paid records were ordered and no family member, funeral home, cemetery or government agency was contacted.
