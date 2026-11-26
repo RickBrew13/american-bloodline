@@ -831,3 +831,43 @@ NCSBN's official Nursys help article says older nurse licenses may be archived a
 - Ohio Archives classification, OY N 77.15/2: https://dam.assets.ohio.gov/image/upload/library.ohio.gov/government-documents/oh-classification/OH_classification_independent_N.pdf
 
 The targeted request to Ohio Board of Nursing should therefore ask for both current/archived electronic and paper records, including original application, license number and initial issue date, examination/endorsement basis, maiden/former names, school and graduation date, renewal history, address/county at filing, and any entry in the 1973 nurse inventory. Search variants: Eunice Edna Brewster, Eunice E. Brewster, Eunice Whittle, Eunice E. Burton, Eunice Taylor. This is a prepared research specification only; no request was sent.
+
+
+## 26 November 2026 — cross-check against siblings' own archived evidence
+
+I searched the GitHub repository itself for Eunice's name, then opened the existing Elmer, Eugene, Earl, Aileene, Homer Jr. and Sarah family folders rather than relying only on Eunice's folder. This recovered an additional original sibling source and confirmed the shared-family evidence trail.
+
+### Elmer Ellis Brewster's 1993 original newspaper notice
+
+Elmer's individual archive contains the original *Palm Beach Post* clipping, 22 August 1993, p. 28 (printed page 7B), preserved as `elmer-brewster/documents/Elmer-Brewster-1993-Palm-Beach-Post-obituary-Drive-original.jpg` and as an image in his folder. The transcription in Elmer's own research note and profile says the notice names **Eunice Burton as Elmer's sister**, alongside siblings Homer Jr., Aileene Gilpin, twin Earl (predeceased) and Eugene, and names their parents Homer and Sarah. This is a separate contemporary family notice published nearly six years after Eunice's death. It independently corroborates Eunice's sibling relationship and parents; it does not supply her own children or spouse. The original clipping is already preserved in Elmer's folder and is linked from Eunice's source list; do not duplicate it.
+
+- Elmer's deep audit: `elmer-brewster/research-notes/2026-11-19-elmer-brewster-deep-audit.md`
+- Elmer's profile/source citation: https://rickbrew13.github.io/american-bloodline/elmer-brewster/
+- Original clipping in Elmer's documents: https://github.com/RickBrew13/american-bloodline/blob/main/elmer-brewster/documents/Elmer-Brewster-1993-Palm-Beach-Post-obituary-Drive-original.jpg
+
+### Eugene's existing archive independently corroborates the same family group
+
+Eugene's 19 November 2026 deep-audit note records that Sarah's obituary identifies Eugene as one of her sons and names Eunice among her children; Homer Sr.'s obituary and Eunice's own 1987 death notice also identify Eugene as her late brother/son. Elmer's notice names Eugene as a brother. Eugene's 1940 census index is the same Morgan County ED 65-15 household and lists Eunice alongside Homer, Sarah, Elmer, Aileene/Aleene, Homer Jr., Earl and Eugene T. The original 1940 image was opened in an earlier review but was not legibly transcribed, so preserve all census household details as index-derived until the handwritten schedule is read.
+
+- Eugene's deep audit: `eugene-brewster/research-notes/2026-11-19-eugene-brewster-deep-audit.md`
+- Eugene's profile: https://rickbrew13.github.io/american-bloodline/eugene-brewster/
+
+### Aileene's individual profile confirms the full sibling roster
+
+Aileene's current profile lists the same six children of Homer and Sarah, with Eunice linked as a sister. Her own 2015 obituary in Clay County News specifically names deceased siblings Elmer, Eugene, Earl, Homer Jr. and Eunice. This remains an independent public obituary, not merely a tree relationship.
+
+- Aileene's profile: https://rickbrew13.github.io/american-bloodline/aileene-wagers/
+- Aileene's obituary: https://www.clayconews.com/obituaries/aileene-gilpin
+
+### Earl's profile corroborates twin relationship and family placement
+
+Earl's archived Geni survey note describes Earl as Elmer's twin, son of Homer Sr. and Sarah, and brother of Eunice, Eugene, Aileene and Homer Jr. This is a compiled-tree/family account, not a primary source; it is retained only as supporting context, not as independent proof.
+
+- Earl's Geni survey note: `earl-brewster/research-notes/2026-11-03-geni-survey-earl-brewster.md`
+- Earl's profile: https://rickbrew13.github.io/american-bloodline/earl-brewster/
+
+### Result of cross-folder source check
+
+The family group is now supported by multiple separate original family notices already stored in the correct people's folders: Eunice's 1987 death notice (names her parents, spouse, children and siblings); Sarah's 1987 obituary (names Eunice among her children); Homer Sr.'s 1991 obituary (names Eunice among his children); Elmer's 1993 *Palm Beach Post* notice (names Eunice as his sister and Homer/Sarah as parents); and Aileene's 2015 obituary (names Eunice among deceased siblings and Homer/Sarah as parents). These sources agree on the relationship. Their shared statements do not prove the exact birth date, child paternity, or any unrecorded marriage details.
+
+No sibling profile was edited in this pass. All source files remain in their original person folders; Eunice's profile links to the Elmer clipping rather than duplicating it.
