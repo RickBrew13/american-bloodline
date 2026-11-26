@@ -418,3 +418,41 @@ The KDLA request form permits a specific couple, county and year; for this case 
 - KDLA marriage record request form: https://kdla.ky.gov/Archives-and-Reference/Documents/Marriage.pdf
 
 **Research conclusion:** The age 21 statement on the certificate conflicts with Eunice's established 1930 birth date. Under the contemporaneous Kentucky law, a 16-year-old bride required parental/guardian consent. KDLA specifically says those permissions were often filed separately. The original consent/bond packet is now a high-priority, concrete record target. This is not proof of what the packet contains, and it does not justify any conclusion about the marriage's validity or circumstances without the original records.
+
+
+## Ohio Board of Nursing: stronger statutory basis for requesting Eunice's complete licensure record (26 November 2026)
+
+The Ohio Revised Code gives a stronger route than relying only on the current public lookup. ORC 4723.06(A)(16)(b) directs the Board to maintain, and keep open for public inspection, a record of all applicants for and holders of nursing licenses and certificates. Ohio Administrative Code 4723-1-03 likewise directs the Board to maintain a record of all applicants and holders. This is the specific legal basis for asking the Board to search historical RN applicant/holder records, rather than merely asking whether a current license appears online.
+
+The Board's own historical regulation guide says:
+- 1915: Ohio enacted its first Nurse Practice Act, creating a Nurses' Examining Committee under the State Medical Board;
+- 1941: the law created an autonomous State Nurses Board;
+- 1973: the Board published its first nurse inventory;
+- 1986: the Board established a computerized licensure database, generating examination, endorsement and renewal documents;
+- 1987: the Nurse Practice Act was revised.
+
+The 1986 database start date is especially relevant: Eunice's death index lists her as a registered nurse in 1987. If she was licensed in Ohio and held an active license then, her record may have been in the computerized system. It does not guarantee that all pre-1986 paper applications or school records survive.
+
+### Current public search instructions verified
+
+The current eLicense Ohio support page says the public search is most successful with the **least amount of data**: enter the last name and first initial, select the relevant board, then search. The site says its public license data comes directly from the database and is updated daily. For Eunice, search separately:
+- BURTON + E, Nursing Board;
+- BREWSTER + E, Nursing Board;
+- WHITTLE + E, Nursing Board;
+- TAYLOR + E, Nursing Board.
+
+Do not fill every other field on the first attempt. If no result appears, it is not a conclusive historical no-hit: use the Board's public-records request and ask for archived inactive/lapsed licenses, application/registration, education-program name, initial issue date, method of licensure, renewal history and any retained name-change record.
+
+### Current Board contact and public-records route
+
+Ohio Board of Nursing, 8995 East Main Street, Reynoldsburg, OH 43068; phone 614-466-3947. The Board relocated to this address effective 11 March 2024. Do not mail the old 2019 public-records form to its obsolete 17 S. High Street Columbus address without confirming the current submission procedure.
+
+- Ohio Revised Code §4723.06, public inspection of records of applicants and license holders: https://codes.ohio.gov/ohio-revised-code/section-4723.06
+- Ohio Administrative Code 4723-1-03, Board records and documents: https://codes.ohio.gov/ohio-administrative-code/rule-4723-1-03
+- Ohio Board of Nursing history, including 1973 nurse inventory and 1986 database: https://ohnurses.org/wp-content/uploads/edd/2015/04/Legal-Reg-Guide-v6-2.pdf
+- eLicense Ohio support instructions for minimal public search: https://elicense.ohio.gov/OH_SupportPage
+- Ohio Board of Nursing current contact: https://nursing.ohio.gov/help-center/contact-us
+- Board relocation announcement (effective 11 March 2024): https://nursing.ohio.gov/podcast-and-media/all-news/the-ohio-board-of-nursing-announces-relocation-of-headquarters
+- Older downloadable public-records form (2019; address on form is obsolete, confirm current submission method before use): https://dam.assets.ohio.gov/image/upload/nursing.ohio.gov/uploads/2019/12/PUBLIC-RECORDS-REQUEST-FORM.pdf
+
+No license search result for Eunice was obtained in the interactive eLicense interface, and no public-records request was submitted. The next request should ask for the Board's full historical record, not merely a current license verification.
