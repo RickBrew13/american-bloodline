@@ -64,3 +64,16 @@ The public cemetery index for Hugh Frank Cemetery lists Gearlind Whittle (1936�
 The search for Avery-specific child records reconfirmed that Theresa’s obituary names Avery and Charlotte as parents and identifies Rebecca Jo as a younger sister who predeceased Theresa. A commercial people-search aggregator surfaced a Rebecca Jo Whittle born 8 November 1967 and died 15 May 1968 in New Castle, but because the underlying record was not independently opened, these exact dates remain an unverified lead and were not added as established facts.
 
 No attributable source found in this pass established Avery’s ownership of real property, his parents’ parentage, or a documented divorce from Eunice. Search results did not justify attaching same-name Whittle records or living-person data to this profile. No paid access or outside contact was used.
+
+
+## Independent 2016 and 2025 family obituary review — 25 November 2026
+A fresh web-source review of the funeral-home obituaries adds independent, named-family evidence:
+- Theresa Lynn Whittle's 2016 Charles W. Smith & Sons obituary explicitly identifies her father as **Avery Ello Whittle** and her mother as **Charlotte Ann (Mulvey) Whittle**. It names her six surviving siblings: Rob, Debra, Jeff, Mike, Cindy and Louretta; it also identifies deceased younger sister Rebecca Jo. This independently confirms the parentage of Theresa and the six sibling identities, while the 1977 clipping supplies the forms Robert, Jeffery, Cynthia and Loretta. Preserve the differences as name variants, not separate children.
+- Charlotte Ann (Mulvey) Whittle's 2025 obituary recounts meeting Avery, says they built a home in New Castle and raised eight children, and describes Charlotte becoming the sole wage earner and Avery's primary caregiver when he became ill. It confirms Avery as her husband and that he predeceased her, but gives no marriage date, divorce/remarriage chronology, or medical diagnosis.
+- Theresa's obituary gives no exact marriage date for Avery and Charlotte and no further information about Avery's first marriage to Eunice.
+
+Sources:
+- Charles W. Smith & Sons, Theresa Lynn Whittle (27 June 1965–29 November 2016): https://www.charleswsmithandsonsfuneralhome.com/obituaries/theresa-whittle
+- Charles W. Smith & Sons, Charlotte Ann Whittle (1936–2025): https://www.charleswsmithandsonsfuneralhome.com/obituaries/charlotte-whittle
+
+No profile change was necessary in this pass because the Avery profile already lists these eight children and the two spouse relationships. The evidence is now documented in this research note. No claim about Avery's own real-property ownership, his parents' parentage, or the legal end date of the Eunice marriage is added.
