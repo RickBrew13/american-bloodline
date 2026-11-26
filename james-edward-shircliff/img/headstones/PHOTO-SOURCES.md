@@ -1,1 +1,6 @@
-IyBJbWFnZSBzb3VyY2UgYW5kIGNyZWRpdAoKLSBGaWxlOiBgamFtZXMtZWR3YXJkLXJpdGEtcGF1bGluZS1zaGlyY2xpZmYtc2hhcmVkLW1hcmtlci5qcGdgCi0gQ2FwdGlvbjogRmluZCBhIEdyYXZlIG1lbW9yaWFsIDUzNjYyNTIyOyBwaG90byBieSBEZWJPaGlvOyBzaGFyZWQgaGVhZHN0b25lIGZvciBQYXVsaW5lIGFuZCBFZHdhcmQuCi0gT3JpZ2luYWwgbWVtb3JpYWw6IGh0dHBzOi8vd3d3LmZpbmRhZ3JhdmUuY29tL21lbW9yaWFsLzUzNjYyNTIyL2phbWVzX2Vkd2FyZC1zaGlyY2xpZmYKLSBUaGUgbG9jYWwgSlBFRyBpcyBhIHdvcmtpbmcgY29weSBvZiB0aGUgY29udHJpYnV0b3ItdXBsb2FkZWQgbWFya2VyIHBob3RvOyBubyBwb3J0cmFpdCBpcyBpbXBsaWVkLgo=
+# Image source and credit
+
+- File: `james-edward-rita-pauline-shircliff-shared-marker.jpg`
+- Caption: Find a Grave memorial 53662522; photo by DebOhio; shared headstone for Pauline and Edward.
+- Original memorial: https://www.findagrave.com/memorial/53662522/james_edward-shircliff
+- The local JPEG is a working copy of the contributor-uploaded marker photo; no portrait is implied.

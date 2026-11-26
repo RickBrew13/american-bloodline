@@ -1,1 +1,6 @@
-IyBJbWFnZSBzb3VyY2UgYW5kIGNyZWRpdAoKLSBGaWxlOiBgamFtZXMtaWRhLWJlbGxlLXNoaXJjbGlmZi1zaGFyZWQtbWFya2VyLmpwZ2AKLSBDYXB0aW9uOiBGaW5kIGEgR3JhdmUgbWVtb3JpYWwgMzgyNTAzODk7IHBob3RvIGJ5IEphbWVzIFJpY2hhcmRzOyBzaGFyZWQgaGVhZHN0b25lIGZvciBKYW1lcyBBLiBhbmQgSWRhIEJlbGxlLgotIE9yaWdpbmFsIG1lbW9yaWFsOiBodHRwczovL3d3dy5maW5kYWdyYXZlLmNvbS9tZW1vcmlhbC8zODI1MDM4OS9qYW1lcy1hYnNhbG9tLXNoaXJjbGlmZgotIFRoZSBsb2NhbCBKUEVHIGlzIGEgd29ya2luZyBjb3B5IG9mIHRoZSBjb250cmlidXRvci11cGxvYWRlZCBtYXJrZXIgcGhvdG87IG5vIHBvcnRyYWl0IGlzIGltcGxpZWQuCg==
+# Image source and credit
+
+- File: `james-ida-belle-shircliff-shared-marker.jpg`
+- Caption: Find a Grave memorial 38250389; photo by James Richards; shared headstone for James A. and Ida Belle.
+- Original memorial: https://www.findagrave.com/memorial/38250389/james-absalom-shircliff
+- The local JPEG is a working copy of the contributor-uploaded marker photo; no portrait is implied.

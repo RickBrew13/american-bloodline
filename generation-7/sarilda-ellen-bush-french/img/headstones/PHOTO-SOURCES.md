@@ -1,1 +1,6 @@
-IyBJbWFnZSBzb3VyY2UgYW5kIGNyZWRpdAoKLSBGaWxlOiBgc2FyaWxkYS1lbGxlbi1idXNoLWZyZW5jaC1oZWFkc3RvbmUuanBnYAotIENhcHRpb246IEZpbmQgYSBHcmF2ZSBtZW1vcmlhbCAxMjE3MTAzODE7IHBob3RvIGJ5IENocmlzdGllIFNjb3R0LVN3ZW50a287IFNhcmlsZGEgRnJlbmNo4oCZcyBpbmRpdmlkdWFsIGdyYXZlIG1hcmtlci4KLSBPcmlnaW5hbCBtZW1vcmlhbDogaHR0cHM6Ly93d3cuZmluZGFncmF2ZS5jb20vbWVtb3JpYWwvMTIxNzEwMzgxL3NhcmlsZGFfZWxsZW4tZnJlbmNoCi0gVGhlIGxvY2FsIEpQRUcgaXMgYSB3b3JraW5nIGNvcHkgb2YgdGhlIGNvbnRyaWJ1dG9yLXVwbG9hZGVkIG1hcmtlciBwaG90bzsgbm8gcG9ydHJhaXQgaXMgaW1wbGllZC4K
+# Image source and credit
+
+- File: `sarilda-ellen-bush-french-headstone.jpg`
+- Caption: Find a Grave memorial 121710381; photo by Christie Scott-Swentko; Sarilda French’s individual grave marker.
+- Original memorial: https://www.findagrave.com/memorial/121710381/sarilda_ellen-french
+- The local JPEG is a working copy of the contributor-uploaded marker photo; no portrait is implied.
