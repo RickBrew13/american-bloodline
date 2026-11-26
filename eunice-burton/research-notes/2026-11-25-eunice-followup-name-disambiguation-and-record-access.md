@@ -246,3 +246,23 @@ Lane Libraries' official local-history page confirms that its History Team accep
 The original family obituary, original 1947 marriage certificate, 1950 census image, and the original obituaries of Sarah, Homer and Elmer provide a strong documentary foundation for Eunice's identity, parents, siblings, marriage to Avery in 1947, 1950 household, spouse at death, children named in her death notice, and burial location. No new evidence in this pass changes those conclusions.
 
 The remaining unresolved questions are record-access questions rather than a lack of additional same-name web searches: original SS-5/application image; original 1940 census image transcription; RN certificate and school; original death certificate and exact place of death; the Avery marriage's legal end and Eunice/Irvin marriage record; Hodapp's funeral file and Rose Hill interment card; direct identification/parentage records for the named children and grandchildren; and an identified personal photograph. These must remain explicitly open until source records are obtained. No speculative identity has been added to the tree.
+
+
+## Death-certificate custody and exact local ordering route clarified (25 November 2026)
+
+Eunice's Ohio death certificate is **not** in the Ohio History Connection's pre-1971 archival collection. Her death was in 1987, and the Ohio Department of Health says it maintains death records from 1971 to the present. The Ohio History Connection's online index covers only 1913–1944 and 1954–1970, so it cannot supply her 1987 certificate. This corrects any assumption that the pre-1971 archive route applies to her.
+
+The most practical current request route is the City of Hamilton Health Department Vital Statistics office. Its official website says it issues Ohio birth and death certificates statewide (for anyone born or deceased in Ohio), lists a $25 certified-copy fee, and gives:
+- 345 High Street, Suite 350, Hamilton, OH 45011;
+- phone (513) 785-7094;
+- email vitalstats@hamilton-oh.gov;
+- https://www.hamilton-oh.gov/health
+
+The Ohio Department of Health's current local registrar directory also lists Butler County and Hamilton City as separate vital-statistics districts, with the City of Hamilton registrar's email and phone. The Butler County Health Department serves most of the county but the ODH directory distinguishes Hamilton City; if the City of Hamilton office cannot locate the 1987 record, ask which district received the original registration. The known Ohio death-index identifiers to provide are: Eunice E. Burton; death 16 December 1987; Butler County; certificate 088337; volume 27087. Ask for the full image/copy, including informant, exact place of death, marital status, spouse, parents, occupation/employer, and funeral home.
+
+- City of Hamilton Health Department: https://www.hamilton-oh.gov/health
+- ODH local vital statistics directory: https://odh.ohio.gov/wps/wcm/connect/gov/e308cc43-d635-4b7e-a2c2-8da258f992b2/VS-LocalVSDirectoryApr2025.pdf
+- ODH custody explanation: https://odh.ohio.gov/know-our-programs/vital-statistics/how-to-order-certificates
+- Ohio History Connection coverage: https://resources.ohiohistory.org/death/faq.php
+
+The official Hamilton City page says $25 per certified copy. No request or payment has been made. The certificate should not be ordered through the ODH online portal on the assumption it covers a 1987 record; ODH's stated custody begins in 1971, and the local registrar is the safer route for this older local event.
