@@ -1,1 +1,6 @@
-IyBJbWFnZSBzb3VyY2UgYW5kIGNyZWRpdAoKLSBGaWxlOiBgamFtZXMtam9zaHVhLWZyZW5jaC1oZWFkc3RvbmUuanBnYAotIENhcHRpb246IEZpbmQgYSBHcmF2ZSBtZW1vcmlhbCAxMjE3MDU4MDM7IHBob3RvIGJ5IENocmlzdGllIFNjb3R0LVN3ZW50a287IEphbWVzIEpvc2h1YSBGcmVuY2jigJlzIGluZGl2aWR1YWwgZ3JhdmUgbWFya2VyLgotIE9yaWdpbmFsIG1lbW9yaWFsOiBodHRwczovL3d3dy5maW5kYWdyYXZlLmNvbS9tZW1vcmlhbC8xMjE3MDU4MDMvamFtZXMtam9zaHVhLWZyZW5jaAotIFRoZSBsb2NhbCBKUEVHIGlzIGEgd29ya2luZyBjb3B5IG9mIHRoZSBjb250cmlidXRvci11cGxvYWRlZCBtYXJrZXIgcGhvdG87IG5vIHBvcnRyYWl0IGlzIGltcGxpZWQuCg==
+# Image source and credit
+
+- File: `james-joshua-french-headstone.jpg`
+- Caption: Find a Grave memorial 121705803; photo by Christie Scott-Swentko; James Joshua French’s individual grave marker.
+- Original memorial: https://www.findagrave.com/memorial/121705803/james-joshua-french
+- The local JPEG is a working copy of the contributor-uploaded marker photo; no portrait is implied.
