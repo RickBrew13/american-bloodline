@@ -225,7 +225,7 @@ FamilySearch identifies Mary Emma's parents as **William Stewart Irving McIntosh
 - Monica's father is **Samuel P. / Samuel Preston Wise**, supported by her 1976 marriage license and Virginia's 2006 obituary; the 1913–1989 SSDI/cemetery match is strong.
 - Monica's paternal grandparents are **Richard Hood Wise and Millie Ann Tipton Wise** (compiled profile, cemetery cluster).
 - Monica's paternal great-grandparents are **William Preston Wise and Sarah Elizabeth Chaney** on Richard's line, and **Samuel Tipton and Mary Emma McIntosh** on Millie's line.
-- Further ancestors: David T. Wise and Mary Ann Spry; Joseph Chaney and Nancy Tipton; William Stewart Irving McIntosh and Mary Jane Johnson; Samuel Tipton's parents are a compiled lead only.
+- Further ancestors: David T. Wise and his unidentified wife (William Preston's parents); Joseph Chaney and Nancy Tipton; William Stewart Irving McIntosh and Mary Jane Johnson; Samuel Tipton's parents are a compiled lead only.
 - Samuel Preston Wise's siblings listed above are Monica's aunts/uncles.
 - Virginia Greiner's parents and siblings remain unresolved beyond the obituary's mention of sister Gladys Adams and niece Helen Strickland.
 
