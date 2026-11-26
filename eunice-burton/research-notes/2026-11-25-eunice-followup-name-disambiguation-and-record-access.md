@@ -456,3 +456,27 @@ Ohio Board of Nursing, 8995 East Main Street, Reynoldsburg, OH 43068; phone 614-
 - Older downloadable public-records form (2019; address on form is obsolete, confirm current submission method before use): https://dam.assets.ohio.gov/image/upload/nursing.ohio.gov/uploads/2019/12/PUBLIC-RECORDS-REQUEST-FORM.pdf
 
 No license search result for Eunice was obtained in the interactive eLicense interface, and no public-records request was submitted. The next request should ask for the Board's full historical record, not merely a current license verification.
+
+
+## Significant geographic finding: Eunice's 1940 enumeration district included Brewstertown and Rugby (26 November 2026)
+
+The National Archives' official 1940 Census Tennessee enumeration-district table identifies **Morgan County ED 65-15** as **“Civil District 12, Brewstertown, Rugby.”** This is the exact ED already attached to Eunice's 1940 FamilySearch index entry (sheet 3B, line 51), and the index places her in her father Homer W. Brewster's household with Sarah and her five younger siblings. Thus, the family's 1940 enumeration district was the district whose official geographic description included both historic Brewstertown and Rugby. This does not yet pinpoint the household to the Brewstertown settlement itself; the ED covered more than one named place, and the original census image/address has not been transcribed.
+
+This location is especially meaningful because the Tennessee General Assembly's official 1996 House Joint Resolution 5003 states that James “Thomas” Brewster, his wife Mary, and his father “Preacher Johnny” settled land about two miles from present-day Rugby circa 1880; it says their descendants formed the settlement called **Brewstertown**, and designates the State Route 52 segment between Rugby and the old Brewster Bridge as the James “Thomas” Brewster Memorial Highway. The resolution is a state legislative commemoration and useful local-history evidence, not a substitute for land deeds.
+
+The paternal lineage already documented in the family archive connects Eunice to this historic Brewster family:
+- Eunice's father Homer William Brewster Sr. is identified in his existing profile as the son of William Alexander Brewster and Mary Ellen McKinney; the 1920 Morgan County census index places Homer (age 8) in Willie A. and Mary E. Brewster's household, and his 1930 marriage record names his parents as Wm Brewster and Mary McKinney.
+- William Alexander Brewster's existing profile cites his mother Mary Catherine Brewster's 1907 sworn Eastern Cherokee application (NARA M1104, Reel 332, No. 43484), which names William Alexander, age 23, born 28 March 1884, among her children, and the 1900 census placing William in James Thomas Brewster's household. His 1918 draft registration places him at Rugby, Morgan County.
+- James Thomas Brewster's existing profile cites his 1941 Tennessee death certificate naming parents John Brewster and Rebecca Farr, his 1941 obituary describing his ferry operation at Brewster Ford, and HJR 5003's local-history account.
+
+Taken together, this gives a well-supported ancestral and geographic connection between Eunice's paternal line and the Brewstertown/Rugby area. Keep the precise 1940 household location cautious: **Eunice's family was enumerated in the ED described as including Brewstertown and Rugby; the census sheet must be read before saying their actual home was in Brewstertown.**
+
+Primary/official sources:
+- NARA 1940 Census Tennessee ED summary, Morgan County 65-15, “Civil District 12, Brewstertown, Rugby”: https://nara-1940-census.s3.us-east-2.amazonaws.com/metadata/html/tn-summary.html (find “Morgan County”; ED 65-15).
+- Tennessee General Assembly, House Joint Resolution 5003 (1996), lines 7–23 and 31: https://www.capitol.tn.gov/Bills/99/Bill/HJR5003.pdf
+- Existing 1940 census index entry for Eunice: https://www.familysearch.org/ark:/61903/1:1:K4ZX-8VY
+- Existing Homer Sr. profile: https://rickbrew13.github.io/american-bloodline/homer-william-brewster-sr/
+- Existing William Alexander Brewster profile: https://rickbrew13.github.io/american-bloodline/william-alexander-brewster/
+- Existing James Thomas Brewster profile: https://rickbrew13.github.io/american-bloodline/james-thomas-brewster/
+
+This is a new contextual finding; no separate person or speculative relative has been added. The original 1940 image remains an open pull.
