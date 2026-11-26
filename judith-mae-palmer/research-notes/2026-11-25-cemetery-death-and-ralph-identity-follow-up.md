@@ -55,3 +55,10 @@ The next records to request are:
 ## Later family identification clarification — 25 November 2026
 
 The user has accepted **Ralph Hall** as the working identity for Judy's companion, based on the shared Rockaway Beach-area telephone listing and the family's knowledge of Judy's companion. This supersedes the earlier instruction in this note not to use Ralph Hall in Judy's profile. Judy's profile may identify Ralph Hall as her family-identified companion, while clearly distinguishing the family identification from documentary proof of his complete identity or legal marital status. Do not publish private phone numbers or street addresses from data-broker listings.
+
+
+## Final Judy handoff clarification — 25 November 2026
+
+- Ralph Hall is now the family's accepted **working identity** for Judy's Missouri companion, based on the family's knowledge and the matching telephone listing. The profile identifies him as a companion, not a legally established spouse.
+- Barry's HIV/AIDS is confirmed by the user as true family knowledge and must remain in Judy's family history. Do not remove it because a medical record is unavailable; do not state it was the cause of death.
+- The user is no longer certain whether Barry died before or after Judy. No death-order conclusion belongs in the profile. Preserve the dates only as transcriptions attributed to the headstone/index sources and avoid narrative claims about who died first.
