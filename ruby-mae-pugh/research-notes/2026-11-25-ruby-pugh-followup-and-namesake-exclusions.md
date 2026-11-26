@@ -173,3 +173,15 @@ A 2022 North Carolina funeral-home obituary for Rev. George Howard Moore Sr. nam
 - https://wheeler-woodlief.com/obits/rev-george-howard-moore-sr/
 - https://www.wilkersonfuneralhome.com/obituaries/Edna-Malloy-Moore?obId=470594
 
+
+
+### Jennie Mae Moore and Linwood Moore — collateral candidates, not assigned
+A PeopleLegacy aggregation surfaced **Jennie Mae Moore (1923–1947)** as buried at Shadowlawn Memorial Park in Birmingham. The BPL cemetery register independently lists a Jennie Mae Moore interred 6 April 1947 in Section 7, Lot 243, Grave 8, with Ruby Moore named as heir. Because the project Ruby's reported birth is also about 1923, Jennie could be a sister, cousin or another relative—or a different same-name woman. No record currently links her to Cornelius Pugh, Rosabelle Grant/White or Ruby Mae Pugh. Do not add her as a sibling or child.
+- PeopleLegacy result identifying Jennie Mae Moore as 1923–1947: https://peoplelegacy.com/willie_james_motley-3N133Q1
+- BPL cemetery register, Section 7, Lot 243, Grave 8: https://www.cobpl.org/localdb/formProc/shadowlawn?atnum=2100&section=7
+
+A separate BPL entry lists **Linwood Moore**, interred 6 July 1974 in Section 6, Lot 24, Grave 4, with no heir recorded. A secondary Social Security index aggregation reports a Linwood Moore born 29 July 1902 and died 1 June 1974 in Birmingham, which may be the same man, but his lot is not Section 7, Lot 243. He is not connected to the Ruby/Jennie/Henry lot or to this Ruby; do not attach him as husband or father.
+- BPL, Section 6, Lot 24: https://www.cobpl.org/localdb/formProc/shadowlawn?lot=24&section=6
+- Secondary index search result: https://www.locateancestors.com/linwood-moore/
+
+This adds a possible family cluster to investigate, not a verified relationship. The exact death record, obituary, age and family details for the 3 October 1970 Ruby Moore remain unlocated.
