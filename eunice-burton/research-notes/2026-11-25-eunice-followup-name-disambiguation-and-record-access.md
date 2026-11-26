@@ -1011,3 +1011,15 @@ The existing Homer Jr. census audit provides the missing digital locator for the
 - Eunice 1940 census index: https://www.familysearch.org/ark:/61903/1:1:K4ZX-8VY
 - Eunice 1940 census image link: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-D46S
 - DGS: 005461366; indexed image: 552; ED 65-15, sheet 3B, line 51.
+
+
+## 26 November 2026 — University of Cincinnati nursing class-roster collection reverified
+
+A fresh check of the University of Cincinnati Libraries' current University Archives Finding Aids page confirms the College of Nursing collection (UA-13-02 / UA-13-09) is held as 106 linear feet and covers 1940–2004. The UC Libraries' own 2013 processing announcement gives the key detail for Eunice: class records from 1946–1987 include student rosters, schedules, correspondence and ephemera. This is a direct, date-appropriate archival series to search for Eunice's possible nursing education, rather than a generic nursing-school lead. The archive has not yet supplied or searched an individual student name; no attendance or graduation claim is made.
+
+The targeted archive search should request a search of the 1946–1987 class-record student rosters and related class files under Eunice Edna Brewster, Eunice E. Brewster, Eunice Whittle, Eunice E. Burton and Eunice Taylor. If a match exists, request the class/year, program, roster entry and any associated correspondence or ephemera; ask whether any restrictions apply. A second UC series, Raymond Walters College Department of Nursing (UA-11-05; 1969–2005), may be checked only if the primary College of Nursing class files do not identify her. No request has been sent.
+
+- UC Libraries, University Archives Finding Aids (current listing; College of Nursing, UA-13-02 / UA-13-09): https://www.libraries.uc.edu/libraries/arb/collections/university-archives/ua-collections.html
+- UC Libraries, “College of Nursing Records Now Available in ARB,” 28 February 2013 (explicitly identifies 1946–1987 class records and student rosters): https://libapps.libraries.uc.edu/liblog/2013/02/college-of-nursing-records-now-available-in-arb/
+- College of Nursing finding aid UA-13-02: https://libraries.uc.edu/documents/UA-13-02_College_of_Nursing.pdf
+- Raymond Walters College Department of Nursing finding aid: https://rave.ohiolink.edu/archives/ead/OhCiUAR0266
