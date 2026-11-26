@@ -24,3 +24,10 @@ From `2026-10-08-susan-moore-judy-homer-marriages-lupus.md`:
 ## Confidence
 
 - Rick's firsthand memory, as told. The HIV/AIDS and died-before-Judy details are Rick's recollection — unproved against records.
+
+
+## Later clarification — 25 November 2026
+
+The user confirms that Barry's HIV/AIDS information is true and should remain in the family history. Keep it as family-confirmed information; do not remove it for lack of a medical record and do not infer cause of death.
+
+The user has since clarified that they are **not sure** Barry died before Judy. The earlier bullet recording certainty reflects what was said on 10 October, but it is superseded as a current conclusion. Do not state that Barry died before Judy or that Judy died before Barry based on this recollection.
