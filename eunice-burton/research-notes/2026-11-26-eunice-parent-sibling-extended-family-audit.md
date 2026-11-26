@@ -27,10 +27,10 @@ The two obituaries independently corroborate several members of the group. They 
 - Cleo's children: Willie Boston and the late Thomas R. Boston. The obituary names her husband William “Bill” Lowe. Grandchildren and great-grandchildren are listed in the original funeral-home notice; these are retained as cousin-branch leads, not copied into Eunice's direct descendants.
 
 ## Maternal side — Sarah Hazel Kelly's siblings
-The 20 January 1920 census for Aragon, Polk County, Georgia, places James P. Kelley and wife Belle in one household with four children: Bessie M. (21), Sallie (9), William E. (6) and Julia B. (4). Sarah Hazel Kelly is the child indexed as Sallie. This supports three maternal siblings for Eunice:
-- **Bessie M. Kelly / Bessie M. Ramsey** — about 1899–18 April 1967; the 1920 census lists Bessie as a daughter in the household, and the Tennessee death-record index associates Bessie M. Ramsey with James Patrick Kelly and Laura Bell Underwood. The age/birth chronology predates the estimated marriage of James and Laura, so the exact parentage and chronology remain unresolved.
-- **William E. Kelly** — age 6 in the 1920 census (born about 1913–1914); no later identity, spouse or descendant record securely located in this pass.
-- **Julia B. Kelly / Julia Bell Kelly** — age 4 in the 1920 census; later married William Alexander Brewster on 15 June 1929 in Newport, Campbell County, Kentucky. The marriage index lists her parents as P. Kelly and B. Kelly. She was therefore Sarah's sister and Eunice's maternal aunt; by marrying William Alexander Brewster, she also became Eunice's step-grandmother. This is the documented Kelly–Brewster double connection.
+The 20 January 1920 census index for Aragon, Polk County, Georgia, places James P. Kelley and wife Belle in one household with four younger people: Bessie M. (21), Sallie (9), William E. (6) and Julia B. (4). The family tree identifies Sarah Hazel Kelly with the child Sallie, but that identification remains a working match: Sarah's reported birth date is 22 February 1911, which would make her 8—not 9—on 20 January 1920. The original census image must be checked for handwriting, relationship column and age before the household is treated as a proved sibling group. The following are therefore potential maternal aunts/uncle, not all fully proved:
+- **Bessie M. Kelly / Bessie M. Ramsey** — about 1899–18 April 1967; the 1920 census index places Bessie in the household, and the Tennessee death-record index associates Bessie M. Ramsey with James Patrick Kelly and Laura Bell Underwood. The age/birth chronology predates the estimated marriage of James and Laura, so the exact parentage and chronology remain unresolved.
+- **William E. Kelly** — age 6 in the 1920 census index (born about 1913–1914); household relationship and later identity, spouse or descendants still require confirmation.
+- **Julia B. Kelly / Julia Bell Kelly** — age 4 in the 1920 census index; later married William Alexander Brewster on 15 June 1929 in Newport, Campbell County, Kentucky. The marriage index lists her parents as P. Kelly and B. Kelly. Her identity as the Julia in the Kelly household is probable but the original census image and marriage record should be compared. If confirmed, she was Sarah's sister and Eunice's maternal aunt; by marrying William Alexander Brewster, she also became Eunice's step-grandmother. This is the Kelly–Brewster double connection.
 - **Margaret Kelly** — present in family-tree/book material but not in the 1920 census household and no independent record was located in this pass. Keep as family-reported/unverified; do not add as a proved sibling.
 
 ## Sources
@@ -42,7 +42,7 @@ The 20 January 1920 census for Aragon, Polk County, Georgia, places James P. Kel
 - Existing GitHub family profiles for Homer William Brewster Sr., Sarah Hazel Kelly, William Alexander Brewster and James Patrick Kelly were reviewed for their source boundaries and current working family rosters.
 
 ## Evidence limits and next record targets
-1. Obtain/inspect the original 1920 census image for the Kelly household and transcribe every name, relationship, age, birthplace and residence.
+1. Obtain/inspect the original 1920 census image for the Kelly household and transcribe every name, relationship, age, birthplace and residence; resolve whether Sallie is Sarah Hazel despite the age discrepancy.
 2. Find Bessie Ramsey's original Tennessee death certificate (certificate 11145) and any obituary; resolve the parentage/chronology issue.
 3. Locate William E. Kelly after 1920; no identity should be assigned from name-only matches.
 4. Search original records for Margaret Kelly before treating her as Sarah's sibling.
