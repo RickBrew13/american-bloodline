@@ -49,3 +49,18 @@ A separate compiled Social Security-derived listing gives Stanton Whittle’s bi
 
 Source: https://www.bernardfuneralhome.com/obituary/Norma-Wilson
 Additional lead only: https://www.locateancestors.com/whittle-kentucky/
+
+
+## Further sibling obituary cross-checks — 25 November 2026
+Three independent obituary records strengthen the family reconstruction:
+- Grace (Whittle) Eastham (born 27 March 1925; died 20 November 2018) names her parents as Stanton B. and Louvenia McGowan Whittle and identifies Veldean Beckner as her surviving sister.
+- Veldene Beckner (born 13 September 1938; died 15 October 2020) names her parents as Stanten and Louvenia McGowan Whittle and reports four sisters and three brothers predeceased her.
+- Norma Jean (Whittle) Wilson (born 17 January 1933; died 30 January 2017) names her parents as Stanton B. and Louvienie McGowan Whittle, lists Grace Eastham and “Dean Beckner” as surviving sisters, and reports two sisters and three brothers predeceased her.
+
+These records independently support the Stanton/Louvenia parental couple and connect the named sibling group. Spellings vary across obituaries: Stanton/Stanten; Louvenia/Louvienie; Veldean/Veldene; and Dean Beckner. I retain the profile’s “Veldean (Whittle) Beckner” with the other forms documented as variants; I do not treat “Dean” as conclusively identical without a record explicitly equating them.
+
+The public cemetery index for Hugh Frank Cemetery lists Gearlind Whittle (1936–1936) as dying before age one. The profile records death in infancy but does not claim exact dates beyond the year supplied by that index.
+
+The search for Avery-specific child records reconfirmed that Theresa’s obituary names Avery and Charlotte as parents and identifies Rebecca Jo as a younger sister who predeceased Theresa. A commercial people-search aggregator surfaced a Rebecca Jo Whittle born 8 November 1967 and died 15 May 1968 in New Castle, but because the underlying record was not independently opened, these exact dates remain an unverified lead and were not added as established facts.
+
+No attributable source found in this pass established Avery’s ownership of real property, his parents’ parentage, or a documented divorce from Eunice. Search results did not justify attaching same-name Whittle records or living-person data to this profile. No paid access or outside contact was used.
