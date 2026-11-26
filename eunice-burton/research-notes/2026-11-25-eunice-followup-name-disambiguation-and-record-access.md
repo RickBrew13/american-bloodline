@@ -87,3 +87,42 @@ No new newspaper citation or obituary was identified. The original family clippi
 and constrain the publication date to 16–19 December 1987 (then widen to 15–22 December if necessary).
 
 Citations: Hamilton County OHGenWeb index and its description of the separate Newsdex resource; Warren County OHGenWeb description of Newsdex scope and search method.
+
+
+## Cross-checking the original obituaries of Eunice's parents and brother
+
+I reopened the actual JPEG scans in the existing Homer, Sarah and Elmer folders rather than relying on their transcriptions. They provide unusually strong independent corroboration of Eunice's immediate family.
+
+### Homer W. Brewster's original obituary
+The archived image at `homer-william-brewster-sr/img/homer-brewster-obituary.jpg` was visually inspected. It reads, in relevant part:
+
+> Homer W., beloved husband of the late Sarah H. Brewster (nee Kelley), dear father of Aileene Gilpin, Elmer and Homer Brewster and the late Eunice Burton, Eugene and Earl Brewster, also survived by 24 grand and 38 great-grandchildren. Friday, March 8, 1991. Age 79 years. Formerly of College Hill. Friends may call at the Hodapp Funeral Home, 6041 Hamilton Ave., College Hill, Sunday 6–8 P.M. Graveside service Spring Grove Cemetery, Monday 10 A.M.
+
+This independently identifies Eunice Burton as a daughter of Homer W. Brewster and Sarah H. (Kelley) Brewster and places her among the same six children. The age 79 on 8 March 1991 is consistent with a birth in 1911, but the clipping does not print his birth date. The obituary calls him “Homer W.”, not “Willie H.”; this supports the Homer identity but does not by itself resolve the separate Social Security Claims Index transcription.
+
+### Sarah Hazel (nee Kelley) Brewster's original obituary
+The archived image at `sarah-hazel-kelly/img/sarah-kelley-brewster-obituary.jpg` was visually inspected. It reads:
+
+> Sarah Hazel (nee Kelley), beloved wife of Homer W. Brewster, dear mother of Eunice Burton, Aileene Gilpin, Elmer and Homer Brewster and the late Eugene and Earl Brewster. Also survived by 24 grand and 37 great-grandchildren. Saturday, February 28, 1987. Age 76 years. Resident of Hamilton, OH. Friends may call at the Hodapp Funeral Home, 6041 Hamilton Ave., College Hill, Monday from 6 to 8 P.M. Funeral services at the funeral home Tuesday, 10 A.M. Remembrances may be made to the American Cancer Society.
+
+This is particularly valuable because it explicitly names **Eunice Burton as Sarah's daughter** and prints Sarah's maiden name as **Kelley**. It confirms the same six-child sibling group shortly before Eunice's own death notice. Sarah's obituary also states 24 grandchildren and 37 great-grandchildren; Homer’s 1991 obituary gives 24 grandchildren and 38 great-grandchildren. These are the respective obituary counts at those dates and should not be treated as a discrepancy or used to assign specific grandchildren.
+
+### Elmer Brewster's original 1993 obituary
+The canonical scan was opened from both `sarah-hazel-kelly/img/elmer-brewster-obituary.jpg` and `elmer-brewster/documents/Elmer-Brewster-1993-Palm-Beach-Post-obituary-Drive-original.jpg`. They have the same SHA-1 (`935c4df24a274455e473d4ff6cf9a98da177bdf4`) and are exact duplicates, so the existing shared image remains the single source; no copy was added.
+
+The clipping is headed “ELMER BREWSTER.” It says he was 58, of West Palm Beach, died Saturday, 21 August 1993; had lived in the area four years after coming from “Perrysville, Missouri”; consulted for printing firms for over 35 years and supervised Lantana Toll Plaza for the last three years. It names his wife Mary Jane; children Cathy Bubolz, Diana Keaton, Michael Brewster, Cheryl Schaefer and Wanda Bilby; ten grandchildren; brother Homer Brewster Jr.; sister Aileene Gilpin; and says he was predeceased by twin brother Earl, brother Eugene, sister **Eunice Burton**, and parents **Homer and Sarah Brewster**.
+
+This is a third independent contemporary obituary naming Eunice as a sibling of the same Brewster family. It also confirms the family death notice's spellings “Eunice Burton” and “Aileene Gilpin.” The 1993 clipping states the family had lived in Perrysville, Missouri before the move to Florida, an important possible lead for the parents' later-life residence and the children's upbringing/migration; it does not say when any family member lived there.
+
+### Evidence conclusion after the three original obituary images
+- **Parents:** Homer W. Brewster and Sarah Hazel (nee Kelley) Brewster — directly named in Sarah's own obituary as her husband and Eunice as their daughter; Homer’s own obituary and Elmer's obituary independently agree.
+- **Siblings:** Aileene/Aileene Gilpin, Elmer Brewster, Homer Brewster Jr., Eugene Brewster and Earl Brewster — the six-child family is named across the parents' obituaries, Elmer's obituary and Eunice's own notice. The parents' clippings spell the sister's name “Aileene”; Eunice's own clipping spells it “Aileen”; her 2015 obituary is titled Aileene Gilpin.
+- **This resolves the parent/sibling identity question to a strong documentary standard for the profile.** It does not resolve the “Willie H Brewster” field in the Social Security Applications and Claims Index, which remains a separate transcription/field discrepancy, nor does it establish each sibling's exact birth order or birth date.
+- **Migration lead:** Elmer's 1993 obituary says he came to West Palm Beach from “Perrysville, Missouri.” Investigate whether Homer and Sarah or other siblings also lived there, using Missouri directories, census records, land/deed records and local newspapers. Do not assume the whole family moved together.
+
+Source files (all pre-existing; no originals modified):
+- `homer-william-brewster-sr/img/homer-brewster-obituary.jpg`
+- `sarah-hazel-kelly/img/sarah-kelley-brewster-obituary.jpg`
+- `sarah-hazel-kelly/img/elmer-brewster-obituary.jpg`
+- Exact duplicate of Elmer scan: `elmer-brewster/documents/Elmer-Brewster-1993-Palm-Beach-Post-obituary-Drive-original.jpg`
+
