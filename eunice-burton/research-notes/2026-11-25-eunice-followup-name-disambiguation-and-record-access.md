@@ -1032,3 +1032,23 @@ The current University of Cincinnati Archives and Rare Books Library reference p
 - Current ARB contact/access page: https://www.libraries.uc.edu/libraries/arb
 - Current University Archives staff/contact page: https://www.libraries.uc.edu/libraries/arb/about/staff.html
 - Current finding-aids page and off-site retrieval notice: https://www.libraries.uc.edu/libraries/arb/collections/university-archives/ua-collections.html
+
+
+## 26 November 2026 — Rose Hill public-record routes distinguished from Eunice's actual interment file
+
+A fresh review of the Hamilton County Recorder's Rose Hill grave-card collection confirms that its publicly posted cards are **veteran grave-registration records**, not a complete cemetery burial register. The Recorder describes the WPA cards as indexing veterans buried in the cemetery, with later veteran records through the 1980s; these cards cannot establish or disprove Eunice's 1987 burial. Do not treat a missing name in that collection as a cemetery no-hit.
+
+The current Rose Hill operator page identifies the cemetery/funeral-home location at 2565 Princeton Road, Hamilton, Ohio 45011, phone 513-894-9206. This is the current contact point, not proof of who holds the 1987 records or that those records survive. The correct request remains for the cemetery's own 1987 interment register/card, exact burial date, lot purchaser/owner, grave assignment and any family correspondence for Eunice E. Burton (died 16 December 1987), Section 11, Lot 191, Grave 3. The headstone and family clipping already support the burial location; the underlying cemetery register remains uninspected.
+
+A third-party PeopleLegacy cemetery page claims a 22,039-record Rose Hill burial dataset but its visible page is a rolling recent-memorial list and does not expose a complete alphabetic result for Eunice in the retrieved page. It is not a reliable negative search. A separate Ancestors at Rest transcription preserves only one Rose Hill inscription and is explicitly partial; it likewise cannot be used to infer absence. No new burial fact was added to Eunice's profile.
+
+- Hamilton County Recorder, scope of veteran grave-registration cards: https://recordersoffice.hamilton-co.org/helpful_information/cemetery_locations.html
+- Official Rose Hill Funeral Home & Burial Park contact/location: https://www.dignitymemorial.com/funeral-homes/ohio/hamilton/rose-hill-funeral-home/8370
+- PeopleLegacy Rose Hill cemetery index (third-party; page does not provide a complete verified Eunice search): https://peoplelegacy.com/cemetery/rose_hill_burial_park-5.3a/
+- Ancestors at Rest partial Rose Hill transcription: https://ancestorsatrest.com/records/cemetery-records/us/ohio/butler-county/rose-hill-burial-park/
+
+### Hodapp collection-date limitation
+
+A catalog search surfaced Hodapp Funeral Home records on microform for 1946–1954. That date range does not cover Eunice's 1987 funeral and must not be presented as her file. The relevant inquiry remains directly to Hodapp for a 1987 arrangement book, register, family file, or retained obituary-submission copy; survival has not been established.
+
+- Catalog result describing Hodapp Funeral Home records, 1946–1954: https://ldsgenealogy.com/OH/Hamilton-County-Death-Records.htm
