@@ -153,3 +153,22 @@ Sources and access routes:
 - Avery's existing archive note: `ello-whittle/research-notes/2026-11-19-avery-whittle-deep-audit.md`
 
 **No Indiana marriage/divorce index result or original record was obtained in this pass. No existing Avery file or profile was edited; the cross-person evidence and research route are recorded here only.**
+
+
+### Nursing-school and Hamilton-directory leads — new archival targets
+- The registered-nurse occupation entry now has a particularly promising Cincinnati education lead. University of Cincinnati Libraries confirms that its College of Nursing collection (1940–2004) includes **class records from 1946–1987 with student rosters, schedules, correspondence and ephemera**. This spans the likely years in which Eunice could have trained as a nurse. The records are in an 81-box archival collection; the archive says off-site boxes can require up to two weeks to retrieve. The public inventory link was not accessible through this browser, and I have not found Eunice's name in a roster. Request a search under Brewster, Whittle, Taylor and Burton, including married-name variants, and ask whether the rosters are indexed by student name.
+- A second University of Cincinnati collection, Raymond Walters College Department of Nursing (1969–2005), is also held in the archives. It is another possible route if she trained later or through a different program; no connection to Eunice has been established.
+- The University Archives listing also identifies a College of Nursing and Health *Nursing Notes* newsletter (1955–1967) and College of Nursing and Health News Sheet (1967–1973). These alumnae publications may contain graduation, employment or class-reunion notices if Eunice attended UC.
+- For address/occupation tracking, Hamilton County Genealogical Society's directory guide confirms the Cincinnati & Hamilton County Public Library Digital Library has digitized Cincinnati directories through 1945 and 1947–1949. The Ohio Genealogical Society's directory collection includes digitized Cincinnati directories for selected later years, including 1961, 1965, 1968, 1970, 1971 and 1978–79. The Hamilton directory holdings include a 1975 directory digitized by Lane Libraries/CHPL, with alphabetical resident listings, street listings and occupations. The 1975 directory PDF is very large and the available viewer did not open it; searches of the indexed web results did not surface an attributable Eunice or Irvin entry. Therefore no address or occupation is claimed from these directories yet.
+- The New Castle–Henry County Public Library's Indiana Room additionally has a *Courier-Times* card index covering 1848–1989, New Castle city directories, local newspapers, subject files and yearbooks. This can be used for Avery's later household and 1977 obituary citation; it does not prove anything about Eunice's later residence.
+- No new photograph, yearbook entry, nursing-school enrollment, directory listing, or obituary citation was found in this pass. These are specific archival collections to search, not confirmed personal records.
+
+Sources:
+- University of Cincinnati Archives, College of Nursing Records (1940–2004), class records 1946–1987: https://libapps.libraries.uc.edu/liblog/2013/02/college-of-nursing-records-now-available-in-arb/
+- University Archives finding-aids listing: https://www.libraries.uc.edu/libraries/arb/collections/university-archives/ua-collections.html
+- Hamilton County Genealogical Society, Cincinnati and county directory holdings: https://hcgsohio.org/cpage.php?pt=65
+- Ohio Genealogical Society, Ohio directories: https://www.ogs.org/ohio-directories/
+- Lane Libraries/CHPL digitized Hamilton city directory 1975: https://cdm16998.contentdm.oclc.org/digital/collection/p16998coll5/id/280615/
+- New Castle–Henry County Public Library Indiana Room: https://nchcpl.org/resources/genealogy/
+
+**No archival request or directory order was submitted. The new nursing-school and directory paths have been added to the active research plan.**
