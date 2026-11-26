@@ -93,3 +93,7 @@ The CHPL Newsdex site itself is now reachable through its public landing page. I
 ### Public search results reviewed but not treated as new proof
 - LocateAncestors and AncientFaces each reproduce the 22 December 1930 birth / 16 December 1987 death / Hamilton, Butler County identity. They are derivative index/biography pages, not independent primary records; no new family facts were added from them.
 - A search for “Willie H Brewster” returned unrelated modern people and no credible match to Eunice's father. The spelling/name question therefore remains unresolved pending the original Social Security application and Homer Brewster records.
+
+
+### Newsdex table count correction
+The live Newsdex landing page links to its actual Datasette `record` table, which now displays **1,886,384 rows** (not 427,002 as stated in the earlier additional-pass paragraph). The earlier count is superseded and should not be repeated. The table exposes publication date, publication name, citation and indexed subjects, but the available page interface did not let me submit a name search or run SQL through this session. I used the page's visible record listing and find-in-page; no Eunice hit was returned by that limited page view, which is **not** a full database search and must not be reported as a negative result. Direct dataset: https://newsdex.chpl.org/Newsdex%2BRecord%2BData/record
