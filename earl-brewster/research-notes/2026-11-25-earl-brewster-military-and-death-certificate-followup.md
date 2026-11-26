@@ -62,3 +62,26 @@ Source: Paul I. Gulick, *H/3/1 Marines in Korea*, revised 2008:
 - Part 3, January 1954 roster also shows his MOS as 0331: lines 12204–12209.
 
 The Earl public profile has been updated to show the 0311 → 0331 MOS transition and the 10 March 1954 H/3/1 departure date. The profile was re-fetched and verified. This does not establish his full Marine Corps discharge date or the exact date he returned to the United States; the service file and discharge papers remain needed for that.
+
+
+## Hamilton County property-index sweep, 1957–1959
+
+To test whether Earl owned property before his 1959 death, I checked the official Hamilton County Recorder grantor and grantee indexes for the three years immediately preceding the accident:
+- 1957 grantor index: no “Earl Brewster” entry and no Brewster entry surfaced in the searchable text.
+- 1958 grantor and reverse/grantee indexes: no “Earl Brewster” entry.
+- 1959 grantor and reverse/grantee indexes: no “Earl Brewster” entry.
+Sources:
+- 1957 grantor index: https://recordersoffice.hamilton-co.org/deed_indexes/di1957trteb.pdf
+- 1958 grantor index: https://recordersoffice.hamilton-co.org/deed_indexes/di1958trteb.pdf
+- 1958 reverse index: https://recordersoffice.hamilton-co.org/deed_indexes/di1958tetrb.pdf
+- 1959 grantor index: https://recordersoffice.hamilton-co.org/deed_indexes/di1959trteb.pdf
+- 1959 reverse index: https://recordersoffice.hamilton-co.org/deed_indexes/di1959tetrb.pdf
+
+This is a limited negative result for Hamilton County recorded deeds in 1957–1959 only. It does not rule out an earlier transaction, property in another county, an interest held under a different name, or an unrecorded/estate interest. Earl's last documented residence remains the family-reported 1612 Cumber Street address; no evidence yet shows he owned that property.
+
+## Additional unit-history verification
+The Korean War Educator's H/3/1 Marines in Korea history lists PFC **Earl Brewster, service number 1291045, MOS 0311** in the July, August and October 1953 personnel rosters. Its Part 1 narrative says PFC Earl Brewster was among the men who left the United States in May 1953 in the replacement draft that arrived in Korea in June. This independently corroborates the service number, unit, arrival period and rifleman MOS already recorded from the existing Fold3/roster material. The family newspaper's machine-gunner description at the time of wounding is therefore retained as a discrepancy, not used to backdate the MOS change.
+- H/3/1 Marines in Korea, Part 1: https://thekwe.org/topics/branch_accounts/marine/h31_marines_in_korea_part_1.pdf
+- H/3/1 Marines in Korea, Part 3: https://thekwe.org/topics/branch_accounts/marine/h31_marines_in_korea_part_3.pdf
+
+No new spouse, child, sibling, occupation, military decoration citation, property parcel, probate file, or additional photograph was established by this pass. The casualty date remains unresolved between 24 July (Fold3 casualty index) and 27 July (family newspaper); the unit history confirms the Hill 111 battle window but does not resolve Earl's individual evacuation date.
