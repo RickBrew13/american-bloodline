@@ -624,3 +624,42 @@ These independent examples confirm that historical Ohio nurse certificates could
 The 1941 State Nurses Board / 1955–1988 State Board of Nursing Education and Nurse Registration archive classification also lists OY N 77.15/2, “Nurse inventory.” This is a separate state-level route from county probate certificate books. No surviving inventory or individual Eunice entry has yet been obtained.
 
 - Ohio Archives classification: https://dam.assets.ohio.gov/image/upload/library.ohio.gov/government-documents/oh-classification/OH_classification_independent_N.pdf
+
+
+## County probate repositories checked against the nursing-license lead (26 November 2026)
+
+### Hamilton County, Ohio
+
+The current Hamilton County Probate Court Archive Search description lists estates, wills, trusts, guardianships, marriages, minister's licenses, births, naturalizations, journal entries and **physician certificates**. Its official imaged-record-book inventory and the Hamilton County Genealogical Society's record overview likewise identify physician certificate books (1896–1934 and 1935–1973, with a later 1973–1986 series) but do not identify a registered-nurse certificate volume. This means Hamilton County is not currently a documented nurse-register repository in the online catalog. Do not state that no nurse record ever existed; the correct next question is whether nurse certificates were maintained by a different office or filed in an unindexed medical-professional series.
+
+- Hamilton County Probate Archive Search: https://www.probatect.org/recordsearch/
+- Official imaged-record-book inventory: https://www.probatect.org/docs/default-source/default-document-library/booksavailable.pdf
+- HCGS record overview: https://www.hcgsohio.org/upload/files/Local%20Records/Wills%2C%20Probate%20and%20Estate/hamcopcrcdsoverview20121201.pdf
+- HCGS probate research guide: https://hcgsohio.org/cpage.php?pt=75
+
+### Butler County, Ohio
+
+The Butler County Record Center and Archives is the central repository for historical county records from Probate Court, Recorder, Clerk of Courts and Commissioners. Its public historical-records guide confirms pre-electronic court materials are stored there, but the published county holdings list does not specifically enumerate a nurse-registration book. Therefore, the Butler County question remains open and should be directed to the Records Center, asking for a registered-nurse certificate/register under the 1915 Ohio Nurse Practice Act, plus any transferred Probate Court medical-registration index, microfilm, or disposition record. Do not infer that the absence of “nurse” in the general online holdings list proves the series was destroyed or never held.
+
+- Butler County Records Center / historical record guidance: https://butlercountyclerk.org/locating-court-records/
+- Butler County Records Center address and phone (verify before contact): 123 North Third Street, Hamilton, OH 45011; 513-887-3437: https://www.butler.ohgenweb.org/addresses.html
+- Butler County Probate Court official contact: https://probatecourt.bcohio.gov/ (513-887-3294)
+
+### Why the county-register route remains worthwhile
+
+Union County's official inventory proves the 1915 act generated local registered-nurse certificate volumes containing the nurse's name, county of residence, certificate date and nursing school. Shelby County confirms a separate 1928–1977 medical-registration series including nurses. Warren County's retention schedule identifies medical-professional registration records including nurses as a permanent series. These are comparative examples, not evidence Eunice herself filed in those counties. Since her 1987 death index calls her a registered nurse, the Ohio Board of Nursing and the Butler/Hamilton county archives remain the most direct record routes.
+
+- Union County nurses records: https://www.unioncountyohio.gov/departments/Archives/probate-court-records
+- Shelby County medical registrations: https://shelbycoprobate.org/probate-records-maintained/
+- Warren County Probate retention schedule: https://www.warrencountyohio.gov/RecordsCenter/doc/RetentionSchedules/Probate.pdf
+
+## Campbell County marriage search portal located (26 November 2026)
+
+Located the Campbell County marriage search portal linked by the county-records information page: https://campbellmarriagesearch.smllc.us/. Its visible form supports exact Book and Page lookup, as well as party names and date ranges. The portal's input form is visible, but this browsing interface cannot submit the interactive form. The already documented original certificate citation is Campbell County Marriage Book 196, page 83, 23 July 1947, so the most useful portal lookup is **Book 196 / Page 83**, then cross-check Party 1 and Party 2. The portal may return the indexed license record but is not expected to expose separately filed parental-consent papers. No portal result is claimed and no clerk request has been submitted.
+
+Official Campbell County Clerk page confirms that pre-June 1958 marriage records must be sought from the county clerk, not Kentucky Office of Vital Statistics. Clerk marriage-license phone: 859-292-3885; Newport office, 1098 Monmouth Street, Newport, KY 41071. A certified copy is listed at $5 at the counter / $7 by mail or email on the current page; this is a fee for a certified copy, not a quote for archival loose-paper research. No payment or order has been made.
+
+- Search portal: https://campbellmarriagesearch.smllc.us/
+- Campbell County Clerk marriage licenses: https://campbellcountyclerk.ky.gov/services/marriage-licenses/
+- Kentucky CHFS confirms pre-1958 records are county-clerk records: https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/marriage-divorce.aspx
+- KDLA confirms consents and bonds can be separately filed: https://kdla.ky.gov/Archives-and-Reference/Documents/Handouts-RR/Handout-MarriageRecords.pdf
