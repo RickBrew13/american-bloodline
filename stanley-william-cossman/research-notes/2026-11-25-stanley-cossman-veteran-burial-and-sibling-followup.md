@@ -85,3 +85,13 @@ Roberta's profile and folder now contain the birth-index and marriage-index sour
 - 1997 Cromer family letters: https://oocities.org/Heartland/Plains/2559/cromer1.html
 
 No additional names have been added to Stanley William's public profile from these compiled/indirect ancestor leads.
+
+
+## Blended-family descendant network from Kathryn's obituary
+
+The McCreary Journal's 2016 obituary for Kathryn (Coffey) Cossman gives Stanley as her husband, Daniel and Ashley as her biological children, and Samuel and Matthew as her stepsons. It names four grandchildren — **Kayla Cossman, Tessa Cossman, Carter Cossman and Audrey Long** — and nine step-grandchildren — **Casey, Alex, Samuel, Cody, Michael, Brie, Jordyn, Keira and Cooper**.
+- Source: https://www.mccrearyjournal.com/2016/09/01/obituary-august-2016/
+
+Stanley's own 2017 obituary names Samuel, Matthew, Daniel and Ashley as his children. The 2024 Hodapp obituary for **Anthony Wayne Wills-Cossman** directly identifies Samuel Cossman as his father. This makes Anthony a documented grandchild of Stanley. Kathryn's obituary names Kayla, Tessa, Carter and Audrey as her grandchildren; since her biological children Daniel and Ashley are Stanley's children, these four are grandchildren in Stanley's blended family, although the obituary does not assign each child to Daniel or Ashley. The nine step-grandchildren are preserved separately because the obituary does not map them to Samuel or Matthew or establish that they are Stanley's biological descendants.
+
+The public Stanley profile now lists the five named grandchildren with the parentage limitations above and a separate list of Kathryn's nine step-grandchildren. The profile was re-fetched and verified. No unverified parent assignments were added to the family-tree JSON.
