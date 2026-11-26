@@ -63,3 +63,27 @@ These sources support Homer and Sarah as Eunice's parents and identify the same 
 - Personal portrait or school/nursing-yearbook photograph.
 
 **No order, payment, phone call, archive request, or external record request was made. No speculative relative was added.**
+
+
+## Additional Cincinnati obituary-index cross-check (25 November 2026)
+
+### Static Hamilton County OHGenWeb index
+The Hamilton County OHGenWeb “Obituaries & Death Notices” page was opened and searched within the full page text for **Burton**, **Brewster** and **Gilpin**. No matching surname entry appears in that volunteer-contributed index. The page itself explains that this is a separate collection of selected obituary-index transcriptions and points users to CHPL's Newsdex for the broader 20th-century newspaper index. Therefore:
+- This static OHGenWeb list provides no entry for Eunice under those surnames.
+- This is **not** a negative Newsdex result, not a search of all Cincinnati newspapers, and not evidence that the death notice was never published in a Cincinnati paper.
+- The page's scope includes many selected older newspaper indexes; it is not a complete 1987 index. Its listed historic books mostly cover newspapers and dates well before Eunice's death.
+Source: https://hamilton.ohgenweb.org/vitalsobit1.html
+
+### Newsdex remains the most promising Cincinnati index
+The Warren County Ohio GenWeb obituary-resource page describes Newsdex as having comprehensive death-notice coverage from the 1980s forward and recommends its “Browse” search, entering surname followed by a space and first name. This independently reinforces Newsdex as the best next searchable index for the missing December 1987 clipping citation. The Newsdex domain and dataset pages did not load in this browser session, so no search was completed and no result can be reported.
+Source: https://www.warren.ohgenweb.org/Obits/obitmain.htm
+
+### Current result
+No new newspaper citation or obituary was identified. The original family clipping remains the only source directly inspected for Eunice's full death notice. The exact publication title, issue date, page and column remain unknown. The correct next step is to execute a Newsdex browse search for:
+- `Burton Eunice`
+- `Brewster Eunice`
+- `Whittle Eunice`
+- `Taylor Eunice`
+and constrain the publication date to 16–19 December 1987 (then widen to 15–22 December if necessary).
+
+Citations: Hamilton County OHGenWeb index and its description of the separate Newsdex resource; Warren County OHGenWeb description of Newsdex scope and search method.
