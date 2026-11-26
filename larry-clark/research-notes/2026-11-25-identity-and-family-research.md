@@ -39,3 +39,7 @@ An obituary for Bentley Haze Clark (born 6 June 1948 in Rockcastle County, Kentu
 - Re-evaluate the Larry Thomas Clark (1946–1999) candidate against Judy/Barry dates and any directory, obituary, cemetery, or family records.
 - Investigate Bentley Haze Clark's sibling Larry only as a separate candidate cluster; seek birth records, census households, marriage records, and Arkansas obituaries before drawing any connection.
 - Once Larry's identity is secure, reconstruct his parents, siblings, spouses, and children from original vital, census, obituary, directory, and cemetery records.
+
+### Case identifier recovered from Judy's prior research
+
+The previously recorded Hamilton County divorce reference is **case certificate 035410 / volume 05370 (1984)**, associated in the earlier index research with Larry Clark and Judith M. This remains a possible match pending the full file. The case should be requested by both the certificate and volume identifiers, and the names/date in the original petition and decree must be checked before using it to establish marriage dates, separation, children, or property details.
