@@ -162,3 +162,14 @@ This raises the priority of the following record searches:
 2. Divorce and dissolution indexes for Monica and Stanley Cossman, and any Monica Kelly/Courtney marriage.
 3. Birth records for the children named in Stanley's obituary and the son implied by the 1996 court opinion.
 4. The underlying Butler County Area III case file CVF001022, which may contain additional name, family, or residence evidence beyond the published appellate opinion.
+
+
+## Official marriage and court-record portal access checked
+
+Hamilton County Probate Court's official public inquiry page states that its alphabetical marriage-license index covers brides and grooms from 1 January 1984 onward, while its Archive Search covers older marriage records and other bound-volume records. I followed the Marriage License link from the official inquiry page, but the linked mlsearch.asp endpoint returned 404 in this session. Therefore the official post-1984 name index was **not successfully searched** for Monica Kelly, Monica Courtney or Hackbarth; the earlier exact-name web searches are not a substitute for that index.
+- Official Probate Court record search and coverage: https://www.probatect.org/recordsearch/
+- HCGS guide to Hamilton County marriage records and indexes: https://www.hcgsohio.org/cpage.php?pt=60
+
+Hamilton County Clerk of Courts provides separate search options for Common Pleas civil cases and municipal civil cases, and notes that remote document access is not guaranteed. The Butler County Area III case number in the appellate opinion is **CVF001022** (appeal CA2003-09-229). No accessible underlying docket or marriage/name-change document was found through open web search. The underlying court file and official marriage index remain the best next records; no contact or paid copy request was made.
+- Hamilton County Clerk of Courts records search: https://www.courtclerk.org/records-search/
+- Published appellate opinion: https://law.justia.com/cases/ohio/twelfth-district-court-of-appeals/2004/2004-ohio-3913.html
