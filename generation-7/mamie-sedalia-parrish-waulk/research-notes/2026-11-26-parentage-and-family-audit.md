@@ -18,7 +18,7 @@ Mamie Sedalia (Parrish) Waulk is linked as a Gen VII parent of David Paul “Pau
 
 ## Findings, caveats and open questions
 
-- Mamie’s 1973 obituary text calls her 69, but the memorial gives 6 September 1904–19 August 1973, making her 68 on that date. Keep the discrepancy explicit; dates are not changed to fit the age statement.
+- The visible Mamie obituary clipping says she was 68; the memorial dates 6 September 1904–19 August 1973 also make her 68 at death. The earlier extracted text returned “69,” but inspection of the actual scan shows “68”; use the image reading.
 - The obituary names George Parrish and Julia Humphries Parrish as her parents. The memorial parent panel lists Julia Frances Humphries Ingles but not George. Preserve the obituary’s exact wording and note the memorial name variation; no record connecting Julia’s later Ingles surname to the “Julia Humphries Parrish” form was reviewed.
 - The obituary identifies five siblings by married/name forms as transcribed above, and four predeceased children. It does not name those four in the text. Do not assume that the infant Michael E. Waulk is the only one or identify the other three without records.
 - The archived portrait is an identified Find a Grave memorial photo uploaded by Roger Waulk; the marker and clipping are separate images and captioned separately.
