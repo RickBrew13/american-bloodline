@@ -87,3 +87,12 @@ No direct page-level directory entry, nurse record, newspaper citation, addition
 
 ### Expanded visual review of all currently archived immediate-family images
 Reopened the remaining image files in Homer Sr., Sarah, Elmer, Earl and Homer Jr.'s GitHub folders, not just the files with “family” in the filename. This included the senior Brewster portrait and school/location images; Sarah's portrait, couple montage and Christmas photograph; Elmer's second portrait and obituary; Earl's 1953 portrait and newspaper articles and 1959 crash clipping; and Homer Jr.'s individual portrait and family images. The images depict Homer, Sarah, Elmer, Earl, Homer Jr., family memorials, and newspaper text. None visibly depicts Eunice. Eugene's images are cemetery markers/location images; Aileene's folder has no image files. The only confirmed Eunice image currently in the GitHub archive remains her headstone. No family member's portrait has been mislabelled as Eunice and no low-resolution newspaper halftone has been cropped and presented as a portrait.
+
+
+### Specific Hamilton Journal-News archive window
+The Lane Libraries historical-newspaper guide identifies the **Hamilton Journal-News (1971–2013)** and states that 1978–1987 is digitized, with 1987 also held on microfilm. This covers the year of Eunice's death. The family clipping's Friday calling hours and Saturday funeral service make 17–19 December 1987 the first issue window to inspect; the wider 16–22 December window remains prudent for a death notice or obituary. Hamilton County's local newspaper guide says the library's Magazines & Newspapers Department can search five days after an exact death date when a notice is not found in Newsdex. No search request was sent.
+
+Sources:
+- Lane Libraries, Historical Newspapers — Hamilton Journal-News 1978–1987 digitized: https://www.lanepl.org/local-history-genealogy/historical-newspapers
+- Hamilton County OHGenWeb, Guide to Local Newspapers — five-day post-death search guidance and department contact: https://www.hamilton.ohgenweb.org/news/press1.html
+- Cincinnati & Hamilton County Public Library, Newsdex description: https://chpl.org/resources/history/
