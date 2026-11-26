@@ -63,3 +63,22 @@ The 2017 Cincinnati Enquirer obituary names surviving father Stanley P. Cossman,
 6. Additional family photos with verified captions.
 
 No fee was paid, no deed copies were ordered, and no office or family member was contacted.
+
+
+## Additional Army NCO candidate class listing — 25 November 2026
+A search for Stanley's Army service found an NCOC Locator page indexed as **Class 28-69 B**:
+- Class graduation date: **22 April 1969**
+- Company: **76th Company**
+- Location: **Harmony Church**
+- Class MOS shown: **11B40, Light Weapon Infantryman**
+- The page's deceased list includes **“Cossman, Stanley W”** and gives a date of **27 April 2017**.
+
+Source: NCOC Locator, Class 28-69 B: https://www.ncoclocator.org/28-69B.HTM (search-engine indexed text; when opened during this pass the site redirected to a suspended-page notice, so the original roster page and any linked grave-marker record could not be inspected).
+
+This is a potentially important service lead because the VA-derived burial index independently classifies Stanley W. Cossman as U.S. Army / Vietnam. However, the NCOC page's date of 27 April 2017 conflicts with the Hickman-Strunk obituary, Cincinnati Enquirer obituary and VA-derived burial index, all of which give **26 August 2017**. The NCOC listing may be a same-name man or contain a data-entry error. The class-level MOS is not a personal MOS record, and no service number, unit, rank, or individual military file is supplied. Therefore:
+- Do not add the 1969 NCOC class or 11B40 MOS to Stanley's public profile yet.
+- Do not change his established death date.
+- Keep this as an identity-resolution lead until the NCOC roster administrator, a class photo/roster, or an official Army record can bridge the identity.
+- If confirmed, the class would point to training at Harmony Church in April 1969; the Army personnel file would still be needed for the actual service dates, units and Vietnam deployment.
+
+The public profile was also cleaned in this pass: removed a duplicate Military quick-fact row and corrected two malformed evidence-status phrases (“remains ;” / “remains ”) to “unproved” and “documented.” The page was re-fetched and verified. No family-tree JSON or other profile was changed.
