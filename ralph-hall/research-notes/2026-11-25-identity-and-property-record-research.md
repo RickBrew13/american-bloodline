@@ -14,11 +14,11 @@
 
 ## 2. Name and birth-date lead
 
-The reverse-telephone result at [Free People Search](https://freepeoplesearch.com/phone-number/417-561-1411/) displays a Ralph Hall associated with Rockaway Beach and a January 1940 birth month/year, and also displays a Judith Clark with a February 1939 birth month/year in the same reverse-lookup result.
+A reverse-telephone result at Free People Search displays a Ralph Hall associated with Rockaway Beach and a January 1940 birth month/year, and also displays a Judith Clark with a February 1939 birth month/year in the same reverse-lookup result. The result is retained as an identity lead, but its phone-number-specific URL and contact details are not reproduced in the public archive.
 
 **Evidence assessment:** this is a commercial people-search aggregation, not a vital record or a primary directory image. The shared listing and family account support the family's accepted working identity, but the January 1940 birth lead is unverified. Do not promote it to a confirmed date of birth. Do not copy the phone number, street address, or aggregator's suggested relatives into the public profile or genealogy archive.
 
-No independent obituary, death record, census entry, birth record, marriage record, or reliable family-tree record was found in the targeted public web searches for Ralph Hall with Rockaway Beach, Taney County, Cincinnati, Judy/ Judith Clark, and the January 1940 lead.
+No independent obituary, death record, birth record, marriage record, or reliable family-tree record was found in the targeted public web searches for Ralph Hall with Rockaway Beach, Taney County, Cincinnati, Judy/Judith Clark, and the January 1940 lead. A broad indexed 1950 census search returned many same-name Ralph Halls but no identity-secure match to the January 1940 lead or the family's Ralph. The accessible search results do not establish his parents, siblings, spouse(s), or children.
 
 ## 3. Property ownership — priority research target
 
@@ -77,3 +77,37 @@ These exclusions matter because the name is common. None of these deaths establi
 ## Follow-up search outcome
 
 The web searches did not identify a reliable obituary, death certificate, cemetery record, parents, spouse, child, or occupation for the family's Ralph Hall. No public web result established joint ownership of property with Judy. The county's official Recorder page identifies the actual deed-search systems and date coverage, but the Laredo/Tapestry name search remains an external database step.
+
+
+## 8. Expanded family reconstruction search — 25 November 2026
+
+The user's current priority is Ralph's own family, especially parents, siblings, spouses, and children. A second targeted search pass covered:
+
+- Ralph Hall with Rockaway Beach and Taney County, Missouri.
+- The January 1940 birth-month/year lead combined with Cincinnati, Ohio; Oklahoma City, Oklahoma; and Kingston Springs, Tennessee.
+- Ralph Hall with Judy/Judith Clark and with Missouri obituary, marriage, and family terms.
+- Exact-name searches for several names displayed in the commercial aggregator's “Relatives & Associates” section.
+- Broad 1950 U.S. census name-index results.
+
+### Results and evidence assessment
+
+1. **Parents: not identified.** No primary or reliable secondary source connects named parents to the family's Ralph.
+2. **Siblings: not identified.** No obituary or census household has been securely matched to him.
+3. **Spouses: not identified.** No marriage record or obituary establishes a spouse before or after Judy.
+4. **Children: not identified.** No source establishes children of this Ralph.
+5. **Possible relatives from aggregator: not proven.** The data-broker page displays several “Relatives & Associates,” but does not state the relationship type and supplies no documentary evidence. Those names must not be entered as siblings, children, or other relatives without corroboration. Exact-name searches did not yield a reliable family record connecting them to this Ralph.
+6. **1950 census: unresolved.** The broad MyHeritage index page reports 68 Ralph Hall entries across several states, but the visible entries do not provide an identity match to the family's Ralph. It would be unsafe to select a same-name household without the original census image and a matching birth/place/family clue. Search result: https://www.myheritage.com/census/us/1950census/hall/ralph_hall
+7. **False-positive Ralph E. Hall (Michigan/Tennessee): excluded.** A Ralph E. Hall was born 10 July 1940 in Goodrich, Genesee County, Michigan, and died 17 February 2014 in Lewisburg, Tennessee. His obituary identifies parents Eugene Hall and Laura Burton; wife Darlene Vega; son Gene; daughter Eva; stepdaughters Annette and Sherry; siblings Ray, Bill, and Beverly. This is a different man: his July birth date, Michigan origin, and documented 2014 death do not fit the family's Ralph's January 1940 data-broker lead and continuing Rockaway Beach association. Do not import any of those relatives. Sources: https://www.billsmcgaugh.com/obituaries/Ralph-Hall?obId=33935411 and https://ancestors.familysearch.org/en/PFRM-MSM/ralph-e-hall-1940-2014
+8. **Other same-name obituaries excluded.** Search results for Ralph Wayne Hall (born 1961, died 2026), William Ralph Hall (born 1930, died 2021), Ralph Earl Hall (born 1932, died 2007), and Ralph Hall of Fairfield, Ohio (born 1923, died 2006) are chronologically incompatible and have no demonstrated connection to Judy's companion. Their family members must not be attributed to him. Sources: https://www.jordanfuneralgroup.com/obituaries/ralph-hall ; https://www.howellcountynews.com/obituaries/william-ralph-hall ; https://www.legacy.com/us/obituaries/legacyremembers/ralph-hall-obituary?id=26086934 ; https://www.zettlerfuneralhome.com/obituaries?page=93
+
+### Research conclusion
+
+The family identification of Ralph Hall as Judy's companion remains the accepted working identity. The current public-web research pass has **not** found evidence sufficient to name his parents, siblings, spouse(s), or children. This is a real negative research result, not a claim that he had none.
+
+### Next steps that can materially advance his family tree
+
+- Obtain a clearer biographical clue from family material or the back of the family photograph: a middle initial, exact age, birthplace, occupation, or the name of one known relative.
+- Search the original 1950 census images in the likely locations only after obtaining a reliable birthplace or earlier address.
+- Search Cincinnati directories in the 1950s–1970s for Ralph Hall and inspect images rather than relying on search snippets.
+- Search Tennessee and Oklahoma city directories only once a year range or neighborhood can be established.
+- Obtain actual Taney County deeds and marriage-license index results through the official paid/subscription systems; these may yield a legal name, spouse designation, or prior county of residence.
