@@ -708,3 +708,39 @@ A search result for a Homer Brewster profile on WeRelate is the user's own colla
 - Morgan County “H” obituary page: https://tngenweb.org/morgan/h-obituaries/
 
 No new child, grandchild, sibling spouse, or nursing-school identity was added to Eunice's profile from these searches. Search limitations and next record targets remain explicit.
+
+
+## 26 November 2026 — source-level verification of live archive leads
+
+### Campbell marriage search portal and original 1947 record citation
+
+Opened the Campbell County Marriage License Search itself, not just a search-engine description. The live portal has separate Book, Page, Party 1, Party 2, combined-party, exact-date and date-range fields. It instructs users to enter parties in `Last First` format. For Eunice's already-inspected original certificate, the precise lookup is Book 196 / Page 83, with cross-check names `Brewster Eunice` and `Whittle Avery`, date 23 July 1947. The browser can read the form but cannot submit it; no index result is claimed. The separate-consent search remains distinct because Kentucky archival guidance says permissions/bonds may have been filed as loose papers or in a separate volume.
+
+- Actual live portal: https://campbellmarriagesearch.smllc.us/
+- County records portal description: https://campbellcounty.kentuckycourt.us/marriage-divorce-records.html
+- Clerk marriage records: https://campbellcountyclerk.ky.gov/services/marriage-licenses/
+- KDLA marriage record guide: https://kdla.ky.gov/Archives-and-Reference/Documents/Handouts-RR/Handout-MarriageRecords.pdf
+
+### UC nursing class rosters: confirmed in the archive's own article
+
+Opened the University of Cincinnati Libraries article dated 28 February 2013. It states that the 1940–2004 College of Nursing and Health collection includes class records from 1946–1987 with student rosters, schedules, correspondence and ephemera. The same article separately identifies Raymond Walters College Department of Nursing records from 1969–2005. UC's current archives finding-aid page says many boxes are off-site and require up to two weeks' retrieval and gives archives@ucmail.uc.edu for inquiries. These are confirmed collection descriptions, not proof Eunice attended either program; no roster has yet been searched for her name.
+
+- UC Libraries article: https://libapps.libraries.uc.edu/liblog/2013/02/college-of-nursing-records-now-available-in-arb/
+- UA-13-02 finding aid: https://libraries.uc.edu/documents/UA-13-02_College_of_Nursing.pdf
+- UC archives finding aids/contact: https://www.libraries.uc.edu/libraries/arb/collections/university-archives/ua-collections.html
+
+### 1940 census: correct roll and direct viewer path verified
+
+The official NARA T627 roll-list PDF and the USGenWeb Tennessee census table both identify Morgan County, Tennessee, 1940 schedules on roll T627-3924. The Stephen P. Morse Universal 1940 Census Viewer is specifically designed to display FamilySearch or Ancestry images by state, county and ED; its free-search instructions explain how to derive the image number from the cited sheet and open the NARA viewer. Eunice's existing FamilySearch index citation gives Morgan County, ED 65-15, sheet 3B, line 51. The image itself was not successfully opened or inspected in this pass, so all household details remain attributed to the index transcription pending handwriting verification.
+
+- NARA official T627 roll list: https://www.archives.gov/files/research/census/1940/t627-roll-list.pdf
+- Stephen P. Morse 1940 viewer: https://stephenmorse.org/census/viewer1940.html
+- Stephen P. Morse free-search/image instructions: https://stevemorse.org/census/freesearch.html
+- USGenWeb Tennessee roll table: https://www.us-census.org/states/tennessee/m-tn.htm
+
+### Search quality control: no false identity upgrades
+
+Fresh exact-name searches for Eunice Edna Brewster, Eunice E. Burton, Eunice + Irvin Burton, the 1947 Avery Whittle marriage, and siblings Earl/Eugene/Elmer Brewster did not yield a new primary source. A derivative people-search page repeats the known birth/death dates but displays personal Social Security number data; it was excluded entirely as evidence and no number was copied into the archive. The WeRelate Homer Brewster page surfaced in results is collaborative user-maintained genealogy and cites the user's own prior research note, so it is not independent corroboration. The Aileene Gilpin obituary remains the independent sibling-group source. No additional children, grandchildren, siblings' spouses, nursing school, or employer were attached to Eunice on the strength of these searches.
+
+- Aileene Gilpin obituary: https://www.clayconews.com/obituaries/aileene-gilpin
+- Morgan County obituary archive: https://tngenweb.org/morgan/obituaries-of-morgan-county/
