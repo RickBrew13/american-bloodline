@@ -143,3 +143,33 @@ Sources for the household and identity comparison:
 - 1945 Ruby–George Moore marriage index, FamilySearch 29NV-B74: https://www.familysearch.org/ark:/61903/1:1/29NV-B74
 
 No new child, additional spouse, death, burial, occupation, property, probate, or photograph was proved in this continuation. Ruby's profile remains open for original 1945 marriage image, 1959/1971 tree-source verification, birth record, later-life census/death/burial, and authenticated photographs.
+
+
+## New Birmingham burial candidate — Shadow Lawn, 1970 (not yet linked)
+
+The Birmingham Public Library's **Shadow Lawn Memorial Gardens Cemetery Interments** database returned a potentially relevant entry:
+- **MOORE, Ruby** — interment 3 October 1970, Section 7, Lot 243, Grave 9; heir listed as **Joseph Hill**; funeral home **Poole**.
+- The same lot contains **Jennie Mae Moore**, interred 6 April 1947 in Grave 8, heir Ruby Moore, funeral home Shortridge; and **Henry Moore**, interred 13 May 1956 in Grave 10, heir Ruby Moore, funeral home Smith and Gaston.
+
+This is an important lead because Ruby's 1945 indexed second marriage was to George Moore and she later used the Moore surname. The cemetery entry itself gives no age, birth date, spouse, parents, or other identity detail, however, and the heir Joseph Hill is not connected to Ruby in the records reviewed. It cannot yet be identified as this project's Ruby Mae Pugh. The 1970 entry may be another Ruby Moore, or it may be the first direct death/burial lead for our Ruby; neither conclusion is proven.
+
+Sources:
+- Birmingham Public Library, Shadow Lawn Memorial Gardens Cemetery Interments, section 7 results: https://www.cobpl.org/localdb/formProc/shadowlawn?atnum=2100&section=7
+- Birmingham Public Library local database overview explains that the Shadow Lawn database is a work in progress and does not yet include every person buried there: https://www.cobpl.org/localdb/index
+
+### Follow-up required before any profile change
+1. Search the Birmingham Public Library Obituary Index for Ruby Moore around 3 October 1970; the index covers Birmingham-area newspapers and provides newspaper/date/page citations.
+2. Search Alabama's 1970 death certificate/index for Ruby Moore, comparing age, parents, spouse, residence and informant with Cornelius Pugh, Rosabelle Grant/White, George Moore and Joseph Hill.
+3. Determine who Jennie Mae Moore and Henry Moore were in relation to Ruby Moore by checking their death records, newspaper notices and the Section 7, Lot 243 plot map/register.
+4. Identify Joseph Hill from the contemporaneous cemetery/plot record only if a direct relationship to the deceased Ruby can be established. Do not use people-search listings or publish private current details.
+5. Until an identity bridge is found, keep Ruby's public death date and burial unknown and do not add Shadow Lawn to her profile.
+
+The Birmingham Public Library notes that its Obituary Index is publicly searchable and that obituary copies can be requested through its Ask a Librarian service. No request was submitted and no fee was paid:
+- https://www.cobpl.org/resources/genealogy/
+- https://www.cobpl.org/locations/central/southern/FAQ.aspx
+
+### Separate George Howard Moore Jr. namesake
+A 2022 North Carolina funeral-home obituary for Rev. George Howard Moore Sr. names a son George Howard Moore Jr. of Whitakers, North Carolina, and a 2015 obituary for Edna Malloy Moore also names a son with that exact name. This identifies a living/modern North Carolina namesake cluster and does **not** prove that it is Ruby's reported son or the same man as the family-reported George Howard Moore Jr. (1947–2006). No link to Ruby, George Moore of the 1945 Alabama marriage, or Birmingham was found. The exact-name son remains a separate candidate; do not merge or attach the NC family.
+- https://wheeler-woodlief.com/obits/rev-george-howard-moore-sr/
+- https://www.wilkersonfuneralhome.com/obituaries/Edna-Malloy-Moore?obId=470594
+
