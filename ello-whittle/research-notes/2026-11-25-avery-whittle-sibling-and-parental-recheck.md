@@ -84,3 +84,19 @@ Sources:
 - Secondary cemetery listing for Robert S. “Bob” Whittle and related Whittle burials: https://peoplelegacy.com/cemetery/mcbeath_cemetery-6b6Z01/
 
 No public profile or family-tree JSON change was made. R.S./Bob Whittle is not entered as Stanton's father unless a direct record is found.
+
+
+## Army personnel-file access and 1947 unit-roster route
+The Fold3 enlistment transcription already archived in Avery's folder gives Army service number **35888669**, entry 5 January 1946, discharge 9 July 1947, and “Enlistment for the Panama Canal Department.” It does not identify the last assigned unit, specific post, rank at discharge, MOS at discharge, or a complete chronology.
+
+The National Archives confirms that Army OMPFs for personnel discharged from 1 November 1912 through 1 January 1960 were among the records affected by the 1973 NPRC fire (estimated 80% loss). Avery's July 1947 discharge is within that affected group, but the file may have survived or may be partially reconstructable from auxiliary records. Since the separation was more than 62 years ago, an archival file that survives is open to the public. A targeted SF-180 request should include the service number, exact name, 5 January 1946 entry date, 9 July 1947 discharge date, Russell County birthplace, and the Fold3 enlistment transcription; request any reconstructed OMPF, separation document, and auxiliary records.
+
+NARA also confirms that Army morning reports and unit rosters for 1912–1959 are archival and can be examined in person at the NPRC Archival Research Room or by an independent researcher. Army rosters for 1944–1946 were destroyed, but 1947 records are within the available period. The unit must be identified first; the current enlistment record does not provide enough detail to request a useful targeted roster search. No request, payment or researcher engagement has been made.
+
+Sources:
+- National Archives, Official Military Personnel Files, non-archival holdings / 1973 fire: https://www.archives.gov/personnel-records-center/about-ompfs
+- National Archives, The 1973 Fire: https://www.archives.gov/personnel-records-center/fire-1973
+- National Archives, Access to Morning Reports and Unit Rosters: https://www.archives.gov/personnel-records-center/military-personnel/morning-reports-and-unit-rosters
+- National Archives, SF-180 request instructions: https://www.archives.gov/veterans/military-service-records/standard-form-180
+
+No military claim was upgraded and no profile change was made; this is a documented access route for obtaining the underlying service file.
