@@ -65,3 +65,23 @@ Sources and the full directory sequence are documented in the John Adam Cossman 
 - Geneanet compiled Cossman tree: https://nl.geneanet.org/fonds/individus/?go=1&nom=COSSMAN&place__0__=Cincinnati%2CHamilton&size=50
 
 No names have been added to Stanley William's public sibling list or grandparent profiles from these provisional collateral leads. The direct obituary evidence for Stanley William's own siblings Greg, Brett and Linda Nelson remains unchanged. The next decisive step is original 1930/1940 census schedules and original birth/marriage records for John Adam and Henrietta's household.
+
+
+## Maternal-grandparent evidence strengthened — Roberta Cromer Cornett
+
+The maternal branch through Beulah's mother Roberta Cromer Cornett now has stronger indexed evidence:
+- Kentucky's birth-index transcription lists Roberta Cromer, born 15 August 1908 in Rockcastle County, with mother **Sarah Bradley**, volume 233, file 49389.
+- The Rockcastle marriage index lists **Henry C. Cromer and Sarah E. Bradley**, married 2 August 1890.
+- The Rockcastle Cromer family transcription identifies this couple as **Henry Martin “Hen” Cromer** and **Sarah Louisa Bradley**, and lists Roberta as their daughter. The indexes support the date and Sarah's maiden surname; the expanded names and father-child link remain compiled until the original records are inspected.
+- The same Kentucky birth index lists **Dora A. Cromer**, born 27 August 1899, with mother Sarah Bradley. Dora is a possible maternal aunt of Stanley William, but the sibling link is not proven.
+- The Rockcastle family transcription identifies Henry Martin's parents as **David Cromer** (reported born July 1834, Laurel County) and **Elizabeth Southard** (reported born February 1840, North Carolina). The Rockcastle marriage index lists David Cromer and Elizabeth Southard as married 7 July 1856. These are Stanley's possible maternal great-grandparents; original marriage/census records remain outstanding. A 1997 family letter gives David's birth as 1838, so the 1834/1838 conflict remains open.
+
+Roberta's profile and folder now contain the birth-index and marriage-index sources, with Dora and the earlier Cromer ancestors graded as leads rather than proven connections:
+- Roberta profile: https://rickbrew13.github.io/american-bloodline/roberta-cromer-cornett/
+- Roberta research note: 2026-11-25-roberta-cromer-birth-and-parentage-audit.md
+- Kentucky birth index: https://kygenweb.net/knox/Births/births-c.html
+- Rockcastle marriage index: https://kygenweb.net/rockcastle/marriages/c.htm
+- Rockcastle Cromer family transcription: https://kygenweb.net/rockcastle/family/cromer/
+- 1997 Cromer family letters: https://oocities.org/Heartland/Plains/2559/cromer1.html
+
+No additional names have been added to Stanley William's public profile from these compiled/indirect ancestor leads.
