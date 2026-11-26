@@ -153,3 +153,29 @@ A 2011 post about the Cincinnati gospel LP **_The Burtons — Comin' On Strong_*
 This is useful first-person family testimony for **Grady Sr., Grady Jr. and Danny Ray's** participation, and it adds context to the family music history. Crucially, **Irvin is not named as a performer or shown as identified in this lineup**. Do not imply he was a member of the gospel group. The blog post is not an obituary or formal biographical source, and the commenters' identities are self-reported in the comments. Source: [The Good, Bad & Ugly Gospel Record Barn, “The Burtons — Comin' On Strong,” 22 March 2011](https://gbugrb.blogspot.com/2011/03/burtons-comin-on-strong.html), especially the comments by Dennis Burton (1 June 2011) and Mark Burton (16 February 2014).
 
 No new public-profile claim was added: the source helps clarify the extended family's music history but does not establish anything new about Irvin's own participation.
+
+
+## Final broad-name search and profile-readiness assessment (25 November 2026)
+
+### Additional searches completed
+A further broad search was run for:
+- Irvin D. Burton / Irvin Burton with his exact 4 March 1994 death date and Hamilton, Ohio;
+- Irvin paired with Eunice, and separately with the three names in Eunice's death notice (Demetria Sexton, Elaine Bishop, Anthony Q. Burton);
+- Grady Elvis Burton, Grady Burton Sr. and Ora Allen in Kentucky census/obituary contexts;
+- Ora Alice Allen/Burton with the obituary's “Hank,” “Betty,” and Ed Allen of Edinburg, Indiana;
+- the 1994 Journal-News obituary index title and library holdings.
+
+No additional independently indexed record was returned that establishes a later wife, the Irvin–Eunice marriage date/place, a new child, Irvin's own portrait, or the identities of Grady Sr.'s parents or Ora's parents beyond the names in her obituary. Exact-name web searches for the three children returned only the existing family archive/profile material and Eunice's death notice. The existing generation-4 JSON already distinguishes Demetria's father as “Irvin Burton (1932–1994) (family account),” which is the correct evidence grade; do not upgrade this to documented without a birth or parentage record.
+
+### Correct scope of what can now be called established
+The available evidence is sufficient to support Irvin's core profile: identity and dates from his headstone and Ohio death index; his childhood in Grady and Ora's household from the 1940 and 1950 census images; Ora's obituary naming him as her son; Grady Jr.'s official obituary naming Irvin as his brother and identifying their parents; Eunice's death notice naming Irvin as her husband at her death; and the adjacent Rose Hill graves. The profile also records his occupations, schooling, documented residences, sibling group, and family gospel-music background without claiming that Irvin himself performed.
+
+The profile is ready for the next Generation 5 build **as a carefully sourced, evidence-graded profile**, with the following explicit open items retained in research notes rather than guessed:
+1. Obtain the 1994 death certificate (certificate 017200, volume 29741) to inspect informant, marital status and cause/place details.
+2. Search the March 1994 Hamilton Journal-News microfilm or the 1994 annual index volume to locate his obituary.
+3. Retrieve the 1966 deed, book 3480/page 120, to determine the actual property and confirm the Grady/Ora identity.
+4. Locate an original Irvin–Eunice marriage record and determine whether the death index's 1994 “married” field reflects a later spouse or a data error.
+5. Identify Grady Sr.'s parents and Ora's parents beyond “Hank and Betty Burton Allen,” and independently verify the three children's paternity.
+6. Locate a verified personal portrait of Irvin if one exists.
+
+These six items require records or physical/library access not exposed by the online search tools used here. No additional speculative names should be added. The profile's existing family-photo folder was already audited and contains no personal portrait; the headstone and original census/obituary images remain preserved. No unrelated profile or the Generation 5 tree JSON was altered in this final pass.
