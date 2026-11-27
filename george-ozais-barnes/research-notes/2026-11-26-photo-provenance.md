@@ -1,0 +1,4 @@
+- George marker, photo page says credited to Geof Wyght (15 Sep. 2021); alt/source-image description reads “FATHER GEORGE O. BARNES 1886–1973.”
+- George Enquirer clipping, credited to Rose Hill Guy (21 Apr. 2020); contains the transcribed 19 Apr. 1973 death notice.
+- Effie marker, photo page says credited to Molly Mcgenealogy (8 Jul. 2022); image description reads “Mother Effie Miller Barnes 1891–1933.”
+- Effie death certificate image, credited to Rose Hill Guy (21 Apr. 2020); not independently transcribed.
