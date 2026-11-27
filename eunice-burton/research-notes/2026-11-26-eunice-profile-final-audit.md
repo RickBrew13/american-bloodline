@@ -1,5 +1,5 @@
 # Eunice Edna Brewster Burton — Generation 5 profile completion audit
-**Audit date:** 26 November 2026  
+**Audit date:** 27 November 2026 (revised after follow-up research)  
 **Status:** Research and profile work complete to the accessible family-held and public sources reviewed in this pass. The remaining tasks require original records, restricted/interactive repositories, or access to the user's external Google Drive material; they are explicitly listed and not presented as completed.
 
 ## Folder-first audit
@@ -48,3 +48,11 @@ All 19 Markdown research notes are linked from the profile's “Research Notes a
 
 ## Folder and profile verification
 The final GitHub tree was rechecked after the profile edits. All 19 research-note Markdown files exist and are linked from Eunice's profile; the HTML tag counts are balanced. No other person's profile or folder was edited during the Eunice pass.
+
+
+## 27 November follow-up addendum
+- Re-inspected the current folder structure and added two further research notes: the Cincinnati Enquirer Photo Archive/Newsdex access follow-up, and the secondary cemetery-index cross-check for Irvin D. Burton.
+- PeopleLegacy's two separate pages explicitly identify Eunice and Irvin D. Burton as spouses and list them in adjacent graves (Section 11, Lot 191, Graves 3 and 4). The Irvin page supplies 6 September 1932 and 4 March 1994 as birth/death dates. This is secondary-source corroboration only; the provider states its data are not independently verified. The original cemetery, marriage and vital records remain outstanding.
+- The Cincinnati Enquirer Photo Archive has more than one million staff photographs from 1945–1995. Its inventory link redirected to Microsoft sign-in; no name-level inventory result or photo match is claimed.
+- Newsdex's public interface and tutorial were confirmed, but a usable result for Eunice was not retrieved. No positive or negative index conclusion is claimed.
+- The current folder now contains 22 Markdown research notes, all linked in the current profile. No portrait or family photo of Eunice was obtained; no unverified image was copied.
