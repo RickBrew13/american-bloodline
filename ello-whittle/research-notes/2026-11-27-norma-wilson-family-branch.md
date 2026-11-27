@@ -27,3 +27,8 @@ Norma's obituary says she was preceded by two sisters and three brothers, and su
 
 ## Arnold Ray Wilson identity conflict
 Norma's 2017 obituary reports a deceased son Arnold Ray Wilson. However, Carl J. Wilson's 2025 obituary names a brother Arnold, and a separate 2025 memorial identifies Arnold Ray Wilson (26 December 1948–13 January 2025). These records may refer to the same person or to different half-/step-siblings; no direct parentage record connects the 2025 Arnold to Norma. Keep Arnold's status unresolved and see the <a href="2026-11-27-norma-wilson-arnold-son-identity-conflict.md">Arnold identity-conflict note</a>.
+
+## Carl J. Wilson branch (updated with 2025 obituary)
+Carl J. Wilson (15 April 1949–8 February 2025), one of Norma's sons, married **Leslie Rene'Eareckson Wilson**. His obituary names two children: **Christina Kinnamon (John)** and **Erick Wilson (Caryn)**, and two grandchildren: **Tyler Kinnamon** and **Gretchen Kinnamon**. It also names siblings Sheena Grider (Walter), Troy Wilson (Sheila), Lyn Wilson (Myra), and a brother Arnold Wilson (see the separate Arnold identity-conflict note). The obituary names nephew **Brandon Powell (Brandie)** of Jamestown but does not identify his parent.
+
+Source: Carl J. Wilson obituary, 15 April 1949–8 February 2025: https://www.echovita.com/us/obituaries/md/preston/carl-j-wilson-19321257
