@@ -19,7 +19,7 @@ The same page lists these siblings for Lillie:
 - Parrish Elmer Tucker (1883–1967)
 - Martha Carolyn Tucker Wilson (1885–1948)
 
-This makes Eli Tucker and Narcissus Popplewell the leading working parents for Cordelia. It is a secondary compiled family grouping, not a birth record, and the obituary's “two sisters and three brothers” may refer to siblings still living at the time rather than the full sibling set.
+This makes Eli Tucker and Narcissus Popplewell the leading working parents for Cordelia. The listed Tucker sibling group has three brothers (Christmon, Cornelius and Parrish) and four sisters (Louisa, Mary, Martha and Lillie). Cordella's 1951 obituary says she was survived by two sisters and three brothers; that count is consistent with the three listed brothers surviving and two of the four listed sisters surviving, with two sisters having died earlier. This is a useful fit between the two sources, but it is not a birth record, and the PeopleLegacy family grouping remains secondary.
 
 Independent corroboration: a 1998 Russell County genealogy query by Paula Kite states that **Louisa (Babe) Tucker (1877–1933)** was a daughter of **Narcissus Popplewell (1849–1908) and Eli (Ell) Tucker (1849–1915/1919)**, and identifies Narcissus's parents as **Mason B. Popplewell and Caroline Chamberlain**. Louisa and Cordelia are listed in the same Tucker sibling group by PeopleLegacy. The 1998 query is a researcher's submission, not an original record.
 
