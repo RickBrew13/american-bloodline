@@ -29,5 +29,10 @@ Sources:
 - City of Rockwall, PZ1999-007-01 development application: https://www.rockwall.com/pz/Planning/Development%20Case%20Log/1999/PZ1999-007-01.pdf
 - Charles W. Smith & Sons, Theresa Lynn Whittle obituary: https://www.charleswsmithandsonsfuneralhome.com/obituaries/theresa-whittle
 
+## Additional photo source — City of Heath, 2019
+The City of Heath's 14 June 2019 article about the Heath Farmers Market sponsorship includes a group photograph captioned from left: City Manager Aretha Adams, Councilman Frank New, and **Rob Whittle**. The image is hosted by the city at: https://www.heathtx.com/wp-content/uploads/2019/06/mrpumpkinhead.jpg. This is a second public image source for Rob (a group photograph, not a solo portrait). It is not a photograph of Avery. The image was not copied into GitHub; the public city article and direct image link are recorded for future profile use.
+
+Source: City of Heath, 14 June 2019, “Heath Golf & Yacht Club and Whittle Development Company Accept Opportunity to be Exclusive Sponsor of New Heath Farmers Market”: https://www.heathtx.com/heath-golf-yacht-club-and-whittle-development-company-accept-opportunity-to-be-exclusive-sponsor-of-new-heath-farmers-market/
+
 ## Evidence boundary
 This supports the working identification of Avery's son Rob with the Rockwall developer Robert Whittle and reveals a potential photograph for Rob. It does not provide a new photograph of Avery, and the image must not be copied or labelled as Avery.
