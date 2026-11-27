@@ -23,7 +23,7 @@ Sources:
 
 ## Verification needed before adding a second marriage or half-sibling
 1. Locate the original 1909 Kentucky marriage record for Eli Tucker and Angeletta McQueary; identify county, ages, residences and marital status.
-2. Search 1910 census Soundex/Miracode for Eli Tucker and Angeletta; compare age, birthplace, county and household.
+2. Search the 1910 Kentucky Miracode index, NARA microfilm **T1266, roll 117** (T-000 through T-400 Green, which includes Tucker code **T260**), for Eli Tucker/Angeletta. The index should supply the 1910 census sheet and line; then inspect Russell County population schedules, NARA roll **T624-501**, if the card identifies Russell County. Compare age, birthplace, county and household.
 3. Locate Ada P. Tucker's 1915 Kentucky birth record and determine her mother's maiden name and county.
 4. Find Ada's later marriage, death certificate, obituary or cemetery record to determine whether she is Ada West Tucker or a different Ada P. Tucker.
 5. Reconcile Eli's death date with the 1915 birth and the reported 1915/1919 death dates.
