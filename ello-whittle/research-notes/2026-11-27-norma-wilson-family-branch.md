@@ -24,3 +24,6 @@ Norma's obituary says she was preceded by two sisters and three brothers, and su
 2. Find Arnold Ray Wilson's death record/obituary and any spouse or children.
 3. Search obituaries and marriage records for Carl, Sheena, Troy and Lyn to identify the ten grandchildren and five great-grandchildren.
 4. Find a family photograph or yearbook portrait of Norma and the Wilson family; no new photo was found in this pass.
+
+## Arnold Ray Wilson identity conflict
+Norma's 2017 obituary reports a deceased son Arnold Ray Wilson. However, Carl J. Wilson's 2025 obituary names a brother Arnold, and a separate 2025 memorial identifies Arnold Ray Wilson (26 December 1948–13 January 2025). These records may refer to the same person or to different half-/step-siblings; no direct parentage record connects the 2025 Arnold to Norma. Keep Arnold's status unresolved and see the <a href="2026-11-27-norma-wilson-arnold-son-identity-conflict.md">Arnold identity-conflict note</a>.
