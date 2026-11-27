@@ -157,3 +157,7 @@ Sources:
 
 ## 26 November 2026 — birth-date conflict cross-check
 The profile's three date sources remain distinct: the headstone/family record and Kentucky birth index say **4 January 1927**; the original 1944 draft card says **2 July 1926**; the BIRLS index says **26 July 1926**. The 1947 marriage certificate reports Avery as 22 on 23 July 1947, which fits none of those dates (he would have been 21 on 2 July 1926, 20 on 26 July 1926, or 20 on 4 January 1927). The 1977 obituary says age 50, which is consistent with either the 1926 or 1927 date. No birth date is changed; the original Kentucky birth certificate or SSA application is needed.
+
+## 2020 Veldean obituary sibling-count cross-check
+The 2020 obituary for Veldean Beckner says she was preceded in death by **four sisters and three brothers**. This count is consistent with the adult sibling group in Avery's 1977 obituary and the current roster: the four adult sisters who died before Veldean were **Iza Pearl Whittle Coffey (d. 1996), Marie Whittle Stacy (d. 2001), Norma Jean Whittle Wilson (d. 2017), and Grace Whittle Eastham (d. 2018)**; the three adult brothers were **Avery (d. 1977), Shirley (d. 1987), and Calvin (d. 1996)**. The older sister Anna and the infant/child deaths (Heasby, Ulissus and Gearlind) were not necessarily counted as adult siblings in Veldean's obituary. This is a strong consistency check for the sibling roster, although the original birth/death records and the 1940 census image still need review.
+
