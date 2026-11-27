@@ -32,3 +32,12 @@ Norma's 2017 obituary reports a deceased son Arnold Ray Wilson. However, Carl J.
 Carl J. Wilson (15 April 1949–8 February 2025), one of Norma's sons, married **Leslie Rene'Eareckson Wilson**. His obituary names two children: **Christina Kinnamon (John)** and **Erick Wilson (Caryn)**, and two grandchildren: **Tyler Kinnamon** and **Gretchen Kinnamon**. It also names siblings Sheena Grider (Walter), Troy Wilson (Sheila), Lyn Wilson (Myra), and a brother Arnold Wilson (see the separate Arnold identity-conflict note). The obituary names nephew **Brandon Powell (Brandie)** of Jamestown but does not identify his parent.
 
 Source: Carl J. Wilson obituary, 15 April 1949–8 February 2025: https://www.echovita.com/us/obituaries/md/preston/carl-j-wilson-19321257
+
+## Sheena Grider and nephew Brandon Powell — unresolved extension
+Norma's 2017 obituary identifies **Sheena (Walter) Grider** as her daughter. Carl's 2025 obituary names **Brandon Powell (Brandie)** as his nephew, and Norma's 2017 pallbearer list also names Brandon Powell. Brandon may be Sheena's son, but neither obituary explicitly identifies his parent; do not attach him as her child without another record.
+
+A 2023 obituary for Joe Edward Conover lists a grandson **Seth Grider (Sheena)**, and a 2025 ColumbiaMagazine church notice is authored by **Sheena Grider**. These may indicate a later marriage/relationship between the same Sheena and Seth Grider, after the 2017 reference to her as Walter Grider's wife, but the identities and any marriage have not been established. No marriage record was located. Keep Walter as the spouse explicitly named in Norma's 2017 obituary; track Seth only as an unverified later-spouse lead.
+
+Sources:
+- Joe Edward Conover obituary, 9 October 2023: https://ridingthewave.com/obits/710600/joe-edward-conover-87-russell-springs-ky
+- Sheena Grider, Glensfork Community Church notice, 24 August 2025: https://mail.vps.columbiamagazine.com/index.php?sid=135895
