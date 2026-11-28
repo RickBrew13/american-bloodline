@@ -95,7 +95,7 @@ A broader search of the Recorder's official grantor/grantee indexes found a mult
 | 1 February 1946 | Grady & Ora Burton → Arlington D. & Verna A. Fleenor | Book 2142, page 292 |
 | January 1949 (exact date not legible in OCR extract) | Harry & Myrtle Vickers → Grady & Ora Burton | Book 2355, page 3 |
 | 31 December 1953 | Grady & Ora Burton → Ralph Hines et al. | Book 2658, page 532 |
-| 1960 (index date 27; month/day context needs image check) | Grady & Ora Burton → Owen & Juanita Towne | Book 3133, page 368 |
+| 27 December 1960 | **Owen & Juanita Towne → Grady & Ora Burton** (Burton couple are grantees/buyers) | Book 3133, page 368 |
 | 1960 (index date 15) | Grady & Ora Burton → Payton E. & Bobbie J. Hayes | Book 3131, page 674 |
 | 14 April 1961 | Grady E. & Ora Burton → Earl L. & Helen M. McDonald | Book 3149, page 438 |
 | 16 May 1966 | Allen C. & B. J. Berbar → Grady & Ora Burton | Book 3480, page 120 |
@@ -127,3 +127,9 @@ The 1945 official index has now been rechecked in its OCR table. The row is **Ch
 Official index sources:
 - 1945: https://recordersoffice.hamilton-co.org/deed_indexes/di1945tetrb.pdf (searchable row: Grady & Ora Burton, Book 2094, p.135, 28 Apr 1945; Karrer as grantor)
 - 1946: https://recordersoffice.hamilton-co.org/deed_indexes/di1946trteb.pdf (1 Feb 1946, Book 2142, p.292; Burton as grantor)
+
+
+### 28 November 2026 correction — 1960 Towne transaction direction
+The official 1960 Hamilton County Recorder index `di1960tetrb.pdf` explicitly labels the columns **GRANTEE (TO)** and **GRANTOR (FROM)**. Its 27 December entry at Deed Book 3133, page 368, lists **Grady & Ora Burton as grantees** and **Owen & Juanita Towne as grantors**. The earlier table had this direction reversed. The correct reading is **Towne → Burton** (purchase by Grady and Ora), not a sale by them. This is separate from the 15 December 1960 conveyance by Grady & Ora to Payton E. & Bobbie J. Hayes, Book 3131, page 674.
+
+Official source: https://recordersoffice.hamilton-co.org/deed_indexes/di1960tetrb.pdf (printed page 45 / PDF page 44; row dated 27 December, Book 3133, p.368).
