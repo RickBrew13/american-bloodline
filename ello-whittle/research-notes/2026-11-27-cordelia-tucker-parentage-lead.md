@@ -42,3 +42,7 @@ The 1900 Soundex card for **Eli Tucker** should identify the enumeration distric
 The 1998 query and FamilySearch's Caroline Chamberlain profile place Narcissus as a daughter of **Mason B. Popplewell (1823–1893) and Caroline Chamberlain (1829–1923)**. The FamilySearch profile further lists Caroline's parents as **William Chamberlain and Rachel Brown**. These are useful compiled-tree leads; original census, marriage, probate and death records still need to be located before upgrading the relationships to proven.
 
 No relationship was changed in the family tree. The Tucker line remains a well-supported working hypothesis, not a proven parentage claim.
+
+
+## New vital-record route (28 November 2026)
+The 1878 Russell County birth register is now identified on KDLA microfilm roll #994054; it may name Cordelia's parents directly. See [28 Nov 2026 — Cordelia 1878 birth-register route](2026-11-28-cordelia-1878-birth-register-route.md) for the exact roll, Ancestry image identifier and library microfilm copy.
