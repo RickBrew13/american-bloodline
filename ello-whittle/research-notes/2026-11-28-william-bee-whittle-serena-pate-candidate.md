@@ -50,3 +50,12 @@ The William/Serena family may be part of the broader Russell County Whittle netw
 5. The original 1850 census image for family 290 to verify the surname spellings, ages and page/line details.
 
 **Current conclusion:** William Bee/William W. Whittle is a plausible identity for the 1850 Russell County William, but the family links remain unproven. No family-tree relationship was changed.
+
+## Russell County William Whittle marriages — exact abstract entries
+The 1967 *Kentucky Ancestors* continuation of the Russell County marriage-certificate abstract lists two separate entries:
+- **William Whittle × Dorcus Litrell**, married **19 February 1843**, officiant **J. Bowlin, J.P.**
+- **William Whittle × Milly Stephens**, married **18 November 1846**, officiant **J. Bowlin, J.P.**
+
+The two entries may represent successive marriages of one man or two different men named William Whittle. The 1850 Russell census family 290 has a William age 28 and Darius age 33 with three children, but no wife. The dates of the marriages and children's approximate birth years make it tempting to connect these entries to that household; the census does not identify which man was the father, and no original bond/license has yet been examined. Do not assign either woman as the mother of Deby, Richard or James C.
+
+Source: *Kentucky Ancestors*, Volume 2, Number 4 (April 1967), “Russell County, Kentucky Marriage Certificates,” continuation, [digital scan](https://www.kyhistory.com/digital/api/collection/p16602coll3/id/85/download), printed page 153.
