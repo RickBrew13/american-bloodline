@@ -37,12 +37,17 @@ This register points to the records used for Avery's profile and research notes.
 
 See the [research-notes folder](../research-notes/) for full transcriptions, source evaluations, conflicting evidence, descendant branch studies and unresolved record requests.
 
+- [FamilySearch, Kentucky Deaths, 1911–1967](https://www.familysearch.org/en/search/collection/1417491) — indexed state death certificates with images; use to seek Stanton Bell Whittle (1972), Louvenia McGowan Whittle (1940) and Eli (Ell) Tucker (reported 1915 or 1919).
+- [FamilySearch, Kentucky Vital Record Indexes, 1911–1999](https://www.familysearch.org/en/search/collection/2531527) — state indexes that may help identify the filing year/certificate number before obtaining the image.
+- [Kentucky Office of Vital Statistics, genealogy guidance](https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/genealogy.aspx) — confirms the state index is derivative and original certificates are held by the Office of Vital Statistics.
+
 ## Highest-priority outstanding originals
 
 1. Stanton Bell Whittle's Kentucky death certificate (1972) and/or Social Security application to resolve 1892 vs 10 July 1893.
 2. Louvenia McGowan Whittle's Kentucky death certificate (1940) to identify her parents and informant.
 3. 1900 and 1910 Russell County census schedules for Stanton and any possible pre-marital household; 1900 Soundex card first.
 4. Original cemetery register / grave cards for Whittle Cemetery, McBeath Cemetery and Old Eli Cemetery.
-5. Original 1951 Cordella obituary clipping and original records for R. S. “Bob” Whittle.
-6. Avery's Social Security application/birth record and 1947 marriage application to resolve his birth-date variants.
-7. Avery and Charlotte's original marriage record, and the divorce/dissolution record for Avery and Eunice, if any.
+5. Eli (Ell) Tucker's original Kentucky death certificate (reported 11 June 1915 or 1919) to resolve the date conflict and test the possible 1909 second-marriage lead.
+6. Original 1951 Cordella obituary clipping and original records for R. S. “Bob” Whittle.
+7. Avery's Social Security application/birth record and 1947 marriage application to resolve his birth-date variants.
+8. Avery and Charlotte's original marriage record, and the divorce/dissolution record for Avery and Eunice, if any.
