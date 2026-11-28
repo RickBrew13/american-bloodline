@@ -41,6 +41,8 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 - [FamilySearch, Kentucky Vital Record Indexes, 1911–1999](https://www.familysearch.org/en/search/collection/2531527) — state indexes that may help identify the filing year/certificate number before obtaining the image.
 - [Kentucky Office of Vital Statistics, genealogy guidance](https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/genealogy.aspx) — confirms the state index is derivative and original certificates are held by the Office of Vital Statistics.
 
+- [NARA, 1940 Census FAQs](https://www.archives.gov/research/census/1940/faqs) and [1940 Census research guide](https://www.archives.gov/research/census/1940/start-research) — the 1940 census has no NARA name index; original schedules are free to browse by ED. The Stanton household search is narrowed to Russell County EDs 104-6 through 104-9.
+
 ## Highest-priority outstanding originals
 
 1. Stanton Bell Whittle's Kentucky death certificate (1972) and/or Social Security application to resolve 1892 vs 10 July 1893.
