@@ -151,6 +151,7 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 
 ### Irwin/Irvin Whittle and Ilith Coffey Whittle — possible sixth child of Bob and Cordella
 - [LocateAncestors, Kentucky Whittle death-index aggregation](https://www.locateancestors.com/whittle-kentucky/) — lists Irwin Whittle (18 September 1911–1 November 1979) and Ilith Whittle (5 February 1918–31 March 2003), last residence Russell Springs.
+- [ColumbiaMagazine, Bro. Donnie L. Coffey obituary (2011)](https://www.columbiamagazine.com/index.php?sid=44527) — names Ilith Whittle among his deceased siblings and gives the Coffey family parents.
 - [WVLC, Mary Josephine Hopper obituary, February 2023](https://wvlc.com/whve-obits/archives/2023-02/) — identifies her parents as Irvin and Ilith Coffey Whittle; names siblings Larry, Estes, Frankie, Bobby, Nellie Gaskin and Donna Sue Goodin; identifies children Mark and Becky.
 - [WKDO, Imogene Coffey Cain obituary, March 2021](https://runningwiththebuck.linkedupradio.com/obits-blog/archives/2021-03/) — identifies half-sister Ilith Whittle and her husband Irvin.
 - [The Russell County Newspapers, Mark Anthony Hopper obituary, January 2026](https://www.russellcountynewspapers.com/2026/01/05/mark-anthony-hopper-46-russell-springs/) — names maternal grandparents Irvin and Ilith Whittle.
