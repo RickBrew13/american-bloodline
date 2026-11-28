@@ -43,6 +43,8 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 
 - [NARA, 1940 Census FAQs](https://www.archives.gov/research/census/1940/faqs) and [1940 Census research guide](https://www.archives.gov/research/census/1940/start-research) — the 1940 census has no NARA name index; original schedules are free to browse by ED. The Stanton household search is narrowed to Russell County EDs 104-6 through 104-9.
 
+- [KDLA, County Records Inventory (Russell County row)](https://kdla.ky.gov/Archives-and-Reference/Documents/Inventory_County_Records.pdf) — lists Russell County birth registers for 1852–1859, 1874–1875, 1878, 1903–1906 and 1909–1910; **no 1892 or 1893 birth register is listed**. The inventory is explicitly not comprehensive, but it means an 1893 Russell County birth register has not been identified in KDLA's published holdings. The 1893 date for Stanton remains derivative until an original source is found.
+
 ## Highest-priority outstanding originals
 
 1. Stanton Bell Whittle's Kentucky death certificate (1972) and/or Social Security application to resolve 1892 vs 10 July 1893.
