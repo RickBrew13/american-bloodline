@@ -54,3 +54,19 @@ The best next records are:
 6. Death certificates/obituaries for Sarah Elizabeth McGowan Whittle and the children of David McGowan and Elizabeth Wilson to test any sibling or cousin connection.
 
 **Current conclusion:** Louvenia's maiden surname places her in a well-documented Russell County McGowan research cluster, but no parentage has yet been proved. Do not add David McGowan, Elizabeth Wilson, John Henry McGowan, or any other McGowan as Louvenia's parent without the birth/death/census evidence.
+
+
+## Highest-priority candidate household to test — William James McGowan and Nancy Elizabeth McQueary
+A separate Russell County family-history report, *Narrative Report for Rice Wilson*, gives a specific McGowan couple who fit the county and generation for Louvenia's possible birth family:
+- **William James McGowan**, born April 1864 in Jabez, Russell County; died 26 February 1940 in Pulaski County, Kentucky.
+- **Nancy Elizabeth McQueary**, born November 1866 in Russell County; married William James McGowan on 22 March 1888.
+- Nancy later married **John William West** about 1907.
+
+Because Louvenia's cemetery-index birth year is 1900, this couple is a plausible household to check in the 1900 Russell County census. If Louvenia appears as their daughter, the McQueary maternal line would also extend Avery's ancestry through **Louisa Jane Wilson and Rice Wilson**. The compiled report does not list children for William and Nancy and does not name Louvenia, so this is only a targeted hypothesis. It is not evidence that they were her parents.
+
+The same report identifies Nancy as a daughter of Louisa Jane Wilson and Harvey McQueary, and records her two marriages. The 1900 census is the decisive next check: look for William, Nancy and any children in the Jabez/Russell County household, recording each child's exact name, age, relationship and birthplace from the original schedule.
+
+Source:
+- *Narrative Report for Rice Wilson*, 6 January 2026, page 7, entry 14 (Nancy Elizabeth McQueary and William James McGowan): https://kygenweb.net/russell/families/files/wilson-rice-1795-1878.pdf
+
+**Priority:** Search the 1900 Russell County census household of William James McGowan and Nancy Elizabeth McQueary before attaching any other McGowan family. Also obtain William's 1940 Kentucky death certificate and Nancy's death record to confirm identities and surviving family.
