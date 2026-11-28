@@ -108,7 +108,7 @@ Sources (official Hamilton County Recorder indexes):
 - 1960 grantor index: https://recordersoffice.hamilton-co.org/deed_indexes/di1960trteb.pdf
 - 1960 reverse index: https://recordersoffice.hamilton-co.org/deed_indexes/di1960tetrb.pdf
 - 1961 grantor index: https://recordersoffice.hamilton-co.org/deed_indexes/di1961trteb.pdf
-- 1961 reverse index: https://recordersoffice.hamilton-co.org/deed_indexes/di1961tetrmc.pdf (independently lists McDonald → Grady E. Burton et al. at the same book/page).
+- 1961 reverse index: https://recordersoffice.hamilton-co.org/deed_indexes/di1961tetrmc.pdf (lists McDonald as grantee and Grady E. Burton et al. as grantor at the same book/page, confirming the direction Grady → McDonald).
 - 1966: https://recordersoffice.hamilton-co.org/deed_indexes/di1966tetrb.pdf
 
 The 1961 grantor and reverse indexes independently show the McDonald/Grady E. Burton transaction at book 3149, page 438, confirming the same instrument from opposite sides. The 1949 entry identifies Grady and Ora as buyers from Harry and Myrtle Vickers. The 1953, 1960 and 1961 entries identify transfers from Grady and Ora to later grantees. These are separate indexed instruments; do not assume they all concern one parcel.
