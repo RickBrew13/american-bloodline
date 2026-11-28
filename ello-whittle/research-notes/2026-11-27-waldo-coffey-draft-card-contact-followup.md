@@ -14,7 +14,7 @@ Sources:
 - Avery's original 1944 draft card, already archived and transcribed in `documents/Avery-Ello-Whittle-Fold3-record-scan.pdf` and `research-notes/Drive-Google-Doc-export-Avery-Fold3-military-record-transcription.md`.
 
 ## Relationship to Avery remains unproved
-Avery's 1977 obituary names a sister **Pearl Coffey**. The family profile identifies her as Iza Pearl Whittle (16 December 1920–1 August 1996), a likely but not fully primary-source-verified match. The similar ages and surname make it reasonable to investigate whether Waldo L. Coffey was Pearl's husband and therefore Avery's brother-in-law. The 2011 obituary does not name Waldo's spouse, and no marriage record or obituary explicitly connects Waldo to Pearl Whittle. **Do not add Waldo as Pearl's husband or Avery's brother-in-law yet.**
+Avery's 1977 obituary names a sister **Pearl Coffey**. The family profile identifies her as Iza Pearl Whittle (16 December 1920–1 August 1996), a likely but not fully primary-source-verified match. A later same-name check found that the 2011 obituary's mother, **Pearl Stephens Coffey**, was identified in a separate Russell County family-history post as born in February 1891, while Avery's sister **Iza Pearl Whittle** was born 16 December 1920. They are distinct women. The proposed connection through Avery's sister Pearl is therefore unsupported and should not be pursued as a relationship. The 2011 obituary does not name Waldo's spouse, and no record connects him to Avery. **Do not add Waldo as a Whittle relative or as Pearl Whittle's husband.**
 
 The name “Waldo Coffee” on the draft card could instead refer to another relative, family friend, employer or contact. The 2011 obituary confirms a Russell County Waldo Coffey in the right generation but does not prove that he is the same man on the card.
 
@@ -23,6 +23,6 @@ The name “Waldo Coffee” on the draft card could instead refer to another rel
 2. Search Russell County marriage registers for Waldo Coffey and Pearl Whittle (including Coffee/Coffey and Iza/Iza Pearl variants).
 3. Check the 1940 and 1950 census households for Waldo and Pearl separately.
 4. Compare Waldo's address on his 1944/1942 draft registration or directories with Avery's Cincinnati address and family contacts.
-5. Obtain the original death record for Iza Pearl Whittle/Pearl Coffey to verify her maiden name, spouse and parents.
+5. Obtain the original death record for Iza Pearl Whittle/Pearl Coffey to verify her husband and parents; do not assume she was married to Waldo Coffey.
 
 No relationship was added to the family tree; no same-name person was conflated.
