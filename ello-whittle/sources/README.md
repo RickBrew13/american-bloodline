@@ -145,3 +145,12 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 - [FamilySearch community-tree profile, Garnet Whittle (1920–2003)](https://ancestors.familysearch.org/en/PNBN-P4D/garnet-whittle-1920-2003) — places Ruel B. Whittle among the children of Edgar M. Whittle and Zeona C. Flanagan; this is a reason not to assume the “Rese” in Cordella's obituary is the indexed Ruel.
 - [*The Lebanon Enterprise*, 14 March 1968, “Gunman Robs Russell County Supermarket”](https://kdl.kyvl.org/digital/api/collection/marion-news/id/28593/download) — names supermarket owner Clyde Whittle but does not identify his parents or distinguish between the two Russell Springs Clyde death-index entries.
 
+
+
+### Irwin/Irvin Whittle and Ilith Coffey Whittle — possible sixth child of Bob and Cordella
+- [LocateAncestors, Kentucky Whittle death-index aggregation](https://www.locateancestors.com/whittle-kentucky/) — lists Irwin Whittle (18 September 1911–1 November 1979) and Ilith Whittle (5 February 1918–31 March 2003), last residence Russell Springs.
+- [WVLC, Mary Josephine Hopper obituary, February 2023](https://wvlc.com/whve-obits/archives/2023-02/) — identifies her parents as Irvin and Ilith Coffey Whittle; names siblings Larry, Estes, Frankie, Bobby, Nellie Gaskin and Donna Sue Goodin; identifies children Mark and Becky.
+- [WKDO, Imogene Coffey Cain obituary, March 2021](https://runningwiththebuck.linkedupradio.com/obits-blog/archives/2021-03/) — identifies half-sister Ilith Whittle and her husband Irvin.
+- [The Russell County Newspapers, Mark Anthony Hopper obituary, January 2026](https://www.russellcountynewspapers.com/2026/01/05/mark-anthony-hopper-46-russell-springs/) — names maternal grandparents Irvin and Ilith Whittle.
+- [Irwin Whittle and Ilith Coffey family / sixth-child lead research note](../research-notes/2026-11-28-irwin-whittle-ilith-coffey-family-and-sixth-child-lead.md) — documents the descendant branch and the unproven possibility that Irwin was the unnamed sixth child in Cordella's 1951 obituary.
+
