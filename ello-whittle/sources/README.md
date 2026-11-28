@@ -132,3 +132,16 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 - [Richard Whittle and Sarah Isbell descendant branch](../research-notes/2026-11-28-richard-whittle-sarah-isbell-descendant-branch.md)
 - [James C. Whittle, Minerva and Effie Parmley branch](../research-notes/2026-11-28-james-c-whittle-minerva-effie-parmley-branch.md)
 
+
+
+### Bob and Cordella Whittle — children's identity and descendant sources
+- [Cordella Whittle obituary, *The Russell County News*, 22 March 1951](https://theshygenealogist.wordpress.com/page/3/) — names Bob Whittle, marriage date, six children but only five names transcribed (Otha, Rese, Jim Elmer, Caleb, Grady), 17 grandchildren and three great-grandchildren; original clipping image still needs direct inspection.
+- [LocateAncestors, Kentucky Whittle death-index aggregation](https://www.locateancestors.com/whittle-kentucky/) — derivative birth/death entries for Otha (1898–1978), Caleb (1911–1983), Grady (1914–1975), Ruel (1903–1976), Clyde (1919–2001), Clyde O. (1921–2007), and related Whittle names.
+- [LocateAncestors, James Whittle](https://www.locateancestors.com/james-whittle/) — derivative entry for James Whittle, born 30 November 1903, died 1 March 1976, last residence Russell Springs; possible match to “Jim Elmer.”
+- [Bernard Funeral Home, Leslie “Tuger Bill” Whittle obituary (1927–2015)](https://www.bernardfuneralhome.com/obituary/LeslieTugerBill-Whittle) — identifies parents James Elmer and Sola Owens Whittle and siblings Hollis “I.U.” and Lucille; strong cross-obituary lead for the “Jim Elmer” named in Cordella's 1951 obituary.
+- [WVLC, Remona Whittle Popplewell obituary (2019)](https://wvlc.com/whve-obits/archives/2019-08/) and [Bernard Funeral Home obituary](https://www.bernardfuneralhome.com/obituary/Remona-Popplewell) — identifies Hollis “I.U.” Whittle as Remona's first husband and Ronnie Whittle as their son.
+- [ColumbiaMagazine, Arlus “Johnny” Whittle obituary (2010)](https://www.columbiamagazine.com/index.php?sid=34499) — identifies Otha Whittle and Nancy Mae Meadows as Johnny's parents.
+- [WVLC, Lana Kay Hale obituary (2022)](https://wvlc.com/whve-obits/archives/2022-07) — identifies Otha Whittle and Nancy Mae Meadows as Kay's parents and names siblings.
+- [FamilySearch community-tree profile, Garnet Whittle (1920–2003)](https://ancestors.familysearch.org/en/PNBN-P4D/garnet-whittle-1920-2003) — places Ruel B. Whittle among the children of Edgar M. Whittle and Zeona C. Flanagan; this is a reason not to assume the “Rese” in Cordella's obituary is the indexed Ruel.
+- [*The Lebanon Enterprise*, 14 March 1968, “Gunman Robs Russell County Supermarket”](https://kdl.kyvl.org/digital/api/collection/marion-news/id/28593/download) — names supermarket owner Clyde Whittle but does not identify his parents or distinguish between the two Russell Springs Clyde death-index entries.
+
