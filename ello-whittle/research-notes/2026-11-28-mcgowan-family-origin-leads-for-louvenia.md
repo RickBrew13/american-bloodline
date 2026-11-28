@@ -82,3 +82,19 @@ Sources:
 A FamilySearch community-tree profile also identifies **Morgan McQueary (born 1843)** as a brother in the same McQueary family group and reports his 25 August 1863 marriage to **Lavina McGowan (born 1839)**, with children James Alford Coldwell McQuary, Morgan A. McQueary and Phoebe Jane McQueary. This is a collateral McGowan connection through Nancy's extended McQueary family, not proof that Lavina was related to Louvenia or that she was Louvenia's mother. Keep this branch separate unless records establish the link.
 
 Source: FamilySearch community tree, Morgan McQueary: https://ancestors.familysearch.org/en/LHDF-WFW/morgan-mcqueary-1843
+
+
+## Additional Russell County McGowan birth-index entries — collateral leads
+A Kentucky birth-index transcription (delayed-index collection) exposes three Russell County records that may help reconstruct the wider McGowan community:
+- **Alverta E. McGowan**, born 5 August 1906, Russell County; mother's name indexed as **Sarah Smith**; index no. 217 48729.
+- **Ezra B. McGowan**, born 10 November 1910, Russell County; mother's name indexed as **Sarah Smith**; index no. 198 92665.
+- **Theo V. Popplewell**, born 14 April 1906, Russell County; mother's name indexed as **Iola McGowan**; index no. 214 48622.
+
+The first two entries suggest a woman named Sarah Smith had at least two children indexed under the McGowan surname. The third suggests Iola McGowan was the mother of a Popplewell child. These may represent relatives or another McGowan household in Russell County, but the index omits the fathers and does not establish any connection to Louvenia. Do not attach Alverta, Ezra, Iola or Theo to Louvenia's family without census, marriage, death or original birth-register evidence.
+
+Sources:
+- KYGenWeb, Kentucky delayed birth index, M–N entries: https://kygenweb.net/carter/birth/delayed_birth_index/kdbci_matchem_mcnutt.htm
+- KYGenWeb, 1906 birth index, Theo V. Popplewell entry: https://kygenweb.net/knox/Births/1906.html
+- KYGenWeb, 1906–1910 McGowan entries, Russell County: https://mail.kygenweb.net/knox/Births/births-m.html
+
+Next check: locate the original birth register entries by index number, then search 1910/1920 Russell County census households for Sarah Smith with Alverta and Ezra, and Iola McGowan with Theo. This may identify the relevant McGowan parent generation or exclude these branches.
