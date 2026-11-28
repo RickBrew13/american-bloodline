@@ -59,8 +59,8 @@ A separate 1996 obituary for **Geneva Whittle Higginbotham Reese** identifies he
 The Polston family compilation's John Whittle–Nancy Polston group lists a son **James B. Whittle** born about 1874. This could be the same James B., but it is a compiled-tree connection only and requires census or vital-record proof.
 
 Sources:
-- The Shy Genealogist, Geneva Whittle Higginbotham Reese obituary (1996): https://theshygenealogist.wordpress.com/1996/01/31/geneva-whittle-higginbotham-reese/
-- MyTrees, Hettie Miller family preview, James B. Whittle and Hettie B. Miller: https://www.mytrees.com/names/Born/1881/1/HETTIE%2BMILLER
+- Higginbotham Genealogy, transcription of *The Courier-Journal*, 1 February 1996, Geneva Whittle Higginbotham Reese obituary: https://www.higginbothamgenealogy.com/ky/kentucky_obituaries.htm
+- MyTrees, Hettie Miller family preview, James B. Whittle and Hettie B. Miller (submitter jo003994): https://www.mytrees.com/names/Born/1881/1/HETTIE%2BMILLER
 - Polston/Poston Family Genealogy, compiled John Whittle–Nancy Polston descendants: https://www.oocities.org/heartland/valley/2778/dat6.htm
 
 Geneva's obituary gives a birth date of 30 May 1911, while the derivative index gives Irwin Whittle's birth as 18 September 1911. These dates are only about four months apart and cannot represent two biological children of the same mother in the ordinary course. This is a warning against assigning Irwin to James B. Whittle and Hettie Miller without checking the original birth/death records; it also shows that multiple Whittle family groups were present in Russell County. Irwin may be from a separate family, or one of the dates/identifications may be wrong.
