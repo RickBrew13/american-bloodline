@@ -33,3 +33,19 @@ Sources:
 
 ## Evidence boundary
 Do not invent a marriage date or county for Avery and Charlotte. Do not assume the divorce occurred in the same county as the 1947 marriage. No fee was paid and no clerk or archive was contacted.
+
+
+## Hamilton County, Ohio divorce-index route rechecked — 28 November 2026
+The 1950 census places Avery and Eunice in Cincinnati, Hamilton County. A current Hamilton County Genealogical Society guide confirms that mid-20th-century divorce cases are indexed through the Hamilton County Clerk of Courts website. It instructs researchers to use the **Comprehensive Name Search**, then inspect Common Pleas case numbers (older cases may begin with “A”; later Domestic Relations cases use “DR”). A divorce entry should show the parties and filing date; request the full petition-through-decree file to establish the legal end of the marriage and any children/custody/property details.
+
+- Hamilton County Clerk of Courts, [Search by Name](https://www.courtclerk.org/records-search/name/) and [Domestic Relations Name Search](https://www.courtclerk.org/records-search/domestic-relations-name-search/).
+- Hamilton County Genealogical Society, [Marriages and Divorces guide](https://www.hcgsohio.org/cpage.php?pt=60), especially the divorce section.
+- Hamilton County Clerk of Courts, [Domestic Relations Division](https://www.courtclerk.org/our-office/common-pleas-court-clerk/domestic-relations-division/) — divorce decrees/dissolutions from 1885 to current are held at the courthouse, Room 315; phone 513-946-5693.
+
+The clerk's name-search page timed out in this research session, so no case result could be verified. The University of Cincinnati guide notes that older cases may require an in-person paper-room lookup; the Clerk's current page should be tried first. The Ohio History Connection states there is **no statewide divorce index before 1954**; the Ohio Department of Health maintains an index from 1 January 1954 onward. If the divorce occurred before 1954, Hamilton County's local case index is essential; if after 1954, also request a search of the state index.
+
+Sources:
+- Ohio History Connection, Divorce Records guide: https://ohiohistory.libguides.com/vital/divorcerecords
+- University of Cincinnati, Cincinnati and Ohio Legal Documents guide: https://libguides.hamilton-co.org/c.php?g=773110&p=5546224
+
+No clerk, archive or state agency was contacted; no copy or search fee was paid.
