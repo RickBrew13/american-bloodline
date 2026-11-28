@@ -1,0 +1,9 @@
+# Source register — Roscoe Carman
+
+Date reviewed: 28 November 2026
+
+Each item below is a public compiled profile or index unless explicitly described otherwise. Original records are not implied by a tree/profile citation.
+- [FamilySearch public Roscoe Carman profile (KJZ3-7VS)](https://ancestors.familysearch.org/en/KJZ3-7VS/roscoe-carman-1882-1939) — Compiled profile reports Roscoe born 18 July 1882 in Casey County, died 8 July 1939 in Kings Mountain, married Lucy Jane Price 23 December 1902, parents Daniel W Carman and Sarah Jane Bastin, and nine children. Its cited sources include 1920 census and Kentucky county-marriage records; underlying original records were not reviewed in this update.
+- [FamilySearch public Sarah Jane Bastin profile (KGCQ-3BL)](https://ancestors.familysearch.org/en/KGCQ-3BL/sarah-jane-bastin-1847-1921) — Compiled profile identifies spouse Daniel W Carman and a seven-child family including Roscoe, and gives Sarah Jane 5 August 1847–21 April 1921. Family-tree compilation, not an original birth record.
+- [FamilySearch public Lucy Jane Price profile (KN3Y-MRJ)](https://ancestors.familysearch.org/en/KN3Y-MRJ/lucy-jane-price-1882-1959) — Compiled profile identifies Roscoe as spouse, reports the 23 December 1902 marriage, and lists nine children. It names Lucy’s parents Nathanial Price and Martha Ellen Stephens; the original records were not reviewed here.
+- [FamilySearch 1920 Kentucky marriage index entry for Lillie May Carmen and William P. Henry (record Q2Q6-KKCQ)](https://www.familysearch.org/ark:/61903/1:1:Q2Q6-KKCQ) — Saved project audit records a transcript for Lincoln County, 1 June 1920, record no. 102, naming Roscoe Carmen and Lucy Carmen as Lillie’s parents. This is a transcript/index of a marriage record; the original schedule was not visually inspected in this review.
