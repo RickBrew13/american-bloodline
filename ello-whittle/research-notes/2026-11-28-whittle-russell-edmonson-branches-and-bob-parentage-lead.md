@@ -69,3 +69,22 @@ A separate contemporary marriage-record transcription in Carol L. Sanders, *Russ
 This supplies another dated Russell County appearance for a man named John Whittle. He could be the John Whittle in the 1860 Polston-family census extract, but the marriage abstract does not give his age, residence or relationship to either party. It does not establish that he belongs to Avery's direct line. The record is a useful lead to compare against the original loose marriage paper and nearby West, Carroll and Brummett households.
 
 Source: Carol L. Sanders, *Russell County, Kentucky Marriage Records, 1860 Loose Paper Marriages, Book III, 1861–1867* (1985), page 28, scan hosted by The Rainwater Collection: [PDF, page 28](https://www.therainwatercollection.com/reference/ref277.pdf).
+
+### Edmonson marriage-index cross-check
+The Edmonson County groom index independently lists:
+- **Robert Whittle × Amanda Mitchell**, 1 December 1846.
+- **Martin Whittle × Mary Catherine Rountree**, 30 December 1863.
+- **Martin Whittle × Nancy Lambert**, 2 November 1895.
+
+The Robert/Amanda marriage date and the 1850 Edmonson household of Robert (25), Amanda (23), Nancy (3) and Ira (5 months) are a strong match for the same couple. This makes the Edmonson Robert/Amanda household a separate, well-defined family from the 1850 Russell County Robert age 8 in Susana Whittle's household. Do not merge the two Roberts.
+
+The Martin marriage entries support that an Edmonson County man named Martin Whittle married Mary Catherine Rountree and later Nancy Lambert. This is consistent with, but does not by itself prove, that he is the Martin age 13 in the 1850 John/Elizabeth Whittle household.
+
+Source: KYGenWeb, [Edmonson County groom marriage index, W](https://mail.kygenweb.net/edmonson/marriages/gw.html).
+
+### 1860 Russell County excerpt — John Whittle and Nancy
+A Polston-family research page reproduces an 1860 Russell County, Kentucky census excerpt listing **John Whittle, 25**, wife **Nancy, 25**, children **Larena, 3**, and **Ivy, 1**, with **Sarah Whittle, 57**, and **Nancy Polston, 21**, in the same household. This is a derivative family-site transcription, not the original census image and not a complete county census. It may represent another Russell County Whittle family; it cannot yet be connected to the 1850 Whittle households or Avery.
+
+A separate 1866 Russell County loose-marriage-paper abstract names a **John Whittle** as a witness to Paul Carroll and Nancy West's marriage, with Jasper Brummett also present. The 1860 John may be the 1866 witness, but the abstract gives no age or residence. Compare the original 1860 schedule and loose marriage paper before making the identification.
+
+Source: [Polston family census extract](https://www.oocities.org/ebastin.geo/censusrussell.htm); Carol L. Sanders, *Russell County, Kentucky Marriage Records, 1860 Loose Paper Marriages, Book III, 1861–1867*, page 28.
