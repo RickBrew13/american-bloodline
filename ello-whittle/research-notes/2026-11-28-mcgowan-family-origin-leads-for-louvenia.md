@@ -70,3 +70,15 @@ Source:
 - *Narrative Report for Rice Wilson*, 6 January 2026, page 7, entry 14 (Nancy Elizabeth McQueary and William James McGowan): https://kygenweb.net/russell/families/files/wilson-rice-1795-1878.pdf
 
 **Priority:** Search the 1900 Russell County census household of William James McGowan and Nancy Elizabeth McQueary before attaching any other McGowan family. Also obtain William's 1940 Kentucky death certificate and Nancy's death record to confirm identities and surviving family.
+
+
+## Additional McQueary family-book and collateral McGowan connection
+FamilySearch's catalog confirms a 285-page protected/search-only family book, **The McQueary Clan: Thru Mountains and Sunsets**, by Marjorie McQueary and Freda Strampe (FamilySearch book identifier 1003592). A FamilySearch Memories upload identifies a scan of page 20 as “Children of William and Nancy.” The catalog description says the book traces the descendants of the McQueary family from North Carolina into Kentucky and other states. The book is not fully open online in this session, but it is a strong source to consult for the ancestry and collateral relatives of Nancy Elizabeth McQueary. It may help identify the exact McQueary branch and any children of Nancy's marriage to William James McGowan; the page-20 title alone does not prove anything about Louvenia.
+
+Sources:
+- FamilySearch Books catalog, *The McQueary Clan: Thru Mountains and Sunsets*, Marjorie McQueary and Freda Strampe, 285 pages, protected/search-only, identifier 1003592: https://www.familysearch.org/library/books/records/default?page=1&perpage=50&search=SNOOK&sort=-Publication_Date%2C_score&sort=_score
+- FamilySearch Memories, page 20 upload (“Children of William and Nancy”), contributed by MargaretAnnHandelWeeks, 24 September 2019: https://www.familysearch.org/en/memories/memory/94387219
+
+A FamilySearch community-tree profile also identifies **Morgan McQueary (born 1843)** as a brother in the same McQueary family group and reports his 25 August 1863 marriage to **Lavina McGowan (born 1839)**, with children James Alford Coldwell McQuary, Morgan A. McQueary and Phoebe Jane McQueary. This is a collateral McGowan connection through Nancy's extended McQueary family, not proof that Lavina was related to Louvenia or that she was Louvenia's mother. Keep this branch separate unless records establish the link.
+
+Source: FamilySearch community tree, Morgan McQueary: https://ancestors.familysearch.org/en/LHDF-WFW/morgan-mcqueary-1843
