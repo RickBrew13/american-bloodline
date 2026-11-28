@@ -71,3 +71,64 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 6. Original 1951 Cordella obituary clipping and original records for R. S. “Bob” Whittle.
 7. Avery's Social Security application/birth record and 1947 marriage application to resolve his birth-date variants.
 8. Avery and Charlotte's original marriage record, and the divorce/dissolution record for Avery and Eunice, if any.
+
+
+## Additional sources and research leads added 28 November 2026
+
+### Russell County Whittle families and cemetery records
+- [1850 Russell County census, M432-217, page 257A/257B and 260A transcription](https://www.us-census.org/pub/usgenweb/census/ky/russell/1850/pg0257a.txt) — includes the Susana/Nancy/Ann/Robert/Elizabeth Whittle group and William/Darius/Deby/Richard/James C. Whittle household. Transcription only; original schedule images still need inspection.
+- [1850 Russell County census index, Whittle entries](https://www.us-census.org/pub/usgenweb/census/ky/russell/1850/indx-w-z.txt) — index for the M432-217 schedule.
+- [1860 Russell County census, M653-394, page 734 transcription](https://www.us-census.org/pub/usgenweb/census/ky/russell/1860/pg00730.txt) — Andrew McGown, Pheby and Leuvena household; transcription not yet proofread.
+- [1860 Russell County census inventory](https://www.us-census.org/states/kentucky/r-ky.htm) — confirms the M653-394 roll and that the Russell County transcription is not yet proofread.
+- [1850 Edmonson County census, page 1B transcription](https://www.us-census.org/pub/usgenweb/census/ky/edmonson/1850/pg0001b.txt) — John Whittle and Elizabeth household, their children including Martin, and separate Robert Whittle/Amanda household.
+- [1860 Russell County Polston/Whittle census transcription](https://www.oocities.org/heartland/valley/2778/censusrussell.htm) — John Whittle/Nancy household with Larena, Ivy, Sarah Whittle and Nancy Polston; secondary transcription.
+- [Polston family genealogy](https://www.oocities.org/heartland/valley/2778/dat6.htm) — compiled John Whittle/Nancy Polston family and descendants; use as leads only.
+- [Genealogy Trails, Russell County marriage certificates](https://www.genealogytrails.com/ken/russell/russellco_marriages.html) — William Whittle–Dorcas Litrell (1843) and William Whittle–Milly Stephens (1846); original register images still needed.
+- [Rainwater Collection, Russell County marriage records](https://www.therainwatercollection.com/marriage.shtml) — Harria Whittle–Lela Rainwater (1936), naming Robert and Matilda Rexroat Whittle as Harria's parents.
+- [Genealogy Data, Polston family](https://www.oocities.org/ebastin.geo/ALLIEDPOLSTON/dat0.htm) — compiled Deborah “Debby” Whittle–William S. Polston marriage and parentage lead.
+- [PeopleLegacy, Baby Whittle (1889)](https://peoplelegacy.net/baby_whittle-0h2c1y) — cemetery aggregation naming Richard Whittle and Sarah E. Isbell Whittle as parents and the siblings Edgar, Clancy, Minnie, Herbert and Mary.
+- [PeopleLegacy, Minerva E. Whittle (1844–1893)](https://peoplelegacy.net/minerva_e__whittle-3o2c1y) — cemetery aggregation listing husband James C. Whittle and daughter Effie Whittle Parmley.
+- [WeRelate, Sarah E. Isbell Whittle](https://www.werelate.org/wiki/Person:Sarah_Isbell_%281%29) — derivative profile cites Kentucky death certificate no. 31165 and names John F. Isbell and Mary Herriford as parents.
+
+### McGowan and McQueary families
+- [1860 Russell County census, M653-394, page 734](https://www.us-census.org/pub/usgenweb/census/ky/russell/1860/pg00730.txt) — Andrew McGown, Pheby and Leuvena household; Leuvena may be Lavina McGowan, wife of Morgan McQueary.
+- [FamilySearch community profile for Morgan McQueary](https://ancestors.familysearch.org/en/LHDF-WFW/morgan-mcqueary-1843) — reports marriage to Lavina McGowan in 1863 and children; community-tree source only.
+- [The Heritage Lady, Hatfield genealogy](https://www.theheritagelady.com/jerry-hatfields-compiled-genealogy/hatfxky0.htm) — 1875 Mary E. McGown–Thomas Hatfield marriage-index lead.
+- [Allied Families, Bailey–Johnson McGowan notes](https://www.alliedfamilies.com/uploads/1/3/1/8/13181256/2_johnson_b.pdf) and [Oliver Smith McGowan notes](https://www.alliedfamilies.com/uploads/1/3/1/8/13181256/13__n_-_p_smith.pdf) — compiled McGowan/Upchurch family-group research.
+- [Genealogie Online, McGowan–Hall family tree](https://www.genealogieonline.nl/en/family-tree-mcgowan-hall/P12338.php) — compiled David McGowan/Elizabeth Wilson and Pernecia Ellen McGowan branch.
+- [KYGenWeb, 1998 Russell County queries](https://mail.kygenweb.net/russell/queries/queries-1998.html) — Thomas W. McGowan and sibling/parentage research query.
+- [KYGenWeb delayed birth index, M–N](https://kygenweb.net/carter/birth/delayed_birth_index/kdbci_matchem_mcnutt.htm) and [1906 Kentucky birth index](https://kygenweb.net/knox/Births/1906.html) — Alverta E. McGowan, Ezra B. McGowan and Theo V. Popplewell collateral birth entries.
+
+### Historical photographs, archives and newspaper sources
+- [Kentucky Historical Society, 2008 Whittle surname-file inventory](https://kyhistory.com/digital/api/collection/LIB/id/374/download) — lists one physical Whittle surname file; contents not described online.
+- [Kentucky Historical Society, digitized Kentucky Ancestors archive](https://history.ky.gov/khs-for-me/for-genealogists/digitized-resources-publications/) — full available run 1965–2013; the 2004 index reference to Whittle page 72 leads to an Edmonson County school-census item, not yet connected to Russell County.
+- [The Shy Genealogist, maps and Russell County historic place list](https://theshygenealogist.wordpress.com/maps/) — identifies Whittle as a historic populated place in the Eli census division and links the 1940 enumeration map.
+- [Russell County Bicentennial Edition, *The Times Journal*, 4 July 1974](https://mail.kygenweb.net/russell/area/book-ky-russell-1974.pdf) — includes a historic photograph of the Russell Springs Hotel site later occupied by Whittle's Super Market; not a photograph of Clyde or the market.
+- [*The Lebanon Enterprise*, 14 March 1968, “Gunman Robs Russell County Supermarket”](https://kdl.kyvl.org/digital/api/collection/marion-news/id/28593/download) — identifies the Whittle's Super Market owner as Clyde Whittle; no portrait or store photograph in the article.
+- [ColumbiaMagazine, Cleatus Cordell Coffey obituary, 16 May 2011](https://columbiamagazine.com/index.php?sid=44382) — names deceased brother Waldo Coffey; possible match for Avery's 1944 draft-card contact “Waldo Coffee,” not proven.
+- [LocateAncestors, Waldo L. Coffey](https://www.locateancestors.com/coffey-42642/) — derivative birth/death index, 1917–1994; relationship to Avery remains unproved.
+- [Texas Marriages 2004 index, Louretta J. Whittle–Mohamed H. Moukhtar](https://www.genlookups.com/txmar/2004/txmar-m12.htm) — 13 April 2004, Rockwall County; derivative index.
+- [Rockwall County News, 25 February 2011, Hidden Creek Estates article](https://newspapers.swco.ttu.edu/bitstream/handle/20.500.12255/85578/Rockwall_County_News_2011_02_25.pdf?isAllowed=y&sequence=1) — identifies Rob Whittle as developer and Louretta Moukhtar as manager.
+- [Spot On Images, “Heath Golf & Yacht Club,” 26 January 2018](https://www.spotonimages.com/post/2018/01/26/heath-golf-yacht-club) — includes a captioned photograph of Rob Whittle celebrating a groundbreaking; copyrighted image, link only, not rehosted.
+
+### Full research-note index for this batch
+- [Waldo Coffey draft-card contact follow-up](../research-notes/2026-11-27-waldo-coffey-draft-card-contact-followup.md)
+- [Henry County archive photo/document follow-up](../research-notes/2026-11-27-henry-county-photo-document-archive-followup.md)
+- [Louretta Moukhtar and Rob Whittle Texas follow-up](../research-notes/2026-11-27-louretta-moukhtar-and-rob-whittle-texas-followup.md)
+- [Rob Whittle photo and business source](../research-notes/2026-11-27-rob-whittle-photo-and-business-source.md)
+- [1947 marriage age discrepancy](../research-notes/2026-11-27-1947-marriage-age-discrepancy.md)
+- [Matthew Mark Whittle relationship cross-check](../research-notes/2026-11-27-matthew-mark-whittle-relationship-resolution.md)
+- [Stanton and Louvenia cemetery cross-check](../research-notes/2026-11-27-stanton-louvenia-cemetery-crosscheck.md)
+- [1900 census Soundex route for Cordella and Stanton](../research-notes/2026-11-27-1900-soundex-route-cordella-stanton.md)
+- [Cordelia Tucker parentage lead](../research-notes/2026-11-27-cordelia-tucker-parentage-lead.md)
+- [Eli Tucker second-marriage lead](../research-notes/2026-11-27-eli-tucker-second-marriage-lead.md)
+- [Kentucky Historical Society Whittle-file/photo lead](../research-notes/2026-11-28-kentucky-historical-society-whittle-file-photo-lead.md)
+- [McGowan family-origin leads for Louvenia](../research-notes/2026-11-28-mcgowan-family-origin-leads-for-louvenia.md)
+- [Cordella's missing sixth child / Clyde Whittle lead](../research-notes/2026-11-28-cordella-sixth-child-clyde-whittle-lead.md)
+- [Robert and Matilda Rexroat Whittle family lead](../research-notes/2026-11-28-robert-matilda-rexroat-whittle-family-lead.md)
+- [Benjamin H. Whittle, Louisa Rainwater and Hobart branch](../research-notes/2026-11-28-benjamin-h-whittle-louisa-rainwater-hobart-branch.md)
+- [1850 Russell County Whittle households and William–Dorcas family](../research-notes/2026-11-28-1850-russell-whittle-households-and-william-dorcas.md)
+- [Early Robert Whittle lineage and Susana household](../research-notes/2026-11-28-robert-whittle-early-lineage-and-susana-household.md)
+- [Richard Whittle and Sarah Isbell descendant branch](../research-notes/2026-11-28-richard-whittle-sarah-isbell-descendant-branch.md)
+- [James C. Whittle, Minerva and Effie Parmley branch](../research-notes/2026-11-28-james-c-whittle-minerva-effie-parmley-branch.md)
+
