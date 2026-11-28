@@ -3,7 +3,7 @@
 **Scope:** Located the county birth-register year that corresponds exactly to Cordelia Whittle's reported birth year and identified its archival access route.
 
 ## Exact record series located
-The Kentucky Department for Libraries and Archives' *County Records Inventory* lists Russell County birth records for **1852–1859, 1874–1875, 1878, 1903–1906 and 1909–1910**. This confirms a surviving Russell County birth register for **1878**, the year Cordella Whittle is reported to have been born (14 May 1878).
+The Kentucky Department for Libraries and Archives' updated *Vital Statistics Microfilm Inventory* (8 June 2026) lists Russell County on **microfilm roll #994054**, with birth records for **1852–1859, 1874–1875 and 1878**, among other years. This confirms a surviving Russell County birth register for **1878**, the year Cordella Whittle is reported to have been born (14 May 1878). The Ancestry image identifier shown by the county-births guide is **KYVR_994054-0061_2**, matching the KDLA roll number. Kenton County Public Library's microfilm guide also lists Russell County 1852–1904 on local copy **353.59 K372v, Reel 25**.
 
 The Shy Genealogist's Russell County Births page describes the original birth-register fields:
 - child's name and sex;
@@ -14,9 +14,11 @@ The Shy Genealogist's Russell County Births page describes the original birth-re
 - parent's county of residence;
 - remarks such as illegitimacy or twins.
 
-The same page lists the **1878 Russell County birth register** among the Ancestry digitized registers (five pages). Its Ancestry image link returned HTTP 403 in this research session, so the original entry was not viewed.
+The same page lists the **1878 Russell County birth register** among the Ancestry digitized registers (five pages). Its Ancestry image link returned HTTP 403 in this research session, so the original entry was not viewed. The record can be requested by the exact roll #994054 and Ancestry image identifier above.
 
 Sources:
+- KDLA, *Vital Statistics (Birth, Marriage, Death) 1852–1910. Microfilm Rolls by County*, Russell County, roll #994054, page 24: https://kdla.ky.gov/Archives-and-Reference/Documents/Vitals%20Microfilm-Combo%20List.pdf
+- Kenton County Public Library, *Microfilm – Kentucky Vital Statistics: Sutton Records*, Russell County 1852–1904, call no. 353.59 K372v, Reel 25: https://www.kentonlibrary.org/microfilm-kentucky-vital-statistics-sutton-records-birth-marriage-and-death-records-1852-1907/
 - KDLA, *County Records Inventory*, Russell County row (births include 1878): https://kdla.ky.gov/Archives-and-Reference/Documents/Inventory_County_Records.pdf
 - The Shy Genealogist, Russell County Births, 1878 Ancestry register link and field description: https://theshygenealogist.wordpress.com/births/
 
