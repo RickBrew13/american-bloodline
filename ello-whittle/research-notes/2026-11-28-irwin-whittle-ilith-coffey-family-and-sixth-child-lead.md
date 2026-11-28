@@ -50,4 +50,19 @@ The 2023 obituary is the strongest source for this sibling group. It does not pr
 4. Inspect the 22 March 1951 *Russell County News* issue image to see whether the missing sixth child's name appears in the original obituary.
 5. Compare the six-child group against the 1910–1930 census households of Bob and Cordella.
 
-**Status:** Irwin/Irvin is the leading candidate for the missing sixth child, but parentage is unproven. Do not add him to Bob and Cordella's children yet.
+**Status:** Irwin/Irvin is one possible candidate for the missing sixth child, but a separate Russell County Whittle family may also account for him. His parentage is unproven. Do not add him to Bob and Cordella's children yet.
+
+
+## Possible alternate Whittle family group — James B. Whittle and Hettie Miller
+A separate 1996 obituary for **Geneva Whittle Higginbotham Reese** identifies her parents as **James Whittle and Hettie Miller**. A MyTrees compiled-family preview identifies **James B. Whittle (born 1873, died 1940)** and **Hettie B. Miller (born 1881)** as a married couple (1902) and lists children including **Lena May Whittle (1902)** and **Lloyd Whittle (1906)**, with additional siblings not fully named in the preview.
+
+The Polston family compilation's John Whittle–Nancy Polston group lists a son **James B. Whittle** born about 1874. This could be the same James B., but it is a compiled-tree connection only and requires census or vital-record proof.
+
+Sources:
+- The Shy Genealogist, Geneva Whittle Higginbotham Reese obituary (1996): https://theshygenealogist.wordpress.com/1996/01/31/geneva-whittle-higginbotham-reese/
+- MyTrees, Hettie Miller family preview, James B. Whittle and Hettie B. Miller: https://www.mytrees.com/names/Born/1881/1/HETTIE%2BMILLER
+- Polston/Poston Family Genealogy, compiled John Whittle–Nancy Polston descendants: https://www.oocities.org/heartland/valley/2778/dat6.htm
+
+Geneva's obituary gives a birth date of 30 May 1911, while the derivative index gives Irwin Whittle's birth as 18 September 1911. These dates are only about four months apart and cannot represent two biological children of the same mother in the ordinary course. This is a warning against assigning Irwin to James B. Whittle and Hettie Miller without checking the original birth/death records; it also shows that multiple Whittle family groups were present in Russell County. Irwin may be from a separate family, or one of the dates/identifications may be wrong.
+
+The James B./Hettie group is therefore an alternative family lead, not an established parentage for Irwin. It further reinforces that Irwin cannot yet be assigned to Bob and Cordella.
