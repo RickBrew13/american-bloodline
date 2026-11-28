@@ -91,7 +91,7 @@ A broader search of the Recorder's official grantor/grantee indexes found a mult
 
 | Index date | Indexed transaction | Deed reference |
 |---|---|---|
-| 8 April 1945 (date and layout require image check) | Grady & Ora Burton listed as grantors; adjoining grantee appears as Charles William & Edna L. Karrer | Book 2093, page 135 |
+| 28 April 1945 | **Charles William & Edna L. Karrer → Grady & Ora Burton** (Burton couple are grantees/buyers) | Book 2094, page 135 |
 | 1 February 1946 | Grady & Ora Burton → Arlington D. & Verna A. Fleenor | Book 2142, page 292 |
 | January 1949 (exact date not legible in OCR extract) | Harry & Myrtle Vickers → Grady & Ora Burton | Book 2355, page 3 |
 | 31 December 1953 | Grady & Ora Burton → Ralph Hines et al. | Book 2658, page 532 |
@@ -119,3 +119,11 @@ The Recorder's instructions confirm that historic deed books can be retrieved by
 - Book/Page search: https://acclaim-web.hamiltoncountyohio.gov/AcclaimWebLive/Search/SearchTypeBookPage
 
 This adds a useful property and residence-reconstruction lead for Grady and Ora's household. It does not establish that Irvin held title or that any deed corresponds to the addresses in his census/directories. No claim about Irvin's own property has been added to the public profile.
+
+
+### 28 November 2026 correction — 1945 deed direction, date and book number
+The 1945 official index has now been rechecked in its OCR table. The row is **Charles William & Edna L. Karrer → Grady & Ora Burton**, **Book 2094, page 135**, dated **28 April 1945**. The earlier 25 November transcription had the direction reversed and the book/date wrong; that earlier wording should not be used. The index is headed GRANTEE/GRANTOR, and Grady & Ora appear in the grantee column. The 1946 index independently records Grady & Ora as grantors to Arlington D. & Verna A. Fleenor on 1 February 1946, Book 2142, page 292. This means they acquired the 1945 property and then conveyed a property in 1946; whether it was the same parcel still requires the two deed instruments/legal descriptions.
+
+Official index sources:
+- 1945: https://recordersoffice.hamilton-co.org/deed_indexes/di1945tetrb.pdf (searchable row: Grady & Ora Burton, Book 2094, p.135, 28 Apr 1945; Karrer as grantor)
+- 1946: https://recordersoffice.hamilton-co.org/deed_indexes/di1946trteb.pdf (1 Feb 1946, Book 2142, p.292; Burton as grantor)
