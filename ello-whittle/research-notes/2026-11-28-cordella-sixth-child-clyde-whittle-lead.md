@@ -52,3 +52,23 @@ Sources:
 6. Keep the sixth-child identity unresolved until a record directly connects one of the Clydes to Bob and Cordella.
 
 No child, parent or sibling relationship has been added to Avery's tree.
+
+
+## Census geography resource — Eli / Whittle settlement and enumeration maps
+A Russell County map guide identifies **Whittle** as a historic populated place in the **Eli census division**, on the **Eli quadrangle**, near Ono Ridge. This is a geographic place-name and should not be treated as proof that any specific Whittle family owned the land. The 1950 map guide places Eli-area households across EDs 104-12 through 104-14; the precise district for Bob and Cordella still needs to be located.
+
+The Shy Genealogist's map guide links:
+- 1900 Russell County map/ED map via FamilySearch (map image in FamilySearch collection 2329948, image 192).
+- 1910 enumeration map.
+- 1920 map.
+- 1930 map.
+- 1940 enumeration map, a multi-sheet map in images 183–186.
+
+The 1940 map image is linked directly at:
+https://theshygenealogist.wordpress.com/wp-content/uploads/2017/10/1940_ed.png
+
+The 1950 Russell County census guide lists the district descriptions and official NARA links. Eli-area district boundaries can be compared against the older maps to narrow the 1930/1940 households. The map images themselves did not load in this session, so no ED assignment for Bob/Cordella is claimed.
+
+Sources:
+- The Shy Genealogist, “Maps,” enumeration maps and Russell County historic place list: https://theshygenealogist.wordpress.com/maps/
+- Block Before, Russell County, Kentucky, “The 1950 census, district by district” and populated-place list: https://blockbefore.com/ky/county-russell-ky.html
