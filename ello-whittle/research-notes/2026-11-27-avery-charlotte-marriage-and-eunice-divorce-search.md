@@ -49,3 +49,19 @@ Sources:
 - University of Cincinnati, Cincinnati and Ohio Legal Documents guide: https://libguides.hamilton-co.org/c.php?g=773110&p=5546224
 
 No clerk, archive or state agency was contacted; no copy or search fee was paid.
+
+
+## Ohio statewide index coverage checked — 28 November 2026
+The Ohio Vital Statistics Search hosted by Henschen & Associates (data compiled by the Ohio Department of Health) has:
+- marriage records beginning **14 December 1926**;
+- divorce records beginning **2 January 1962**.
+
+This is a potential searchable index for Avery's later marriage to Charlotte if it occurred in Ohio, and for the divorce from Eunice only if the divorce was finalized in Ohio in 1962 or later. It cannot resolve an Ohio divorce in 1950–1961. The search form is interactive and this research session could not submit names, so no match/no-match result is claimed.
+
+Search portal: https://hacourts.henschen.com/VitStats/  
+Help and coverage details: https://hacourts.henschen.com/VitStats/Help/index.shtml
+
+The Ohio History Connection says the Ohio Department of Health maintains a separate divorce index from 1 January 1954 onward. Therefore:
+- before 1954: search the county court where the divorce occurred;
+- 1954–1961: request the Ohio Department of Health index or local county file;
+- 1962 onward: also search the Henschen statewide index.
