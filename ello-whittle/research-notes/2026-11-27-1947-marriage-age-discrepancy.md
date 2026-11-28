@@ -3,7 +3,7 @@
 **Scope:** Reconciled the age fields on the 23 July 1947 Avery E. Whittle–Eunice Brewster marriage record against the known birth-date evidence already in both family profiles.
 
 ## What the marriage index reports
-The FamilySearch index for the 23 July 1947 Kenton County, Kentucky marriage reports:
+The FamilySearch index for the 23 July 1947 marriage record reports (the original certificate is Campbell County, Kentucky, marriage book 196, p. 83; the couple's residences are Covington, Kenton County):
 - Groom **Avery E. Whittle**, age **22**, parents Stanton and Lavina Whittle.
 - Bride **Eunice Brewster**, age **21**, parents Homer and Sarah Brewster.
 
