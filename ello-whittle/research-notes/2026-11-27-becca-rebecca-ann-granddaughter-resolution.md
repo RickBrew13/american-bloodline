@@ -15,7 +15,7 @@ Sources:
 ## Conclusion
 The strongest explanation is that Charlotte's “Becca” is **Rebecca Ann Whittle**, Avery and Charlotte's granddaughter through Jeff and Donna. The nickname, same generation, the 2008 death, and the 2016 obituary's niece relationship all align. The same cross-obituary pattern supports identifying Charlotte's “Matthew” as the deceased nephew Matthew Mark Whittle, likely another child of Jeff and Donna; that relationship is detailed in the separate Matthew note.
 
-List Rebecca Ann only once. Do not add a separate granddaughter named Becca unless another source identifies a different person. The 2008 obituary provides the exact life dates; the 2025 obituary does not provide dates or a surname for Becca.
+List Rebecca Ann only once. Do not add a separate granddaughter named Becca unless another source identifies a different person. The 2008 obituary also says Rebecca was born in Plano, Texas, graduated from Frisco High School in 2002, and had 38 first cousins. That 38-cousin count is across both her paternal Whittle and maternal Christensen sides; it must not be treated as 38 Whittle cousins or used to contradict the 25 grandchildren reported in the Whittle family obituaries. The 2008 obituary provides the exact life dates; the 2025 obituary does not provide dates or a surname for Becca.
 
 ## Remaining work
 - Locate Rebecca Ann's original death certificate, cemetery interment record and any headstone/photo.
