@@ -62,3 +62,10 @@ If Bob is the son of Richard Whittle and Sarah Isbell, the Richard/Sarah branch 
 6. Compare the original headstone/interment entries for Richard Whittle (1847–1895) and Robert S. “Bob” Whittle to resolve cemetery dates and locations.
 
 **Current conclusion:** Several distinct Russell and Edmonson Whittle groups are now documented in census transcriptions. A possible relationship between Bob, Richard Whittle and Stanton is worth testing, but no new parentage or sibling relationships are proven. No family-tree relationship was changed.
+
+## 7. John Whittle appears as a witness in a 1866 Russell County marriage
+A separate contemporary marriage-record transcription in Carol L. Sanders, *Russell County, Kentucky Marriage Records, 1860 Loose Paper Marriages, Book III, 1861–1867* (1985), page 28, records **Paul Carroll and Nancy West** marrying on 14 July 1866 at the home of Barney West in Russell County. The witnesses included **George Carroll, John Whittle and Jasper Brummett**; the bond was signed by Paul Carroll and Jasper Brummett.
+
+This supplies another dated Russell County appearance for a man named John Whittle. He could be the John Whittle in the 1860 Polston-family census extract, but the marriage abstract does not give his age, residence or relationship to either party. It does not establish that he belongs to Avery's direct line. The record is a useful lead to compare against the original loose marriage paper and nearby West, Carroll and Brummett households.
+
+Source: Carol L. Sanders, *Russell County, Kentucky Marriage Records, 1860 Loose Paper Marriages, Book III, 1861–1867* (1985), page 28, scan hosted by The Rainwater Collection: [PDF, page 28](https://www.therainwatercollection.com/reference/ref277.pdf).
