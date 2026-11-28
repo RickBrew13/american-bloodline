@@ -59,6 +59,8 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 
 - [NARA, Official Military Personnel File (OMPF) access](https://www.archives.gov/veterans/military-service-records/service-record) — Avery's 9 Jul 1947 Army discharge is more than 62 years ago, so his OMPF is archival and open to the public; any requester may order it for a copying fee. Service number 35888669 is available. No paid request submitted.
 
+- *Marriage Laws and Decisions in the United States: A Manual* (1922), Kentucky section, p. 156 (https://www.russellsage.org/sites/default/files/Marriage-Laws-Decisions.pdf) — pre-1948 statute allowed a full-age bride applying in person to obtain a license from any county clerk; the 1947 certificate records Eunice as 21 and sworn to that age. Possible explanation for Campbell County filing despite Covington residence, not proof of ceremony location.
+
 ## Highest-priority outstanding originals
 
 1. Stanton Bell Whittle's Kentucky death certificate (1972) and/or Social Security application to resolve 1892 vs 10 July 1893.
