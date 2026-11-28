@@ -53,6 +53,9 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 
 - [1880 Russell County, Kentucky census, NARA microfilm T9-441](https://archive.org/stream/10thcensus0441unit) — Internet Archive item 10thcensus0441unit; Russell County images 147–304, with EDs 98–103 mapped in [The Shy Genealogist's guide](https://theshygenealogist.wordpress.com/2017/11/07/russell-county-resources-1880-census/). Search the index for Eli Tucker/Cordelia Tucker, then inspect the original household image for relationships and parent birthplaces.
 
+- [NARA Record Group 548, U.S. Army Forces in the Caribbean](https://www.archives.gov/research/guide-fed-records/groups/548.html) — includes Panama Canal Department records, 1940–1947, and U.S. Army Caribbean records, 1946–1964. Potential command/unit-record route for Avery's 1946 enlistment category; not proof of an individual assignment.
+- [WWII Army Enlistment Records codebook](https://www.ksgenweb.org/archives/statewide/military/wwII/enlist/WWIIarmy.html) — code 6 means “Enlistment for the Panama Canal Department”; this is a term-of-enlistment field, not proof of actual station or unit.
+
 ## Highest-priority outstanding originals
 
 1. Stanton Bell Whittle's Kentucky death certificate (1972) and/or Social Security application to resolve 1892 vs 10 July 1893.
