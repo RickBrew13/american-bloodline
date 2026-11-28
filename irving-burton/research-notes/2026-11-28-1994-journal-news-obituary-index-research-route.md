@@ -29,3 +29,7 @@ Likely newspaper: *The Journal-News* (Hamilton, Ohio), with possible additional 
 
 ## Status
 No 1994 obituary citation or newspaper image has yet been retrieved. The annual index and Newsdex are access-dependent. No library staff were contacted and no copy was ordered.
+
+## Additional statewide index
+The **Ohio Obituary Index** maintained by the Rutherford B. Hayes Presidential Library & Museums is another possible lookup route. It indexes obituary notices from Ohio newspapers and may provide a newspaper/date/page citation, although coverage of the Hamilton *Journal-News* for 1994 must be checked. The search page is not accessible to this retrieval session, so no Irvin entry has been confirmed.
+- https://www.rbhayes.org/ohio-obituary-index
