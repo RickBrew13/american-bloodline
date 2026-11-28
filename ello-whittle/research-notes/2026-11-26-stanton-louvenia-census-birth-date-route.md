@@ -40,3 +40,14 @@ Source:
 - No original death certificate, birth record, 1900/1910 household image, probate, deed, or guardianship record was located in this pass.
 
 No records were ordered, no fees paid, and no archives, relatives or institutions contacted.
+
+
+## NARA's original 1940 schedule access route — 28 November 2026
+NARA confirms that it has **no name index** for the 1940 census. The original population schedules are free in the National Archives Catalog and can be browsed/downloaded by county and enumeration district. The current index lead identifies the Stanton household in Russell County Magisterial District 3; the next step is to inspect the original schedule images for the relevant 1940 EDs (the previous audit narrowed the search to 104-6 through 104-9) and locate the exact page/line for Stanton's household. The city-only RootsPoint indexes for Russell Springs and Jamestown do not include the Whittle household, so it appears to be outside those two town lists.
+
+Official sources:
+- NARA, 1940 Census FAQs: https://www.archives.gov/research/census/1940/faqs — confirms free online population schedules and no national name index.
+- NARA, 1940 Census research guide: https://www.archives.gov/research/census/1940/start-research — explains how to browse by ED.
+- NARA, 1940 Census dataset: https://www.archives.gov/developer/1940-census — describes the downloadable population schedules and ED maps/descriptions.
+
+No original page image was retrieved in this session; no transcription or parentage change is made.
