@@ -72,3 +72,12 @@ The 1950 Russell County census guide lists the district descriptions and officia
 Sources:
 - The Shy Genealogist, “Maps,” enumeration maps and Russell County historic place list: https://theshygenealogist.wordpress.com/maps/
 - Block Before, Russell County, Kentucky, “The 1950 census, district by district” and populated-place list: https://blockbefore.com/ky/county-russell-ky.html
+
+
+## Historical photograph of the Whittle's Super Market site
+A 1974 *Times Journal* Russell County Bicentennial edition contains a black-and-white photograph of the Russell Springs Hotel. Its caption states that the hotel stood at the corner of Jamestown and Main Streets, **where Whittle's Super Market then stood**. The hotel burned in 1942. This is a photograph of the location/business site before Clyde Whittle's 1968 supermarket operation, not a photograph of Clyde or the store itself. It is a useful local-history image to accompany the business lead.
+
+The PDF's page 9 contains the hotel photograph and caption (the digital PDF page text identifies the image at lines 321–324):
+- Russell County Bicentennial Edition, *The Times Journal*, 4 July 1974, pp. 8–9: https://mail.kygenweb.net/russell/area/book-ky-russell-1974.pdf
+
+The same booklet's page 8 describes the old Long Row spring resort and places its cabins between the Whittle's Super Market site and the spring. The historical hotel image should be credited to the 1974 newspaper edition and linked rather than copied into the public profile without checking reproduction permission.
