@@ -47,6 +47,8 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 
 - [KDLA, County Records Inventory](https://kdla.ky.gov/Archives-and-Reference/Documents/Inventory_County_Records.pdf) — Russell County birth records include 1878; see the [Russell County Births register guide](https://theshygenealogist.wordpress.com/births/) for the five-page Ancestry register and its parent-name fields. This may identify Cordella Tucker's parents directly.
 
+- [KDLA, Vital Statistics Microfilm Inventory](https://kdla.ky.gov/Archives-and-Reference/Documents/Vitals%20Microfilm-Combo%20List.pdf), Russell County, **roll #994054**, birth register includes 1878; [Kenton County Public Library local microfilm copy](https://www.kentonlibrary.org/microfilm-kentucky-vital-statistics-sutton-records-birth-marriage-and-death-records-1852-1907/) lists Russell County 1852–1904 as **353.59 K372v, Reel 25**. The 1878 entry for Cordelia/Cordella Tucker is the direct next parentage record to inspect.
+
 ## Highest-priority outstanding originals
 
 1. Stanton Bell Whittle's Kentucky death certificate (1972) and/or Social Security application to resolve 1892 vs 10 July 1893.
