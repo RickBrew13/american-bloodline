@@ -18,6 +18,18 @@ Official source:
 - National Archives, *1950 Census Dataset*, Ohio metadata summary, ED 31-69: https://nara-1950-census.s3.us-east-2.amazonaws.com/metadata/html/oh.html
 - NARA's 1950 Census dataset documentation explains that the metadata links each ED to its population-schedule image folder, ED map and written description: https://www.archives.gov/developer/1950-census
 
+## Sheet 28 cross-reference and the two sheet-18 index entries
+The existing sheet 28 record for Ora and the children is:
+- FamilySearch census index: https://www.familysearch.org/ark:/61903/1:1:6XBW-8CLS
+- Original image link: https://www.familysearch.org/ark:/61903/3:1:3QHK-9QHW-W9T1-Z
+- House 5902, apartment #1; enumerator's note says **two names belonging to this unit are entered on another sheet**.
+
+The current transcription identifies two relevant sheet-18 index entries:
+1. **“Gerdy Burton”**, head, age 41, married, born Kentucky — FamilySearch index: https://www.familysearch.org/ark:/61903/1:1:6XBQ-HFRM. This is a strong candidate for **Grady E. Burton Sr.**, but the spelling and household details need to be checked against the original sheet.
+2. **E. Jones Burton**, head, age 67, married, born Kentucky; **Mary Burton**, wife, age 62. The existing transcription places them at 5902, apartment #2, lines 6–7.
+
+This changes the retrieval question: sheet 18 may contain the missing Grady entry referred to by the note on sheet 28, as well as a separate older Burton household in apartment #2. It is not yet clear whether these are separate households or how the enumerator recorded the two names belonging to Ora's household. Do not assume that E. Jones and Mary are Grady's parents until the original page and relationship columns are read.
+
 ## What this does and does not establish
 The ED-level source verifies the correct original census series and geographic district. It does **not** prove that E. Jones Burton and Mary were Grady Sr.'s parents; that depends on reading the household's relationship column and confirming the couple's identities against the 1950 census and other records.
 
