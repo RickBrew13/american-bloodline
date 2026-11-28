@@ -22,3 +22,14 @@ The original marriage certificate image is stored once in Eunice's shared archiv
 The original record is shared evidence for Avery and Eunice; keep the same document in the couple archive and link it from both profiles rather than creating duplicate scans. This note is stored in Avery's folder because it addresses his marriage chronology; the corresponding age issue should also be reflected in Eunice's own marriage notes when her profile is next updated.
 
 No new identity or parentage claim was added.
+
+
+## Why a Campbell County license can coexist with a Covington residence
+A 1922 legal manual reproducing the pre-1948 Kentucky marriage statute states that a license ordinarily had to be issued by the county where the bride resided, **unless she was of full age or a widow and applied in person**, in which case any county clerk could issue it. The 1947 certificate records Eunice as age 21 and includes the sworn declaration that both parties were 21. That recorded age/application could explain why a Campbell County clerk issued the license even though the couple's residences are recorded as Covington, Kenton County. This is only a possible explanation; it does not prove the ceremony location or resolve why Eunice's age was misstated.
+
+Sources:
+- *Marriage Laws and Decisions in the United States: A Manual* (1922), Kentucky section, p. 156: https://www.russellsage.org/sites/default/files/Marriage-Laws-Decisions.pdf
+- KRS 402.080 history, showing the next amendment was 1948 Ky. Acts ch. 42: https://law.justia.com/codes/kentucky/chapter-402/section-402-080/
+- Kentucky AG, KRS 402.220 guide, explaining the solemnizer returns the license to the issuing county with date/place of celebration and witnesses: https://www.ag.ky.gov/AG%20Publications/Marriage%20Guide%20-%202025%20Update_For%20Publication.pdf
+
+The marriage-return section of the original Campbell County record should be re-read for the **place of celebration and officiant**. The couple's residence field alone cannot establish where the ceremony took place.
