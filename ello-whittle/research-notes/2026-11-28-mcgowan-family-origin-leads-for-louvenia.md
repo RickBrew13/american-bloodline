@@ -98,3 +98,22 @@ Sources:
 - KYGenWeb, 1906–1910 McGowan entries, Russell County: https://mail.kygenweb.net/knox/Births/births-m.html
 
 Next check: locate the original birth register entries by index number, then search 1910/1920 Russell County census households for Sarah Smith with Alverta and Ezra, and Iola McGowan with Theo. This may identify the relevant McGowan parent generation or exclude these branches.
+
+
+## Newly identified collateral McGowan household — Andrew McGown, Pheby and Leuvena/Lavina
+The 1860 Russell County census transcription (M653-394, page 734, household/family 628) lists:
+- **Andrew McGown**, age 60, born Virginia, farmer;
+- **Pheby McGown**, age 47, born Kentucky;
+- **Leuvena McGown**, age 21, born Kentucky.
+
+A FamilySearch community-tree profile for **Morgan McQueary (born 1843)** reports that he married **Lavina McGowan** on **25 August 1863** in Russell County. It gives Lavina's birth year as 1839 and lists three children: **James Alford Coldwell McQuary (1865–), Morgan A. McQueary (1868–1906), and Phoebe Jane McQueary (1870–)**. The 1860 census Leuvena (age 21, born about 1839) is a strong age/name match for Lavina McGowan, and the 1863 marriage is consistent with her leaving the Andrew/Pheby household. The original marriage record and birth/death records are still needed to prove that the census Leuvena is the same person as Lavina.
+
+Sources:
+- USGenWeb Census Project, Russell County, 1860, M653-394, page 734, household 628, lines 14–16: https://www.us-census.org/pub/usgenweb/census/ky/russell/1860/pg00730.txt
+- FamilySearch community-tree profile, Morgan McQueary and Lavina McGowan, marriage 25 August 1863 and children: https://ancestors.familysearch.org/en/LHDF-WFW/morgan-mcqueary-1843
+
+A separate Russell County marriage index records **Mary E. McGown** marrying **Thomas Hatfield** on **2 September 1875**. She may be another member of the Andrew/Pheby McGown family, but the index supplies no parents and this is not yet proven. It is a useful collateral lead to compare with 1870/1880 census households and the original marriage register.
+
+Source: The Heritage Lady, Jerry Hatfield's compiled genealogy, Russell County marriage list entry 4577: https://www.theheritagelady.com/jerry-hatfields-compiled-genealogy/hatfxky0.htm
+
+**Relationship to Louvenia remains unknown.** The Andrew/Pheby/Lavina group is a distinct Russell County McGowan branch from the David McGowan–Elizabeth Wilson group discussed above. It may be a collateral branch of Louvenia's birth family, but no source yet links Louvenia to Lavina, Andrew or Pheby. Do not attach them as her ancestors until her 1900 birth record, 1940 death certificate or original census household establishes the connection.
