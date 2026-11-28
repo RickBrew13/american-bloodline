@@ -14,12 +14,16 @@ The discrepancy between “six children” and five named children remains open.
 
 Source: The Shy Genealogist, “The Passing Of Cordella Whittle,” transcribed from *The Russell County News*, 22 March 1951: https://theshygenealogist.wordpress.com/page/3/
 
-## Burial-place discrepancy
-The 1951 obituary says Cordella was buried in **Old Eli Cemetery**. PeopleLegacy's compiled Tucker family page instead lists Cordelia E. Tucker Whittle as buried in **McBeath Cemetery**. These are conflicting secondary/derivative burial descriptions. Do not silently choose one. The funeral-home register, cemetery marker, church record or original burial register is needed to resolve the location.
+## Burial-place reconciliation and Bob's death-date conflict
+The 1951 obituary says Cordella was buried in **“old Eli cemetery.”** PeopleLegacy's compiled Tucker family page lists Cordelia E. Tucker Whittle as buried in **McBeath Cemetery**. These may be compatible descriptions rather than conflicting cemeteries: recent local obituaries explicitly use the wording **“McBeath Cemetery, Old Eli, KY”**, showing that McBeath Cemetery is identified with the Old Eli community. PeopleLegacy also lists Cordelia's husband **Robert S. “Bob” Whittle** as buried in McBeath Cemetery. This makes McBeath Cemetery the leading identification for the “old Eli cemetery” in Cordella's obituary, but the 1951 burial register or a contemporary marker/photo should confirm it.
+
+A separate date conflict remains for Bob: the 1951 obituary states he died **1 December 1949**, while PeopleLegacy lists his death year as **1948**. Prefer the contemporary obituary provisionally, but verify with his death certificate, grave marker and probate file.
 
 Sources:
 - 1951 obituary transcription above.
-- PeopleLegacy, Lillie Bell Tucker McBeath family page, which lists Cordelia E. Tucker Whittle and a McBeath Cemetery burial: https://peoplelegacy.com/lillie_bell_tucker_mcbeath-3l5n2r
+- PeopleLegacy, Lillie Bell Tucker McBeath family page, which lists Cordelia and Robert S. “Bob” Whittle at McBeath Cemetery: https://peoplelegacy.com/lillie_bell_tucker_mcbeath-3l5n2r
+- PeopleLegacy, Michael W. Whittle cemetery page, which lists Robert S. “Bob” Whittle among burials at McBeath Cemetery: https://peoplelegacy.com/michael_w__whittle-1W583F
+- Recent local example using the place name, “McBeath Cemetery, Old Eli, KY”: https://www.russellcountynewspapers.com/2026/03/12/bonnie-lou-johnson-perkins-86-russell-springs/
 
 ## Important same-name distinction: another Narcissus Tucker
 A 1884 biographical volume, *History of Kentucky*, Vol. 5, contains a separate Russell County family: **Wesley Monroe Tarter** married **Narcissus Tucker**, reported born in Russell County in **1858**. Their children included Mollie, Dr. Tarter, Joseph, Elmer, Jennie and Chrisman V. Tarter. This is not the same person as **Narcissus Popplewell (born 26 December 1849; died 23 September 1908)**, wife of Eli (Ell) Tucker, as reported in Paula Kite's 1998 Russell County genealogy query and the compiled Popplewell family group. The two Narcissus women differ in reported birth year by nine years and have different spouses. Do not merge the Tarter wife into the Popplewell-Tucker family.
