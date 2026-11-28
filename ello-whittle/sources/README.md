@@ -131,6 +131,8 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 - [Early Robert Whittle lineage and Susana household](../research-notes/2026-11-28-robert-whittle-early-lineage-and-susana-household.md)
 - [Richard Whittle and Sarah Isbell descendant branch](../research-notes/2026-11-28-richard-whittle-sarah-isbell-descendant-branch.md)
 - [James C. Whittle, Minerva and Effie Parmley branch](../research-notes/2026-11-28-james-c-whittle-minerva-effie-parmley-branch.md)
+- [Bob and Cordella Whittle children identity check](../research-notes/2026-11-28-bob-cordella-children-identity-check.md)
+- [Irwin Whittle and Ilith Coffey family / sixth-child lead](../research-notes/2026-11-28-irwin-whittle-ilith-coffey-family-and-sixth-child-lead.md)
 
 
 
