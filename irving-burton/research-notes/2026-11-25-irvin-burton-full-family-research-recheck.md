@@ -96,17 +96,17 @@ A broader search of the Recorder's official grantor/grantee indexes found a mult
 | January 1949 (exact date not legible in OCR extract) | Harry & Myrtle Vickers → Grady & Ora Burton | Book 2355, page 3 |
 | 31 December 1953 | Grady & Ora Burton → Ralph Hines et al. | Book 2658, page 532 |
 | 27 December 1960 | **Owen & Juanita Towne → Grady & Ora Burton** (Burton couple are grantees/buyers) | Book 3133, page 368 |
-| 1960 (index date 15) | Grady & Ora Burton → Payton E. & Bobbie J. Hayes | Book 3131, page 674 |
+| 15 December 1960 | Grady & Ora Burton → Payton E. & Bobbie J. Hayes | Book 3131, page 674 |
 | 14 April 1961 | Grady E. & Ora Burton → Earl L. & Helen M. McDonald | Book 3149, page 438 |
 | 16 May 1966 | Allen C. & B. J. Berbar → Grady & Ora Burton | Book 3480, page 120 |
 
 Sources (official Hamilton County Recorder indexes):
-- 1945: https://recordersoffice.hamilton-co.org/deed_indexes/di1945tetrb.pdf (OCR lines around 2327–2329; check image for exact date/party alignment).
+- 1945: https://recordersoffice.hamilton-co.org/deed_indexes/di1945tetrb.pdf (index row: Karrer grantors → Grady & Ora Burton grantees, 28 Apr 1945, Book 2094, p.135).
 - 1946: https://recordersoffice.hamilton-co.org/deed_indexes/di1946trteb.pdf
 - 1949: https://recordersoffice.hamilton-co.org/deed_indexes/di1949tetrb.pdf
 - 1953: https://recordersoffice.hamilton-co.org/deed_indexes/di1953trteb.pdf
-- 1960 grantor index: https://recordersoffice.hamilton-co.org/deed_indexes/di1960trteb.pdf
-- 1960 reverse index: https://recordersoffice.hamilton-co.org/deed_indexes/di1960tetrb.pdf
+- 1960 grantor index: https://recordersoffice.hamilton-co.org/deed_indexes/di1960trteb.pdf (15 Dec 1960 sale to Payton E. & Bobbie J. Hayes, Book 3131, p.674).
+- 1960 grantee/reverse index: https://recordersoffice.hamilton-co.org/deed_indexes/di1960tetrb.pdf (27 Dec 1960 purchase from Owen & Juanita Towne, Book 3133, p.368).
 - 1961 grantor index: https://recordersoffice.hamilton-co.org/deed_indexes/di1961trteb.pdf
 - 1961 reverse index: https://recordersoffice.hamilton-co.org/deed_indexes/di1961tetrmc.pdf (lists McDonald as grantee and Grady E. Burton et al. as grantor at the same book/page, confirming the direction Grady → McDonald).
 - 1966: https://recordersoffice.hamilton-co.org/deed_indexes/di1966tetrb.pdf
