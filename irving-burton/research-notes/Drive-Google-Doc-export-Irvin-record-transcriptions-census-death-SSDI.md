@@ -25,7 +25,7 @@ Elmwood Place, Hamilton County, Ohio; ED 31-69, sheet 28, lines 1–5; house 590
 > * Grady Burton Jr., son, M, 13, b. Ohio  
 > * Danny Ray Burton, son, M, 3, b. Ohio
 
-Next door, 5902 apartment \#2, lines 6–7: E. Jones Burton, head, M, 67, married, b. Kentucky, stacks lumber; Mary Burton, wife, F, 62, b. Kentucky. These match Irvin's paternal grandparents Elihu Jones Burton (1883–1951) and Mary Ellen (Roy) Burton (1887–1956) on Find a Grave (inference, not proved).
+In the same building, 5902 apartment \#2, lines 6–7: E. Jones Burton, head, M, 67, married, b. Kentucky, stacks lumber; Mary Burton, wife, F, 62, b. Kentucky. They may be the compiled-tree couple Elihu Jones Burton (1883–1951) and Mary Ellen (Roy) Burton (1887–1956), but this is not proved. The sheet 28 enumerator note says two names belonging to Ora's unit were entered on another sheet; FamilySearch also indexes “Gerdy Burton,” age 41, on sheet 18. The original sheet 18 is needed to distinguish Grady's split entry from the separate apartment #2 household and verify relationships.
 
 ## **3\. Ohio, Death Index, 1908–1932, 1938–1944, and 1958–2007**
 
