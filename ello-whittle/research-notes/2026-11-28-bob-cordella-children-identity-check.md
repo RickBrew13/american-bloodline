@@ -43,17 +43,26 @@ A FamilySearch community-tree profile for **Garnet Whittle (1920–2003)** lists
 
 Source: FamilySearch community-tree profile, Garnet Whittle: https://ancestors.familysearch.org/en/PNBN-P4D/garnet-whittle-1920-2003
 
-## The missing sixth child — Clyde remains only a candidate
-The derivative index lists two men named Clyde:
-- **Clyde Whittle**, 23 December 1919–25 August 2001, last residence Russell Springs.
-- **Clyde O. Whittle**, 27 November 1921–6 December 2007, last residence Russell Springs; a veteran burial index places Clyde O. in Russell Springs City Cemetery.
+## The missing sixth child — Irwin/Irvin Whittle is now the leading candidate
+A Kentucky death-index aggregation lists **Irwin Whittle**, born 18 September 1911 and died 1 November 1979, last residence Russell Springs. Later obituaries identify his wife as **Ilith Coffey Whittle** and name their children, including Mary Jo Whittle Hopper (1946–2023). Mary Jo's 2023 obituary names her parents as Irvin and Ilith; a 2021 obituary for Ilith's half-sister independently names Ilith Whittle and her husband Irvin. This makes Irwin/Irvin a strong candidate for the unnamed sixth child in Cordella's obituary, but his parents are not identified in those records. The 1911 birth year is also close to the indexed 1911 birth of Caleb Whittle; this chronology is possible but needs census and vital-record checking.
 
-A 14 March 1968 *Lebanon Enterprise* article identifies the owner of **Whittle's Super Market** in Russell Springs as **Clyde Whittle**, but gives no middle initial, age, parents or family relationship. Either indexed Clyde could be the store owner. The 1951 obituary's sixth child could be one of these men, but neither is proven to be a child of Bob and Cordella.
+Sources:
+- LocateAncestors, Kentucky Whittle death-index aggregation: https://www.locateancestors.com/whittle-kentucky/
+- WVLC, Mary Josephine Hopper obituary, 2023: https://wvlc.com/whve-obits/archives/2023-02/
+- WKDO, Imogene Coffey Cain obituary, 2021, naming half-sister Ilith Whittle and husband Irvin: https://runningwiththebuck.linkedupradio.com/obits-blog/archives/2021-03/
+- The Russell County Newspapers, Mark Anthony Hopper obituary, 2026: https://www.russellcountynewspapers.com/2026/01/05/mark-anthony-hopper-46-russell-springs/
+
+Clyde remains an alternative, unproved candidate. The derivative index lists:
+- **Clyde Whittle**, 23 December 1919–25 August 2001.
+- **Clyde O. Whittle**, 27 November 1921–6 December 2007.
+
+A 14 March 1968 *Lebanon Enterprise* article identifies the owner of **Whittle's Super Market** in Russell Springs as **Clyde Whittle**, but gives no middle initial, age, parents or family relationship. Either indexed Clyde could be the store owner. Neither has been proved to be Bob and Cordella's child.
 
 Sources:
 - LocateAncestors, Kentucky Whittle death-index aggregation: https://www.locateancestors.com/whittle-kentucky/
 - *The Lebanon Enterprise*, 14 March 1968, “Gunman Robs Russell County Supermarket”: https://kdl.kyvl.org/digital/api/collection/marion-news/id/28593/download
 - Interment.net, Kentucky Veterans Cemetery records, Clyde O. Whittle: https://www.interment.net/data/us/ky/russell/russellspringscity/whittle.htm
+
 
 ## James Elmer's likely descendants
 The 2015 Leslie obituary identifies James Elmer and Sola Owens Whittle as Leslie's parents and names brother Hollis “I.U.” Whittle. A 2019 obituary for **Remona Whittle Popplewell** states that she was first married to Hollis “I.U.” Whittle and had son **Ronnie Whittle**. A later 2020 obituary for Geraldine “Jerry” Stephens identifies daughter Lisa (Ronnie) Whittle and grandchildren Amber Hale and Connor Hale, consistent with Ronnie's family. These records support a descendant branch for Hollis, but they do not yet prove James Elmer's parentage.
