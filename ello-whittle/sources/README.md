@@ -56,6 +56,8 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 - [NARA Record Group 548, U.S. Army Forces in the Caribbean](https://www.archives.gov/research/guide-fed-records/groups/548.html) — includes Panama Canal Department records, 1940–1947, and U.S. Army Caribbean records, 1946–1964. Potential command/unit-record route for Avery's 1946 enlistment category; not proof of an individual assignment.
 - [WWII Army Enlistment Records codebook](https://www.ksgenweb.org/archives/statewide/military/wwII/enlist/WWIIarmy.html) — code 6 means “Enlistment for the Panama Canal Department”; this is a term-of-enlistment field, not proof of actual station or unit.
 
+- [NARA, Official Military Personnel File (OMPF) access](https://www.archives.gov/veterans/military-service-records/service-record) — Avery's 9 Jul 1947 Army discharge is more than 62 years ago, so his OMPF is archival and open to the public; any requester may order it for a copying fee. Service number 35888669 is available. No paid request submitted.
+
 ## Highest-priority outstanding originals
 
 1. Stanton Bell Whittle's Kentucky death certificate (1972) and/or Social Security application to resolve 1892 vs 10 July 1893.
