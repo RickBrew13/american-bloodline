@@ -49,6 +49,8 @@ See the [research-notes folder](../research-notes/) for full transcriptions, sou
 
 - [KDLA, Vital Statistics Microfilm Inventory](https://kdla.ky.gov/Archives-and-Reference/Documents/Vitals%20Microfilm-Combo%20List.pdf), Russell County, **roll #994054**, birth register includes 1878; [Kenton County Public Library local microfilm copy](https://www.kentonlibrary.org/microfilm-kentucky-vital-statistics-sutton-records-birth-marriage-and-death-records-1852-1907/) lists Russell County 1852–1904 as **353.59 K372v, Reel 25**. The 1878 entry for Cordelia/Cordella Tucker is the direct next parentage record to inspect.
 
+- [1880 Russell County, Kentucky census, NARA microfilm T9-441](https://archive.org/stream/10thcensus0441unit) — Internet Archive item 10thcensus0441unit; Russell County images 147–304, with EDs 98–103 mapped in [The Shy Genealogist's guide](https://theshygenealogist.wordpress.com/2017/11/07/russell-county-resources-1880-census/). Search the index for Eli Tucker/Cordelia Tucker, then inspect the original household image for relationships and parent birthplaces.
+
 ## Highest-priority outstanding originals
 
 1. Stanton Bell Whittle's Kentucky death certificate (1972) and/or Social Security application to resolve 1892 vs 10 July 1893.
