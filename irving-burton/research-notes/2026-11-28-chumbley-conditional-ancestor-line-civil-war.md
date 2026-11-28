@@ -41,6 +41,20 @@ Source:
 - **Civil War service:** Elias Briton and brother Samuel Chumbley enlisted together on 10 August 1863 and mustered 15 August 1863 at Somerset in Kentucky 1st Cavalry, Company F. The book reports a desertion entry on 25 December 1863, return on 20 March 1864, and transfer to Company A on 31 December 1864. A War Department pension description gives Elias's complexion, eyes, hair and occupation as farmer.
 - **Second marriage:** after Nelly's death (reported 20 December 1886), Elias married Anna J. Lyons on 6 April 1887 in Pulaski County. The book says they had four daughters; Anna later applied for a pension for daughter Queen Victoria Chumbley in 1912. Elias died 31 October 1900 at Teddy or Evona, Casey County, Kentucky.
 
+## Chumbley family land and migration records
+Alice Chumbley Lora's 2020 Andrew Chumbley article reports several land transactions that place the family along the Cub Creek/Cumberland River and White Oak Creek corridor between Pulaski and Russell Counties:
+- Andrew reportedly purchased **100 acres** of vacant/unappropriated land for **$2**.
+- On an unspecified date in **1859**, Andrew and wife Elizabeth, together with son William and his wife Sarah (Dotson), sold **146½ acres along White Oak Creek, Pulaski County**, to William Vanhoozer for **$636.90**.
+- On **30 November 1860**, son William purchased three tracts totaling **284 acres** from William and Sally McClendon for **$500**, along Cub Creek.
+- On **20 March 1865**, William paid Enoch Callicotte **$50** for another 50 acres adjoining land of Andrew Grinswett and Smith W. Cain.
+- On **12 August 1865**, son John J. purchased over **100 acres** on the Russell County side of Cub Creek from Jacob and Levanah Royedon.
+- In October 1865 John J. secured a $50 loan from Joseph E. Hays against 140 acres, to be void upon repayment.
+
+The article gives land descriptions and neighbor names but not the deed book/page references in the body text. These are leads to the original Pulaski and Russell County deed books, not yet verified instrument citations. They help explain the family's movement and landholding across the county line and may provide the location of the 1912 descendant photograph.
+
+Source:
+- Alice Chumbley Lora, “Andrew Chumbley,” 4 September 2020, land transactions and family migration: https://chumleyfamilytree.com/2020/09/04/andrew-chumbley-2/
+
 ## Extended Chumbley family
 The book lists nine children of Andrew Chumbley and Elizabeth Cadle:
 - Mahala Ann (1824–1917), married Joseph Wilson McWilliams.
