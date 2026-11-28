@@ -34,3 +34,7 @@ No Soundex card or 1900 population-schedule image was successfully read in this 
 5. Whether the census gives Cordella's birthplace and parents' birthplaces.
 
 A FamilySearch account, Ancestry access, or a library with the original T1047/T623 microfilm may be needed to view the card and schedule. No record was ordered and no institution was contacted.
+
+
+## New vital-record route (28 November 2026)
+A newly located 1878 Russell County birth register (KDLA roll #994054) may identify Cordella's parents directly before the census work. See [28 Nov 2026 — Cordelia 1878 birth-register route](2026-11-28-cordelia-1878-birth-register-route.md).
