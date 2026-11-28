@@ -14,6 +14,8 @@ The obituary also reports 17 grandchildren and three great-grandchildren. The or
 
 Source: The Shy Genealogist, “75 Years Ago Tomorrow – March 22, 1951,” *The Russell County News*, 22 March 1951: https://theshygenealogist.wordpress.com/page/3/
 
+Original issue access: [The Russell County News, 22 March 1951, digital newspaper viewer](https://russellcounty.historyarchives.online/viewer?bdd=1950&by=1951&d=03221951-03221951&df=1&dt=10&fn=russell_county_news_usa_kentucky_russell_springs_19510322_english_1&i=f). The archive's viewer link covers the issue's pages 1–10; the site did not expose the page image to this research session. Inspect the original image for the exact sixth-child wording and whether the transcription omitted a name.
+
 ## Probable matches for four named children
 A derivative Kentucky death-index aggregation lists these Russell Springs Whittles:
 - **Otha Whittle**, 15 September 1898–1 October 1978.
