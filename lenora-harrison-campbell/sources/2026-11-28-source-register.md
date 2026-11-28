@@ -1,0 +1,6 @@
+# Sources for Lenora Harrison
+
+- [FamilySearch, Lenora Harrison, profile G4KM-3HT](https://ancestors.familysearch.org/en/G4KM-3HT/) — Published profile reports January 1830–25 April 1906, Casey County; parents Littleberry Benjamin Harrison and Matilda Tucker; marriage to Josiah Lewis Campbell in 1849; eight children including James. Visible source list includes 1850 census, Kentucky county marriages, and a Kentucky birth index.
+- [FamilySearch, James Logan Campbell, profile 27VG-TF8](https://ancestors.familysearch.org/en/27VG-TF8/) — Names Lenora Harrison as James’s mother; compiled-profile evidence.
+- [WikiTree, Lenora (Harrison) Campbell, Harrison-32063](https://www.wikitree.com/wiki/Harrison-32063) — Reports about January 1830–25 April 1906 in Casey County; leaves parents and spouse unknown. This is limited corroboration of vital dates, not parentage.
+- [FamilySearch 1850 census index citation as displayed on Lenora’s profile](https://ancestors.familysearch.org/en/G4KM-3HT/lenora-harrison-1830-1906) — The published profile labels a source “Lennora Harisan in household of Bary Harisan, United States Census, 1850.” The index label is transcribed as shown; the household image was not inspected.

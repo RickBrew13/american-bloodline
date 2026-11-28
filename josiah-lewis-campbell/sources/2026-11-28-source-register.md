@@ -1,0 +1,7 @@
+# Sources for Josiah Lewis Campbell
+
+- [FamilySearch, Josiah Lewis Campbell, profile LDYY-VM5](https://ancestors.familysearch.org/en/LDYY-VM5/) — Published family profile reports March 1825 birth, 1 February 1907 death, Casey County, parents Josiah Joseph Campbell and Elizabeth Edwards, and marriage to Lenora Harrison in 1849. Its source list includes an 1860 census and Kentucky marriage entries; the profile is compiled, not an original record.
+- [FamilySearch, James Logan Campbell, profile 27VG-TF8](https://ancestors.familysearch.org/en/27VG-TF8/) — Names Josiah Lewis Campbell and Lenora Harrison as James’s parents and reports eight siblings; compiled-profile evidence.
+- [FamilySearch, Lenora Harrison, profile G4KM-3HT](https://ancestors.familysearch.org/en/G4KM-3HT/) — Names Josiah Lewis Campbell as spouse and lists James among eight children; compiled-profile evidence.
+- [Find a Grave, Josiah Campbell, memorial 20803975](https://www.findagrave.com/memorial/20803975/josiah-campbell) — Contributor-maintained memorial reports 1825–1907 and Pine Grove Church Cemetery; its grave-marker photo was added by Rochelle Riordan on 5 August 2007. The memorial page does not link a spouse or children.
+- [WikiTree, Josiah S Campbell, Campbell-15201](https://www.wikitree.com/wiki/Campbell-15201) — A separate compiled profile reports 1825–1907 but gives Leah Harrison as spouse and other child links. This conflicts with the James/Lenora FamilySearch profiles; it is not merged as the same relationship without a bridge.
