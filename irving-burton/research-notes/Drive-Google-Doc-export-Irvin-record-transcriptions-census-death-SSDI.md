@@ -56,3 +56,13 @@ Note: the obituary says burial in Glenwood Cemetery; Find a Grave places Ora in 
 > * Find a Grave 176614576: one photo only (headstone, Frank Flack), already saved.  
 > * Butler County Historical Society Korean War soldiers list: no Irvin Burton.  
 > * WikiTree: no profile found.
+
+## 28 November 2026 correction — 1950 census sheet 18 entries
+The 1950 census index and the note on sheet 28 require a more careful reading than the earlier transcription suggested:
+- Sheet 28 (house 5902, apartment #1) has Ora and the children. The enumerator wrote that **two names belonging to this unit are entered on another sheet**.
+- FamilySearch indexes **“Gerdy Burton,” head, age 41, married, born Kentucky**, on sheet 18 (record 6XBQ-HFRM). This is likely Grady E. Burton Sr., but the original sheet 18 must be read to verify the name and household relationship.
+- The same sheet 18 index also lists **E. Jones Burton**, head, age 67, married, born Kentucky, and **Mary Burton**, wife, age 62, at 5902 apartment #2 (per the existing transcription).
+
+The E. Jones/Mary couple remains a possible match to Elihu Jones Burton and Mary Ellen Roy, but that is not proven. The sheet 28 note may refer to Grady and another member being recorded on sheet 18, while E. Jones and Mary may be a separate household in apartment #2. Do not call them Grady's parents until the original sheet 18 image and relationship columns are inspected.
+
+Sources: [Sheet 28 index](https://www.familysearch.org/ark:/61903/1:1:6XBW-8CLS) · [Sheet 28 image](https://www.familysearch.org/ark:/61903/3:1:3QHK-9QHW-W9T1-Z) · [“Gerdy Burton” sheet 18 index](https://www.familysearch.org/ark:/61903/1:1:6XBQ-HFRM).
