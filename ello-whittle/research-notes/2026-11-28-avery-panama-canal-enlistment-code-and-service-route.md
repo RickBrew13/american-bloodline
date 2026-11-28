@@ -31,9 +31,13 @@ This is the correct archival group to investigate for command-level documentatio
 Source: NARA, Guide to Federal Records, RG 548: https://www.archives.gov/research/guide-fed-records/groups/548.html
 
 ## Next record checks
-1. Request Avery's Official Military Personnel File (OMPF) from the National Personnel Records Center, if eligible and available; this is the best route for unit, station, dates of service, awards and discharge details.
+1. Request Avery's Official Military Personnel File (OMPF) from the National Personnel Records Center. Because Avery was discharged 9 July 1947, his OMPF is an **archival record open to the public** under NARA's 62-year rule; anyone may request it, without next-of-kin authorization, for a copying fee. Supply service number 35888669, Army, enlistment 5 January 1946, discharge 9 July 1947, full name Avery Ello Whittle, and the known birth-date variants. The OMPF is the best route for unit, station, dates of service, awards and discharge details.
 2. Search NARA RG 548 for unit rosters, morning reports, orders or correspondence that could connect Avery's name/serial number to a Panama Canal Department unit.
 3. Check whether Avery's 1946–1947 service included a transfer to the Army of the Caribbean or a specific Canal Zone post; do not infer from the enlistment code alone.
 4. Preserve the original Fold3 enlistment and BIRLS records as separate records because their birth-date fields conflict with the headstone and other sources.
 
-No military records were ordered and no institution was contacted.
+No OMPF request was submitted because archival copies carry a fee and no paid order was authorized. No institution was contacted.
+
+
+## NARA OMPF access confirmation
+NARA's current service-record page states that Army OMPFs for discharge dates 1962 or earlier are archival and open to the public; anyone may order them for a copying fee. The official page explains the online request route and fee schedule: https://www.archives.gov/veterans/military-service-records/service-record. NARA's archival request page confirms no veteran/next-of-kin signature is required for archival files: https://www.archives.gov/personnel-records-center/military-personnel/ompf-archival-requests.
