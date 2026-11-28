@@ -38,3 +38,20 @@ The register may also reveal whether she was recorded as a child of an unmarried
 3. If an image is obtained, transcribe every field exactly and save the image in the shared Tucker/Whittle source archive, then link it from Avery's profile. Do not duplicate it in multiple people folders.
 
 No institution was contacted and no fee or record request was submitted.
+
+
+## 1880 census cross-check route
+A second original record can test the Tucker family grouping. The Shy Genealogist's Russell County 1880 census guide identifies the full 1880 population schedule on NARA microfilm **T9-441**, available in the Internet Archive item **10thcensus0441unit** and in FamilySearch collection **1417683**. Russell County occupies images 147–304. The guide divides the county into these enumeration districts:
+- ED 98, Jamestown Precinct 1: images 147–176.
+- ED 99, Creelsboro: images 177–205.
+- ED 100, Rowena: images 207–225.
+- ED 101, Rice Wilsons / Magisterial District 4: images 227–247.
+- ED 102, Precinct 5 Lucas Mill / Webb: images 249–268.
+- ED 103, Jamestown Precinct 1: images 269–304.
+
+The index/search page is needed to identify the Tucker household's ED and page. The census records each person's relationship to the household head, age, marital status, birthplace and parents' birthplaces. If Cordelia was living with Eli and Narcissus in 1880, the household would directly test the compiled parentage hypothesis. The FamilySearch images require a free account and were not opened in this research session.
+
+Sources:
+- The Shy Genealogist, Russell County Resources — 1880 Census: https://theshygenealogist.wordpress.com/2017/11/07/russell-county-resources-1880-census/
+- FamilySearch, United States Census, 1880, collection 1417683: https://www.familysearch.org/search/collection/1417683
+- Internet Archive, 1880 census microfilm T9-441, item 10thcensus0441unit: https://archive.org/stream/10thcensus0441unit
