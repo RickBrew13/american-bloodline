@@ -32,3 +32,9 @@ Obtain the original population-schedule image for ED 31-69, sheet 18, from the N
 - The street/address and census line numbers
 
 Then compare the couple's names, ages and location with the compiled Elihu Jones Burton / Mary Ellen Roy family lead and the 1910/1920 records. Until that page is read, the parentage remains a hypothesis.
+
+## Direct NARA search-page route
+The official 1950 Census search site supports enumeration-district searches using the `ed` URL parameter. The direct ED link for this record is:
+- https://1950census.archives.gov/search/?ed=31-69&page=1
+
+The web retrieval session could not load the filtered ED page, but the URL follows the site's documented/visible search pattern. Try it in a normal browser and select the **Population Schedules** button for ED 31-69. If the ED result loads, navigate to sheet 18 and compare the household with the existing sheet 28 image.
