@@ -18,6 +18,21 @@ Source:
 - Related five-generation descendant report: https://chumleyfamilytree.com/wp-content/uploads/2020/07/robert-and-betsy-chumley-5-generations.pdf
 - FamilySearch, Martha Frances Chumbley (M27C-ZFS), including cited 1880 census and Kentucky marriage sources: https://ancestors.familysearch.org/en/M27C-ZFS/martha-frances-chumbley-1868-1923
 
+## Independent census-transcription cross-check
+The Hebroots Chumney/Chumley/Chumbley research page publishes additional census transcriptions that connect the name variants:
+- **1850 Pulaski County:** Andrew Chumley, 46, wife Elizabeth, 46, and child **Britain**, 12, all reported born in Tennessee except Elizabeth (North Carolina) and later-born children. This is the candidate childhood household for Elias Brittain.
+- **1860 Russell County:** **Britton Chumbley**, 21, born Tennessee, wife **Ellen**, 19, born Kentucky, and son **Andrew J.**, 10 months, born Kentucky.
+- **1880 Russell County:** **Elias B. Chumley**, 43, born Tennessee, wife **Ellen**, 44, born Kentucky, daughter Elizabeth E. Turpen, 19, and children Martha F., 12; William T., 10; Elias B., 7; John W., 5; and George E., 2.
+
+The progression Britain (1850) → Britton (1860) → Elias B. (1880), combined with the same wife name Ellen and the marriage entry for Elias Britton and Elizabeth Ellen Dunsmore in 1858, strongly supports that these are the same man. The original census images still need to be checked; these are transcriptions, not images.
+
+**Birthplace/age conflicts:** The 1850 census says Andrew Chumley was born in Tennessee, while the 1860, 1870 and 1880 transcriptions and the family book give Virginia. The 1850 census says Elizabeth was born in North Carolina, while the 1860 transcription says Virginia; the family book identifies her as Elizabeth Cadle, born in North Carolina. Andrew's ages are 46 (1850), 56 (1860), 65 (1870) and 76 (1880), which are broadly consistent with an 1803/04 birth. Preserve the birthplace conflict rather than silently choosing one.
+
+Source:
+- Hebroots, Chumney/Chumley/Chumbley marriage and U.S. census transcriptions, Kentucky 1850, 1860, 1870 and 1880: https://www.hebroots.org/marrcens.html
+
+**DNA-line caution:** The same Hebroots page's DNA-group summary states that the Robert Chumley and Betsy Ford line is not related through the male line to several other tested Chumley groups. This does not disprove the local Robert → Andrew → Elias family chain, but it warns against merging this branch with unrelated Chumley/Chumney lines based only on surname. The surname Ford for Betsy remains unproved in *Our Chumley Ancestry* and must not be added as fact.
+
 ## Census and record anchors supplied by the book
 - **1850 U.S. census:** Pulaski County, Kentucky, Division 2, page 253. The book transcribes Andrew Chumbley, 46, farmer, born Virginia; wife Elizabeth, 46, born North Carolina; children Martha A. 19, James 16, **Britain 12**, Martin 10, John 8 and Samuel 4. A nearby household contains Andrew's brother Britain Chumbley, 35, and family. This provides a strong candidate identification for Elias Brittain, whose name variants include Britain.
 - **1860 U.S. census:** the book's cited family material identifies Britton Chumbley with wife Ellen and infant son Andrew J. (about 10 months); this is consistent with the 1858 marriage and the reported first child, but the original census image has not been re-read here.
