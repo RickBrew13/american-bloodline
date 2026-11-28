@@ -26,3 +26,9 @@ Sources:
 3. Search the 1900, 1910 and 1920 Russell County census schedules for the Bob/Cordella household and Otha.
 4. Identify Rese, Jim Elmer, Caleb and Grady from census, marriage and death records; determine which are full/half siblings only from explicit evidence.
 5. Locate the original 1951 Cordella obituary clipping to check the six-child count and whether a sixth name was omitted in the transcription.
+
+
+## Additional child-name lead: Grady Whittle
+A derivative Social Security-style index lists **Grady Whittle**, born **14 February 1914** and died **1 February 1975**, last residence Russell Springs, Kentucky (42642). Cordella's 1951 obituary names a son Grady Whittle. The matching full name, county and chronology make this a plausible identification, but the index does not give parents or spouse. Do not attach this Grady to Cordella and Bob until his original death certificate, obituary, census or marriage record names his parents.
+
+Source: LocateAncestors, Kentucky Whittle index: https://www.locateancestors.com/whittle-kentucky/
