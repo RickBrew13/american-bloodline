@@ -33,6 +33,8 @@ This register points to the records used for Avery's profile and research notes.
 - [FamilySearch, Caroline Chamberlain community profile](https://ancestors.familysearch.org/en/K4RY-GRW/caroline-chamberlain-1829-1913) — compiled-tree lead only.
 - [MyTrees, McQueary family preview](https://www.mytrees.com/names/Event/Year/1/MCQUEARY) — unverified possible Eli Tucker/Angeletta McQueary 1909 marriage and Ada P. Tucker child.
 
+- [The Shy Genealogist, “Surname Saturday — Coffey in Russell Co, KY,” 24 Apr 2010](https://theshygenealogist.wordpress.com/category/russell-county-kentucky/page/5/) — lists a Pearl Stephens born February 1891 as a daughter of Andrew J. Stephens and Theodosia W. C. Coffey. Possible candidate for the Pearl Stephens Coffey named in Cleatus Coffey's 2011 obituary; not proven. This Pearl is not Avery's sister Iza Pearl Whittle (born 1920), who was too young to be Cleatus's mother (born 1924).
+
 ## Research note index
 
 See the [research-notes folder](../research-notes/) for full transcriptions, source evaluations, conflicting evidence, descendant branch studies and unresolved record requests.
