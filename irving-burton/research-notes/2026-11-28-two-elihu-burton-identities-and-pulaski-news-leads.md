@@ -49,6 +49,23 @@ A Pulaski County stillbirth certificate transcription for **Leslie Eugene McGaha
 Source:
 - Pulaski County death certificate transcription, Leslie Eugene McGahan, certificate 13801: https://mail.kygenweb.net/pulaski/death/mcgahanleslie.html
 
+## Eva Burton Mincey and the 1919 Mincey birth — likely identification for the older Elihu's daughter
+A 7 April 2000 Pulaski County genealogy query by “Barb” asks about her grandfather **Arnold Mincey**, giving his wife as **Eva Burton** and his parents as **Brent Mincey and Agnes**. A PeopleLegacy cemetery aggregation for Mincey Cemetery lists:
+- **Arnold James Mincey**, 1900–1975.
+- **Eva Burton Mincey**, 1903–1974.
+
+The names and dates are consistent with the 2000 query referring to this couple, although the query and cemetery aggregation are derivative sources. A 2023 obituary for Barbara A. Willoughby independently names **Brent Weddel Mincey** and **Agnes Green** as her parents, corroborating the Brent/Agnes couple in the Mincey family but not proving Arnold James's parentage by itself.
+
+The Pulaski County birth index lists **Arnold F. Mincey**, born **6 March 1919**, with mother **Evia Burton**. This fits the 1920 newspaper item about **Mrs. Evie Minsie and baby** visiting her father Elihu Burton at Nancy. If the 1919 child and the newspaper baby are the same, Evia/Evie Burton was likely the daughter of the older Elihu and the mother of Arnold F. Mincey. She would have been about 16 at the child's birth, and Arnold James Mincey about 19 if he was the father. The available index does not name the father, and the newspaper does not name the baby.
+
+Sources:
+- Pulaski County Queries, April 2000, “mincey,” posted by Barb, 7 April 2000: https://mail.kygenweb.net/pulaski/queries/2000/apr2000.html
+- Pulaski County Births M, entry for Arnold F. Mincey, 6 March 1919, mother Evia Burton: https://mail.kygenweb.net/pulaski/births/birthm.htm
+- PeopleLegacy, Mincey Cemetery, listing Arnold James Mincey (1900–1975) and Eva Burton Mincey (1903–1974): https://peoplelegacy.com/donna_a__wilson_fitzgerald-1q3E4n
+- Rees Funeral Home, Barbara A. Willoughby obituary (2023), identifying parents Brent Weddel Mincey and Agnes Green: https://www.reesfuneralhomes.com/obituaries/barbara-willoughby
+
+**Assessment:** The 1920 Evie Minsie is a strong candidate for Eva/Evia Burton Mincey (1903–1974), daughter of the older Elihu Burton (1873–1933). The 1919 Arnold F. Mincey may be her child. This remains a working identification pending the original birth record, Eva's obituary/death certificate, and a direct record naming her parents.
+
 ## Why these records are not attached to Elihu Jones Burton
 The Nancy newspaper and 1928 vital record fit the residence and life dates of **Elihu Burton (1873–1933)** particularly well. They could refer to him rather than the younger Elihu Jones Burton (1883–1951). The 1919 Mincey birth record and 1920 Evie Minsie news item may reveal a daughter of the older Elihu, but the parentage is not yet proven. No Evie Mincey, Blonnie Burton or McGahan descendant has been attached to the younger Elihu Jones Burton or to Irvin's line.
 
