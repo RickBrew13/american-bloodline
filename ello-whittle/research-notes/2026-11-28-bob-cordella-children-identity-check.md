@@ -28,10 +28,10 @@ The names, dates and Russell Springs residence are consistent with the obituary'
 The James Elmer match is strengthened by a 2015 obituary for Leslie “Tuger Bill” Whittle, which identifies Leslie's parents as **James Elmer Whittle and Sola Owens Whittle** and names Hollis “I.U.” Whittle and Lucille Braley as siblings. The 1951 Cordella obituary separately names “Jim Elmer Whittle” as one of her children. This is a strong cross-obituary identity match, but a direct birth/death record naming Bob and Cordella as James Elmer's parents is still needed.
 
 Sources:
-- LocateAncestors, Kentucky Whittle death-index aggregation: https://www.locateancestors.com/whittle-kentucky/
-- WVLC, Arlus “Johnny” Whittle obituary, 2010: https://wvlc.com/whve-obits/archives/2010-02/
+- LocateAncestors, Kentucky Whittle death-index aggregation (Otha, Caleb, Grady, Ruel, Clyde and Clyde O): https://www.locateancestors.com/whittle-kentucky/; James Whittle (30 November 1903–1 March 1976) individual index: https://www.locateancestors.com/james-whittle/
+- ColumbiaMagazine, Arlus “Johnny” Whittle obituary, 18 January 2010: https://www.columbiamagazine.com/index.php?sid=34499
 - WVLC, Lana Kay Hale obituary, 2022: https://wvlc.com/whve-obits/archives/2022-07
-- The Shy Genealogist, Leslie “Tuger Bill” Whittle obituary (2015): https://theshygenealogist.wordpress.com/2015/02/06/leslie-tuger-bill-whittle/
+- Bernard Funeral Home, official obituary for Leslie “Tuger Bill” Whittle (1927–2015): https://www.bernardfuneralhome.com/obituary/LeslieTugerBill-Whittle
 - LocateAncestors, Sola Whittle (19 March 1905–3 January 1996) and Hollis E. Whittle (25 July 1931–14 March 1995), same Kentucky index: https://www.locateancestors.com/whittle-kentucky/
 
 ## “Rese” — do not yet equate with Ruel
@@ -58,7 +58,7 @@ The 2015 Leslie obituary identifies James Elmer and Sola Owens Whittle as Leslie
 
 Sources:
 - The Shy Genealogist, Leslie “Tuger Bill” Whittle obituary (2015): https://theshygenealogist.wordpress.com/2015/02/06/leslie-tuger-bill-whittle/
-- WVLC, Remona Whittle Popplewell obituary (2019): https://wvlc.com/whve-obits/archives/2019-08/
+- WVLC, Remona Whittle Popplewell obituary (2019): https://wvlc.com/whve-obits/archives/2019-08/; Bernard Funeral Home, official obituary: https://www.bernardfuneralhome.com/obituary/Remona-Popplewell
 - WVLC, Geraldine “Jerry” Stephens obituary (2020): https://wvlc.com/whve-obits/archives/2020-05/
 
 ## Current assessment
